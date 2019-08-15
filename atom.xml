@@ -3,7 +3,7 @@
   <title>ist402</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>IST 402 course content space</subtitle>
-  <updated>2019-08-15T16:18:39-04:00</updated>
+  <updated>2019-08-15T16:32:17-04:00</updated>
   <author>
       <name></name>
   </author>
@@ -11,7 +11,7 @@
   <entry>
     <title>Question driven teaching</title>
     <id>/question-driven-teaching</id>
-    <updated>2019-08-15T16:32:17-04:00</updated>
+    <updated>2019-08-15T16:33:04-04:00</updated>
     <published>2019-08-15T16:18:39-04:00</published>
     <summary>In all the technologies and skillsets we'll explore in this course, I want you to approach them with the same questions that I have explored in my career. These simple questions will help you decipher</summary>
     <link href="/question-driven-teaching"/>
@@ -31,7 +31,7 @@
   <entry>
     <title>Building your digital identity</title>
     <id>/getting-started/building-your-digital-identity</id>
-    <updated>2019-08-15T16:32:17-04:00</updated>
+    <updated>2019-08-15T16:33:04-04:00</updated>
     <published>2019-08-15T16:17:19-04:00</published>
     <summary></summary>
     <link href="/getting-started/building-your-digital-identity"/>
@@ -43,7 +43,7 @@
   <entry>
     <title>Technologies we explore</title>
     <id>/technologies-we-explore</id>
-    <updated>2019-08-15T16:32:17-04:00</updated>
+    <updated>2019-08-15T16:33:04-04:00</updated>
     <published>2019-08-15T16:17:19-04:00</published>
     <summary>While touching on many, here is a list of technologies we'll be exploring throughout the course. These tools are not used by every organization out there, but huge swaths of the start up scene will ha</summary>
     <link href="/technologies-we-explore"/>
@@ -66,7 +66,7 @@
   <entry>
     <title>Skill: Git</title>
     <id>/skill-git</id>
-    <updated>2019-08-15T16:32:17-04:00</updated>
+    <updated>2019-08-15T16:33:04-04:00</updated>
     <published>2019-08-15T16:17:19-04:00</published>
     <summary></summary>
     <link href="/skill-git"/>
@@ -78,7 +78,7 @@
   <entry>
     <title>Policies</title>
     <id>/syllabus/policies</id>
-    <updated>2019-08-15T16:32:17-04:00</updated>
+    <updated>2019-08-15T16:33:04-04:00</updated>
     <published>2019-08-15T15:58:42-04:00</published>
     <summary>University PoliciesDisability / alternate media:If you have a documented disability, send a copy of the letter from the Office of Disability services to your instructor (using Canvas email). If yo</summary>
     <link href="/syllabus/policies"/>
@@ -133,7 +133,7 @@
   <entry>
     <title>About the instructor</title>
     <id>/welcome/welcome/about-the-instructor</id>
-    <updated>2019-08-15T16:32:17-04:00</updated>
+    <updated>2019-08-15T16:33:04-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/welcome/welcome/about-the-instructor"/>
@@ -145,7 +145,7 @@
   <entry>
     <title>Git</title>
     <id>/topics/git</id>
-    <updated>2019-08-15T16:32:17-04:00</updated>
+    <updated>2019-08-15T16:33:04-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/topics/git"/>
@@ -157,7 +157,7 @@
   <entry>
     <title>Github</title>
     <id>/getting-started/github</id>
-    <updated>2019-08-15T16:32:17-04:00</updated>
+    <updated>2019-08-15T16:33:04-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/getting-started/github"/>
@@ -169,7 +169,7 @@
   <entry>
     <title>Syllabus</title>
     <id>/syllabus</id>
-    <updated>2019-08-15T16:32:17-04:00</updated>
+    <updated>2019-08-15T16:33:04-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary>A standard looking syllabus but yet, a contract between us.</summary>
     <link href="/syllabus"/>
@@ -182,7 +182,7 @@
   <entry>
     <title>Accessibility</title>
     <id>/topics/accessibility</id>
-    <updated>2019-08-15T16:32:17-04:00</updated>
+    <updated>2019-08-15T16:33:04-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/topics/accessibility"/>
@@ -194,7 +194,7 @@
   <entry>
     <title>Digital Ocean</title>
     <id>/getting-started/digital-ocean</id>
-    <updated>2019-08-15T16:32:17-04:00</updated>
+    <updated>2019-08-15T16:33:04-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/getting-started/digital-ocean"/>
@@ -206,7 +206,7 @@
   <entry>
     <title>Docker</title>
     <id>/topics/docker</id>
-    <updated>2019-08-15T16:32:17-04:00</updated>
+    <updated>2019-08-15T16:33:04-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/topics/docker"/>
@@ -218,7 +218,7 @@
   <entry>
     <title>Getting started</title>
     <id>/getting-started</id>
-    <updated>2019-08-15T16:32:17-04:00</updated>
+    <updated>2019-08-15T16:33:04-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/getting-started"/>
@@ -230,7 +230,7 @@
   <entry>
     <title>Topics</title>
     <id>/topics</id>
-    <updated>2019-08-15T16:32:17-04:00</updated>
+    <updated>2019-08-15T16:33:04-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/topics"/>
@@ -242,7 +242,7 @@
   <entry>
     <title>Resources</title>
     <id>/resources</id>
-    <updated>2019-08-15T16:32:17-04:00</updated>
+    <updated>2019-08-15T16:33:04-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/resources"/>
@@ -254,7 +254,7 @@
   <entry>
     <title>Welcome</title>
     <id>/welcome</id>
-    <updated>2019-08-15T16:32:17-04:00</updated>
+    <updated>2019-08-15T16:33:04-04:00</updated>
     <published>2019-08-15T15:46:06-04:00</published>
     <summary>IST 402: Emerging TechnologiesThis will hopefully be unlike any course you've taken before (in a good way). My name is Bryan Ollendyke, and welcome to IST 402!I'm excited to expose you to the idea</summary>
     <link href="/welcome"/>
