@@ -9,7 +9,7 @@
         "site": {
             "name": "ist402",
             "created": 1565898366,
-            "updated": 1565901199,
+            "updated": 1565902902,
             "git": {}
         },
         "theme": {
@@ -79,7 +79,7 @@
             "description": "IST 402: Emerging TechnologiesThis will hopefully be unlike any course you've taken before (in a good way). My name is Bryan Ollendyke, and welcome to IST 402!I'm excited to expose you to the i",
             "metadata": {
                 "created": 1565898366,
-                "updated": 1565902416,
+                "updated": 1565902902,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/\/headshot.jpg",
@@ -115,7 +115,7 @@
             "description": "This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.My name is Bryan Ollendyke and I've been living workin",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565902622,
+                "updated": 1565902902,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 0,
@@ -135,6 +135,19 @@
             }
         },
         {
+            "id": "item-1ec5980a-48cc-40d9-9646-91b9ee438858",
+            "indent": "2",
+            "location": "pages\/topics\/building-your-digital-identity\/index.html",
+            "order": "0",
+            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
+            "title": "Building your digital identity",
+            "description": "",
+            "metadata": {
+                "created": 1565902902,
+                "updated": 1565902902
+            }
+        },
+        {
             "id": "item-66a50ce3-166b-4222-a4bb-bfdb96efc25d",
             "indent": "1",
             "location": "pages\/syllabus\/policies\/index.html",
@@ -144,7 +157,7 @@
             "description": "University PoliciesDisability\u00a0\/ alternate media:If you have a documented disability, send a copy of the letter from the Office of Disability services to your instructor (using Canvas email). If yo",
             "metadata": {
                 "created": 1565899122,
-                "updated": 1565901199,
+                "updated": 1565902902,
                 "readtime": 3,
                 "contentDetails": {
                     "headings": 1,
@@ -182,7 +195,20 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565901199
+                "updated": 1565902902
+            }
+        },
+        {
+            "id": "item-cea67c3f-0678-47fc-a7b6-546f232f9556",
+            "indent": "1",
+            "location": "pages\/topics\/open-source-software\/index.html",
+            "order": "0",
+            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
+            "title": "Open source software",
+            "description": "",
+            "metadata": {
+                "created": 1565902902,
+                "updated": 1565902902
             }
         },
         {
@@ -191,11 +217,11 @@
             "location": "pages\/topics\/git\/index.html",
             "order": "1",
             "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
-            "title": "Git",
+            "title": "Git \/ Github \/ Contribution",
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565901199
+                "updated": 1565902902
             }
         },
         {
@@ -208,7 +234,7 @@
             "description": "A standard looking syllabus but yet, a contract between us.",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565902742,
+                "updated": 1565902902,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -231,20 +257,20 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565901199
+                "updated": 1565902902
             }
         },
         {
-            "id": "item-f545ac21-9c43-4cc6-98fa-46e6e73634a9",
+            "id": "item-03307c52-b638-47ce-b95d-1eb56fe931e1",
             "indent": "1",
-            "location": "pages\/topics\/accessibility\/index.html",
+            "location": "pages\/topics\/web-components-\/-html\/index.html",
             "order": "2",
             "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
-            "title": "Accessibility",
+            "title": "Web components \/ HTML",
             "description": "",
             "metadata": {
-                "created": 1565898527,
-                "updated": 1565901199
+                "created": 1565902902,
+                "updated": 1565902902
             }
         },
         {
@@ -257,7 +283,7 @@
             "description": "In all the technologies and skillsets we'll explore in this course, I want you to approach them with the same questions that I have explored in my career. These simple questions will help you decipher",
             "metadata": {
                 "created": 1565900319,
-                "updated": 1565901199,
+                "updated": 1565902902,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -271,19 +297,6 @@
             }
         },
         {
-            "id": "item-3a44207a-5776-4ed4-88f9-95880752bb4b",
-            "indent": "1",
-            "location": "pages\/topics\/docker\/index.html",
-            "order": "3",
-            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
-            "title": "Docker",
-            "description": "",
-            "metadata": {
-                "created": 1565898527,
-                "updated": 1565901199
-            }
-        },
-        {
             "id": "item-0e26f609-2f2a-41cb-a142-e222a7def3f7",
             "indent": 0,
             "location": "pages\/technologies-we-explore\/index.html",
@@ -293,7 +306,7 @@
             "description": "While touching on many, here is a list of technologies we'll be exploring throughout the course. These tools are not used by every organization out there, but huge swaths of the start up scene will ha",
             "metadata": {
                 "created": 1565900239,
-                "updated": 1565901199,
+                "updated": 1565902902,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 1,
@@ -309,6 +322,19 @@
             }
         },
         {
+            "id": "item-f545ac21-9c43-4cc6-98fa-46e6e73634a9",
+            "indent": "1",
+            "location": "pages\/topics\/accessibility\/index.html",
+            "order": "3",
+            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
+            "title": "Accessibility",
+            "description": "",
+            "metadata": {
+                "created": 1565898527,
+                "updated": 1565902902
+            }
+        },
+        {
             "id": "item-9905f627-e42c-4a48-a55e-c5d32d239585",
             "indent": 0,
             "location": "pages\/getting-started\/index.html",
@@ -318,7 +344,20 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565901199
+                "updated": 1565902902
+            }
+        },
+        {
+            "id": "item-7af30cf6-a474-4c0e-8044-cdbf0b3374ed",
+            "indent": "1",
+            "location": "pages\/topics\/user-experience\/index.html",
+            "order": "4",
+            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
+            "title": "User experience",
+            "description": "",
+            "metadata": {
+                "created": 1565902902,
+                "updated": 1565902902
             }
         },
         {
@@ -327,11 +366,24 @@
             "location": "pages\/topics\/index.html",
             "order": "5",
             "parent": null,
-            "title": "Topics",
+            "title": "Let's do this!",
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565901199
+                "updated": 1565902902
+            }
+        },
+        {
+            "id": "item-3a44207a-5776-4ed4-88f9-95880752bb4b",
+            "indent": "1",
+            "location": "pages\/topics\/docker\/index.html",
+            "order": "5",
+            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
+            "title": "Automation \/ Docker \/ IFTTT",
+            "description": "",
+            "metadata": {
+                "created": 1565898527,
+                "updated": 1565902902
             }
         },
         {
@@ -344,7 +396,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565901199
+                "updated": 1565902902
             }
         }
     ]

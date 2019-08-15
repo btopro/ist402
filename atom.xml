@@ -9,9 +9,57 @@
   </author>
   <id>/feed</id>
   <entry>
+    <title>User experience</title>
+    <id>/topics/user-experience</id>
+    <updated>2019-08-15T17:01:42-04:00</updated>
+    <published>2019-08-15T17:01:42-04:00</published>
+    <summary></summary>
+    <link href="/topics/user-experience"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Building your digital identity</title>
+    <id>/topics/building-your-digital-identity</id>
+    <updated>2019-08-15T17:01:42-04:00</updated>
+    <published>2019-08-15T17:01:42-04:00</published>
+    <summary></summary>
+    <link href="/topics/building-your-digital-identity"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Web components / HTML</title>
+    <id>/topics/web-components-/-html</id>
+    <updated>2019-08-15T17:01:42-04:00</updated>
+    <published>2019-08-15T17:01:42-04:00</published>
+    <summary></summary>
+    <link href="/topics/web-components-/-html"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Open source software</title>
+    <id>/topics/open-source-software</id>
+    <updated>2019-08-15T17:01:42-04:00</updated>
+    <published>2019-08-15T17:01:42-04:00</published>
+    <summary></summary>
+    <link href="/topics/open-source-software"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Question driven teaching</title>
     <id>/question-driven-teaching</id>
-    <updated>2019-08-15T16:33:19-04:00</updated>
+    <updated>2019-08-15T17:01:42-04:00</updated>
     <published>2019-08-15T16:18:39-04:00</published>
     <summary>In all the technologies and skillsets we'll explore in this course, I want you to approach them with the same questions that I have explored in my career. These simple questions will help you decipher</summary>
     <link href="/question-driven-teaching"/>
@@ -29,21 +77,9 @@
     </content>
   </entry>
   <entry>
-    <title>Building your digital identity</title>
-    <id>/getting-started/building-your-digital-identity</id>
-    <updated>2019-08-15T16:33:19-04:00</updated>
-    <published>2019-08-15T16:17:19-04:00</published>
-    <summary></summary>
-    <link href="/getting-started/building-your-digital-identity"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Technologies we explore</title>
     <id>/technologies-we-explore</id>
-    <updated>2019-08-15T16:33:19-04:00</updated>
+    <updated>2019-08-15T17:01:42-04:00</updated>
     <published>2019-08-15T16:17:19-04:00</published>
     <summary>While touching on many, here is a list of technologies we'll be exploring throughout the course. These tools are not used by every organization out there, but huge swaths of the start up scene will ha</summary>
     <link href="/technologies-we-explore"/>
@@ -64,9 +100,21 @@
     </content>
   </entry>
   <entry>
+    <title>Building your digital identity</title>
+    <id>/getting-started/building-your-digital-identity</id>
+    <updated>2019-08-15T16:33:19-04:00</updated>
+    <published>2019-08-15T16:17:19-04:00</published>
+    <summary></summary>
+    <link href="/getting-started/building-your-digital-identity"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Policies</title>
     <id>/syllabus/policies</id>
-    <updated>2019-08-15T16:33:19-04:00</updated>
+    <updated>2019-08-15T17:01:42-04:00</updated>
     <published>2019-08-15T15:58:42-04:00</published>
     <summary>University PoliciesDisability / alternate media:If you have a documented disability, send a copy of the letter from the Office of Disability services to your instructor (using Canvas email). If yo</summary>
     <link href="/syllabus/policies"/>
@@ -119,9 +167,58 @@
     </content>
   </entry>
   <entry>
+    <title>Git / Github / Contribution</title>
+    <id>/topics/git</id>
+    <updated>2019-08-15T17:01:42-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/topics/git"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Syllabus</title>
+    <id>/syllabus</id>
+    <updated>2019-08-15T17:01:42-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary>A standard looking syllabus but yet, a contract between us.</summary>
+    <link href="/syllabus"/>
+    
+    <content type="html">
+      <![CDATA[ <p>A standard looking syllabus but yet, a contract between us.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Digital Ocean</title>
+    <id>/getting-started/digital-ocean</id>
+    <updated>2019-08-15T17:01:42-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/getting-started/digital-ocean"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Accessibility</title>
+    <id>/topics/accessibility</id>
+    <updated>2019-08-15T17:01:42-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/topics/accessibility"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
     <title>About the instructor (boring)</title>
     <id>/welcome/welcome/about-the-instructor</id>
-    <updated>2019-08-15T16:57:02-04:00</updated>
+    <updated>2019-08-15T17:01:42-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary>This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.My name is Bryan Ollendyke and I've been living workin</summary>
     <link href="/welcome/welcome/about-the-instructor"/>
@@ -146,70 +243,9 @@
     </content>
   </entry>
   <entry>
-    <title>Github</title>
-    <id>/getting-started/github</id>
-    <updated>2019-08-15T16:33:19-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary></summary>
-    <link href="/getting-started/github"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Git</title>
-    <id>/topics/git</id>
-    <updated>2019-08-15T16:33:19-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary></summary>
-    <link href="/topics/git"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Syllabus</title>
-    <id>/syllabus</id>
-    <updated>2019-08-15T16:59:02-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary>A standard looking syllabus but yet, a contract between us.</summary>
-    <link href="/syllabus"/>
-    
-    <content type="html">
-      <![CDATA[ <p>A standard looking syllabus but yet, a contract between us.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Digital Ocean</title>
-    <id>/getting-started/digital-ocean</id>
-    <updated>2019-08-15T16:33:19-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary></summary>
-    <link href="/getting-started/digital-ocean"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Accessibility</title>
-    <id>/topics/accessibility</id>
-    <updated>2019-08-15T16:33:19-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary></summary>
-    <link href="/topics/accessibility"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Docker</title>
+    <title>Automation / Docker / IFTTT</title>
     <id>/topics/docker</id>
-    <updated>2019-08-15T16:33:19-04:00</updated>
+    <updated>2019-08-15T17:01:42-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/topics/docker"/>
@@ -221,7 +257,7 @@
   <entry>
     <title>Getting started</title>
     <id>/getting-started</id>
-    <updated>2019-08-15T16:33:19-04:00</updated>
+    <updated>2019-08-15T17:01:42-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/getting-started"/>
@@ -231,9 +267,9 @@
     </content>
   </entry>
   <entry>
-    <title>Topics</title>
+    <title>Let's do this!</title>
     <id>/topics</id>
-    <updated>2019-08-15T16:33:19-04:00</updated>
+    <updated>2019-08-15T17:01:42-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/topics"/>
@@ -245,7 +281,7 @@
   <entry>
     <title>Resources</title>
     <id>/resources</id>
-    <updated>2019-08-15T16:33:19-04:00</updated>
+    <updated>2019-08-15T17:01:42-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/resources"/>
@@ -255,9 +291,21 @@
     </content>
   </entry>
   <entry>
+    <title>Github</title>
+    <id>/getting-started/github</id>
+    <updated>2019-08-15T17:01:42-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/getting-started/github"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Welcome</title>
     <id>/welcome</id>
-    <updated>2019-08-15T16:53:36-04:00</updated>
+    <updated>2019-08-15T17:01:42-04:00</updated>
     <published>2019-08-15T15:46:06-04:00</published>
     <summary>IST 402: Emerging TechnologiesThis will hopefully be unlike any course you've taken before (in a good way). My name is Bryan Ollendyke, and welcome to IST 402!I'm excited to expose you to the i</summary>
     <link href="/welcome"/>
