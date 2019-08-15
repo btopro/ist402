@@ -128,10 +128,22 @@
             "order": "0",
             "parent": "item-bbcf1985-2a65-43f7-bc26-17bd252a4960",
             "title": "Policies",
-            "description": "",
+            "description": "University PoliciesDisability\u00a0\/ alternate media:If you have a documented disability, send a copy of the letter from the Office of Disability services to your instructor (using Canvas email). If yo",
             "metadata": {
                 "created": 1565899122,
-                "updated": 1565899122
+                "updated": 1565899220,
+                "readtime": 3,
+                "contentDetails": {
+                    "headings": 1,
+                    "paragraphs": 1,
+                    "schema": [],
+                    "tags": {
+                        "h4": 1,
+                        "ol": 1,
+                        "p": 1
+                    },
+                    "elements": 3
+                }
             }
         },
         {
