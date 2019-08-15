@@ -328,10 +328,22 @@
             "order": "5",
             "parent": null,
             "title": "Let's do this!",
-            "description": "",
+            "description": "Are you ready to hit power level 9000!? Then read through these lessonsARE YOU READY!?Are you ready to hit power level 9000!? Then read through these lessons",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565902902
+                "updated": 1565903006,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 2,
+                    "schema": [],
+                    "tags": {
+                        "p": 2,
+                        "meme-maker": 1,
+                        "grid-plate": 1
+                    },
+                    "elements": 4
+                }
             }
         },
         {

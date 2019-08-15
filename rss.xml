@@ -210,7 +210,16 @@
       <title>Let's do this!</title>
       <link>/topics</link>
       <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
+          <![CDATA[ <p>Are you ready to hit power level 9000!? Then read through these lessons</p>
+<meme-maker alt="dragon ball z GIF by Geek & Sundry" image-url="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" bottom-text="Said no one... ever" imageurl="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" toptext="dragon ball z GIF by Geek & Sundry" style="width: 25%;"></meme-maker>
+<grid-plate layout="6/6" responsive-size="xl" style="width: 100%;"><h2 slot="col-1">ARE YOU READY!?</h2>
+
+<p slot="col-1"><span style="font-size: 24px; letter-spacing: 0.5px; caret-color: rgb(25, 30, 35);">Are you ready to hit power level 9000!? Then read through these lessons</span><br/></p>
+
+
+</grid-plate>
+<p><br/></p>
+ ]]>
       </description>
       <category></category>
       <guid>/topics</guid>
