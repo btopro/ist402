@@ -328,21 +328,20 @@
             "order": "5",
             "parent": null,
             "title": "Let's do this!",
-            "description": "Are you ready to hit power level 9000!? Then read through these lessonsARE YOU READY!?Are you ready to hit power level 9000!? Then read through these lessons",
+            "description": "ARE YOU READY!?Are you ready to hit power level 9000!? Then read through these lessons.But seriously. We're going to work through these different topics to skill up and get a better feel f",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565903006,
+                "updated": 1565903089,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 2,
+                    "paragraphs": 1,
                     "schema": [],
                     "tags": {
-                        "p": 2,
-                        "meme-maker": 1,
-                        "grid-plate": 1
+                        "grid-plate": 1,
+                        "p": 1
                     },
-                    "elements": 4
+                    "elements": 2
                 }
             }
         },
