@@ -159,13 +159,14 @@
   <entry>
     <title>Syllabus</title>
     <id>/syllabus</id>
-    <updated>2019-08-15T16:18:39-04:00</updated>
+    <updated>2019-08-15T16:25:21-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
-    <summary></summary>
+    <summary>A standard looking syllabus but yet, a contract between us.</summary>
     <link href="/syllabus"/>
     
     <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
+      <![CDATA[ <p>A standard looking syllabus but yet, a contract between us.</p>
+ ]]>
     </content>
   </entry>
   <entry>

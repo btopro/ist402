@@ -189,10 +189,20 @@
             "order": "1",
             "parent": null,
             "title": "Syllabus",
-            "description": "",
+            "description": "A standard looking syllabus but yet, a contract between us.",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565900319
+                "updated": 1565900721,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 1,
+                    "schema": [],
+                    "tags": {
+                        "p": 1
+                    },
+                    "elements": 1
+                }
             }
         },
         {
