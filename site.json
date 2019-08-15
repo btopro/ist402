@@ -352,10 +352,20 @@
             "order": "6",
             "parent": null,
             "title": "Resources",
-            "description": "",
+            "description": "This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub \/ collaboration locationDigital Ocean - Easy to use server environmentHover \/ Google Domains - E",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565902902
+                "updated": 1565903323,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 7,
+                    "schema": [],
+                    "tags": {
+                        "p": 7
+                    },
+                    "elements": 7
+                }
             }
         }
     ]
