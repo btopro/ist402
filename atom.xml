@@ -121,13 +121,21 @@
   <entry>
     <title>About the instructor</title>
     <id>/welcome/welcome/about-the-instructor</id>
-    <updated>2019-08-15T16:33:19-04:00</updated>
+    <updated>2019-08-15T16:40:37-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
-    <summary></summary>
+    <summary>My name is Bryan Ollendyke and I've been living working at Penn State since 2007. I did my undergrad in IST and was able to get a job working in the College of Arts & Architecture's online learning u</summary>
     <link href="/welcome/welcome/about-the-instructor"/>
     
     <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
+      <![CDATA[ <p>My name is Bryan Ollendyke and I've been <strike>living</strike>
+ working at Penn State since 2007. I did my undergrad in IST and was able to get a job working in the College of Arts & Architecture's online learning unit (now called Office of Digital Learning).</p>
+<p>In 2015 I completed my MS by studying the spread of an open source platform called Drupal. The theory I reasoned from my thesis is an effect I call Information Altruism -- Meaning that it isn't open source software that impacts institutions <b>but the free giving away of knowledge about how to use it</b>
+ which does.</p>
+<p>Open source lays the ground work, but it still requires knowledge workers to pick up those raw minerals and make rails of them for organizations to ride on.</p>
+<p>I am in the rare position of getting to teach you leveraging tools which I and my team have built. This content is written in a platform called HAXcms which we are actively building. I'm also the project lead on a project called ELMS: Learning Network.</p>
+<p>Since starting at Penn State, I would say 99.5% of every hour of every day I work is contributed directly back to open code and documentation. I've contributed hundreds of modules for Drupal, dozens of themes and installation profiles, millions of lines of code liberated from the ownership of anyone or anywhere.</p>
+<p>In the last two years, our team has released north of 400 reusable design assets called Web components. These modules and design assets power thousands of websites and help empower people we'll never know to better express themselves online, whether for instructional content or otherwise.</p>
+ ]]>
     </content>
   </entry>
   <entry>

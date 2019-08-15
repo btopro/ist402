@@ -112,10 +112,20 @@
             "order": "0",
             "parent": "item-5453b40a-ddd9-4381-a856-e70a7a2ef4d0",
             "title": "About the instructor",
-            "description": "",
+            "description": "My name is Bryan Ollendyke and I've been living working at Penn State since 2007. I did my undergrad in IST and was able to get a job working in the College of Arts & Architecture's online learning u",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565901199
+                "updated": 1565901637,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 6,
+                    "schema": [],
+                    "tags": {
+                        "p": 6
+                    },
+                    "elements": 6
+                }
             }
         },
         {
