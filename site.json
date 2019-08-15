@@ -248,19 +248,6 @@
             }
         },
         {
-            "id": "item-abbe35f3-1a91-4544-973b-29920fd379c3",
-            "indent": "1",
-            "location": "pages\/getting-started\/digital-ocean\/index.html",
-            "order": "1",
-            "parent": "item-9905f627-e42c-4a48-a55e-c5d32d239585",
-            "title": "Digital Ocean",
-            "description": "",
-            "metadata": {
-                "created": 1565898527,
-                "updated": 1565902902
-            }
-        },
-        {
             "id": "item-03307c52-b638-47ce-b95d-1eb56fe931e1",
             "indent": "1",
             "location": "pages\/topics\/web-components-\/-html\/index.html",

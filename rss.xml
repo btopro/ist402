@@ -6,16 +6,16 @@
     <description>IST 402 course content space</description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Aug 2019 16:33:19 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2019 17:01:42 -0400</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>User experience</title>
-      <link>/topics/user-experience</link>
+      <title>Web components / HTML</title>
+      <link>/topics/web-components-/-html</link>
       <description>
           <![CDATA[ <p>Ex uno Plures</p> ]]>
       </description>
       <category></category>
-      <guid>/topics/user-experience</guid>
+      <guid>/topics/web-components-/-html</guid>
       <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
     </item>
     <item>
@@ -29,16 +29,6 @@
       <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
     </item>
     <item>
-      <title>Web components / HTML</title>
-      <link>/topics/web-components-/-html</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics/web-components-/-html</guid>
-      <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
-    </item>
-    <item>
       <title>Open source software</title>
       <link>/topics/open-source-software</link>
       <description>
@@ -46,6 +36,16 @@
       </description>
       <category></category>
       <guid>/topics/open-source-software</guid>
+      <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>User experience</title>
+      <link>/topics/user-experience</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/topics/user-experience</guid>
       <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
     </item>
     <item>
@@ -151,34 +151,43 @@
       <pubDate>Thu, 15 Aug 2019 15:58:42 -0400</pubDate>
     </item>
     <item>
-      <title>Git / Github / Contribution</title>
-      <link>/topics/git</link>
+      <title>Automation / Docker / IFTTT</title>
+      <link>/topics/docker</link>
       <description>
           <![CDATA[ <p>Ex uno Plures</p> ]]>
       </description>
       <category></category>
-      <guid>/topics/git</guid>
+      <guid>/topics/docker</guid>
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
-      <title>Syllabus</title>
-      <link>/syllabus</link>
-      <description>
-          <![CDATA[ <p>A standard looking syllabus but yet, a contract between us.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/syllabus</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Digital Ocean</title>
-      <link>/getting-started/digital-ocean</link>
+      <title>Let's do this!</title>
+      <link>/topics</link>
       <description>
           <![CDATA[ <p>Ex uno Plures</p> ]]>
       </description>
       <category></category>
-      <guid>/getting-started/digital-ocean</guid>
+      <guid>/topics</guid>
+      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Getting started</title>
+      <link>/getting-started</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/getting-started</guid>
+      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>/resources</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/resources</guid>
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
@@ -217,43 +226,24 @@
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
-      <title>Automation / Docker / IFTTT</title>
-      <link>/topics/docker</link>
+      <title>Syllabus</title>
+      <link>/syllabus</link>
       <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
+          <![CDATA[ <p>A standard looking syllabus but yet, a contract between us.</p>
+ ]]>
       </description>
       <category></category>
-      <guid>/topics/docker</guid>
+      <guid>/syllabus</guid>
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
-      <title>Getting started</title>
-      <link>/getting-started</link>
+      <title>Git / Github / Contribution</title>
+      <link>/topics/git</link>
       <description>
           <![CDATA[ <p>Ex uno Plures</p> ]]>
       </description>
       <category></category>
-      <guid>/getting-started</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Let's do this!</title>
-      <link>/topics</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Resources</title>
-      <link>/resources</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/resources</guid>
+      <guid>/topics/git</guid>
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
