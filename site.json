@@ -9,7 +9,7 @@
         "site": {
             "name": "ist402",
             "created": 1565898366,
-            "updated": 1565898527,
+            "updated": 1565899122,
             "git": {}
         },
         "theme": {
@@ -79,7 +79,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898366,
-                "updated": 1565898559
+                "updated": 1565899122
             }
         },
         {
@@ -92,7 +92,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565898575
+                "updated": 1565899122
             }
         },
         {
@@ -105,7 +105,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565898527
+                "updated": 1565899122
             }
         },
         {
@@ -118,7 +118,20 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565898527
+                "updated": 1565899122
+            }
+        },
+        {
+            "id": "item-66a50ce3-166b-4222-a4bb-bfdb96efc25d",
+            "indent": "1",
+            "location": "pages\/syllabus\/policies\/index.html",
+            "order": "0",
+            "parent": "item-bbcf1985-2a65-43f7-bc26-17bd252a4960",
+            "title": "Policies",
+            "description": "",
+            "metadata": {
+                "created": 1565899122,
+                "updated": 1565899122
             }
         },
         {
@@ -131,7 +144,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565898527
+                "updated": 1565899122
             }
         },
         {
@@ -144,7 +157,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565898527
+                "updated": 1565899122
             }
         },
         {
@@ -157,7 +170,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565898527
+                "updated": 1565899122
             }
         },
         {
@@ -170,7 +183,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565898527
+                "updated": 1565899122
             }
         },
         {
@@ -183,7 +196,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565898527
+                "updated": 1565899122
             }
         },
         {
@@ -196,7 +209,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565898527
+                "updated": 1565899122
             }
         },
         {
@@ -209,7 +222,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565898527
+                "updated": 1565899122
             }
         }
     ]

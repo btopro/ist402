@@ -9,9 +9,21 @@
   </author>
   <id>/feed</id>
   <entry>
+    <title>Policies</title>
+    <id>/syllabus/policies</id>
+    <updated>2019-08-15T15:58:42-04:00</updated>
+    <published>2019-08-15T15:58:42-04:00</published>
+    <summary></summary>
+    <link href="/syllabus/policies"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
     <title>About the instructor</title>
     <id>/welcome/welcome/about-the-instructor</id>
-    <updated>2019-08-15T15:49:35-04:00</updated>
+    <updated>2019-08-15T15:58:42-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/welcome/welcome/about-the-instructor"/>
@@ -23,7 +35,7 @@
   <entry>
     <title>Github</title>
     <id>/getting-started/github</id>
-    <updated>2019-08-15T15:48:47-04:00</updated>
+    <updated>2019-08-15T15:58:42-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/getting-started/github"/>
@@ -35,7 +47,7 @@
   <entry>
     <title>Git</title>
     <id>/topics/git</id>
-    <updated>2019-08-15T15:48:47-04:00</updated>
+    <updated>2019-08-15T15:58:42-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/topics/git"/>
@@ -47,7 +59,7 @@
   <entry>
     <title>Syllabus</title>
     <id>/syllabus</id>
-    <updated>2019-08-15T15:48:47-04:00</updated>
+    <updated>2019-08-15T15:58:42-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/syllabus"/>
@@ -59,7 +71,7 @@
   <entry>
     <title>Digital Ocean</title>
     <id>/getting-started/digital-ocean</id>
-    <updated>2019-08-15T15:48:47-04:00</updated>
+    <updated>2019-08-15T15:58:42-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/getting-started/digital-ocean"/>
@@ -71,7 +83,7 @@
   <entry>
     <title>Accessibility</title>
     <id>/topics/accessibility</id>
-    <updated>2019-08-15T15:48:47-04:00</updated>
+    <updated>2019-08-15T15:58:42-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/topics/accessibility"/>
@@ -83,7 +95,7 @@
   <entry>
     <title>Getting started</title>
     <id>/getting-started</id>
-    <updated>2019-08-15T15:48:47-04:00</updated>
+    <updated>2019-08-15T15:58:42-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/getting-started"/>
@@ -95,7 +107,7 @@
   <entry>
     <title>Docker</title>
     <id>/topics/docker</id>
-    <updated>2019-08-15T15:48:47-04:00</updated>
+    <updated>2019-08-15T15:58:42-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/topics/docker"/>
@@ -107,7 +119,7 @@
   <entry>
     <title>Topics</title>
     <id>/topics</id>
-    <updated>2019-08-15T15:48:47-04:00</updated>
+    <updated>2019-08-15T15:58:42-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/topics"/>
@@ -119,7 +131,7 @@
   <entry>
     <title>Resources</title>
     <id>/resources</id>
-    <updated>2019-08-15T15:48:47-04:00</updated>
+    <updated>2019-08-15T15:58:42-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/resources"/>
@@ -131,7 +143,7 @@
   <entry>
     <title>Welcome</title>
     <id>/welcome</id>
-    <updated>2019-08-15T15:49:19-04:00</updated>
+    <updated>2019-08-15T15:58:42-04:00</updated>
     <published>2019-08-15T15:46:06-04:00</published>
     <summary></summary>
     <link href="/welcome"/>

@@ -9,6 +9,16 @@
     <lastBuildDate>Thu, 15 Aug 2019 15:48:47 -0400</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Policies</title>
+      <link>/syllabus/policies</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/syllabus/policies</guid>
+      <pubDate>Thu, 15 Aug 2019 15:58:42 -0400</pubDate>
+    </item>
+    <item>
       <title>About the instructor</title>
       <link>/welcome/welcome/about-the-instructor</link>
       <description>
