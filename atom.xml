@@ -10,11 +10,11 @@
   <id>/feed</id>
   <entry>
     <title>About the instructor</title>
-    <id>/item-5453b40a-ddd9-4381-a856-e70a7a2ef4d0/about-the-instructor</id>
-    <updated>2019-08-15T15:48:47-04:00</updated>
+    <id>/welcome/welcome/about-the-instructor</id>
+    <updated>2019-08-15T15:49:35-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
-    <link href="/item-5453b40a-ddd9-4381-a856-e70a7a2ef4d0/about-the-instructor"/>
+    <link href="/welcome/welcome/about-the-instructor"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>

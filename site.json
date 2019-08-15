@@ -85,14 +85,14 @@
         {
             "id": "item-1d8ac69d-96b9-4ef7-9be2-f8d86570518c",
             "indent": "1",
-            "location": "pages\/item-5453b40a-ddd9-4381-a856-e70a7a2ef4d0\/about-the-instructor\/index.html",
+            "location": "pages\/welcome\/welcome\/about-the-instructor\/index.html",
             "order": "0",
             "parent": "item-5453b40a-ddd9-4381-a856-e70a7a2ef4d0",
             "title": "About the instructor",
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565898527
+                "updated": 1565898575
             }
         },
         {
