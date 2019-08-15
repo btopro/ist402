@@ -241,10 +241,20 @@
             "order": "2",
             "parent": null,
             "title": "Technologies we explore",
-            "description": "",
+            "description": "While touching on many, here is a list of technologies we'll be exploring throughout the course. We'll do this following a relatively simple format of What, Who, and How",
             "metadata": {
                 "created": 1565900239,
-                "updated": 1565900239
+                "updated": 1565900305,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 1,
+                    "schema": [],
+                    "tags": {
+                        "p": 1
+                    },
+                    "elements": 1
+                }
             }
         },
         {

@@ -3,7 +3,7 @@
   <title>ist402</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>IST 402 course content space</subtitle>
-  <updated>2019-08-15T15:58:42-04:00</updated>
+  <updated>2019-08-15T16:17:19-04:00</updated>
   <author>
       <name></name>
   </author>
@@ -11,13 +11,14 @@
   <entry>
     <title>Technologies we explore</title>
     <id>/technologies-we-explore</id>
-    <updated>2019-08-15T16:17:19-04:00</updated>
+    <updated>2019-08-15T16:18:25-04:00</updated>
     <published>2019-08-15T16:17:19-04:00</published>
-    <summary></summary>
+    <summary>While touching on many, here is a list of technologies we'll be exploring throughout the course. We'll do this following a relatively simple format of What, Who, and How</summary>
     <link href="/technologies-we-explore"/>
     
     <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
+      <![CDATA[ <p>While touching on many, here is a list of technologies we'll be exploring throughout the course. We'll do this following a relatively simple format of What, Who, and How</p>
+ ]]>
     </content>
   </entry>
   <entry>
@@ -112,24 +113,24 @@
     </content>
   </entry>
   <entry>
-    <title>Github</title>
-    <id>/getting-started/github</id>
-    <updated>2019-08-15T16:17:19-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary></summary>
-    <link href="/getting-started/github"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Git</title>
     <id>/topics/git</id>
     <updated>2019-08-15T16:17:19-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/topics/git"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Github</title>
+    <id>/getting-started/github</id>
+    <updated>2019-08-15T16:17:19-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/getting-started/github"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>
@@ -148,18 +149,6 @@
     </content>
   </entry>
   <entry>
-    <title>Digital Ocean</title>
-    <id>/getting-started/digital-ocean</id>
-    <updated>2019-08-15T16:17:19-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary></summary>
-    <link href="/getting-started/digital-ocean"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Accessibility</title>
     <id>/topics/accessibility</id>
     <updated>2019-08-15T16:17:19-04:00</updated>
@@ -172,12 +161,12 @@
     </content>
   </entry>
   <entry>
-    <title>Getting started</title>
-    <id>/getting-started</id>
+    <title>Digital Ocean</title>
+    <id>/getting-started/digital-ocean</id>
     <updated>2019-08-15T16:17:19-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
-    <link href="/getting-started"/>
+    <link href="/getting-started/digital-ocean"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>
@@ -190,6 +179,18 @@
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/topics/docker"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Getting started</title>
+    <id>/getting-started</id>
+    <updated>2019-08-15T16:17:19-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/getting-started"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>
