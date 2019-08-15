@@ -9,16 +9,6 @@
     <lastBuildDate>Thu, 15 Aug 2019 17:01:42 -0400</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Web components / HTML</title>
-      <link>/topics/web-components-/-html</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics/web-components-/-html</guid>
-      <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
-    </item>
-    <item>
       <title>Building your digital identity</title>
       <link>/topics/building-your-digital-identity</link>
       <description>
@@ -36,6 +26,16 @@
       </description>
       <category></category>
       <guid>/topics/open-source-software</guid>
+      <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Web components / HTML</title>
+      <link>/topics/web-components-/-html</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/topics/web-components-/-html</guid>
       <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
     </item>
     <item>
@@ -151,56 +151,6 @@
       <pubDate>Thu, 15 Aug 2019 15:58:42 -0400</pubDate>
     </item>
     <item>
-      <title>Getting started</title>
-      <link>/getting-started</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/getting-started</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Automation / Docker / IFTTT</title>
-      <link>/topics/docker</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics/docker</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Let's do this!</title>
-      <link>/topics</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Resources</title>
-      <link>/resources</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/resources</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Accessibility</title>
-      <link>/topics/accessibility</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics/accessibility</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
       <title>About the instructor (boring)</title>
       <link>/welcome/welcome/about-the-instructor</link>
       <description>
@@ -226,6 +176,16 @@
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
+      <title>Git / Github / Contribution</title>
+      <link>/topics/git</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/topics/git</guid>
+      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
+    </item>
+    <item>
       <title>Syllabus</title>
       <link>/syllabus</link>
       <description>
@@ -237,13 +197,43 @@
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
-      <title>Git / Github / Contribution</title>
-      <link>/topics/git</link>
+      <title>Accessibility</title>
+      <link>/topics/accessibility</link>
       <description>
           <![CDATA[ <p>Ex uno Plures</p> ]]>
       </description>
       <category></category>
-      <guid>/topics/git</guid>
+      <guid>/topics/accessibility</guid>
+      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Let's do this!</title>
+      <link>/topics</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/topics</guid>
+      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Automation / Docker / IFTTT</title>
+      <link>/topics/docker</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/topics/docker</guid>
+      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>/resources</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/resources</guid>
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>

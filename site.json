@@ -309,19 +309,6 @@
             }
         },
         {
-            "id": "item-9905f627-e42c-4a48-a55e-c5d32d239585",
-            "indent": 0,
-            "location": "pages\/getting-started\/index.html",
-            "order": "4",
-            "parent": null,
-            "title": "Getting started",
-            "description": "",
-            "metadata": {
-                "created": 1565898527,
-                "updated": 1565902902
-            }
-        },
-        {
             "id": "item-7af30cf6-a474-4c0e-8044-cdbf0b3374ed",
             "indent": "1",
             "location": "pages\/topics\/user-experience\/index.html",
