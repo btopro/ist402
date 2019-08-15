@@ -173,19 +173,6 @@
             }
         },
         {
-            "id": "item-a5377b64-f42f-44d5-86ff-0310163e9936",
-            "indent": "1",
-            "location": "pages\/getting-started\/building-your-digital-identity\/index.html",
-            "order": "0",
-            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
-            "title": "Building your digital identity",
-            "description": "",
-            "metadata": {
-                "created": 1565900239,
-                "updated": 1565901199
-            }
-        },
-        {
             "id": "item-cea67c3f-0678-47fc-a7b6-546f232f9556",
             "indent": "1",
             "location": "pages\/topics\/open-source-software\/index.html",
