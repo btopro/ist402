@@ -72,14 +72,14 @@
         {
             "id": "item-5453b40a-ddd9-4381-a856-e70a7a2ef4d0",
             "indent": 0,
-            "location": "pages\/item-5453b40a-ddd9-4381-a856-e70a7a2ef4d0\/index.html",
+            "location": "pages\/welcome\/index.html",
             "order": "0",
             "parent": null,
             "title": "Welcome",
             "description": "",
             "metadata": {
                 "created": 1565898366,
-                "updated": 1565898527
+                "updated": 1565898559
             }
         },
         {

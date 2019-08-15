@@ -3,18 +3,138 @@
   <title>ist402</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>IST 402 course content space</subtitle>
-  <updated>2019-08-15T15:46:25-04:00</updated>
+  <updated>2019-08-15T15:48:47-04:00</updated>
   <author>
       <name></name>
   </author>
   <id>/feed</id>
   <entry>
-    <title>Welcome</title>
-    <id>/item-5453b40a-ddd9-4381-a856-e70a7a2ef4d0</id>
+    <title>About the instructor</title>
+    <id>/item-5453b40a-ddd9-4381-a856-e70a7a2ef4d0/about-the-instructor</id>
     <updated>2019-08-15T15:48:47-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/item-5453b40a-ddd9-4381-a856-e70a7a2ef4d0/about-the-instructor"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Github</title>
+    <id>/getting-started/github</id>
+    <updated>2019-08-15T15:48:47-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/getting-started/github"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Git</title>
+    <id>/topics/git</id>
+    <updated>2019-08-15T15:48:47-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/topics/git"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Syllabus</title>
+    <id>/syllabus</id>
+    <updated>2019-08-15T15:48:47-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/syllabus"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Digital Ocean</title>
+    <id>/getting-started/digital-ocean</id>
+    <updated>2019-08-15T15:48:47-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/getting-started/digital-ocean"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Accessibility</title>
+    <id>/topics/accessibility</id>
+    <updated>2019-08-15T15:48:47-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/topics/accessibility"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Getting started</title>
+    <id>/getting-started</id>
+    <updated>2019-08-15T15:48:47-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/getting-started"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Docker</title>
+    <id>/topics/docker</id>
+    <updated>2019-08-15T15:48:47-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/topics/docker"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Topics</title>
+    <id>/topics</id>
+    <updated>2019-08-15T15:48:47-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/topics"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Resources</title>
+    <id>/resources</id>
+    <updated>2019-08-15T15:48:47-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/resources"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Welcome</title>
+    <id>/welcome</id>
+    <updated>2019-08-15T15:49:19-04:00</updated>
     <published>2019-08-15T15:46:06-04:00</published>
     <summary></summary>
-    <link href="/item-5453b40a-ddd9-4381-a856-e70a7a2ef4d0"/>
+    <link href="/welcome"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>
