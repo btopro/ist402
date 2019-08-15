@@ -241,10 +241,20 @@
             "order": "2",
             "parent": null,
             "title": "Question driven teaching",
-            "description": "",
+            "description": "In all the technologies and skillsets we'll explore in this course, I want you to approach them with the same questions that I have explored in my career. These simple questions will help you decipher",
             "metadata": {
                 "created": 1565900319,
-                "updated": 1565900319
+                "updated": 1565900666,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 8,
+                    "schema": [],
+                    "tags": {
+                        "p": 8
+                    },
+                    "elements": 8
+                }
             }
         },
         {

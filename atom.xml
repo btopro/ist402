@@ -3,7 +3,7 @@
   <title>ist402</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>IST 402 course content space</subtitle>
-  <updated>2019-08-15T16:17:19-04:00</updated>
+  <updated>2019-08-15T16:18:39-04:00</updated>
   <author>
       <name></name>
   </author>
@@ -11,10 +11,30 @@
   <entry>
     <title>Question driven teaching</title>
     <id>/question-driven-teaching</id>
-    <updated>2019-08-15T16:18:39-04:00</updated>
+    <updated>2019-08-15T16:24:26-04:00</updated>
     <published>2019-08-15T16:18:39-04:00</published>
-    <summary></summary>
+    <summary>In all the technologies and skillsets we'll explore in this course, I want you to approach them with the same questions that I have explored in my career. These simple questions will help you decipher</summary>
     <link href="/question-driven-teaching"/>
+    
+    <content type="html">
+      <![CDATA[ <p>In all the technologies and skillsets we'll explore in this course, I want you to approach them with the same questions that I have explored in my career. These simple questions will help you decipher what's going to get you the furthest for the longest.</p>
+<p>Technological sustainability is not easy; both in remaining relevant by sustaining your own skills as well as the sustained use of any solution by anyone or their organization.</p>
+<p>What problem does this solve?</p>
+<p>Who built this?</p>
+<p>Where is this being used?</p>
+<p>How can I go about using it?</p>
+<p>Why do people use this over alternatives? (and what are the top 3 alternatives)</p>
+<p>With each problem / solution space we look at in this course we're going to look at it through the lens of these questions.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Building your digital identity</title>
+    <id>/getting-started/building-your-digital-identity</id>
+    <updated>2019-08-15T16:18:39-04:00</updated>
+    <published>2019-08-15T16:17:19-04:00</published>
+    <summary></summary>
+    <link href="/getting-started/building-your-digital-identity"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>
@@ -31,18 +51,6 @@
     <content type="html">
       <![CDATA[ <p>While touching on many, here is a list of technologies we'll be exploring throughout the course. We'll do this following a relatively simple format of What, Who, and How</p>
  ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Building your digital identity</title>
-    <id>/getting-started/building-your-digital-identity</id>
-    <updated>2019-08-15T16:18:39-04:00</updated>
-    <published>2019-08-15T16:17:19-04:00</published>
-    <summary></summary>
-    <link href="/getting-started/building-your-digital-identity"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
     </content>
   </entry>
   <entry>
