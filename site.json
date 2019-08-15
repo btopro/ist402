@@ -9,7 +9,7 @@
         "site": {
             "name": "ist402",
             "created": 1565898366,
-            "updated": 1565898385,
+            "updated": 1565898527,
             "git": {}
         },
         "theme": {
@@ -79,7 +79,137 @@
             "description": "",
             "metadata": {
                 "created": 1565898366,
-                "updated": 1565898385
+                "updated": 1565898527
+            }
+        },
+        {
+            "id": "item-1d8ac69d-96b9-4ef7-9be2-f8d86570518c",
+            "indent": "1",
+            "location": "pages\/item-5453b40a-ddd9-4381-a856-e70a7a2ef4d0\/about-the-instructor\/index.html",
+            "order": "0",
+            "parent": "item-5453b40a-ddd9-4381-a856-e70a7a2ef4d0",
+            "title": "About the instructor",
+            "description": "",
+            "metadata": {
+                "created": 1565898527,
+                "updated": 1565898527
+            }
+        },
+        {
+            "id": "item-67aa8293-ce16-40f1-8fa6-63ccd9d97c5d",
+            "indent": "1",
+            "location": "pages\/getting-started\/github\/index.html",
+            "order": "0",
+            "parent": "item-9905f627-e42c-4a48-a55e-c5d32d239585",
+            "title": "Github",
+            "description": "",
+            "metadata": {
+                "created": 1565898527,
+                "updated": 1565898527
+            }
+        },
+        {
+            "id": "item-d4ed1588-71f3-4318-a800-dd42ef27049d",
+            "indent": "1",
+            "location": "pages\/topics\/git\/index.html",
+            "order": "0",
+            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
+            "title": "Git",
+            "description": "",
+            "metadata": {
+                "created": 1565898527,
+                "updated": 1565898527
+            }
+        },
+        {
+            "id": "item-bbcf1985-2a65-43f7-bc26-17bd252a4960",
+            "indent": 0,
+            "location": "pages\/syllabus\/index.html",
+            "order": "1",
+            "parent": null,
+            "title": "Syllabus",
+            "description": "",
+            "metadata": {
+                "created": 1565898527,
+                "updated": 1565898527
+            }
+        },
+        {
+            "id": "item-abbe35f3-1a91-4544-973b-29920fd379c3",
+            "indent": "1",
+            "location": "pages\/getting-started\/digital-ocean\/index.html",
+            "order": "1",
+            "parent": "item-9905f627-e42c-4a48-a55e-c5d32d239585",
+            "title": "Digital Ocean",
+            "description": "",
+            "metadata": {
+                "created": 1565898527,
+                "updated": 1565898527
+            }
+        },
+        {
+            "id": "item-f545ac21-9c43-4cc6-98fa-46e6e73634a9",
+            "indent": "1",
+            "location": "pages\/topics\/accessibility\/index.html",
+            "order": "1",
+            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
+            "title": "Accessibility",
+            "description": "",
+            "metadata": {
+                "created": 1565898527,
+                "updated": 1565898527
+            }
+        },
+        {
+            "id": "item-9905f627-e42c-4a48-a55e-c5d32d239585",
+            "indent": 0,
+            "location": "pages\/getting-started\/index.html",
+            "order": "2",
+            "parent": null,
+            "title": "Getting started",
+            "description": "",
+            "metadata": {
+                "created": 1565898527,
+                "updated": 1565898527
+            }
+        },
+        {
+            "id": "item-3a44207a-5776-4ed4-88f9-95880752bb4b",
+            "indent": "1",
+            "location": "pages\/topics\/docker\/index.html",
+            "order": "2",
+            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
+            "title": "Docker",
+            "description": "",
+            "metadata": {
+                "created": 1565898527,
+                "updated": 1565898527
+            }
+        },
+        {
+            "id": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
+            "indent": 0,
+            "location": "pages\/topics\/index.html",
+            "order": "3",
+            "parent": null,
+            "title": "Topics",
+            "description": "",
+            "metadata": {
+                "created": 1565898527,
+                "updated": 1565898527
+            }
+        },
+        {
+            "id": "item-cabad7a7-8b29-4e70-8786-1c60e33a7b90",
+            "indent": 0,
+            "location": "pages\/resources\/index.html",
+            "order": "4",
+            "parent": null,
+            "title": "Resources",
+            "description": "",
+            "metadata": {
+                "created": 1565898527,
+                "updated": 1565898527
             }
         }
     ]
