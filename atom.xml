@@ -186,18 +186,21 @@
   <entry>
     <title>Welcome</title>
     <id>/welcome</id>
-    <updated>2019-08-15T16:08:28-04:00</updated>
+    <updated>2019-08-15T16:10:17-04:00</updated>
     <published>2019-08-15T15:46:06-04:00</published>
-    <summary>IST 402: Emerging TechnologiesThis will hopefully be unlike any course you've taken before (in a good way). My name is Bryan Ollendyke, and welcome to IST 402!I'm excited to expose you to the ideas I</summary>
+    <summary>IST 402: Emerging TechnologiesThis will hopefully be unlike any course you've taken before (in a good way). My name is Bryan Ollendyke, and welcome to IST 402!I'm excited to expose you to the idea</summary>
     <link href="/welcome"/>
     
     <content type="html">
       <![CDATA[ <h2>IST 402: Emerging Technologies</h2>
-<grid-plate layout="8/4" responsive-size="md"><p slot="col-1"><span style="font-size: 24px; letter-spacing: 0.5px; caret-color: rgb(25, 30, 35);">This will hopefully be unlike any course you've taken before (in a good way). My name is Bryan Ollendyke, and welcome to IST 402!</span><p><p class="hovered"><span style="font-size: 24px; letter-spacing: 0.5px; caret-color: rgb(25, 30, 35);">I'm excited to expose you to the ideas I wish I had been exposed to when I was in IST. I graduated from IST in 2006 (and again in 2015).</span></p>
-</p>
-</p>
+<grid-plate layout="8/4" responsive-size="md" style="width: 100%;"><p slot="col-1">This will hopefully be unlike any course you've taken before (in a good way). My name is Bryan Ollendyke, and welcome to IST 402!</p>
 
-<meme-maker image-url="files/headshot.jpg" top-text="Your" bottom-text="Professor" imageurl="files/headshot.jpg" slot="col-2" style="width: 75%;"></meme-maker>
+
+<p slot="col-1">I'm excited to expose you to the ideas I wish I had been exposed to when I was in IST. I graduated from IST in 2006 (and again in 2015).</p>
+
+
+<meme-maker image-url="files/headshot.jpg" top-text="Your" bottom-text="Professor" imageurl="files/headshot.jpg" slot="col-2" style="width: 100%;"></meme-maker>
+
 
 </grid-plate>
 <h2>(Boring) BlueBook description</h2>
