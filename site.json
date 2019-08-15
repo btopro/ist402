@@ -9,7 +9,7 @@
         "site": {
             "name": "ist402",
             "created": 1565898366,
-            "updated": 1565899122,
+            "updated": 1565900239,
             "git": {}
         },
         "theme": {
@@ -79,7 +79,7 @@
             "description": "IST 402: Emerging TechnologiesThis will hopefully be unlike any course you've taken before (in a good way). My name is Bryan Ollendyke, and welcome to IST 402!I'm excited to expose you to the idea",
             "metadata": {
                 "created": 1565898366,
-                "updated": 1565899817,
+                "updated": 1565900239,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/\/headshot.jpg",
@@ -115,20 +115,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565899122
-            }
-        },
-        {
-            "id": "item-67aa8293-ce16-40f1-8fa6-63ccd9d97c5d",
-            "indent": "1",
-            "location": "pages\/getting-started\/github\/index.html",
-            "order": "0",
-            "parent": "item-9905f627-e42c-4a48-a55e-c5d32d239585",
-            "title": "Github",
-            "description": "",
-            "metadata": {
-                "created": 1565898527,
-                "updated": 1565899122
+                "updated": 1565900239
             }
         },
         {
@@ -141,7 +128,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565899122
+                "updated": 1565900239
             }
         },
         {
@@ -154,7 +141,7 @@
             "description": "University PoliciesDisability\u00a0\/ alternate media:If you have a documented disability, send a copy of the letter from the Office of Disability services to your instructor (using Canvas email). If yo",
             "metadata": {
                 "created": 1565899122,
-                "updated": 1565899220,
+                "updated": 1565900239,
                 "readtime": 3,
                 "contentDetails": {
                     "headings": 1,
@@ -170,6 +157,32 @@
             }
         },
         {
+            "id": "item-a5377b64-f42f-44d5-86ff-0310163e9936",
+            "indent": "1",
+            "location": "pages\/getting-started\/building-your-digital-identity\/index.html",
+            "order": "0",
+            "parent": "item-9905f627-e42c-4a48-a55e-c5d32d239585",
+            "title": "Building your digital identity",
+            "description": "",
+            "metadata": {
+                "created": 1565900239,
+                "updated": 1565900239
+            }
+        },
+        {
+            "id": "item-67aa8293-ce16-40f1-8fa6-63ccd9d97c5d",
+            "indent": "1",
+            "location": "pages\/getting-started\/github\/index.html",
+            "order": "1",
+            "parent": "item-9905f627-e42c-4a48-a55e-c5d32d239585",
+            "title": "Github",
+            "description": "",
+            "metadata": {
+                "created": 1565898527,
+                "updated": 1565900239
+            }
+        },
+        {
             "id": "item-bbcf1985-2a65-43f7-bc26-17bd252a4960",
             "indent": 0,
             "location": "pages\/syllabus\/index.html",
@@ -179,20 +192,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565899122
-            }
-        },
-        {
-            "id": "item-abbe35f3-1a91-4544-973b-29920fd379c3",
-            "indent": "1",
-            "location": "pages\/getting-started\/digital-ocean\/index.html",
-            "order": "1",
-            "parent": "item-9905f627-e42c-4a48-a55e-c5d32d239585",
-            "title": "Digital Ocean",
-            "description": "",
-            "metadata": {
-                "created": 1565898527,
-                "updated": 1565899122
+                "updated": 1565900239
             }
         },
         {
@@ -205,20 +205,20 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565899122
+                "updated": 1565900239
             }
         },
         {
-            "id": "item-9905f627-e42c-4a48-a55e-c5d32d239585",
-            "indent": 0,
-            "location": "pages\/getting-started\/index.html",
+            "id": "item-abbe35f3-1a91-4544-973b-29920fd379c3",
+            "indent": "1",
+            "location": "pages\/getting-started\/digital-ocean\/index.html",
             "order": "2",
-            "parent": null,
-            "title": "Getting started",
+            "parent": "item-9905f627-e42c-4a48-a55e-c5d32d239585",
+            "title": "Digital Ocean",
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565899122
+                "updated": 1565900239
             }
         },
         {
@@ -231,33 +231,72 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565899122
+                "updated": 1565900239
+            }
+        },
+        {
+            "id": "item-0e26f609-2f2a-41cb-a142-e222a7def3f7",
+            "indent": 0,
+            "location": "pages\/technologies-we-explore\/index.html",
+            "order": "2",
+            "parent": null,
+            "title": "Technologies we explore",
+            "description": "",
+            "metadata": {
+                "created": 1565900239,
+                "updated": 1565900239
+            }
+        },
+        {
+            "id": "item-9905f627-e42c-4a48-a55e-c5d32d239585",
+            "indent": 0,
+            "location": "pages\/getting-started\/index.html",
+            "order": "3",
+            "parent": null,
+            "title": "Getting started",
+            "description": "",
+            "metadata": {
+                "created": 1565898527,
+                "updated": 1565900239
+            }
+        },
+        {
+            "id": "item-87576770-9d4d-48cc-a783-eef0f938c8a9",
+            "indent": 0,
+            "location": "pages\/skill-git\/index.html",
+            "order": "4",
+            "parent": null,
+            "title": "Skill: Git",
+            "description": "",
+            "metadata": {
+                "created": 1565900239,
+                "updated": 1565900239
             }
         },
         {
             "id": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
             "indent": 0,
             "location": "pages\/topics\/index.html",
-            "order": "3",
+            "order": "5",
             "parent": null,
-            "title": "Topics",
+            "title": "Topic 2",
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565899122
+                "updated": 1565900239
             }
         },
         {
             "id": "item-cabad7a7-8b29-4e70-8786-1c60e33a7b90",
             "indent": 0,
             "location": "pages\/resources\/index.html",
-            "order": "4",
+            "order": "6",
             "parent": null,
             "title": "Resources",
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565899122
+                "updated": 1565900239
             }
         }
     ]

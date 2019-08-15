@@ -9,6 +9,36 @@
     <lastBuildDate>Thu, 15 Aug 2019 15:58:42 -0400</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Technologies we explore</title>
+      <link>/technologies-we-explore</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/technologies-we-explore</guid>
+      <pubDate>Thu, 15 Aug 2019 16:17:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Building your digital identity</title>
+      <link>/getting-started/building-your-digital-identity</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/getting-started/building-your-digital-identity</guid>
+      <pubDate>Thu, 15 Aug 2019 16:17:19 -0400</pubDate>
+    </item>
+    <item>
+      <title>Skill: Git</title>
+      <link>/skill-git</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/skill-git</guid>
+      <pubDate>Thu, 15 Aug 2019 16:17:19 -0400</pubDate>
+    </item>
+    <item>
       <title>Policies</title>
       <link>/syllabus/policies</link>
       <description>
@@ -142,7 +172,7 @@
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
-      <title>Topics</title>
+      <title>Topic 2</title>
       <link>/topics</link>
       <description>
           <![CDATA[ <p>Ex uno Plures</p> ]]>
