@@ -274,19 +274,21 @@
             "order": "3",
             "parent": null,
             "title": "Technologies we explore",
-            "description": "While touching on many, here is a list of technologies we'll be exploring throughout the course. We'll do this following a relatively simple format of What, Who, and How",
+            "description": "While touching on many, here is a list of technologies we'll be exploring throughout the course. These tools are not used by every organization out there, but huge swaths of the start up scene will ha",
             "metadata": {
                 "created": 1565900239,
-                "updated": 1565900319,
+                "updated": 1565901018,
                 "readtime": 1,
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 1,
+                    "headings": 1,
+                    "paragraphs": 5,
                     "schema": [],
                     "tags": {
-                        "p": 1
+                        "p": 5,
+                        "h2": 1,
+                        "ul": 1
                     },
-                    "elements": 1
+                    "elements": 7
                 }
             }
         },
