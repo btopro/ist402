@@ -3,13 +3,13 @@
   <channel>
     <title>ist402</title>
     <link>/rss.xml</link>
-    <description></description>
+    <description>IST 402 course content space</description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Aug 2019 15:46:06 -0400</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>New page</title>
+      <title>Welcome</title>
       <link>/item-5453b40a-ddd9-4381-a856-e70a7a2ef4d0</link>
       <description>
           <![CDATA[ <p>Ex uno Plures</p> ]]>

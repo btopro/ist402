@@ -9,7 +9,7 @@
         "site": {
             "name": "ist402",
             "created": 1565898366,
-            "updated": 1565898366,
+            "updated": 1565898385,
             "git": {}
         },
         "theme": {
@@ -73,15 +73,14 @@
             "id": "item-5453b40a-ddd9-4381-a856-e70a7a2ef4d0",
             "indent": 0,
             "location": "pages\/item-5453b40a-ddd9-4381-a856-e70a7a2ef4d0\/index.html",
-            "order": 0,
+            "order": "0",
             "parent": null,
-            "title": "New page",
+            "title": "Welcome",
             "description": "",
             "metadata": {
                 "created": 1565898366,
-                "updated": 1565898366
+                "updated": 1565898385
             }
         }
-    ],
-    "location": "\/bto108\/sites\/ist402\/index.html"
+    ]
 }

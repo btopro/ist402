@@ -2,16 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>ist402</title>
   <link href="/atom.xml" rel="self" />
-  <subtitle></subtitle>
+  <subtitle>IST 402 course content space</subtitle>
   <updated>2019-08-15T15:46:06-04:00</updated>
   <author>
       <name></name>
   </author>
   <id>/feed</id>
   <entry>
-    <title>New page</title>
+    <title>Welcome</title>
     <id>/item-5453b40a-ddd9-4381-a856-e70a7a2ef4d0</id>
-    <updated>2019-08-15T15:46:06-04:00</updated>
+    <updated>2019-08-15T15:46:25-04:00</updated>
     <published>2019-08-15T15:46:06-04:00</published>
     <summary></summary>
     <link href="/item-5453b40a-ddd9-4381-a856-e70a7a2ef4d0"/>
