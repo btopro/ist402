@@ -121,9 +121,9 @@
   <entry>
     <title>About the instructor (boring)</title>
     <id>/welcome/welcome/about-the-instructor</id>
-    <updated>2019-08-15T16:55:03-04:00</updated>
+    <updated>2019-08-15T16:57:02-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
-    <summary>This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.My name is Bryan Ollendyke and I've been living working</summary>
+    <summary>This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.My name is Bryan Ollendyke and I've been living workin</summary>
     <link href="/welcome/welcome/about-the-instructor"/>
     
     <content type="html">
@@ -131,14 +131,17 @@
 <a11y-gif-player src="https://media3.giphy.com/media/5wWf7GW1AzV6pF3MaVW/giphy.gif" src-without-animation="https://media0.giphy.com/media/5wWf7GW1AzV6pF3MaVW/480w_s.jpg" alt="high five the office" schema-resource-id="#0e8a5bdc-121d-e719-bbe6" resource="#0e8a5bdc-121d-e719-bbe6" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 100%;"></a11y-gif-player>
 <p>My name is Bryan Ollendyke and I've been <strike>living</strike>
 
+
  working at Penn State since 2007. I did my undergrad in IST and was able to get a job working in the College of Arts & Architecture's online learning unit (now called Office of Digital Learning).</p>
 <p>In 2015 I completed my MS by studying the spread of an open source platform called Drupal. The theory I reasoned from my thesis is an effect I call Information Altruism -- Meaning that it isn't open source software that impacts institutions <b>but the free giving away of knowledge about how to use it</b>
+
 
  which does.</p>
 <p>Open source lays the ground work, but it still requires knowledge workers to pick up those raw minerals and make rails of them for organizations to ride on.</p>
 <p>I am in the rare position of getting to teach you leveraging tools which I and my team have built. This content is written in a platform called HAXcms which we are actively building. I'm also the project lead on a project called ELMS: Learning Network.</p>
 <p>Since starting at Penn State, I would say 99.5% of every hour of every day I work is contributed directly back to open code and documentation. I've contributed hundreds of modules for Drupal, dozens of themes and installation profiles, millions of lines of code liberated from the ownership of anyone or anywhere.</p>
 <p>In the last two years, our team has released north of 400 reusable design assets called Web components. These modules and design assets power thousands of websites and help empower people we'll never know to better express themselves online, whether for instructional content or otherwise.</p>
+<p>I'm a self described Developer Activist in that I don't think open source can change society: I know it can and does constantly. It's why I still work in academia - to try and open source as much of the application stack associated with teaching and learning in order to provide both better options as well as lower costs.</p>
  ]]>
     </content>
   </entry>
