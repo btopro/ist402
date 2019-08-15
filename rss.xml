@@ -227,18 +227,40 @@
 <grid-plate layout="8/4" responsive-size="md" style="width: 100%;"><p slot="col-1">This will hopefully be unlike any course you've taken before (in a good way). My name is Bryan Ollendyke, and welcome to IST 402!</p>
 
 
+
 <p slot="col-1">I'm excited to expose you to the ideas I wish I had been exposed to when I was in IST. I graduated from IST in 2006 (and again in 2015).</p>
+
 
 
 <meme-maker image-url="files/headshot.jpg" top-text="Your" bottom-text="Professor" imageurl="files/headshot.jpg" slot="col-2" style="width: 100%;"></meme-maker>
 
 
+
+</grid-plate>
+<h2>TLDR; description</h2>
+<p>We're going to learn about and participate in open source software communities. We're going to use github to do this. We're going to make YouTube channels full of knowledge that you've assembled in this course, create social media posts promoting it and other projects you'll work on, and generally give you a sense of the skills required to get involved in start up culture.</p>
+<p>We'll cover human things like workflow management, user experience, community building and accessibility.</p>
+<p>We'll get into amazing web services like Stackblitz.io, CloudFlare, DigitalOcean, Github, IFTTT, TravisCI, Slack, talk about how they work, play with them, and blog about using them.</p>
+<p>We'll cover technical concepts like Web components, version control (git), Content managment systems, "flat file" systems.</p>
+<p>We'll get hands on and write markdown, yaml, json, web components (HTML/CSS/JS).</p>
+<p>We'll "build servers" and make our own website to understand how all that works.</p>
+<p>We'll generally remove the magic that divides consumers from producers in the digital realm and get you a step closer being involved in a start up.</p>
+<p>The vast majority of your work will be done out in the open to help you build an identity as an IT professional and someone that has the right accounts and is active with them come interview time or where ever you find yourself after this place.</p>
+<p>My goals for this course are to get you more comfortable with these tools, build your online personal / brand, and hopefully get you commits to real world open source projects.</p>
+<grid-plate layout="4/4/4" responsive-size="md">
+
+
+<meme-maker alt="happy dance GIF by SpongeBob SquarePants" image-url="https://media0.giphy.com/media/nDSlfqf0gn5g4/giphy.gif" bottom-text="Are" imageurl="https://media0.giphy.com/media/nDSlfqf0gn5g4/giphy.gif" toptext="happy dance GIF by SpongeBob SquarePants" slot="col-1"></meme-maker>
+<meme-maker alt="happy dance GIF by SpongeBob SquarePants" image-url="https://media0.giphy.com/media/nDSlfqf0gn5g4/giphy.gif" bottom-text="Ready?" imageurl="https://media0.giphy.com/media/nDSlfqf0gn5g4/giphy.gif" toptext="happy dance GIF by SpongeBob SquarePants" slot="col-3" top-text=""></meme-maker>
+<meme-maker alt="happy dance GIF by SpongeBob SquarePants" image-url="https://media0.giphy.com/media/nDSlfqf0gn5g4/giphy.gif" bottom-text="You" imageurl="https://media0.giphy.com/media/nDSlfqf0gn5g4/giphy.gif" toptext="happy dance GIF by SpongeBob SquarePants" slot="col-2"></meme-maker>
 </grid-plate>
 <h2>(Boring) BlueBook description</h2>
 <h3>Start up? Let's Tool up!</h3>
 <p>The "Start up" culture is a world that lives by "move fast and break things". But how do you get into the start up scene? Or more importantly, what do you need to know in order to attract offers, and get your resume to stand out in a world where thousands of "IT workers" will graduate along side you.</p>
 <p>You'll contribute to a large Penn State lead Open Source software project while building your digital identity as an IT professional on your journey to 1337 (elite). You'll improve online education while using things like version control (git), docker, web components, terminal, servers, screencasting and writing technical documentation.</p>
-<p class="hax-active">You'll work with platforms like Github, Digital Ocean, HAXcms, IFTTT, Slack, Travis CI and YouTube. Prior programming knowledge is beneficial but understanding of technical concepts is more important.</p>
+<p>You'll work with platforms like Github, Digital Ocean, HAXcms, IFTTT, Slack, Travis CI and YouTube. Prior programming knowledge is beneficial but understanding of technical concepts is more important.</p>
+<p>(Fun) Reality description</p>
+<p>This</p>
  ]]>
       </description>
       <category></category>
