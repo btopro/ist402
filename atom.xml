@@ -3,7 +3,7 @@
   <title>ist402</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>IST 402 course content space</subtitle>
-  <updated>2019-08-15T16:33:04-04:00</updated>
+  <updated>2019-08-15T16:33:19-04:00</updated>
   <author>
       <name></name>
   </author>
@@ -61,18 +61,6 @@
 <p><span style="letter-spacing: -0.48px; caret-color: rgb(25, 30, 35);"><br/></span></p>
 <p><br/></p>
  ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Skill: Git</title>
-    <id>/skill-git</id>
-    <updated>2019-08-15T16:33:04-04:00</updated>
-    <published>2019-08-15T16:17:19-04:00</published>
-    <summary></summary>
-    <link href="/skill-git"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
     </content>
   </entry>
   <entry>

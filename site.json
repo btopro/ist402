@@ -306,19 +306,6 @@
             }
         },
         {
-            "id": "item-87576770-9d4d-48cc-a783-eef0f938c8a9",
-            "indent": 0,
-            "location": "pages\/skill-git\/index.html",
-            "order": "5",
-            "parent": null,
-            "title": "Skill: Git",
-            "description": "",
-            "metadata": {
-                "created": 1565900239,
-                "updated": 1565901184
-            }
-        },
-        {
             "id": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
             "indent": 0,
             "location": "pages\/topics\/index.html",

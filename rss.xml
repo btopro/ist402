@@ -6,7 +6,7 @@
     <description>IST 402 course content space</description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Aug 2019 16:33:04 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2019 16:33:19 -0400</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Question driven teaching</title>
@@ -55,16 +55,6 @@
       </description>
       <category></category>
       <guid>/technologies-we-explore</guid>
-      <pubDate>Thu, 15 Aug 2019 16:17:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>Skill: Git</title>
-      <link>/skill-git</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/skill-git</guid>
       <pubDate>Thu, 15 Aug 2019 16:17:19 -0400</pubDate>
     </item>
     <item>
