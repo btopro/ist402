@@ -186,19 +186,6 @@
             }
         },
         {
-            "id": "item-67aa8293-ce16-40f1-8fa6-63ccd9d97c5d",
-            "indent": "1",
-            "location": "pages\/getting-started\/github\/index.html",
-            "order": "0",
-            "parent": "item-9905f627-e42c-4a48-a55e-c5d32d239585",
-            "title": "Github",
-            "description": "",
-            "metadata": {
-                "created": 1565898527,
-                "updated": 1565902902
-            }
-        },
-        {
             "id": "item-cea67c3f-0678-47fc-a7b6-546f232f9556",
             "indent": "1",
             "location": "pages\/topics\/open-source-software\/index.html",

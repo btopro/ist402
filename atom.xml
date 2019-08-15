@@ -77,6 +77,18 @@
     </content>
   </entry>
   <entry>
+    <title>Building your digital identity</title>
+    <id>/getting-started/building-your-digital-identity</id>
+    <updated>2019-08-15T16:33:19-04:00</updated>
+    <published>2019-08-15T16:17:19-04:00</published>
+    <summary></summary>
+    <link href="/getting-started/building-your-digital-identity"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Technologies we explore</title>
     <id>/technologies-we-explore</id>
     <updated>2019-08-15T17:01:42-04:00</updated>
@@ -97,18 +109,6 @@
 <p><span style="letter-spacing: -0.48px; caret-color: rgb(25, 30, 35);"><br/></span></p>
 <p><br/></p>
  ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Building your digital identity</title>
-    <id>/getting-started/building-your-digital-identity</id>
-    <updated>2019-08-15T16:33:19-04:00</updated>
-    <published>2019-08-15T16:17:19-04:00</published>
-    <summary></summary>
-    <link href="/getting-started/building-your-digital-identity"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
     </content>
   </entry>
   <entry>
@@ -167,6 +167,18 @@
     </content>
   </entry>
   <entry>
+    <title>Getting started</title>
+    <id>/getting-started</id>
+    <updated>2019-08-15T17:01:42-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/getting-started"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Automation / Docker / IFTTT</title>
     <id>/topics/docker</id>
     <updated>2019-08-15T17:01:42-04:00</updated>
@@ -185,18 +197,6 @@
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/topics"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Getting started</title>
-    <id>/getting-started</id>
-    <updated>2019-08-15T17:01:42-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary></summary>
-    <link href="/getting-started"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>
@@ -273,18 +273,6 @@
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/topics/git"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Github</title>
-    <id>/getting-started/github</id>
-    <updated>2019-08-15T17:01:42-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary></summary>
-    <link href="/getting-started/github"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>

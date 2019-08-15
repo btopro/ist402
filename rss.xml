@@ -67,6 +67,16 @@
       <pubDate>Thu, 15 Aug 2019 16:18:39 -0400</pubDate>
     </item>
     <item>
+      <title>Building your digital identity</title>
+      <link>/getting-started/building-your-digital-identity</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/getting-started/building-your-digital-identity</guid>
+      <pubDate>Thu, 15 Aug 2019 16:17:19 -0400</pubDate>
+    </item>
+    <item>
       <title>Technologies we explore</title>
       <link>/technologies-we-explore</link>
       <description>
@@ -85,16 +95,6 @@
       </description>
       <category></category>
       <guid>/technologies-we-explore</guid>
-      <pubDate>Thu, 15 Aug 2019 16:17:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>Building your digital identity</title>
-      <link>/getting-started/building-your-digital-identity</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/getting-started/building-your-digital-identity</guid>
       <pubDate>Thu, 15 Aug 2019 16:17:19 -0400</pubDate>
     </item>
     <item>
@@ -151,6 +151,16 @@
       <pubDate>Thu, 15 Aug 2019 15:58:42 -0400</pubDate>
     </item>
     <item>
+      <title>Getting started</title>
+      <link>/getting-started</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/getting-started</guid>
+      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
+    </item>
+    <item>
       <title>Automation / Docker / IFTTT</title>
       <link>/topics/docker</link>
       <description>
@@ -168,16 +178,6 @@
       </description>
       <category></category>
       <guid>/topics</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Getting started</title>
-      <link>/getting-started</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/getting-started</guid>
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
@@ -244,16 +244,6 @@
       </description>
       <category></category>
       <guid>/topics/git</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Github</title>
-      <link>/getting-started/github</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/getting-started/github</guid>
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
