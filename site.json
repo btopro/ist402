@@ -9,7 +9,7 @@
         "site": {
             "name": "ist402",
             "created": 1565898366,
-            "updated": 1565900239,
+            "updated": 1565900319,
             "git": {}
         },
         "theme": {
@@ -79,7 +79,7 @@
             "description": "IST 402: Emerging TechnologiesThis will hopefully be unlike any course you've taken before (in a good way). My name is Bryan Ollendyke, and welcome to IST 402!I'm excited to expose you to the idea",
             "metadata": {
                 "created": 1565898366,
-                "updated": 1565900239,
+                "updated": 1565900319,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/\/headshot.jpg",
@@ -115,7 +115,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565900239
+                "updated": 1565900319
             }
         },
         {
@@ -128,7 +128,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565900239
+                "updated": 1565900319
             }
         },
         {
@@ -141,7 +141,7 @@
             "description": "University PoliciesDisability\u00a0\/ alternate media:If you have a documented disability, send a copy of the letter from the Office of Disability services to your instructor (using Canvas email). If yo",
             "metadata": {
                 "created": 1565899122,
-                "updated": 1565900239,
+                "updated": 1565900319,
                 "readtime": 3,
                 "contentDetails": {
                     "headings": 1,
@@ -166,7 +166,7 @@
             "description": "",
             "metadata": {
                 "created": 1565900239,
-                "updated": 1565900239
+                "updated": 1565900319
             }
         },
         {
@@ -179,7 +179,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565900239
+                "updated": 1565900319
             }
         },
         {
@@ -192,7 +192,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565900239
+                "updated": 1565900319
             }
         },
         {
@@ -205,7 +205,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565900239
+                "updated": 1565900319
             }
         },
         {
@@ -218,7 +218,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565900239
+                "updated": 1565900319
             }
         },
         {
@@ -231,20 +231,33 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565900239
+                "updated": 1565900319
+            }
+        },
+        {
+            "id": "item-e0732067-8550-48ce-a287-bf2beceb0e81",
+            "indent": 0,
+            "location": "pages\/question-driven-teaching\/index.html",
+            "order": "2",
+            "parent": null,
+            "title": "Question driven teaching",
+            "description": "",
+            "metadata": {
+                "created": 1565900319,
+                "updated": 1565900319
             }
         },
         {
             "id": "item-0e26f609-2f2a-41cb-a142-e222a7def3f7",
             "indent": 0,
             "location": "pages\/technologies-we-explore\/index.html",
-            "order": "2",
+            "order": "3",
             "parent": null,
             "title": "Technologies we explore",
             "description": "While touching on many, here is a list of technologies we'll be exploring throughout the course. We'll do this following a relatively simple format of What, Who, and How",
             "metadata": {
                 "created": 1565900239,
-                "updated": 1565900305,
+                "updated": 1565900319,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -261,52 +274,52 @@
             "id": "item-9905f627-e42c-4a48-a55e-c5d32d239585",
             "indent": 0,
             "location": "pages\/getting-started\/index.html",
-            "order": "3",
+            "order": "4",
             "parent": null,
             "title": "Getting started",
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565900239
+                "updated": 1565900319
             }
         },
         {
             "id": "item-87576770-9d4d-48cc-a783-eef0f938c8a9",
             "indent": 0,
             "location": "pages\/skill-git\/index.html",
-            "order": "4",
+            "order": "5",
             "parent": null,
             "title": "Skill: Git",
             "description": "",
             "metadata": {
                 "created": 1565900239,
-                "updated": 1565900239
+                "updated": 1565900319
             }
         },
         {
             "id": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
             "indent": 0,
             "location": "pages\/topics\/index.html",
-            "order": "5",
+            "order": "6",
             "parent": null,
             "title": "Topic 2",
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565900239
+                "updated": 1565900319
             }
         },
         {
             "id": "item-cabad7a7-8b29-4e70-8786-1c60e33a7b90",
             "indent": 0,
             "location": "pages\/resources\/index.html",
-            "order": "6",
+            "order": "7",
             "parent": null,
             "title": "Resources",
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565900239
+                "updated": 1565900319
             }
         }
     ]
