@@ -9,7 +9,7 @@
         "site": {
             "name": "ist402",
             "created": 1565898366,
-            "updated": 1565900319,
+            "updated": 1565901137,
             "git": {}
         },
         "theme": {
@@ -79,7 +79,7 @@
             "description": "IST 402: Emerging TechnologiesThis will hopefully be unlike any course you've taken before (in a good way). My name is Bryan Ollendyke, and welcome to IST 402!I'm excited to expose you to the idea",
             "metadata": {
                 "created": 1565898366,
-                "updated": 1565900319,
+                "updated": 1565901137,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/\/headshot.jpg",
@@ -115,7 +115,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565900319
+                "updated": 1565901137
             }
         },
         {
@@ -128,7 +128,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565900319
+                "updated": 1565901137
             }
         },
         {
@@ -141,7 +141,7 @@
             "description": "University PoliciesDisability\u00a0\/ alternate media:If you have a documented disability, send a copy of the letter from the Office of Disability services to your instructor (using Canvas email). If yo",
             "metadata": {
                 "created": 1565899122,
-                "updated": 1565900319,
+                "updated": 1565901137,
                 "readtime": 3,
                 "contentDetails": {
                     "headings": 1,
@@ -166,7 +166,7 @@
             "description": "",
             "metadata": {
                 "created": 1565900239,
-                "updated": 1565900319
+                "updated": 1565901137
             }
         },
         {
@@ -179,7 +179,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565900319
+                "updated": 1565901137
             }
         },
         {
@@ -192,7 +192,7 @@
             "description": "A standard looking syllabus but yet, a contract between us.",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565900721,
+                "updated": 1565901137,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -215,7 +215,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565900319
+                "updated": 1565901137
             }
         },
         {
@@ -228,7 +228,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565900319
+                "updated": 1565901137
             }
         },
         {
@@ -241,7 +241,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565900319
+                "updated": 1565901137
             }
         },
         {
@@ -254,7 +254,7 @@
             "description": "In all the technologies and skillsets we'll explore in this course, I want you to approach them with the same questions that I have explored in my career. These simple questions will help you decipher",
             "metadata": {
                 "created": 1565900319,
-                "updated": 1565900666,
+                "updated": 1565901137,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -277,7 +277,7 @@
             "description": "While touching on many, here is a list of technologies we'll be exploring throughout the course. These tools are not used by every organization out there, but huge swaths of the start up scene will ha",
             "metadata": {
                 "created": 1565900239,
-                "updated": 1565901018,
+                "updated": 1565901137,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 1,
@@ -302,7 +302,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565900319
+                "updated": 1565901137
             }
         },
         {
@@ -315,7 +315,7 @@
             "description": "",
             "metadata": {
                 "created": 1565900239,
-                "updated": 1565900319
+                "updated": 1565901137
             }
         },
         {
@@ -324,11 +324,11 @@
             "location": "pages\/topics\/index.html",
             "order": "6",
             "parent": null,
-            "title": "Topic 2",
+            "title": "Topics",
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565900319
+                "updated": 1565901137
             }
         },
         {
@@ -341,7 +341,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565900319
+                "updated": 1565901137
             }
         }
     ]
