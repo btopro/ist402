@@ -9,6 +9,36 @@
     <lastBuildDate>Thu, 15 Aug 2019 17:01:42 -0400</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Project</title>
+      <link>/project</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/project</guid>
+      <pubDate>Fri, 16 Aug 2019 11:09:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Responsive / Mobile design</title>
+      <link>/topics/responsive-/-mobile-design</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/topics/responsive-/-mobile-design</guid>
+      <pubDate>Fri, 16 Aug 2019 11:09:45 -0400</pubDate>
+    </item>
+    <item>
+      <title>Web components / HTML</title>
+      <link>/topics/web-components-/-html</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/topics/web-components-/-html</guid>
+      <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
+    </item>
+    <item>
       <title>Building your digital identity</title>
       <link>/topics/building-your-digital-identity</link>
       <description>
@@ -19,23 +49,13 @@
       <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
     </item>
     <item>
-      <title>Open source software</title>
+      <title>Open source software Communities</title>
       <link>/topics/open-source-software</link>
       <description>
           <![CDATA[ <p>Ex uno Plures</p> ]]>
       </description>
       <category></category>
       <guid>/topics/open-source-software</guid>
-      <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>Web components / HTML</title>
-      <link>/topics/web-components-/-html</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics/web-components-/-html</guid>
       <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
     </item>
     <item>
@@ -141,6 +161,17 @@
       <pubDate>Thu, 15 Aug 2019 15:58:42 -0400</pubDate>
     </item>
     <item>
+      <title>Syllabus</title>
+      <link>/syllabus</link>
+      <description>
+          <![CDATA[ <p>A standard looking syllabus but yet, a contract between us (literally).</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/syllabus</guid>
+      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
+    </item>
+    <item>
       <title>About the instructor (boring)</title>
       <link>/welcome/welcome/about-the-instructor</link>
       <description>
@@ -166,27 +197,6 @@
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
-      <title>Git / Github / Contribution</title>
-      <link>/topics/git</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics/git</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Syllabus</title>
-      <link>/syllabus</link>
-      <description>
-          <![CDATA[ <p>A standard looking syllabus but yet, a contract between us (literally).</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/syllabus</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
       <title>Accessibility</title>
       <link>/topics/accessibility</link>
       <description>
@@ -194,6 +204,16 @@
       </description>
       <category></category>
       <guid>/topics/accessibility</guid>
+      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Git / Github / Contribution</title>
+      <link>/topics/git</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/topics/git</guid>
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
