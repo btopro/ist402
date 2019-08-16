@@ -196,13 +196,13 @@
   <entry>
     <title>Syllabus</title>
     <id>/syllabus</id>
-    <updated>2019-08-15T17:01:42-04:00</updated>
+    <updated>2019-08-16T10:37:52-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
-    <summary>A standard looking syllabus but yet, a contract between us.</summary>
+    <summary>A standard looking syllabus but yet, a contract between us (literally).</summary>
     <link href="/syllabus"/>
     
     <content type="html">
-      <![CDATA[ <p>A standard looking syllabus but yet, a contract between us.</p>
+      <![CDATA[ <p>A standard looking syllabus but yet, a contract between us (literally).</p>
  ]]>
     </content>
   </entry>
