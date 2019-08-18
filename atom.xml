@@ -3,23 +3,11 @@
   <title>ist402</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>IST 402 course content space</subtitle>
-  <updated>2019-08-15T17:01:42-04:00</updated>
+  <updated>2019-08-16T11:09:45-04:00</updated>
   <author>
       <name></name>
   </author>
   <id>/feed</id>
-  <entry>
-    <title>Project</title>
-    <id>/project</id>
-    <updated>2019-08-16T11:09:45-04:00</updated>
-    <published>2019-08-16T11:09:45-04:00</published>
-    <summary></summary>
-    <link href="/project"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
   <entry>
     <title>Responsive / Mobile design</title>
     <id>/topics/responsive-/-mobile-design</id>
@@ -33,12 +21,36 @@
     </content>
   </entry>
   <entry>
+    <title>Project</title>
+    <id>/project</id>
+    <updated>2019-08-16T11:09:45-04:00</updated>
+    <published>2019-08-16T11:09:45-04:00</published>
+    <summary></summary>
+    <link href="/project"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Web components / HTML</title>
     <id>/topics/web-components-/-html</id>
     <updated>2019-08-16T11:09:45-04:00</updated>
     <published>2019-08-15T17:01:42-04:00</published>
     <summary></summary>
     <link href="/topics/web-components-/-html"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>User experience</title>
+    <id>/topics/user-experience</id>
+    <updated>2019-08-16T11:09:45-04:00</updated>
+    <published>2019-08-15T17:01:42-04:00</published>
+    <summary></summary>
+    <link href="/topics/user-experience"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>
@@ -69,18 +81,6 @@
     </content>
   </entry>
   <entry>
-    <title>User experience</title>
-    <id>/topics/user-experience</id>
-    <updated>2019-08-16T11:09:45-04:00</updated>
-    <published>2019-08-15T17:01:42-04:00</published>
-    <summary></summary>
-    <link href="/topics/user-experience"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Question driven teaching</title>
     <id>/question-driven-teaching</id>
     <updated>2019-08-16T11:09:45-04:00</updated>
@@ -103,23 +103,17 @@
   <entry>
     <title>Technologies we explore</title>
     <id>/technologies-we-explore</id>
-    <updated>2019-08-16T11:09:45-04:00</updated>
+    <updated>2019-08-18T12:39:06-04:00</updated>
     <published>2019-08-15T16:17:19-04:00</published>
-    <summary>While touching on many, here is a list of technologies we'll be exploring throughout the course. These tools are not used by every organization out there, but huge swaths of the start up scene will ha</summary>
+    <summary>We'll be exploring lots of different technologies through labs. In order to give me a good sense of what everyone's past experience is with these technologies, please complete the very short anonymous</summary>
     <link href="/technologies-we-explore"/>
     
     <content type="html">
-      <![CDATA[ <p>While touching on many, here is a list of technologies we'll be exploring throughout the course. These tools are not used by every organization out there, but huge swaths of the start up scene will have these or solutions like them.</p>
-<h2 class="hax-active">Git / Github / Version control</h2>
-<p>Quickly becoming the developer account portal to the start up universe, Github is both code management platform and project management platform. It can be used for open source software (which made it so popular) but also paid plans allow for private repos.</p>
-<p>Socially, many use github data (commits, stars, discussions, pull requests) to demonstrate effectiveness in communities. We'll use github to give you the following skills:</p>
-<ul><li>Make an account if you don't already have one</li>
-<li>Learn the terms of the trade and what Github is a UI on top of</li>
-<li>Learn how to do Pull Requests</li>
-<li>Learn</li>
-</ul>
-<p><span style="letter-spacing: -0.48px; caret-color: rgb(25, 30, 35);"><br/></span></p>
-<p><br/></p>
+      <![CDATA[ <p>We'll be exploring lots of different technologies through labs. In order to give me a good sense of what everyone's past experience is with these technologies, please complete the very short anonymous skills survey.</p>
+<p><a href="https://forms.gle/BpRv39fV5jZFMLg77">Take the Survey here</a>
+
+</p>
+<p>This is just to help me get a sense of things everyone has had past experience with so I know what to focus on in what order and in how much depth. These labs are designed to give you working knowledge of all of the things listed and to be able to have a conversation with managers, hiring groups, and developers about the tools IT organizations / start ups need to utilize on a daily basis.</p>
  ]]>
     </content>
   </entry>
@@ -179,95 +173,6 @@
     </content>
   </entry>
   <entry>
-    <title>Syllabus</title>
-    <id>/syllabus</id>
-    <updated>2019-08-16T11:09:45-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary>A standard looking syllabus but yet, a contract between us (literally).</summary>
-    <link href="/syllabus"/>
-    
-    <content type="html">
-      <![CDATA[ <p>A standard looking syllabus but yet, a contract between us (literally).</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>About the instructor (boring)</title>
-    <id>/welcome/welcome/about-the-instructor</id>
-    <updated>2019-08-16T11:09:45-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary>This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.My name is Bryan Ollendyke and I've been living workin</summary>
-    <link href="/welcome/welcome/about-the-instructor"/>
-    
-    <content type="html">
-      <![CDATA[ <p>This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.</p>
-<a11y-gif-player src="https://media3.giphy.com/media/5wWf7GW1AzV6pF3MaVW/giphy.gif" src-without-animation="https://media0.giphy.com/media/5wWf7GW1AzV6pF3MaVW/480w_s.jpg" alt="high five the office" schema-resource-id="#0e8a5bdc-121d-e719-bbe6" resource="#0e8a5bdc-121d-e719-bbe6" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 100%;"></a11y-gif-player>
-<p>My name is Bryan Ollendyke and I've been <strike>living</strike>
-
-
- working at Penn State since 2007. I did my undergrad in IST and was able to get a job working in the College of Arts & Architecture's online learning unit (now called Office of Digital Learning).</p>
-<p>In 2015 I completed my MS by studying the spread of an open source platform called Drupal. The theory I reasoned from my thesis is an effect I call Information Altruism -- Meaning that it isn't open source software that impacts institutions <b>but the free giving away of knowledge about how to use it</b>
-
-
- which does.</p>
-<p>Open source lays the ground work, but it still requires knowledge workers to pick up those raw minerals and make rails of them for organizations to ride on.</p>
-<p>I am in the rare position of getting to teach you leveraging tools which I and my team have built. This content is written in a platform called HAXcms which we are actively building. I'm also the project lead on a project called ELMS: Learning Network.</p>
-<p>Since starting at Penn State, I would say 99.5% of every hour of every day I work is contributed directly back to open code and documentation. I've contributed hundreds of modules for Drupal, dozens of themes and installation profiles, millions of lines of code liberated from the ownership of anyone or anywhere.</p>
-<p>In the last two years, our team has released north of 400 reusable design assets called Web components. These modules and design assets power thousands of websites and help empower people we'll never know to better express themselves online, whether for instructional content or otherwise.</p>
-<p>I'm a self described Developer Activist in that I don't think open source can change society: I know it can and does constantly. It's why I still work in academia - to try and open source as much of the application stack associated with teaching and learning in order to provide both better options as well as lower costs.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Accessibility</title>
-    <id>/topics/accessibility</id>
-    <updated>2019-08-16T11:09:45-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary></summary>
-    <link href="/topics/accessibility"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Git / Github / Contribution</title>
-    <id>/topics/git</id>
-    <updated>2019-08-16T11:09:45-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary></summary>
-    <link href="/topics/git"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Let's do this!</title>
-    <id>/topics</id>
-    <updated>2019-08-16T11:09:45-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary>ARE YOU READY!?Are you ready to hit power level 9000!? Then read through these lessons.But seriously. We're going to work through these different topics to skill up and get a better feel f</summary>
-    <link href="/topics"/>
-    
-    <content type="html">
-      <![CDATA[ <grid-plate layout="6/6" responsive-size="xl" style="width: 100%;"><h2 slot="col-1">ARE YOU READY!?</h2>
-
-
-
-<p slot="col-1"><span style="font-size: 24px; letter-spacing: 0.5px; caret-color: rgb(25, 30, 35);">Are you ready to hit power level 9000!? Then read through these lessons.</span><br/></p>
-
-<meme-maker slot="col-2" alt="dragon ball z GIF by Geek & Sundry" image-url="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" bottom-text="Said no one... ever" imageurl="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" toptext="dragon ball z GIF by Geek & Sundry" style="width: 75%;"></meme-maker>
-
-
-
-
-</grid-plate>
-<p>But seriously. We're going to work through these different topics to skill up and get a better feel for the industry and how to participate in it.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Automation / Docker / IFTTT</title>
     <id>/topics/docker</id>
     <updated>2019-08-16T11:09:45-04:00</updated>
@@ -302,6 +207,95 @@
  - Penn State developed learning platform</p>
 <p><a href="https://haxtheweb.org/">HAXcms</a>
  - Penn State developed flat file CMS (powers this website)</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Let's do this!</title>
+    <id>/topics</id>
+    <updated>2019-08-16T11:09:45-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary>ARE YOU READY!?Are you ready to hit power level 9000!? Then read through these lessons.But seriously. We're going to work through these different topics to skill up and get a better feel f</summary>
+    <link href="/topics"/>
+    
+    <content type="html">
+      <![CDATA[ <grid-plate layout="6/6" responsive-size="xl" style="width: 100%;"><h2 slot="col-1">ARE YOU READY!?</h2>
+
+
+
+<p slot="col-1"><span style="font-size: 24px; letter-spacing: 0.5px; caret-color: rgb(25, 30, 35);">Are you ready to hit power level 9000!? Then read through these lessons.</span><br/></p>
+
+<meme-maker slot="col-2" alt="dragon ball z GIF by Geek & Sundry" image-url="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" bottom-text="Said no one... ever" imageurl="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" toptext="dragon ball z GIF by Geek & Sundry" style="width: 75%;"></meme-maker>
+
+
+
+
+</grid-plate>
+<p>But seriously. We're going to work through these different topics to skill up and get a better feel for the industry and how to participate in it.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Accessibility</title>
+    <id>/topics/accessibility</id>
+    <updated>2019-08-16T11:09:45-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/topics/accessibility"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>About the instructor (boring)</title>
+    <id>/welcome/welcome/about-the-instructor</id>
+    <updated>2019-08-16T11:09:45-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary>This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.My name is Bryan Ollendyke and I've been living workin</summary>
+    <link href="/welcome/welcome/about-the-instructor"/>
+    
+    <content type="html">
+      <![CDATA[ <p>This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.</p>
+<a11y-gif-player src="https://media3.giphy.com/media/5wWf7GW1AzV6pF3MaVW/giphy.gif" src-without-animation="https://media0.giphy.com/media/5wWf7GW1AzV6pF3MaVW/480w_s.jpg" alt="high five the office" schema-resource-id="#0e8a5bdc-121d-e719-bbe6" resource="#0e8a5bdc-121d-e719-bbe6" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 100%;"></a11y-gif-player>
+<p>My name is Bryan Ollendyke and I've been <strike>living</strike>
+
+
+ working at Penn State since 2007. I did my undergrad in IST and was able to get a job working in the College of Arts & Architecture's online learning unit (now called Office of Digital Learning).</p>
+<p>In 2015 I completed my MS by studying the spread of an open source platform called Drupal. The theory I reasoned from my thesis is an effect I call Information Altruism -- Meaning that it isn't open source software that impacts institutions <b>but the free giving away of knowledge about how to use it</b>
+
+
+ which does.</p>
+<p>Open source lays the ground work, but it still requires knowledge workers to pick up those raw minerals and make rails of them for organizations to ride on.</p>
+<p>I am in the rare position of getting to teach you leveraging tools which I and my team have built. This content is written in a platform called HAXcms which we are actively building. I'm also the project lead on a project called ELMS: Learning Network.</p>
+<p>Since starting at Penn State, I would say 99.5% of every hour of every day I work is contributed directly back to open code and documentation. I've contributed hundreds of modules for Drupal, dozens of themes and installation profiles, millions of lines of code liberated from the ownership of anyone or anywhere.</p>
+<p>In the last two years, our team has released north of 400 reusable design assets called Web components. These modules and design assets power thousands of websites and help empower people we'll never know to better express themselves online, whether for instructional content or otherwise.</p>
+<p>I'm a self described Developer Activist in that I don't think open source can change society: I know it can and does constantly. It's why I still work in academia - to try and open source as much of the application stack associated with teaching and learning in order to provide both better options as well as lower costs.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Git / Github / Contribution</title>
+    <id>/topics/git</id>
+    <updated>2019-08-16T11:09:45-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/topics/git"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Syllabus</title>
+    <id>/syllabus</id>
+    <updated>2019-08-16T11:09:45-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary>A standard looking syllabus but yet, a contract between us (literally).</summary>
+    <link href="/syllabus"/>
+    
+    <content type="html">
+      <![CDATA[ <p>A standard looking syllabus but yet, a contract between us (literally).</p>
  ]]>
     </content>
   </entry>
