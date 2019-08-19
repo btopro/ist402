@@ -103,23 +103,18 @@
   <entry>
     <title>Technologies we explore</title>
     <id>/technologies-we-explore</id>
-    <updated>2019-08-19T13:37:45-04:00</updated>
+    <updated>2019-08-19T13:38:31-04:00</updated>
     <published>2019-08-15T16:17:19-04:00</published>
     <summary>We'll be exploring lots of different technologies through labs. In order to give me a good sense of what everyone's past experience is with these technologies, please complete the very short anonymous</summary>
     <link href="/technologies-we-explore"/>
     
     <content type="html">
       <![CDATA[ <p>We'll be exploring lots of different technologies through labs. In order to give me a good sense of what everyone's past experience is with these technologies, please complete the very short anonymous skills survey.</p>
-<p><a href="https://forms.gle/BpRv39fV5jZFMLg77">Take the Survey here</a>
-
-
-<html-block style="width=100%;margin: 0 auto;">
+<html-block style="margin: 0px auto; display: block;">
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScCtAPX3fj1TXdNMyb1UgL83tex0z54Ya8JEG0N4zrzV8afCA/viewform?embedded=true" width="100%" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 </html-block>
-
-
-
+<p><a href="https://forms.gle/BpRv39fV5jZFMLg77">Open the above survey in a new window</a>
 </p>
 <p>This is just to help me get a sense of things everyone has had past experience with so I know what to focus on in what order and in how much depth. These labs are designed to give you working knowledge of all of the things listed and to be able to have a conversation with managers, hiring groups, and developers about the tools IT organizations / start ups need to utilize on a daily basis.</p>
  ]]>

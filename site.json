@@ -267,16 +267,17 @@
             "description": "We'll be exploring lots of different technologies through labs. In order to give me a good sense of what everyone's past experience is with these technologies, please complete the very short anonymous",
             "metadata": {
                 "created": 1565900239,
-                "updated": 1566236265,
+                "updated": 1566236311,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
                     "paragraphs": 3,
                     "schema": [],
                     "tags": {
-                        "p": 3
+                        "p": 3,
+                        "html-block": 1
                     },
-                    "elements": 3
+                    "elements": 4
                 }
             }
         },
