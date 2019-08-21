@@ -265,20 +265,20 @@
             "order": "4",
             "parent": null,
             "title": "Initial skills assessment",
-            "description": "We&#39;ll be exploring lots of different technologies through labs. In order to give me a good sense of what everyone&#39;s past experience is with these technologies, please complete the very short anonymous",
+            "description": "It's not as scary as that title.We'll be exploring lots of different technologies through labs. In order to give me a good sense of what everyone's past experience is with these technologies, please ",
             "metadata": {
                 "created": 1565900239,
-                "updated": 1566414215,
+                "updated": 1566414257,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 3,
+                    "paragraphs": 5,
                     "schema": [],
                     "tags": {
-                        "p": 3,
+                        "p": 5,
                         "html-block": 1
                     },
-                    "elements": 4
+                    "elements": 6
                 }
             }
         },
