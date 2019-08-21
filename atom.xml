@@ -9,33 +9,6 @@
   </author>
   <id>/feed</id>
   <entry>
-    <title>Goals.. for you!</title>
-    <id>/goals-for-you-</id>
-    <updated>2019-08-21T15:17:37-04:00</updated>
-    <published>2019-08-21T15:11:14-04:00</published>
-    <summary>My goals for you to learn during this course include...Learning not just what a technology is but...Who's using it, what industries, what web servicesGetting hands on and implementing it small scal</summary>
-    <link href="/goals-for-you-"/>
-    
-    <content type="html">
-      <![CDATA[ <p>My goals for you to learn during this course include...</p>
-<ul><li>Learning not just what a technology is but...</li>
-<ul><li>Who's using it, what industries, what web services</li>
-<li>Getting hands on and implementing it small scale</li>
-<li>Being able to better communicate purpose and ideas around it</li>
-</ul>
-
-<li>Building a digital footprint of YOU, the IT worker / manager / developer / whatever your path, just that it's out there!</li>
-<ul><li>Creating a YouTube channel of explainer videos about the topics discussed in class</li>
-<li>Creating a Blog about these same topics</li>
-<li>Creating social coder accounts and connecting them all together (like Github, TravisCI, Stackblitz, CodePen, Glitch, IFTTT, etc)</li>
-</ul>
-<li>Learn about all levels of "the stack" in order to better empathize with those working in different levels of the stack from you (or people you'll one day manage)</li>
-<li>Have a website on the internet that you control and have a window into how all aspects of it function.</li>
-</ul>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>After class reflection</title>
     <id>/after-class-reflection</id>
     <updated>2019-08-21T15:29:49-04:00</updated>
@@ -73,6 +46,33 @@
     </content>
   </entry>
   <entry>
+    <title>Goals.. for you!</title>
+    <id>/goals-for-you-</id>
+    <updated>2019-08-21T15:17:37-04:00</updated>
+    <published>2019-08-21T15:11:14-04:00</published>
+    <summary>My goals for you to learn during this course include...Learning not just what a technology is but...Who's using it, what industries, what web servicesGetting hands on and implementing it small scal</summary>
+    <link href="/goals-for-you-"/>
+    
+    <content type="html">
+      <![CDATA[ <p>My goals for you to learn during this course include...</p>
+<ul><li>Learning not just what a technology is but...</li>
+<ul><li>Who's using it, what industries, what web services</li>
+<li>Getting hands on and implementing it small scale</li>
+<li>Being able to better communicate purpose and ideas around it</li>
+</ul>
+
+<li>Building a digital footprint of YOU, the IT worker / manager / developer / whatever your path, just that it's out there!</li>
+<ul><li>Creating a YouTube channel of explainer videos about the topics discussed in class</li>
+<li>Creating a Blog about these same topics</li>
+<li>Creating social coder accounts and connecting them all together (like Github, TravisCI, Stackblitz, CodePen, Glitch, IFTTT, etc)</li>
+</ul>
+<li>Learn about all levels of "the stack" in order to better empathize with those working in different levels of the stack from you (or people you'll one day manage)</li>
+<li>Have a website on the internet that you control and have a window into how all aspects of it function.</li>
+</ul>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Class time together</title>
     <id>/class-time-together</id>
     <updated>2019-08-21T15:11:14-04:00</updated>
@@ -93,12 +93,12 @@
     </content>
   </entry>
   <entry>
-    <title>A typical week</title>
-    <id>/a-typical-week</id>
+    <title>Project</title>
+    <id>/project</id>
     <updated>2019-08-21T15:11:14-04:00</updated>
-    <published>2019-08-21T15:03:20-04:00</published>
+    <published>2019-08-16T11:09:45-04:00</published>
     <summary></summary>
-    <link href="/a-typical-week"/>
+    <link href="/project"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>
@@ -111,18 +111,6 @@
     <published>2019-08-16T11:09:45-04:00</published>
     <summary></summary>
     <link href="/topics/responsive-/-mobile-design"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Project</title>
-    <id>/project</id>
-    <updated>2019-08-21T15:11:14-04:00</updated>
-    <published>2019-08-16T11:09:45-04:00</published>
-    <summary></summary>
-    <link href="/project"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>
@@ -221,6 +209,32 @@
     </content>
   </entry>
   <entry>
+    <title>Resources</title>
+    <id>/resources</id>
+    <updated>2019-08-21T15:11:14-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary>This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub / collaboration locationDigital Ocean - Easy to use server environmentHover / Google Domains - E</summary>
+    <link href="/resources"/>
+    
+    <content type="html">
+      <![CDATA[ <p>This list will keep growing</p>
+<p><a href="https://github.com">Github</a>
+ - Popular code sharing space</p>
+<p><a href="https://slack.com">Slack</a>
+ - Popular productivity hub / collaboration location</p>
+<p><a href="https://digitalocean.com">Digital Ocean </a>
+- Easy to use server environment</p>
+<p><a href="https://hover.com">Hover</a>
+ / <a href="https://domains.google.com">Google Domains</a>
+ - Easy to buy domain registrar</p>
+<p><a href="https://elmsln.org/">ELMS:LN</a>
+ - Penn State developed learning platform</p>
+<p><a href="https://haxtheweb.org/">HAXcms</a>
+ - Penn State developed flat file CMS (powers this website)</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Let's do this!</title>
     <id>/topics</id>
     <updated>2019-08-21T15:11:14-04:00</updated>
@@ -258,29 +272,15 @@
     </content>
   </entry>
   <entry>
-    <title>Resources</title>
-    <id>/resources</id>
+    <title>Accessibility</title>
+    <id>/topics/accessibility</id>
     <updated>2019-08-21T15:11:14-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
-    <summary>This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub / collaboration locationDigital Ocean - Easy to use server environmentHover / Google Domains - E</summary>
-    <link href="/resources"/>
+    <summary></summary>
+    <link href="/topics/accessibility"/>
     
     <content type="html">
-      <![CDATA[ <p>This list will keep growing</p>
-<p><a href="https://github.com">Github</a>
- - Popular code sharing space</p>
-<p><a href="https://slack.com">Slack</a>
- - Popular productivity hub / collaboration location</p>
-<p><a href="https://digitalocean.com">Digital Ocean </a>
-- Easy to use server environment</p>
-<p><a href="https://hover.com">Hover</a>
- / <a href="https://domains.google.com">Google Domains</a>
- - Easy to buy domain registrar</p>
-<p><a href="https://elmsln.org/">ELMS:LN</a>
- - Penn State developed learning platform</p>
-<p><a href="https://haxtheweb.org/">HAXcms</a>
- - Penn State developed flat file CMS (powers this website)</p>
- ]]>
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
     </content>
   </entry>
   <entry>
@@ -308,18 +308,6 @@
 <p>In the last two years, our team has released north of 400 reusable design assets called Web components. These modules and design assets power thousands of websites and help empower people we'll never know to better express themselves online, whether for instructional content or otherwise.</p>
 <p>I'm a self described Developer Activist in that I don't think open source can change society: I know it can and does constantly. It's why I still work in academia - to try and open source as much of the application stack associated with teaching and learning in order to provide both better options as well as lower costs.</p>
  ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Accessibility</title>
-    <id>/topics/accessibility</id>
-    <updated>2019-08-21T15:11:14-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary></summary>
-    <link href="/topics/accessibility"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
     </content>
   </entry>
   <entry>

@@ -333,19 +333,6 @@
             }
         },
         {
-            "id": "item-cbaf69bb-efc8-44d0-916d-c1d037ca08e7",
-            "indent": 0,
-            "location": "pages\/a-typical-week\/index.html",
-            "order": "6",
-            "parent": null,
-            "title": "A typical week",
-            "description": "",
-            "metadata": {
-                "created": 1566414200,
-                "updated": 1566414674
-            }
-        },
-        {
             "id": "item-1929ac1a-e7bf-4846-80cc-eeab54a24d9b",
             "indent": "1",
             "location": "pages\/topics\/responsive-\/-mobile-design\/index.html",
