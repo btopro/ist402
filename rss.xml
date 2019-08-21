@@ -6,13 +6,21 @@
     <description>IST 402 course content space</description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Aug 2019 15:03:20 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2019 15:04:55 -0400</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Goals for this course</title>
       <link>/goals-for-this-course</link>
       <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
+          <![CDATA[ <p>We're going to strive for this general flow to each week of the semester. A few specific topics will deviate and we may have some guest speakers, but generally this is what class will look like together</p>
+<ul><li>Capability / skill / technology of the day with quick discussion of what people think that's for, or places they've heard of it previously</li>
+<li>A brief lecture (25 - 30 min) about the skill, who uses it, and how it's put into practice. This is taking the concept into the theory realm.</li>
+<li>Screw theory, we're only going to learn by getting our hands dirty! We'll take a quick break to prep the keyboards. (10 min for questions, 5 min break)</li>
+<li>Next we'll all follow along doing a very basic example of the skill. This might be running commands in a terminal or hooking up a new IFTTT command to Github via the UI. Something that's all of us following along and doing it together, stopping to answer any questions along the way.</li>
+<li>The rest of the time from here is open lab. We'll have a lab with a few options for experiencing and implementing the skill in practice.</li>
+<li>What ever you don't get done in class is to be completed after class but we'll always start on the work together in case there are issues.</li>
+</ul>
+ ]]>
       </description>
       <category></category>
       <guid>/goals-for-this-course</guid>
@@ -129,6 +137,39 @@
       <pubDate>Thu, 15 Aug 2019 16:17:19 -0400</pubDate>
     </item>
     <item>
+      <title>Automation / Docker / IFTTT</title>
+      <link>/topics/docker</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/topics/docker</guid>
+      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Let's do this!</title>
+      <link>/topics</link>
+      <description>
+          <![CDATA[ <grid-plate layout="6/6" responsive-size="xl" style="width: 100%;"><h2 slot="col-1">ARE YOU READY!?</h2>
+
+
+
+<p slot="col-1"><span style="font-size: 24px; letter-spacing: 0.5px; caret-color: rgb(25, 30, 35);">Are you ready to hit power level 9000!? Then read through these lessons.</span><br/></p>
+
+<meme-maker slot="col-2" alt="dragon ball z GIF by Geek & Sundry" image-url="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" bottom-text="Said no one... ever" imageurl="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" toptext="dragon ball z GIF by Geek & Sundry" style="width: 75%;"></meme-maker>
+
+
+
+
+</grid-plate>
+<p>But seriously. We're going to work through these different topics to skill up and get a better feel for the industry and how to participate in it.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/topics</guid>
+      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
+    </item>
+    <item>
       <title>Resources</title>
       <link>/resources</link>
       <description>
@@ -153,16 +194,6 @@
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
-      <title>Automation / Docker / IFTTT</title>
-      <link>/topics/docker</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics/docker</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
       <title>Accessibility</title>
       <link>/topics/accessibility</link>
       <description>
@@ -170,29 +201,6 @@
       </description>
       <category></category>
       <guid>/topics/accessibility</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Let's do this!</title>
-      <link>/topics</link>
-      <description>
-          <![CDATA[ <grid-plate layout="6/6" responsive-size="xl" style="width: 100%;"><h2 slot="col-1">ARE YOU READY!?</h2>
-
-
-
-<p slot="col-1"><span style="font-size: 24px; letter-spacing: 0.5px; caret-color: rgb(25, 30, 35);">Are you ready to hit power level 9000!? Then read through these lessons.</span><br/></p>
-
-<meme-maker slot="col-2" alt="dragon ball z GIF by Geek & Sundry" image-url="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" bottom-text="Said no one... ever" imageurl="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" toptext="dragon ball z GIF by Geek & Sundry" style="width: 75%;"></meme-maker>
-
-
-
-
-</grid-plate>
-<p>But seriously. We're going to work through these different topics to skill up and get a better feel for the industry and how to participate in it.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/topics</guid>
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>

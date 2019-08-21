@@ -190,10 +190,21 @@
             "order": "2",
             "parent": null,
             "title": "Goals for this course",
-            "description": "",
+            "description": "We're going to strive for this general flow to each week of the semester. A few specific topics will deviate and we may have some guest speakers, but generally this is what class will look like togeth",
             "metadata": {
                 "created": 1566414295,
-                "updated": 1566414295
+                "updated": 1566414633,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 1,
+                    "schema": [],
+                    "tags": {
+                        "p": 1,
+                        "ul": 1
+                    },
+                    "elements": 2
+                }
             }
         },
         {

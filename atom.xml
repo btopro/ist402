@@ -3,7 +3,7 @@
   <title>ist402</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>IST 402 course content space</subtitle>
-  <updated>2019-08-21T15:03:20-04:00</updated>
+  <updated>2019-08-21T15:04:55-04:00</updated>
   <author>
       <name></name>
   </author>
@@ -11,13 +11,21 @@
   <entry>
     <title>Goals for this course</title>
     <id>/goals-for-this-course</id>
-    <updated>2019-08-21T15:04:55-04:00</updated>
+    <updated>2019-08-21T15:10:33-04:00</updated>
     <published>2019-08-21T15:04:55-04:00</published>
-    <summary></summary>
+    <summary>We're going to strive for this general flow to each week of the semester. A few specific topics will deviate and we may have some guest speakers, but generally this is what class will look like togeth</summary>
     <link href="/goals-for-this-course"/>
     
     <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
+      <![CDATA[ <p>We're going to strive for this general flow to each week of the semester. A few specific topics will deviate and we may have some guest speakers, but generally this is what class will look like together</p>
+<ul><li>Capability / skill / technology of the day with quick discussion of what people think that's for, or places they've heard of it previously</li>
+<li>A brief lecture (25 - 30 min) about the skill, who uses it, and how it's put into practice. This is taking the concept into the theory realm.</li>
+<li>Screw theory, we're only going to learn by getting our hands dirty! We'll take a quick break to prep the keyboards. (10 min for questions, 5 min break)</li>
+<li>Next we'll all follow along doing a very basic example of the skill. This might be running commands in a terminal or hooking up a new IFTTT command to Github via the UI. Something that's all of us following along and doing it together, stopping to answer any questions along the way.</li>
+<li>The rest of the time from here is open lab. We'll have a lab with a few options for experiencing and implementing the skill in practice.</li>
+<li>What ever you don't get done in class is to be completed after class but we'll always start on the work together in case there are issues.</li>
+</ul>
+ ]]>
     </content>
   </entry>
   <entry>
@@ -149,50 +157,12 @@
     </content>
   </entry>
   <entry>
-    <title>Resources</title>
-    <id>/resources</id>
-    <updated>2019-08-21T15:04:55-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary>This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub / collaboration locationDigital Ocean - Easy to use server environmentHover / Google Domains - E</summary>
-    <link href="/resources"/>
-    
-    <content type="html">
-      <![CDATA[ <p>This list will keep growing</p>
-<p><a href="https://github.com">Github</a>
- - Popular code sharing space</p>
-<p><a href="https://slack.com">Slack</a>
- - Popular productivity hub / collaboration location</p>
-<p><a href="https://digitalocean.com">Digital Ocean </a>
-- Easy to use server environment</p>
-<p><a href="https://hover.com">Hover</a>
- / <a href="https://domains.google.com">Google Domains</a>
- - Easy to buy domain registrar</p>
-<p><a href="https://elmsln.org/">ELMS:LN</a>
- - Penn State developed learning platform</p>
-<p><a href="https://haxtheweb.org/">HAXcms</a>
- - Penn State developed flat file CMS (powers this website)</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Automation / Docker / IFTTT</title>
     <id>/topics/docker</id>
     <updated>2019-08-21T15:04:55-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/topics/docker"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Accessibility</title>
-    <id>/topics/accessibility</id>
-    <updated>2019-08-21T15:04:55-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary></summary>
-    <link href="/topics/accessibility"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>
@@ -221,6 +191,44 @@
 </grid-plate>
 <p>But seriously. We're going to work through these different topics to skill up and get a better feel for the industry and how to participate in it.</p>
  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Resources</title>
+    <id>/resources</id>
+    <updated>2019-08-21T15:04:55-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary>This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub / collaboration locationDigital Ocean - Easy to use server environmentHover / Google Domains - E</summary>
+    <link href="/resources"/>
+    
+    <content type="html">
+      <![CDATA[ <p>This list will keep growing</p>
+<p><a href="https://github.com">Github</a>
+ - Popular code sharing space</p>
+<p><a href="https://slack.com">Slack</a>
+ - Popular productivity hub / collaboration location</p>
+<p><a href="https://digitalocean.com">Digital Ocean </a>
+- Easy to use server environment</p>
+<p><a href="https://hover.com">Hover</a>
+ / <a href="https://domains.google.com">Google Domains</a>
+ - Easy to buy domain registrar</p>
+<p><a href="https://elmsln.org/">ELMS:LN</a>
+ - Penn State developed learning platform</p>
+<p><a href="https://haxtheweb.org/">HAXcms</a>
+ - Penn State developed flat file CMS (powers this website)</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Accessibility</title>
+    <id>/topics/accessibility</id>
+    <updated>2019-08-21T15:04:55-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/topics/accessibility"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
     </content>
   </entry>
   <entry>
