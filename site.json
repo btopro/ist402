@@ -9,7 +9,7 @@
         "site": {
             "name": "ist402",
             "created": 1565898366,
-            "updated": 1566414674,
+            "updated": 1566415837,
             "git": {}
         },
         "theme": {
@@ -79,7 +79,7 @@
             "description": "IST 402: Emerging TechnologiesMy name is Bryan Ollendyke, and welcome to IST 402: Emerging Tech!I'm excited to expose you to the ideas and technologies I wish I had been exposed to when I was",
             "metadata": {
                 "created": 1565898366,
-                "updated": 1566414674,
+                "updated": 1566415837,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/\/headshot.jpg",
@@ -115,7 +115,7 @@
             "description": "This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.My name is Bryan Ollendyke and I've been living workin",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1566414674,
+                "updated": 1566415837,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 0,
@@ -135,6 +135,29 @@
             }
         },
         {
+            "id": "item-e0732067-8550-48ce-a287-bf2beceb0e81",
+            "indent": "1",
+            "location": "pages\/question-driven-teaching\/index.html",
+            "order": "0",
+            "parent": "item-cabad7a7-8b29-4e70-8786-1c60e33a7b90",
+            "title": "Questions driven teaching",
+            "description": "In all the technologies and skillsets we'll explore in this course, I want you to approach them with the same questions that I have explored in my career. These simple questions will help you decipher",
+            "metadata": {
+                "created": 1565900319,
+                "updated": 1566415837,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 8,
+                    "schema": [],
+                    "tags": {
+                        "p": 8
+                    },
+                    "elements": 8
+                }
+            }
+        },
+        {
             "id": "item-1ec5980a-48cc-40d9-9646-91b9ee438858",
             "indent": "1",
             "location": "pages\/topics\/building-your-digital-identity\/index.html",
@@ -144,7 +167,7 @@
             "description": "",
             "metadata": {
                 "created": 1565902902,
-                "updated": 1566414674
+                "updated": 1566415837
             }
         },
         {
@@ -157,7 +180,7 @@
             "description": "A standard syllabus is a contract between us (literally). You will receive a standard syllabus on the first day of class and it will be attached to this page for future reference.",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1566414674,
+                "updated": 1566415837,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -180,7 +203,7 @@
             "description": "",
             "metadata": {
                 "created": 1565902902,
-                "updated": 1566414674
+                "updated": 1566415837
             }
         },
         {
@@ -193,7 +216,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1566414674
+                "updated": 1566415837
             }
         },
         {
@@ -206,7 +229,7 @@
             "description": "My goals for you to learn during this course include...Learning not just what a technology is but...Who's using it, what industries, what web servicesGetting hands on and implementing it small scal",
             "metadata": {
                 "created": 1566414674,
-                "updated": 1566415057,
+                "updated": 1566415837,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -230,7 +253,7 @@
             "description": "We&#39;re going to strive for this general flow to each week of the semester. A few specific topics will deviate and we may have some guest speakers, but generally this is what class will look like togeth",
             "metadata": {
                 "created": 1566414295,
-                "updated": 1566414674,
+                "updated": 1566415837,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -254,7 +277,7 @@
             "description": "",
             "metadata": {
                 "created": 1565902902,
-                "updated": 1566414674
+                "updated": 1566415837
             }
         },
         {
@@ -267,7 +290,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1566414674
+                "updated": 1566415837
             }
         },
         {
@@ -280,7 +303,7 @@
             "description": "All assignments are setup as labs and you'll be starting into them at the end of class. Once finished with the lab, you'll demonstrate you've done the work by reflecting on it in the form of a written",
             "metadata": {
                 "created": 1566414674,
-                "updated": 1566415789,
+                "updated": 1566415837,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 2,
@@ -305,7 +328,7 @@
             "description": "It's not as scary as that title.We'll be exploring lots of different technologies through labs. In order to give me a good sense of what everyone's past experience is with these technologies, please ",
             "metadata": {
                 "created": 1565900239,
-                "updated": 1566414674,
+                "updated": 1566415837,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -329,7 +352,7 @@
             "description": "",
             "metadata": {
                 "created": 1565902902,
-                "updated": 1566414674
+                "updated": 1566415837
             }
         },
         {
@@ -342,56 +365,20 @@
             "description": "",
             "metadata": {
                 "created": 1565968185,
-                "updated": 1566414674
-            }
-        },
-        {
-            "id": "item-e0732067-8550-48ce-a287-bf2beceb0e81",
-            "indent": 0,
-            "location": "pages\/question-driven-teaching\/index.html",
-            "order": "7",
-            "parent": null,
-            "title": "Question driven teaching",
-            "description": "In all the technologies and skillsets we'll explore in this course, I want you to approach them with the same questions that I have explored in my career. These simple questions will help you decipher",
-            "metadata": {
-                "created": 1565900319,
-                "updated": 1566414674,
-                "readtime": 1,
-                "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 8,
-                    "schema": [],
-                    "tags": {
-                        "p": 8
-                    },
-                    "elements": 8
-                }
-            }
-        },
-        {
-            "id": "item-3a44207a-5776-4ed4-88f9-95880752bb4b",
-            "indent": "1",
-            "location": "pages\/topics\/docker\/index.html",
-            "order": "7",
-            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
-            "title": "Automation \/ Docker \/ IFTTT",
-            "description": "",
-            "metadata": {
-                "created": 1565898527,
-                "updated": 1566414674
+                "updated": 1566415837
             }
         },
         {
             "id": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
             "indent": 0,
             "location": "pages\/topics\/index.html",
-            "order": "8",
+            "order": "6",
             "parent": null,
             "title": "Let's do this!",
             "description": "ARE YOU READY!?Are you ready to hit power level 9000!? Then read through these lessons.But seriously. We're going to work through these different topics to skill up and get a better feel f",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1566414674,
+                "updated": 1566415837,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -406,29 +393,42 @@
             }
         },
         {
+            "id": "item-3a44207a-5776-4ed4-88f9-95880752bb4b",
+            "indent": "1",
+            "location": "pages\/topics\/docker\/index.html",
+            "order": "7",
+            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
+            "title": "Automation \/ Docker \/ IFTTT",
+            "description": "",
+            "metadata": {
+                "created": 1565898527,
+                "updated": 1566415837
+            }
+        },
+        {
             "id": "item-dec30475-a0a9-4c90-84cb-20f3471d6454",
             "indent": 0,
             "location": "pages\/project\/index.html",
-            "order": "9",
+            "order": "7",
             "parent": null,
             "title": "Project",
             "description": "",
             "metadata": {
                 "created": 1565968185,
-                "updated": 1566414674
+                "updated": 1566415837
             }
         },
         {
             "id": "item-cabad7a7-8b29-4e70-8786-1c60e33a7b90",
             "indent": 0,
             "location": "pages\/resources\/index.html",
-            "order": "10",
+            "order": "8",
             "parent": null,
             "title": "Resources",
             "description": "This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub \/ collaboration locationDigital Ocean - Easy to use server environmentHover \/ Google Domains - E",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1566414674,
+                "updated": 1566415837,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
