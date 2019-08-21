@@ -6,8 +6,33 @@
     <description>IST 402 course content space</description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Aug 2019 15:04:55 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2019 15:11:14 -0400</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Goals.. for you!</title>
+      <link>/goals-for-you-</link>
+      <description>
+          <![CDATA[ <p>My goals for you to learn during this course include...</p>
+<ul><li>Learning not just what a technology is but...</li>
+<ul><li>Who's using it, what industries, what web services</li>
+<li>Getting hands on and implementing it small scale</li>
+<li>Being able to better communicate purpose and ideas around it</li>
+</ul>
+
+<li>Building a digital footprint of YOU, the IT worker / manager / developer / whatever your path, just that it's out there!</li>
+<ul><li>Creating a YouTube channel of explainer videos about the topics discussed in class</li>
+<li>Creating a Blog about these same topics</li>
+<li>Creating social coder accounts and connecting them all together (like Github, TravisCI, Stackblitz, CodePen, Glitch, IFTTT, etc)</li>
+</ul>
+<li>Learn about all levels of "the stack" in order to better empathize with those working in different levels of the stack from you (or people you'll one day manage)</li>
+<li>Have a website on the internet that you control and have a window into how all aspects of it function.</li>
+</ul>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/goals-for-you-</guid>
+      <pubDate>Wed, 21 Aug 2019 15:11:14 -0400</pubDate>
+    </item>
     <item>
       <title>After class reflection</title>
       <link>/after-class-reflection</link>
@@ -16,16 +41,6 @@
       </description>
       <category></category>
       <guid>/after-class-reflection</guid>
-      <pubDate>Wed, 21 Aug 2019 15:11:14 -0400</pubDate>
-    </item>
-    <item>
-      <title>Goals.. for you!</title>
-      <link>/goals-for-you-</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/goals-for-you-</guid>
       <pubDate>Wed, 21 Aug 2019 15:11:14 -0400</pubDate>
     </item>
     <item>
@@ -157,6 +172,39 @@
       <pubDate>Thu, 15 Aug 2019 16:17:19 -0400</pubDate>
     </item>
     <item>
+      <title>Let's do this!</title>
+      <link>/topics</link>
+      <description>
+          <![CDATA[ <grid-plate layout="6/6" responsive-size="xl" style="width: 100%;"><h2 slot="col-1">ARE YOU READY!?</h2>
+
+
+
+<p slot="col-1"><span style="font-size: 24px; letter-spacing: 0.5px; caret-color: rgb(25, 30, 35);">Are you ready to hit power level 9000!? Then read through these lessons.</span><br/></p>
+
+<meme-maker slot="col-2" alt="dragon ball z GIF by Geek & Sundry" image-url="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" bottom-text="Said no one... ever" imageurl="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" toptext="dragon ball z GIF by Geek & Sundry" style="width: 75%;"></meme-maker>
+
+
+
+
+</grid-plate>
+<p>But seriously. We're going to work through these different topics to skill up and get a better feel for the industry and how to participate in it.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/topics</guid>
+      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Automation / Docker / IFTTT</title>
+      <link>/topics/docker</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/topics/docker</guid>
+      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
+    </item>
+    <item>
       <title>Resources</title>
       <link>/resources</link>
       <description>
@@ -178,49 +226,6 @@
       </description>
       <category></category>
       <guid>/resources</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Automation / Docker / IFTTT</title>
-      <link>/topics/docker</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics/docker</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Accessibility</title>
-      <link>/topics/accessibility</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics/accessibility</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Let's do this!</title>
-      <link>/topics</link>
-      <description>
-          <![CDATA[ <grid-plate layout="6/6" responsive-size="xl" style="width: 100%;"><h2 slot="col-1">ARE YOU READY!?</h2>
-
-
-
-<p slot="col-1"><span style="font-size: 24px; letter-spacing: 0.5px; caret-color: rgb(25, 30, 35);">Are you ready to hit power level 9000!? Then read through these lessons.</span><br/></p>
-
-<meme-maker slot="col-2" alt="dragon ball z GIF by Geek & Sundry" image-url="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" bottom-text="Said no one... ever" imageurl="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" toptext="dragon ball z GIF by Geek & Sundry" style="width: 75%;"></meme-maker>
-
-
-
-
-</grid-plate>
-<p>But seriously. We're going to work through these different topics to skill up and get a better feel for the industry and how to participate in it.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/topics</guid>
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
@@ -246,6 +251,16 @@
       </description>
       <category></category>
       <guid>/welcome/welcome/about-the-instructor</guid>
+      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Accessibility</title>
+      <link>/topics/accessibility</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/topics/accessibility</guid>
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>

@@ -203,10 +203,21 @@
             "order": "2",
             "parent": null,
             "title": "Goals.. for you!",
-            "description": "",
+            "description": "My goals for you to learn during this course include...Learning not just what a technology is but...Who's using it, what industries, what web servicesGetting hands on and implementing it small scal",
             "metadata": {
                 "created": 1566414674,
-                "updated": 1566414674
+                "updated": 1566415057,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 1,
+                    "schema": [],
+                    "tags": {
+                        "p": 1,
+                        "ul": 1
+                    },
+                    "elements": 2
+                }
             }
         },
         {
