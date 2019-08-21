@@ -9,18 +9,6 @@
   </author>
   <id>/feed</id>
   <entry>
-    <title>Responsive / Mobile design</title>
-    <id>/topics/responsive-/-mobile-design</id>
-    <updated>2019-08-16T11:09:45-04:00</updated>
-    <published>2019-08-16T11:09:45-04:00</published>
-    <summary></summary>
-    <link href="/topics/responsive-/-mobile-design"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Project</title>
     <id>/project</id>
     <updated>2019-08-16T11:09:45-04:00</updated>
@@ -33,24 +21,12 @@
     </content>
   </entry>
   <entry>
-    <title>Web components / HTML</title>
-    <id>/topics/web-components-/-html</id>
+    <title>Responsive / Mobile design</title>
+    <id>/topics/responsive-/-mobile-design</id>
     <updated>2019-08-16T11:09:45-04:00</updated>
-    <published>2019-08-15T17:01:42-04:00</published>
+    <published>2019-08-16T11:09:45-04:00</published>
     <summary></summary>
-    <link href="/topics/web-components-/-html"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>User experience</title>
-    <id>/topics/user-experience</id>
-    <updated>2019-08-16T11:09:45-04:00</updated>
-    <published>2019-08-15T17:01:42-04:00</published>
-    <summary></summary>
-    <link href="/topics/user-experience"/>
+    <link href="/topics/responsive-/-mobile-design"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>
@@ -75,6 +51,30 @@
     <published>2019-08-15T17:01:42-04:00</published>
     <summary></summary>
     <link href="/topics/open-source-software"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Web components / HTML</title>
+    <id>/topics/web-components-/-html</id>
+    <updated>2019-08-16T11:09:45-04:00</updated>
+    <published>2019-08-15T17:01:42-04:00</published>
+    <summary></summary>
+    <link href="/topics/web-components-/-html"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>User experience</title>
+    <id>/topics/user-experience</id>
+    <updated>2019-08-16T11:09:45-04:00</updated>
+    <published>2019-08-15T17:01:42-04:00</published>
+    <summary></summary>
+    <link href="/topics/user-experience"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>
@@ -121,57 +121,91 @@
     </content>
   </entry>
   <entry>
-    <title>Policies</title>
-    <id>/syllabus/policies</id>
+    <title>About the instructor (boring)</title>
+    <id>/welcome/welcome/about-the-instructor</id>
     <updated>2019-08-16T11:09:45-04:00</updated>
-    <published>2019-08-15T15:58:42-04:00</published>
-    <summary>University PoliciesDisability / alternate media:If you have a documented disability, send a copy of the letter from the Office of Disability services to your instructor (using Canvas email). If yo</summary>
-    <link href="/syllabus/policies"/>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary>This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.My name is Bryan Ollendyke and I've been living workin</summary>
+    <link href="/welcome/welcome/about-the-instructor"/>
     
     <content type="html">
-      <![CDATA[ <h4>University Policies</h4>
-<ol><li><b>Disability / alternate media:</b>
+      <![CDATA[ <p>This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.</p>
+<a11y-gif-player src="https://media3.giphy.com/media/5wWf7GW1AzV6pF3MaVW/giphy.gif" src-without-animation="https://media0.giphy.com/media/5wWf7GW1AzV6pF3MaVW/480w_s.jpg" alt="high five the office" schema-resource-id="#0e8a5bdc-121d-e719-bbe6" resource="#0e8a5bdc-121d-e719-bbe6" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 100%;"></a11y-gif-player>
+<p>My name is Bryan Ollendyke and I've been <strike>living</strike>
 
-<br/>If you have a documented disability, send a copy of the letter from the Office of Disability services to your instructor (using Canvas email). If you suspect that you have a disability but have not been assessed, you must contact the Office of Disability Services at <a href="http://equity.psu.edu/ods/applying-for-services-from-ods">http://equity.psu.edu/ods/applying-for-services-from-ods</a>
 
-<br/> </li>
+ working at Penn State since 2007. I did my undergrad in IST and was able to get a job working in the College of Arts & Architecture's online learning unit (now called Office of Digital Learning).</p>
+<p>In 2015 I completed my MS by studying the spread of an open source platform called Drupal. The theory I reasoned from my thesis is an effect I call Information Altruism -- Meaning that it isn't open source software that impacts institutions <b>but the free giving away of knowledge about how to use it</b>
 
-<li><strong>PSU Counseling And Psychological Services (CAPS):</strong>
 
-<br/>Penn State’s Counseling and Psychological Services (CAPS) offers its students mental health services in the form of case management, community resource referrals, supportive listening, care giver support and much more. Services are designed to enhance students' ability to fully benefit from the University environment and academic experience. Call CAPS at 814-863-0395 (8 am-5 pm, Monday-Friday EST) or submit an inquiry online at <a href="http://studentaffairs.psu.edu/counseling/contact_form.shtml" target="_blank">http://studentaffairs.psu.edu/counseling/contact_form.shtml</a>
+ which does.</p>
+<p>Open source lays the ground work, but it still requires knowledge workers to pick up those raw minerals and make rails of them for organizations to ride on.</p>
+<p>I am in the rare position of getting to teach you leveraging tools which I and my team have built. This content is written in a platform called HAXcms which we are actively building. I'm also the project lead on a project called ELMS: Learning Network.</p>
+<p>Since starting at Penn State, I would say 99.5% of every hour of every day I work is contributed directly back to open code and documentation. I've contributed hundreds of modules for Drupal, dozens of themes and installation profiles, millions of lines of code liberated from the ownership of anyone or anywhere.</p>
+<p>In the last two years, our team has released north of 400 reusable design assets called Web components. These modules and design assets power thousands of websites and help empower people we'll never know to better express themselves online, whether for instructional content or otherwise.</p>
+<p>I'm a self described Developer Activist in that I don't think open source can change society: I know it can and does constantly. It's why I still work in academia - to try and open source as much of the application stack associated with teaching and learning in order to provide both better options as well as lower costs.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Syllabus</title>
+    <id>/syllabus</id>
+    <updated>2019-08-16T11:09:45-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary>A standard looking syllabus but yet, a contract between us (literally).</summary>
+    <link href="/syllabus"/>
+    
+    <content type="html">
+      <![CDATA[ <p>A standard looking syllabus but yet, a contract between us (literally).</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Git / Github / Contribution</title>
+    <id>/topics/git</id>
+    <updated>2019-08-16T11:09:45-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/topics/git"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Accessibility</title>
+    <id>/topics/accessibility</id>
+    <updated>2019-08-16T11:09:45-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/topics/accessibility"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Let's do this!</title>
+    <id>/topics</id>
+    <updated>2019-08-16T11:09:45-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary>ARE YOU READY!?Are you ready to hit power level 9000!? Then read through these lessons.But seriously. We're going to work through these different topics to skill up and get a better feel f</summary>
+    <link href="/topics"/>
+    
+    <content type="html">
+      <![CDATA[ <grid-plate layout="6/6" responsive-size="xl" style="width: 100%;"><h2 slot="col-1">ARE YOU READY!?</h2>
 
- to schedule an appointment. The mental health advocate can help you address mental health concerns that may interfere with your academic progress or social development. Common concerns include anxiety, depression, relationship difficulties and stress.If you or someone you know is experiencing a crisis situation please call your local crisis center or 911.<br/> </li>
 
-<li><strong>Student Misconduct:</strong>
 
-<br/>Clearly, both the online and the face-to-face learning world present similar chances for inappropriate student behaviors. All expectations and policies regarding student conduct are ultimately guided by Penn State’s Code of Conduct (<a href="http://studentaffairs.psu.edu/conduct/codeofconduct/">http://studentaffairs.psu.edu/conduct/codeofconduct/</a>
+<p slot="col-1"><span style="font-size: 24px; letter-spacing: 0.5px; caret-color: rgb(25, 30, 35);">Are you ready to hit power level 9000!? Then read through these lessons.</span><br/></p>
 
-). In brief, the University’s Code of Conduct states that all students should act with personal integrity, respect other students’ dignity, rights and property, and help create and maintain an environment in which all can succeed through the fruits of their efforts. Any student behaving in a manner which violates these essential principles will be subject to disciplinary sanctions.<br/> </li>
+<meme-maker slot="col-2" alt="dragon ball z GIF by Geek & Sundry" image-url="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" bottom-text="Said no one... ever" imageurl="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" toptext="dragon ball z GIF by Geek & Sundry" style="width: 75%;"></meme-maker>
 
-<li><strong>Plagiarism/academic integrity:</strong>
 
-<br/>Academic integrity — the pursuit of scholarly activity in an open, honest and responsible manner, free of fraud and deception — is an important educational objective of Penn State. Academic integrity is a basic guiding principle for all academic activity at The Pennsylvania State University, and all members of the University community are expected to act in accordance with this principle.<br/><br/>Academic dishonesty can lead to a failing grade or referral to the<a href="https://studentaffairs.psu.edu/conduct/Procedures.shtml"> Office of Student Conduct</a>
 
-.<br/><br/>Academic dishonesty includes, but is not limited to:<br/>- cheating<br/>- plagiarism<br/>- fabrication of information or citations<br/>- facilitating acts of academic dishonesty by others<br/>- unauthorized prior possession of examinations<br/>- submitting the work of another person or work previously used without informing the instructor and securing written approval​<br/>- tampering with the academic work of other students<br/> </li>
 
-<li><strong>University Policy AD 40</strong>
-
-<br/>All course materials students receive or to which students have online access are protected by copyright laws. Students may use course materials and make copies for their own use as needed, but <strong>unauthorized distribution and/or uploading of materials without the instructor’s express permission is strictly prohibited. </strong>
-
- Students who engage in the unauthorized distribution of copyrighted materials may be held in violation of the University’s Code of Conduct, and/or liable under Federal and State laws. University Policy AD 40, the University Policy Recording of Classroom Activities and Note Taking Services addresses this issue more specifically: <a href="https://guru.psu.edu/policies/AD40.html">https://guru.psu.edu/policies/AD40.html</a>
-
-<br/><br/><strong>Course Policies</strong>
-
-<br/> </li>
-
-<li><strong>Inappropriate Assistance</strong>
-
-<br/>We expect that students will complete course assignments without inappropriate assistance from other individuals. We assume that all work submitted for a grade will be solely the product of the student’s own understanding of the course subject material and completed without inappropriate conceptual or technical assistance from another person. In this course, “inappropriate assistance” would involve the solicitation of another individual to complete a review or quiz for you, in part or in full. <strong>Any instance of inappropriate assistance in the submission of academic work will be considered a violation of the Academic Integrity policy.</strong>
-
-<br/> </li>
-
-</ol>
-<p></p>
+</grid-plate>
+<p>But seriously. We're going to work through these different topics to skill up and get a better feel for the industry and how to participate in it.</p>
  ]]>
     </content>
   </entry>
@@ -210,95 +244,6 @@
  - Penn State developed learning platform</p>
 <p><a href="https://haxtheweb.org/">HAXcms</a>
  - Penn State developed flat file CMS (powers this website)</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Let's do this!</title>
-    <id>/topics</id>
-    <updated>2019-08-16T11:09:45-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary>ARE YOU READY!?Are you ready to hit power level 9000!? Then read through these lessons.But seriously. We're going to work through these different topics to skill up and get a better feel f</summary>
-    <link href="/topics"/>
-    
-    <content type="html">
-      <![CDATA[ <grid-plate layout="6/6" responsive-size="xl" style="width: 100%;"><h2 slot="col-1">ARE YOU READY!?</h2>
-
-
-
-<p slot="col-1"><span style="font-size: 24px; letter-spacing: 0.5px; caret-color: rgb(25, 30, 35);">Are you ready to hit power level 9000!? Then read through these lessons.</span><br/></p>
-
-<meme-maker slot="col-2" alt="dragon ball z GIF by Geek & Sundry" image-url="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" bottom-text="Said no one... ever" imageurl="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" toptext="dragon ball z GIF by Geek & Sundry" style="width: 75%;"></meme-maker>
-
-
-
-
-</grid-plate>
-<p>But seriously. We're going to work through these different topics to skill up and get a better feel for the industry and how to participate in it.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Accessibility</title>
-    <id>/topics/accessibility</id>
-    <updated>2019-08-16T11:09:45-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary></summary>
-    <link href="/topics/accessibility"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>About the instructor (boring)</title>
-    <id>/welcome/welcome/about-the-instructor</id>
-    <updated>2019-08-16T11:09:45-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary>This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.My name is Bryan Ollendyke and I've been living workin</summary>
-    <link href="/welcome/welcome/about-the-instructor"/>
-    
-    <content type="html">
-      <![CDATA[ <p>This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.</p>
-<a11y-gif-player src="https://media3.giphy.com/media/5wWf7GW1AzV6pF3MaVW/giphy.gif" src-without-animation="https://media0.giphy.com/media/5wWf7GW1AzV6pF3MaVW/480w_s.jpg" alt="high five the office" schema-resource-id="#0e8a5bdc-121d-e719-bbe6" resource="#0e8a5bdc-121d-e719-bbe6" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 100%;"></a11y-gif-player>
-<p>My name is Bryan Ollendyke and I've been <strike>living</strike>
-
-
- working at Penn State since 2007. I did my undergrad in IST and was able to get a job working in the College of Arts & Architecture's online learning unit (now called Office of Digital Learning).</p>
-<p>In 2015 I completed my MS by studying the spread of an open source platform called Drupal. The theory I reasoned from my thesis is an effect I call Information Altruism -- Meaning that it isn't open source software that impacts institutions <b>but the free giving away of knowledge about how to use it</b>
-
-
- which does.</p>
-<p>Open source lays the ground work, but it still requires knowledge workers to pick up those raw minerals and make rails of them for organizations to ride on.</p>
-<p>I am in the rare position of getting to teach you leveraging tools which I and my team have built. This content is written in a platform called HAXcms which we are actively building. I'm also the project lead on a project called ELMS: Learning Network.</p>
-<p>Since starting at Penn State, I would say 99.5% of every hour of every day I work is contributed directly back to open code and documentation. I've contributed hundreds of modules for Drupal, dozens of themes and installation profiles, millions of lines of code liberated from the ownership of anyone or anywhere.</p>
-<p>In the last two years, our team has released north of 400 reusable design assets called Web components. These modules and design assets power thousands of websites and help empower people we'll never know to better express themselves online, whether for instructional content or otherwise.</p>
-<p>I'm a self described Developer Activist in that I don't think open source can change society: I know it can and does constantly. It's why I still work in academia - to try and open source as much of the application stack associated with teaching and learning in order to provide both better options as well as lower costs.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Git / Github / Contribution</title>
-    <id>/topics/git</id>
-    <updated>2019-08-16T11:09:45-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary></summary>
-    <link href="/topics/git"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Syllabus</title>
-    <id>/syllabus</id>
-    <updated>2019-08-16T11:09:45-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary>A standard looking syllabus but yet, a contract between us (literally).</summary>
-    <link href="/syllabus"/>
-    
-    <content type="html">
-      <![CDATA[ <p>A standard looking syllabus but yet, a contract between us (literally).</p>
  ]]>
     </content>
   </entry>
