@@ -9,7 +9,7 @@
         "site": {
             "name": "ist402",
             "created": 1565898366,
-            "updated": 1565968185,
+            "updated": 1566414200,
             "git": {}
         },
         "theme": {
@@ -79,7 +79,7 @@
             "description": "IST 402: Emerging TechnologiesMy name is Bryan Ollendyke, and welcome to IST 402: Emerging Tech!I'm excited to expose you to the ideas and technologies I wish I had been exposed to when I was",
             "metadata": {
                 "created": 1565898366,
-                "updated": 1566414103,
+                "updated": 1566414200,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/\/headshot.jpg",
@@ -115,7 +115,7 @@
             "description": "This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.My name is Bryan Ollendyke and I've been living workin",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565968185,
+                "updated": 1566414200,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 0,
@@ -144,7 +144,7 @@
             "description": "",
             "metadata": {
                 "created": 1565902902,
-                "updated": 1565968185
+                "updated": 1566414200
             }
         },
         {
@@ -157,7 +157,7 @@
             "description": "A standard syllabus is a contract between us (literally). You will receive a standard syllabus on the first day of class and it will be attached to this page for future reference.",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1566414180,
+                "updated": 1566414200,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -180,20 +180,59 @@
             "description": "",
             "metadata": {
                 "created": 1565902902,
-                "updated": 1565968185
+                "updated": 1566414200
+            }
+        },
+        {
+            "id": "item-cbaf69bb-efc8-44d0-916d-c1d037ca08e7",
+            "indent": 0,
+            "location": "pages\/a-typical-week\/index.html",
+            "order": "2",
+            "parent": null,
+            "title": "A typical week",
+            "description": "",
+            "metadata": {
+                "created": 1566414200,
+                "updated": 1566414200
+            }
+        },
+        {
+            "id": "item-d4ed1588-71f3-4318-a800-dd42ef27049d",
+            "indent": "1",
+            "location": "pages\/topics\/git\/index.html",
+            "order": "2",
+            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
+            "title": "Git \/ Github \/ Contribution",
+            "description": "",
+            "metadata": {
+                "created": 1565898527,
+                "updated": 1566414200
+            }
+        },
+        {
+            "id": "item-03307c52-b638-47ce-b95d-1eb56fe931e1",
+            "indent": "1",
+            "location": "pages\/topics\/web-components-\/-html\/index.html",
+            "order": "3",
+            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
+            "title": "Web components \/ HTML",
+            "description": "",
+            "metadata": {
+                "created": 1565902902,
+                "updated": 1566414200
             }
         },
         {
             "id": "item-e0732067-8550-48ce-a287-bf2beceb0e81",
             "indent": 0,
             "location": "pages\/question-driven-teaching\/index.html",
-            "order": "2",
+            "order": "3",
             "parent": null,
             "title": "Question driven teaching",
             "description": "In all the technologies and skillsets we'll explore in this course, I want you to approach them with the same questions that I have explored in my career. These simple questions will help you decipher",
             "metadata": {
                 "created": 1565900319,
-                "updated": 1565968185,
+                "updated": 1566414200,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -207,42 +246,29 @@
             }
         },
         {
-            "id": "item-d4ed1588-71f3-4318-a800-dd42ef27049d",
+            "id": "item-f545ac21-9c43-4cc6-98fa-46e6e73634a9",
             "indent": "1",
-            "location": "pages\/topics\/git\/index.html",
-            "order": "2",
+            "location": "pages\/topics\/accessibility\/index.html",
+            "order": "4",
             "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
-            "title": "Git \/ Github \/ Contribution",
+            "title": "Accessibility",
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565968185
-            }
-        },
-        {
-            "id": "item-03307c52-b638-47ce-b95d-1eb56fe931e1",
-            "indent": "1",
-            "location": "pages\/topics\/web-components-\/-html\/index.html",
-            "order": "3",
-            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
-            "title": "Web components \/ HTML",
-            "description": "",
-            "metadata": {
-                "created": 1565902902,
-                "updated": 1565968185
+                "updated": 1566414200
             }
         },
         {
             "id": "item-0e26f609-2f2a-41cb-a142-e222a7def3f7",
             "indent": 0,
             "location": "pages\/technologies-we-explore\/index.html",
-            "order": "3",
+            "order": "4",
             "parent": null,
             "title": "Technologies we explore",
             "description": "We'll be exploring lots of different technologies through labs. In order to give me a good sense of what everyone's past experience is with these technologies, please complete the very short anonymous",
             "metadata": {
                 "created": 1565900239,
-                "updated": 1566236311,
+                "updated": 1566414200,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -257,29 +283,16 @@
             }
         },
         {
-            "id": "item-f545ac21-9c43-4cc6-98fa-46e6e73634a9",
-            "indent": "1",
-            "location": "pages\/topics\/accessibility\/index.html",
-            "order": "4",
-            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
-            "title": "Accessibility",
-            "description": "",
-            "metadata": {
-                "created": 1565898527,
-                "updated": 1565968185
-            }
-        },
-        {
             "id": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
             "indent": 0,
             "location": "pages\/topics\/index.html",
-            "order": "4",
+            "order": "5",
             "parent": null,
             "title": "Let's do this!",
             "description": "ARE YOU READY!?Are you ready to hit power level 9000!? Then read through these lessons.But seriously. We're going to work through these different topics to skill up and get a better feel f",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565968185,
+                "updated": 1566414200,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -303,7 +316,7 @@
             "description": "",
             "metadata": {
                 "created": 1565902902,
-                "updated": 1565968185
+                "updated": 1566414200
             }
         },
         {
@@ -316,7 +329,7 @@
             "description": "",
             "metadata": {
                 "created": 1565968185,
-                "updated": 1565968185
+                "updated": 1566414200
             }
         },
         {
@@ -329,33 +342,33 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565968185
+                "updated": 1566414200
             }
         },
         {
             "id": "item-dec30475-a0a9-4c90-84cb-20f3471d6454",
             "indent": 0,
             "location": "pages\/project\/index.html",
-            "order": "5",
+            "order": "6",
             "parent": null,
             "title": "Project",
             "description": "",
             "metadata": {
                 "created": 1565968185,
-                "updated": 1565968185
+                "updated": 1566414200
             }
         },
         {
             "id": "item-cabad7a7-8b29-4e70-8786-1c60e33a7b90",
             "indent": 0,
             "location": "pages\/resources\/index.html",
-            "order": "6",
+            "order": "7",
             "parent": null,
             "title": "Resources",
             "description": "This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub \/ collaboration locationDigital Ocean - Easy to use server environmentHover \/ Google Domains - E",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1565968185,
+                "updated": 1566414200,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
