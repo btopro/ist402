@@ -9,12 +9,12 @@
   </author>
   <id>/feed</id>
   <entry>
-    <title>Goals for this course</title>
-    <id>/goals-for-this-course</id>
-    <updated>2019-08-21T15:10:33-04:00</updated>
+    <title>Class time together</title>
+    <id>/class-time-together</id>
+    <updated>2019-08-21T15:10:48-04:00</updated>
     <published>2019-08-21T15:04:55-04:00</published>
-    <summary>We're going to strive for this general flow to each week of the semester. A few specific topics will deviate and we may have some guest speakers, but generally this is what class will look like togeth</summary>
-    <link href="/goals-for-this-course"/>
+    <summary>We&#39;re going to strive for this general flow to each week of the semester. A few specific topics will deviate and we may have some guest speakers, but generally this is what class will look like togeth</summary>
+    <link href="/class-time-together"/>
     
     <content type="html">
       <![CDATA[ <p>We're going to strive for this general flow to each week of the semester. A few specific topics will deviate and we may have some guest speakers, but generally this is what class will look like together</p>

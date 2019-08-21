@@ -186,14 +186,14 @@
         {
             "id": "item-af1f84a0-8331-4a64-90d7-aa555fe76116",
             "indent": 0,
-            "location": "pages\/goals-for-this-course\/index.html",
+            "location": "pages\/class-time-together\/index.html",
             "order": "2",
             "parent": null,
-            "title": "Goals for this course",
-            "description": "We're going to strive for this general flow to each week of the semester. A few specific topics will deviate and we may have some guest speakers, but generally this is what class will look like togeth",
+            "title": "Class time together",
+            "description": "We&#39;re going to strive for this general flow to each week of the semester. A few specific topics will deviate and we may have some guest speakers, but generally this is what class will look like togeth",
             "metadata": {
                 "created": 1566414295,
-                "updated": 1566414633,
+                "updated": 1566414648,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
