@@ -6,7 +6,7 @@
     <description>IST 402 course content space</description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Aug 2019 11:09:45 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2019 15:03:20 -0400</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>A typical week</title>
@@ -39,16 +39,6 @@
       <pubDate>Fri, 16 Aug 2019 11:09:45 -0400</pubDate>
     </item>
     <item>
-      <title>User experience</title>
-      <link>/topics/user-experience</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics/user-experience</guid>
-      <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
-    </item>
-    <item>
       <title>Building your digital identity</title>
       <link>/topics/building-your-digital-identity</link>
       <description>
@@ -79,6 +69,16 @@
       <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
     </item>
     <item>
+      <title>User experience</title>
+      <link>/topics/user-experience</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/topics/user-experience</guid>
+      <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
+    </item>
+    <item>
       <title>Question driven teaching</title>
       <link>/question-driven-teaching</link>
       <description>
@@ -97,7 +97,7 @@
       <pubDate>Thu, 15 Aug 2019 16:18:39 -0400</pubDate>
     </item>
     <item>
-      <title>Technologies we explore</title>
+      <title>Initial skills assessment</title>
       <link>/technologies-we-explore</link>
       <description>
           <![CDATA[ <p>We'll be exploring lots of different technologies through labs. In order to give me a good sense of what everyone's past experience is with these technologies, please complete the very short anonymous skills survey.</p>
@@ -115,13 +115,37 @@
       <pubDate>Thu, 15 Aug 2019 16:17:19 -0400</pubDate>
     </item>
     <item>
-      <title>Accessibility</title>
-      <link>/topics/accessibility</link>
+      <title>Automation / Docker / IFTTT</title>
+      <link>/topics/docker</link>
       <description>
           <![CDATA[ <p>Ex uno Plures</p> ]]>
       </description>
       <category></category>
-      <guid>/topics/accessibility</guid>
+      <guid>/topics/docker</guid>
+      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>/resources</link>
+      <description>
+          <![CDATA[ <p>This list will keep growing</p>
+<p><a href="https://github.com">Github</a>
+ - Popular code sharing space</p>
+<p><a href="https://slack.com">Slack</a>
+ - Popular productivity hub / collaboration location</p>
+<p><a href="https://digitalocean.com">Digital Ocean </a>
+- Easy to use server environment</p>
+<p><a href="https://hover.com">Hover</a>
+ / <a href="https://domains.google.com">Google Domains</a>
+ - Easy to buy domain registrar</p>
+<p><a href="https://elmsln.org/">ELMS:LN</a>
+ - Penn State developed learning platform</p>
+<p><a href="https://haxtheweb.org/">HAXcms</a>
+ - Penn State developed flat file CMS (powers this website)</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/resources</guid>
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
@@ -145,6 +169,16 @@
       </description>
       <category></category>
       <guid>/topics</guid>
+      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Accessibility</title>
+      <link>/topics/accessibility</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/topics/accessibility</guid>
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
@@ -183,16 +217,6 @@
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
-      <title>Automation / Docker / IFTTT</title>
-      <link>/topics/docker</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics/docker</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
       <title>Syllabus</title>
       <link>/syllabus</link>
       <description>
@@ -201,30 +225,6 @@
       </description>
       <category></category>
       <guid>/syllabus</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Resources</title>
-      <link>/resources</link>
-      <description>
-          <![CDATA[ <p>This list will keep growing</p>
-<p><a href="https://github.com">Github</a>
- - Popular code sharing space</p>
-<p><a href="https://slack.com">Slack</a>
- - Popular productivity hub / collaboration location</p>
-<p><a href="https://digitalocean.com">Digital Ocean </a>
-- Easy to use server environment</p>
-<p><a href="https://hover.com">Hover</a>
- / <a href="https://domains.google.com">Google Domains</a>
- - Easy to buy domain registrar</p>
-<p><a href="https://elmsln.org/">ELMS:LN</a>
- - Penn State developed learning platform</p>
-<p><a href="https://haxtheweb.org/">HAXcms</a>
- - Penn State developed flat file CMS (powers this website)</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/resources</guid>
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>

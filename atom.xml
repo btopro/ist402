@@ -3,7 +3,7 @@
   <title>ist402</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>IST 402 course content space</subtitle>
-  <updated>2019-08-16T11:09:45-04:00</updated>
+  <updated>2019-08-21T15:03:20-04:00</updated>
   <author>
       <name></name>
   </author>
@@ -39,18 +39,6 @@
     <published>2019-08-16T11:09:45-04:00</published>
     <summary></summary>
     <link href="/topics/responsive-/-mobile-design"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>User experience</title>
-    <id>/topics/user-experience</id>
-    <updated>2019-08-21T15:03:20-04:00</updated>
-    <published>2019-08-15T17:01:42-04:00</published>
-    <summary></summary>
-    <link href="/topics/user-experience"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>
@@ -93,6 +81,18 @@
     </content>
   </entry>
   <entry>
+    <title>User experience</title>
+    <id>/topics/user-experience</id>
+    <updated>2019-08-21T15:03:20-04:00</updated>
+    <published>2019-08-15T17:01:42-04:00</published>
+    <summary></summary>
+    <link href="/topics/user-experience"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Question driven teaching</title>
     <id>/question-driven-teaching</id>
     <updated>2019-08-21T15:03:20-04:00</updated>
@@ -113,11 +113,11 @@
     </content>
   </entry>
   <entry>
-    <title>Technologies we explore</title>
+    <title>Initial skills assessment</title>
     <id>/technologies-we-explore</id>
-    <updated>2019-08-21T15:03:20-04:00</updated>
+    <updated>2019-08-21T15:03:35-04:00</updated>
     <published>2019-08-15T16:17:19-04:00</published>
-    <summary>We'll be exploring lots of different technologies through labs. In order to give me a good sense of what everyone's past experience is with these technologies, please complete the very short anonymous</summary>
+    <summary>We&#39;ll be exploring lots of different technologies through labs. In order to give me a good sense of what everyone&#39;s past experience is with these technologies, please complete the very short anonymous</summary>
     <link href="/technologies-we-explore"/>
     
     <content type="html">
@@ -133,15 +133,41 @@
     </content>
   </entry>
   <entry>
-    <title>Accessibility</title>
-    <id>/topics/accessibility</id>
+    <title>Automation / Docker / IFTTT</title>
+    <id>/topics/docker</id>
     <updated>2019-08-21T15:03:20-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
-    <link href="/topics/accessibility"/>
+    <link href="/topics/docker"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Resources</title>
+    <id>/resources</id>
+    <updated>2019-08-21T15:03:20-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary>This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub / collaboration locationDigital Ocean - Easy to use server environmentHover / Google Domains - E</summary>
+    <link href="/resources"/>
+    
+    <content type="html">
+      <![CDATA[ <p>This list will keep growing</p>
+<p><a href="https://github.com">Github</a>
+ - Popular code sharing space</p>
+<p><a href="https://slack.com">Slack</a>
+ - Popular productivity hub / collaboration location</p>
+<p><a href="https://digitalocean.com">Digital Ocean </a>
+- Easy to use server environment</p>
+<p><a href="https://hover.com">Hover</a>
+ / <a href="https://domains.google.com">Google Domains</a>
+ - Easy to buy domain registrar</p>
+<p><a href="https://elmsln.org/">ELMS:LN</a>
+ - Penn State developed learning platform</p>
+<p><a href="https://haxtheweb.org/">HAXcms</a>
+ - Penn State developed flat file CMS (powers this website)</p>
+ ]]>
     </content>
   </entry>
   <entry>
@@ -167,6 +193,18 @@
 </grid-plate>
 <p>But seriously. We're going to work through these different topics to skill up and get a better feel for the industry and how to participate in it.</p>
  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Accessibility</title>
+    <id>/topics/accessibility</id>
+    <updated>2019-08-21T15:03:20-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/topics/accessibility"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
     </content>
   </entry>
   <entry>
@@ -209,18 +247,6 @@
     </content>
   </entry>
   <entry>
-    <title>Automation / Docker / IFTTT</title>
-    <id>/topics/docker</id>
-    <updated>2019-08-21T15:03:20-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary></summary>
-    <link href="/topics/docker"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Syllabus</title>
     <id>/syllabus</id>
     <updated>2019-08-21T15:03:20-04:00</updated>
@@ -230,32 +256,6 @@
     
     <content type="html">
       <![CDATA[ <p>A standard syllabus is a contract between us (literally). You will receive a standard syllabus on the first day of class and it will be attached to this page for future reference.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Resources</title>
-    <id>/resources</id>
-    <updated>2019-08-21T15:03:20-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary>This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub / collaboration locationDigital Ocean - Easy to use server environmentHover / Google Domains - E</summary>
-    <link href="/resources"/>
-    
-    <content type="html">
-      <![CDATA[ <p>This list will keep growing</p>
-<p><a href="https://github.com">Github</a>
- - Popular code sharing space</p>
-<p><a href="https://slack.com">Slack</a>
- - Popular productivity hub / collaboration location</p>
-<p><a href="https://digitalocean.com">Digital Ocean </a>
-- Easy to use server environment</p>
-<p><a href="https://hover.com">Hover</a>
- / <a href="https://domains.google.com">Google Domains</a>
- - Easy to buy domain registrar</p>
-<p><a href="https://elmsln.org/">ELMS:LN</a>
- - Penn State developed learning platform</p>
-<p><a href="https://haxtheweb.org/">HAXcms</a>
- - Penn State developed flat file CMS (powers this website)</p>
  ]]>
     </content>
   </entry>
