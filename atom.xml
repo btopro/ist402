@@ -150,13 +150,13 @@
   <entry>
     <title>Syllabus</title>
     <id>/syllabus</id>
-    <updated>2019-08-16T11:09:45-04:00</updated>
+    <updated>2019-08-21T15:03:00-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
-    <summary>A standard looking syllabus but yet, a contract between us (literally).</summary>
+    <summary>A standard syllabus is a contract between us (literally). You will receive a standard syllabus on the first day of class and it will be attached to this page for future reference.</summary>
     <link href="/syllabus"/>
     
     <content type="html">
-      <![CDATA[ <p>A standard looking syllabus but yet, a contract between us (literally).</p>
+      <![CDATA[ <p>A standard syllabus is a contract between us (literally). You will receive a standard syllabus on the first day of class and it will be attached to this page for future reference.</p>
  ]]>
     </content>
   </entry>
