@@ -3,11 +3,38 @@
   <title>ist402</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>IST 402 course content space</subtitle>
-  <updated>2019-08-21T15:11:14-04:00</updated>
+  <updated>2019-08-21T15:30:37-04:00</updated>
   <author>
       <name></name>
   </author>
   <id>/feed</id>
+  <entry>
+    <title>Goals.. for you!</title>
+    <id>/goals-for-you-</id>
+    <updated>2019-08-21T15:30:37-04:00</updated>
+    <published>2019-08-21T15:11:14-04:00</published>
+    <summary>My goals for you to learn during this course include...Learning not just what a technology is but...Who's using it, what industries, what web servicesGetting hands on and implementing it small scal</summary>
+    <link href="/goals-for-you-"/>
+    
+    <content type="html">
+      <![CDATA[ <p>My goals for you to learn during this course include...</p>
+<ul><li>Learning not just what a technology is but...</li>
+<ul><li>Who's using it, what industries, what web services</li>
+<li>Getting hands on and implementing it small scale</li>
+<li>Being able to better communicate purpose and ideas around it</li>
+</ul>
+
+<li>Building a digital footprint of YOU, the IT worker / manager / developer / whatever your path, just that it's out there!</li>
+<ul><li>Creating a YouTube channel of explainer videos about the topics discussed in class</li>
+<li>Creating a Blog about these same topics</li>
+<li>Creating social coder accounts and connecting them all together (like Github, TravisCI, Stackblitz, CodePen, Glitch, IFTTT, etc)</li>
+</ul>
+<li>Learn about all levels of "the stack" in order to better empathize with those working in different levels of the stack from you (or people you'll one day manage)</li>
+<li>Have a website on the internet that you control and have a window into how all aspects of it function.</li>
+</ul>
+ ]]>
+    </content>
+  </entry>
   <entry>
     <title>After class reflection</title>
     <id>/after-class-reflection</id>
@@ -46,33 +73,6 @@
     </content>
   </entry>
   <entry>
-    <title>Goals.. for you!</title>
-    <id>/goals-for-you-</id>
-    <updated>2019-08-21T15:30:37-04:00</updated>
-    <published>2019-08-21T15:11:14-04:00</published>
-    <summary>My goals for you to learn during this course include...Learning not just what a technology is but...Who's using it, what industries, what web servicesGetting hands on and implementing it small scal</summary>
-    <link href="/goals-for-you-"/>
-    
-    <content type="html">
-      <![CDATA[ <p>My goals for you to learn during this course include...</p>
-<ul><li>Learning not just what a technology is but...</li>
-<ul><li>Who's using it, what industries, what web services</li>
-<li>Getting hands on and implementing it small scale</li>
-<li>Being able to better communicate purpose and ideas around it</li>
-</ul>
-
-<li>Building a digital footprint of YOU, the IT worker / manager / developer / whatever your path, just that it's out there!</li>
-<ul><li>Creating a YouTube channel of explainer videos about the topics discussed in class</li>
-<li>Creating a Blog about these same topics</li>
-<li>Creating social coder accounts and connecting them all together (like Github, TravisCI, Stackblitz, CodePen, Glitch, IFTTT, etc)</li>
-</ul>
-<li>Learn about all levels of "the stack" in order to better empathize with those working in different levels of the stack from you (or people you'll one day manage)</li>
-<li>Have a website on the internet that you control and have a window into how all aspects of it function.</li>
-</ul>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Class time together</title>
     <id>/class-time-together</id>
     <updated>2019-08-21T15:30:37-04:00</updated>
@@ -95,13 +95,15 @@
   <entry>
     <title>Project</title>
     <id>/project</id>
-    <updated>2019-08-21T15:30:37-04:00</updated>
+    <updated>2019-08-21T15:32:30-04:00</updated>
     <published>2019-08-16T11:09:45-04:00</published>
-    <summary></summary>
+    <summary>The last week of the semester there will be a slightly longer lab that I'm calling a project. You'll have to put together a pitch for one of multiple problem spaces but it's a technical pitch. You'll </summary>
     <link href="/project"/>
     
     <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
+      <![CDATA[ <p>The last week of the semester there will be a slightly longer lab that I'm calling a project. You'll have to put together a pitch for one of multiple problem spaces but it's a technical pitch. You'll be asked to use as many technologies we used in the course to express how you'll solution will utilize these technologies, while it still being in the form of a pitch.</p>
+<p>This will be explained more as we go into the course but it's effectively a double lab as far as points and time involved. There is no final exam so it's just a final project</p>
+ ]]>
     </content>
   </entry>
   <entry>
@@ -111,30 +113,6 @@
     <published>2019-08-16T11:09:45-04:00</published>
     <summary></summary>
     <link href="/topics/responsive-/-mobile-design"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Building your digital identity</title>
-    <id>/topics/building-your-digital-identity</id>
-    <updated>2019-08-21T15:30:37-04:00</updated>
-    <published>2019-08-15T17:01:42-04:00</published>
-    <summary></summary>
-    <link href="/topics/building-your-digital-identity"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Open source software Communities</title>
-    <id>/topics/open-source-software</id>
-    <updated>2019-08-21T15:30:37-04:00</updated>
-    <published>2019-08-15T17:01:42-04:00</published>
-    <summary></summary>
-    <link href="/topics/open-source-software"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>
@@ -159,6 +137,30 @@
     <published>2019-08-15T17:01:42-04:00</published>
     <summary></summary>
     <link href="/topics/user-experience"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Building your digital identity</title>
+    <id>/topics/building-your-digital-identity</id>
+    <updated>2019-08-21T15:30:37-04:00</updated>
+    <published>2019-08-15T17:01:42-04:00</published>
+    <summary></summary>
+    <link href="/topics/building-your-digital-identity"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Open source software Communities</title>
+    <id>/topics/open-source-software</id>
+    <updated>2019-08-21T15:30:37-04:00</updated>
+    <published>2019-08-15T17:01:42-04:00</published>
+    <summary></summary>
+    <link href="/topics/open-source-software"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>
@@ -209,29 +211,15 @@
     </content>
   </entry>
   <entry>
-    <title>Resources</title>
-    <id>/resources</id>
+    <title>Automation / Docker / IFTTT</title>
+    <id>/topics/docker</id>
     <updated>2019-08-21T15:30:37-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
-    <summary>This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub / collaboration locationDigital Ocean - Easy to use server environmentHover / Google Domains - E</summary>
-    <link href="/resources"/>
+    <summary></summary>
+    <link href="/topics/docker"/>
     
     <content type="html">
-      <![CDATA[ <p>This list will keep growing</p>
-<p><a href="https://github.com">Github</a>
- - Popular code sharing space</p>
-<p><a href="https://slack.com">Slack</a>
- - Popular productivity hub / collaboration location</p>
-<p><a href="https://digitalocean.com">Digital Ocean </a>
-- Easy to use server environment</p>
-<p><a href="https://hover.com">Hover</a>
- / <a href="https://domains.google.com">Google Domains</a>
- - Easy to buy domain registrar</p>
-<p><a href="https://elmsln.org/">ELMS:LN</a>
- - Penn State developed learning platform</p>
-<p><a href="https://haxtheweb.org/">HAXcms</a>
- - Penn State developed flat file CMS (powers this website)</p>
- ]]>
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
     </content>
   </entry>
   <entry>
@@ -260,15 +248,29 @@
     </content>
   </entry>
   <entry>
-    <title>Automation / Docker / IFTTT</title>
-    <id>/topics/docker</id>
+    <title>Resources</title>
+    <id>/resources</id>
     <updated>2019-08-21T15:30:37-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
-    <summary></summary>
-    <link href="/topics/docker"/>
+    <summary>This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub / collaboration locationDigital Ocean - Easy to use server environmentHover / Google Domains - E</summary>
+    <link href="/resources"/>
     
     <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
+      <![CDATA[ <p>This list will keep growing</p>
+<p><a href="https://github.com">Github</a>
+ - Popular code sharing space</p>
+<p><a href="https://slack.com">Slack</a>
+ - Popular productivity hub / collaboration location</p>
+<p><a href="https://digitalocean.com">Digital Ocean </a>
+- Easy to use server environment</p>
+<p><a href="https://hover.com">Hover</a>
+ / <a href="https://domains.google.com">Google Domains</a>
+ - Easy to buy domain registrar</p>
+<p><a href="https://elmsln.org/">ELMS:LN</a>
+ - Penn State developed learning platform</p>
+<p><a href="https://haxtheweb.org/">HAXcms</a>
+ - Penn State developed flat file CMS (powers this website)</p>
+ ]]>
     </content>
   </entry>
   <entry>

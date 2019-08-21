@@ -412,10 +412,20 @@
             "order": "7",
             "parent": null,
             "title": "Project",
-            "description": "",
+            "description": "The last week of the semester there will be a slightly longer lab that I'm calling a project. You'll have to put together a pitch for one of multiple problem spaces but it's a technical pitch. You'll ",
             "metadata": {
                 "created": 1565968185,
-                "updated": 1566415837
+                "updated": 1566415950,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 2,
+                    "schema": [],
+                    "tags": {
+                        "p": 2
+                    },
+                    "elements": 2
+                }
             }
         },
         {

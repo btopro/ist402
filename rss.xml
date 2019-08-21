@@ -6,8 +6,33 @@
     <description>IST 402 course content space</description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Aug 2019 15:11:14 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2019 15:30:37 -0400</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Goals.. for you!</title>
+      <link>/goals-for-you-</link>
+      <description>
+          <![CDATA[ <p>My goals for you to learn during this course include...</p>
+<ul><li>Learning not just what a technology is but...</li>
+<ul><li>Who's using it, what industries, what web services</li>
+<li>Getting hands on and implementing it small scale</li>
+<li>Being able to better communicate purpose and ideas around it</li>
+</ul>
+
+<li>Building a digital footprint of YOU, the IT worker / manager / developer / whatever your path, just that it's out there!</li>
+<ul><li>Creating a YouTube channel of explainer videos about the topics discussed in class</li>
+<li>Creating a Blog about these same topics</li>
+<li>Creating social coder accounts and connecting them all together (like Github, TravisCI, Stackblitz, CodePen, Glitch, IFTTT, etc)</li>
+</ul>
+<li>Learn about all levels of "the stack" in order to better empathize with those working in different levels of the stack from you (or people you'll one day manage)</li>
+<li>Have a website on the internet that you control and have a window into how all aspects of it function.</li>
+</ul>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/goals-for-you-</guid>
+      <pubDate>Wed, 21 Aug 2019 15:11:14 -0400</pubDate>
+    </item>
     <item>
       <title>After class reflection</title>
       <link>/after-class-reflection</link>
@@ -44,31 +69,6 @@
       <pubDate>Wed, 21 Aug 2019 15:11:14 -0400</pubDate>
     </item>
     <item>
-      <title>Goals.. for you!</title>
-      <link>/goals-for-you-</link>
-      <description>
-          <![CDATA[ <p>My goals for you to learn during this course include...</p>
-<ul><li>Learning not just what a technology is but...</li>
-<ul><li>Who's using it, what industries, what web services</li>
-<li>Getting hands on and implementing it small scale</li>
-<li>Being able to better communicate purpose and ideas around it</li>
-</ul>
-
-<li>Building a digital footprint of YOU, the IT worker / manager / developer / whatever your path, just that it's out there!</li>
-<ul><li>Creating a YouTube channel of explainer videos about the topics discussed in class</li>
-<li>Creating a Blog about these same topics</li>
-<li>Creating social coder accounts and connecting them all together (like Github, TravisCI, Stackblitz, CodePen, Glitch, IFTTT, etc)</li>
-</ul>
-<li>Learn about all levels of "the stack" in order to better empathize with those working in different levels of the stack from you (or people you'll one day manage)</li>
-<li>Have a website on the internet that you control and have a window into how all aspects of it function.</li>
-</ul>
- ]]>
-      </description>
-      <category></category>
-      <guid>/goals-for-you-</guid>
-      <pubDate>Wed, 21 Aug 2019 15:11:14 -0400</pubDate>
-    </item>
-    <item>
       <title>Class time together</title>
       <link>/class-time-together</link>
       <description>
@@ -90,7 +90,9 @@
       <title>Project</title>
       <link>/project</link>
       <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
+          <![CDATA[ <p>The last week of the semester there will be a slightly longer lab that I'm calling a project. You'll have to put together a pitch for one of multiple problem spaces but it's a technical pitch. You'll be asked to use as many technologies we used in the course to express how you'll solution will utilize these technologies, while it still being in the form of a pitch.</p>
+<p>This will be explained more as we go into the course but it's effectively a double lab as far as points and time involved. There is no final exam so it's just a final project</p>
+ ]]>
       </description>
       <category></category>
       <guid>/project</guid>
@@ -105,26 +107,6 @@
       <category></category>
       <guid>/topics/responsive-/-mobile-design</guid>
       <pubDate>Fri, 16 Aug 2019 11:09:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>Building your digital identity</title>
-      <link>/topics/building-your-digital-identity</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics/building-your-digital-identity</guid>
-      <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>Open source software Communities</title>
-      <link>/topics/open-source-software</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics/open-source-software</guid>
-      <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
     </item>
     <item>
       <title>Web components / HTML</title>
@@ -144,6 +126,26 @@
       </description>
       <category></category>
       <guid>/topics/user-experience</guid>
+      <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Building your digital identity</title>
+      <link>/topics/building-your-digital-identity</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/topics/building-your-digital-identity</guid>
+      <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Open source software Communities</title>
+      <link>/topics/open-source-software</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/topics/open-source-software</guid>
       <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
     </item>
     <item>
@@ -187,27 +189,13 @@
       <pubDate>Thu, 15 Aug 2019 16:17:19 -0400</pubDate>
     </item>
     <item>
-      <title>Resources</title>
-      <link>/resources</link>
+      <title>Automation / Docker / IFTTT</title>
+      <link>/topics/docker</link>
       <description>
-          <![CDATA[ <p>This list will keep growing</p>
-<p><a href="https://github.com">Github</a>
- - Popular code sharing space</p>
-<p><a href="https://slack.com">Slack</a>
- - Popular productivity hub / collaboration location</p>
-<p><a href="https://digitalocean.com">Digital Ocean </a>
-- Easy to use server environment</p>
-<p><a href="https://hover.com">Hover</a>
- / <a href="https://domains.google.com">Google Domains</a>
- - Easy to buy domain registrar</p>
-<p><a href="https://elmsln.org/">ELMS:LN</a>
- - Penn State developed learning platform</p>
-<p><a href="https://haxtheweb.org/">HAXcms</a>
- - Penn State developed flat file CMS (powers this website)</p>
- ]]>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
       </description>
       <category></category>
-      <guid>/resources</guid>
+      <guid>/topics/docker</guid>
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
@@ -234,13 +222,27 @@
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
-      <title>Automation / Docker / IFTTT</title>
-      <link>/topics/docker</link>
+      <title>Resources</title>
+      <link>/resources</link>
       <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
+          <![CDATA[ <p>This list will keep growing</p>
+<p><a href="https://github.com">Github</a>
+ - Popular code sharing space</p>
+<p><a href="https://slack.com">Slack</a>
+ - Popular productivity hub / collaboration location</p>
+<p><a href="https://digitalocean.com">Digital Ocean </a>
+- Easy to use server environment</p>
+<p><a href="https://hover.com">Hover</a>
+ / <a href="https://domains.google.com">Google Domains</a>
+ - Easy to buy domain registrar</p>
+<p><a href="https://elmsln.org/">ELMS:LN</a>
+ - Penn State developed learning platform</p>
+<p><a href="https://haxtheweb.org/">HAXcms</a>
+ - Penn State developed flat file CMS (powers this website)</p>
+ ]]>
       </description>
       <category></category>
-      <guid>/topics/docker</guid>
+      <guid>/resources</guid>
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
