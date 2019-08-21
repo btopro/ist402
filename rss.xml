@@ -9,6 +9,26 @@
     <lastBuildDate>Wed, 21 Aug 2019 15:04:55 -0400</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>After class reflection</title>
+      <link>/after-class-reflection</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/after-class-reflection</guid>
+      <pubDate>Wed, 21 Aug 2019 15:11:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Goals.. for you!</title>
+      <link>/goals-for-you-</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/goals-for-you-</guid>
+      <pubDate>Wed, 21 Aug 2019 15:11:14 -0400</pubDate>
+    </item>
+    <item>
       <title>Class time together</title>
       <link>/class-time-together</link>
       <description>
@@ -37,16 +57,6 @@
       <pubDate>Wed, 21 Aug 2019 15:03:20 -0400</pubDate>
     </item>
     <item>
-      <title>Project</title>
-      <link>/project</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/project</guid>
-      <pubDate>Fri, 16 Aug 2019 11:09:45 -0400</pubDate>
-    </item>
-    <item>
       <title>Responsive / Mobile design</title>
       <link>/topics/responsive-/-mobile-design</link>
       <description>
@@ -57,14 +67,14 @@
       <pubDate>Fri, 16 Aug 2019 11:09:45 -0400</pubDate>
     </item>
     <item>
-      <title>User experience</title>
-      <link>/topics/user-experience</link>
+      <title>Project</title>
+      <link>/project</link>
       <description>
           <![CDATA[ <p>Ex uno Plures</p> ]]>
       </description>
       <category></category>
-      <guid>/topics/user-experience</guid>
-      <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
+      <guid>/project</guid>
+      <pubDate>Fri, 16 Aug 2019 11:09:45 -0400</pubDate>
     </item>
     <item>
       <title>Building your digital identity</title>
@@ -94,6 +104,16 @@
       </description>
       <category></category>
       <guid>/topics/web-components-/-html</guid>
+      <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>User experience</title>
+      <link>/topics/user-experience</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/topics/user-experience</guid>
       <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
     </item>
     <item>
@@ -137,39 +157,6 @@
       <pubDate>Thu, 15 Aug 2019 16:17:19 -0400</pubDate>
     </item>
     <item>
-      <title>Automation / Docker / IFTTT</title>
-      <link>/topics/docker</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics/docker</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Let's do this!</title>
-      <link>/topics</link>
-      <description>
-          <![CDATA[ <grid-plate layout="6/6" responsive-size="xl" style="width: 100%;"><h2 slot="col-1">ARE YOU READY!?</h2>
-
-
-
-<p slot="col-1"><span style="font-size: 24px; letter-spacing: 0.5px; caret-color: rgb(25, 30, 35);">Are you ready to hit power level 9000!? Then read through these lessons.</span><br/></p>
-
-<meme-maker slot="col-2" alt="dragon ball z GIF by Geek & Sundry" image-url="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" bottom-text="Said no one... ever" imageurl="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" toptext="dragon ball z GIF by Geek & Sundry" style="width: 75%;"></meme-maker>
-
-
-
-
-</grid-plate>
-<p>But seriously. We're going to work through these different topics to skill up and get a better feel for the industry and how to participate in it.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/topics</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
       <title>Resources</title>
       <link>/resources</link>
       <description>
@@ -194,6 +181,16 @@
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
+      <title>Automation / Docker / IFTTT</title>
+      <link>/topics/docker</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/topics/docker</guid>
+      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
+    </item>
+    <item>
       <title>Accessibility</title>
       <link>/topics/accessibility</link>
       <description>
@@ -201,6 +198,29 @@
       </description>
       <category></category>
       <guid>/topics/accessibility</guid>
+      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Let's do this!</title>
+      <link>/topics</link>
+      <description>
+          <![CDATA[ <grid-plate layout="6/6" responsive-size="xl" style="width: 100%;"><h2 slot="col-1">ARE YOU READY!?</h2>
+
+
+
+<p slot="col-1"><span style="font-size: 24px; letter-spacing: 0.5px; caret-color: rgb(25, 30, 35);">Are you ready to hit power level 9000!? Then read through these lessons.</span><br/></p>
+
+<meme-maker slot="col-2" alt="dragon ball z GIF by Geek & Sundry" image-url="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" bottom-text="Said no one... ever" imageurl="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" toptext="dragon ball z GIF by Geek & Sundry" style="width: 75%;"></meme-maker>
+
+
+
+
+</grid-plate>
+<p>But seriously. We're going to work through these different topics to skill up and get a better feel for the industry and how to participate in it.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/topics</guid>
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>

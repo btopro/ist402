@@ -9,9 +9,33 @@
   </author>
   <id>/feed</id>
   <entry>
+    <title>After class reflection</title>
+    <id>/after-class-reflection</id>
+    <updated>2019-08-21T15:11:14-04:00</updated>
+    <published>2019-08-21T15:11:14-04:00</published>
+    <summary></summary>
+    <link href="/after-class-reflection"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Goals.. for you!</title>
+    <id>/goals-for-you-</id>
+    <updated>2019-08-21T15:11:14-04:00</updated>
+    <published>2019-08-21T15:11:14-04:00</published>
+    <summary></summary>
+    <link href="/goals-for-you-"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Class time together</title>
     <id>/class-time-together</id>
-    <updated>2019-08-21T15:10:48-04:00</updated>
+    <updated>2019-08-21T15:11:14-04:00</updated>
     <published>2019-08-21T15:04:55-04:00</published>
     <summary>We&#39;re going to strive for this general flow to each week of the semester. A few specific topics will deviate and we may have some guest speakers, but generally this is what class will look like togeth</summary>
     <link href="/class-time-together"/>
@@ -31,7 +55,7 @@
   <entry>
     <title>A typical week</title>
     <id>/a-typical-week</id>
-    <updated>2019-08-21T15:04:55-04:00</updated>
+    <updated>2019-08-21T15:11:14-04:00</updated>
     <published>2019-08-21T15:03:20-04:00</published>
     <summary></summary>
     <link href="/a-typical-week"/>
@@ -41,21 +65,9 @@
     </content>
   </entry>
   <entry>
-    <title>Project</title>
-    <id>/project</id>
-    <updated>2019-08-21T15:04:55-04:00</updated>
-    <published>2019-08-16T11:09:45-04:00</published>
-    <summary></summary>
-    <link href="/project"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Responsive / Mobile design</title>
     <id>/topics/responsive-/-mobile-design</id>
-    <updated>2019-08-21T15:04:55-04:00</updated>
+    <updated>2019-08-21T15:11:14-04:00</updated>
     <published>2019-08-16T11:09:45-04:00</published>
     <summary></summary>
     <link href="/topics/responsive-/-mobile-design"/>
@@ -65,12 +77,12 @@
     </content>
   </entry>
   <entry>
-    <title>User experience</title>
-    <id>/topics/user-experience</id>
-    <updated>2019-08-21T15:04:55-04:00</updated>
-    <published>2019-08-15T17:01:42-04:00</published>
+    <title>Project</title>
+    <id>/project</id>
+    <updated>2019-08-21T15:11:14-04:00</updated>
+    <published>2019-08-16T11:09:45-04:00</published>
     <summary></summary>
-    <link href="/topics/user-experience"/>
+    <link href="/project"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>
@@ -79,7 +91,7 @@
   <entry>
     <title>Building your digital identity</title>
     <id>/topics/building-your-digital-identity</id>
-    <updated>2019-08-21T15:04:55-04:00</updated>
+    <updated>2019-08-21T15:11:14-04:00</updated>
     <published>2019-08-15T17:01:42-04:00</published>
     <summary></summary>
     <link href="/topics/building-your-digital-identity"/>
@@ -91,7 +103,7 @@
   <entry>
     <title>Open source software Communities</title>
     <id>/topics/open-source-software</id>
-    <updated>2019-08-21T15:04:55-04:00</updated>
+    <updated>2019-08-21T15:11:14-04:00</updated>
     <published>2019-08-15T17:01:42-04:00</published>
     <summary></summary>
     <link href="/topics/open-source-software"/>
@@ -103,7 +115,7 @@
   <entry>
     <title>Web components / HTML</title>
     <id>/topics/web-components-/-html</id>
-    <updated>2019-08-21T15:04:55-04:00</updated>
+    <updated>2019-08-21T15:11:14-04:00</updated>
     <published>2019-08-15T17:01:42-04:00</published>
     <summary></summary>
     <link href="/topics/web-components-/-html"/>
@@ -113,9 +125,21 @@
     </content>
   </entry>
   <entry>
+    <title>User experience</title>
+    <id>/topics/user-experience</id>
+    <updated>2019-08-21T15:11:14-04:00</updated>
+    <published>2019-08-15T17:01:42-04:00</published>
+    <summary></summary>
+    <link href="/topics/user-experience"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Question driven teaching</title>
     <id>/question-driven-teaching</id>
-    <updated>2019-08-21T15:04:55-04:00</updated>
+    <updated>2019-08-21T15:11:14-04:00</updated>
     <published>2019-08-15T16:18:39-04:00</published>
     <summary>In all the technologies and skillsets we'll explore in this course, I want you to approach them with the same questions that I have explored in my career. These simple questions will help you decipher</summary>
     <link href="/question-driven-teaching"/>
@@ -135,7 +159,7 @@
   <entry>
     <title>Initial skills assessment</title>
     <id>/technologies-we-explore</id>
-    <updated>2019-08-21T15:04:55-04:00</updated>
+    <updated>2019-08-21T15:11:14-04:00</updated>
     <published>2019-08-15T16:17:19-04:00</published>
     <summary>It's not as scary as that title.We'll be exploring lots of different technologies through labs. In order to give me a good sense of what everyone's past experience is with these technologies, please </summary>
     <link href="/technologies-we-explore"/>
@@ -157,46 +181,9 @@
     </content>
   </entry>
   <entry>
-    <title>Automation / Docker / IFTTT</title>
-    <id>/topics/docker</id>
-    <updated>2019-08-21T15:04:55-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary></summary>
-    <link href="/topics/docker"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Let's do this!</title>
-    <id>/topics</id>
-    <updated>2019-08-21T15:04:55-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary>ARE YOU READY!?Are you ready to hit power level 9000!? Then read through these lessons.But seriously. We're going to work through these different topics to skill up and get a better feel f</summary>
-    <link href="/topics"/>
-    
-    <content type="html">
-      <![CDATA[ <grid-plate layout="6/6" responsive-size="xl" style="width: 100%;"><h2 slot="col-1">ARE YOU READY!?</h2>
-
-
-
-<p slot="col-1"><span style="font-size: 24px; letter-spacing: 0.5px; caret-color: rgb(25, 30, 35);">Are you ready to hit power level 9000!? Then read through these lessons.</span><br/></p>
-
-<meme-maker slot="col-2" alt="dragon ball z GIF by Geek & Sundry" image-url="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" bottom-text="Said no one... ever" imageurl="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" toptext="dragon ball z GIF by Geek & Sundry" style="width: 75%;"></meme-maker>
-
-
-
-
-</grid-plate>
-<p>But seriously. We're going to work through these different topics to skill up and get a better feel for the industry and how to participate in it.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Resources</title>
     <id>/resources</id>
-    <updated>2019-08-21T15:04:55-04:00</updated>
+    <updated>2019-08-21T15:11:14-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary>This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub / collaboration locationDigital Ocean - Easy to use server environmentHover / Google Domains - E</summary>
     <link href="/resources"/>
@@ -220,9 +207,21 @@
     </content>
   </entry>
   <entry>
+    <title>Automation / Docker / IFTTT</title>
+    <id>/topics/docker</id>
+    <updated>2019-08-21T15:11:14-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary></summary>
+    <link href="/topics/docker"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Accessibility</title>
     <id>/topics/accessibility</id>
-    <updated>2019-08-21T15:04:55-04:00</updated>
+    <updated>2019-08-21T15:11:14-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/topics/accessibility"/>
@@ -232,9 +231,34 @@
     </content>
   </entry>
   <entry>
+    <title>Let's do this!</title>
+    <id>/topics</id>
+    <updated>2019-08-21T15:11:14-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary>ARE YOU READY!?Are you ready to hit power level 9000!? Then read through these lessons.But seriously. We're going to work through these different topics to skill up and get a better feel f</summary>
+    <link href="/topics"/>
+    
+    <content type="html">
+      <![CDATA[ <grid-plate layout="6/6" responsive-size="xl" style="width: 100%;"><h2 slot="col-1">ARE YOU READY!?</h2>
+
+
+
+<p slot="col-1"><span style="font-size: 24px; letter-spacing: 0.5px; caret-color: rgb(25, 30, 35);">Are you ready to hit power level 9000!? Then read through these lessons.</span><br/></p>
+
+<meme-maker slot="col-2" alt="dragon ball z GIF by Geek & Sundry" image-url="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" bottom-text="Said no one... ever" imageurl="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" toptext="dragon ball z GIF by Geek & Sundry" style="width: 75%;"></meme-maker>
+
+
+
+
+</grid-plate>
+<p>But seriously. We're going to work through these different topics to skill up and get a better feel for the industry and how to participate in it.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>About the instructor (boring)</title>
     <id>/welcome/welcome/about-the-instructor</id>
-    <updated>2019-08-21T15:04:55-04:00</updated>
+    <updated>2019-08-21T15:11:14-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary>This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.My name is Bryan Ollendyke and I've been living workin</summary>
     <link href="/welcome/welcome/about-the-instructor"/>
@@ -261,7 +285,7 @@
   <entry>
     <title>Git / Github / Contribution</title>
     <id>/topics/git</id>
-    <updated>2019-08-21T15:04:55-04:00</updated>
+    <updated>2019-08-21T15:11:14-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/topics/git"/>
@@ -273,7 +297,7 @@
   <entry>
     <title>Syllabus</title>
     <id>/syllabus</id>
-    <updated>2019-08-21T15:04:55-04:00</updated>
+    <updated>2019-08-21T15:11:14-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary>A standard syllabus is a contract between us (literally). You will receive a standard syllabus on the first day of class and it will be attached to this page for future reference.</summary>
     <link href="/syllabus"/>
@@ -286,7 +310,7 @@
   <entry>
     <title>Welcome</title>
     <id>/welcome</id>
-    <updated>2019-08-21T15:04:55-04:00</updated>
+    <updated>2019-08-21T15:11:14-04:00</updated>
     <published>2019-08-15T15:46:06-04:00</published>
     <summary>IST 402: Emerging TechnologiesMy name is Bryan Ollendyke, and welcome to IST 402: Emerging Tech!I'm excited to expose you to the ideas and technologies I wish I had been exposed to when I was</summary>
     <link href="/welcome"/>
