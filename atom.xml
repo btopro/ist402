@@ -117,15 +117,16 @@
   <entry>
     <title>Labs</title>
     <id>/labs</id>
-    <updated>2019-08-23T13:11:45-04:00</updated>
+    <updated>2019-08-23T13:13:01-04:00</updated>
     <published>2019-08-23T09:52:38-04:00</published>
     <summary>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.Remember t</summary>
     <link href="/labs"/>
     
     <content type="html">
       <![CDATA[ <p>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.</p>
-<p><b>Remember that after each lab you have to do a concise overview of the topic in the form of a blog post and a YouTube explainer video.</b>
+<p><b>Remember that after each lab you have to do a concise overview of the topic in the form of a blog post and a YouTube explainer video, then submit it to Slack for review.</b>
 </p>
+<p>We'll start out class the following week reviewing some videos and posts created by the class to point out what worked well and what could have been done better in presenting the previous topic.</p>
  ]]>
     </content>
   </entry>
