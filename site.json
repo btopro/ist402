@@ -141,10 +141,22 @@
             "order": "0",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "Lab 1 -\u00a0Building your digital identity",
-            "description": "",
+            "description": "August 28th, 2019 - Lab 1 \/ first classThis is a warm up lab that will help set the stage for the platforms we'll use for the rest of the semester.Create a Slack account and join two slack channels",
             "metadata": {
                 "created": 1566568358,
-                "updated": 1566568358
+                "updated": 1566572221,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 1,
+                    "paragraphs": 1,
+                    "schema": [],
+                    "tags": {
+                        "h2": 1,
+                        "p": 1,
+                        "ol": 1
+                    },
+                    "elements": 3
+                }
             }
         },
         {
