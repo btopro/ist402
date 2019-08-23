@@ -3,7 +3,7 @@
   <title>ist402</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>IST 402 course content space</subtitle>
-  <updated>2019-08-21T15:30:37-04:00</updated>
+  <updated>2019-08-23T09:52:38-04:00</updated>
   <author>
       <name></name>
   </author>
@@ -134,6 +134,18 @@
     </content>
   </entry>
   <entry>
+    <title>Responsive / Mobile design</title>
+    <id>/topics/responsive-/-mobile-design</id>
+    <updated>2019-08-23T09:52:38-04:00</updated>
+    <published>2019-08-16T11:09:45-04:00</published>
+    <summary></summary>
+    <link href="/topics/responsive-/-mobile-design"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Project</title>
     <id>/project</id>
     <updated>2019-08-23T09:52:38-04:00</updated>
@@ -148,12 +160,12 @@
     </content>
   </entry>
   <entry>
-    <title>Responsive / Mobile design</title>
-    <id>/topics/responsive-/-mobile-design</id>
+    <title>Web components / HTML</title>
+    <id>/topics/web-components-/-html</id>
     <updated>2019-08-23T09:52:38-04:00</updated>
-    <published>2019-08-16T11:09:45-04:00</published>
+    <published>2019-08-15T17:01:42-04:00</published>
     <summary></summary>
-    <link href="/topics/responsive-/-mobile-design"/>
+    <link href="/topics/web-components-/-html"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>
@@ -193,18 +205,6 @@
     <published>2019-08-15T17:01:42-04:00</published>
     <summary></summary>
     <link href="/topics/open-source-software"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Web components / HTML</title>
-    <id>/topics/web-components-/-html</id>
-    <updated>2019-08-23T09:52:38-04:00</updated>
-    <published>2019-08-15T17:01:42-04:00</published>
-    <summary></summary>
-    <link href="/topics/web-components-/-html"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>
@@ -279,6 +279,31 @@
     </content>
   </entry>
   <entry>
+    <title>Topic overview</title>
+    <id>/topics</id>
+    <updated>2019-08-23T09:52:55-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary>ARE YOU READY!?Are you ready to hit power level 9000!? Then read through these lessons.But seriously. We&#39;re going to work through these different topics to skill up and get a better feel f</summary>
+    <link href="/topics"/>
+    
+    <content type="html">
+      <![CDATA[ <grid-plate layout="6/6" responsive-size="xl" style="width: 100%;"><h2 slot="col-1">ARE YOU READY!?</h2>
+
+
+
+<p slot="col-1"><span style="font-size: 24px; letter-spacing: 0.5px; caret-color: rgb(25, 30, 35);">Are you ready to hit power level 9000!? Then read through these lessons.</span><br/></p>
+
+<meme-maker slot="col-2" alt="dragon ball z GIF by Geek & Sundry" image-url="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" bottom-text="Said no one... ever" imageurl="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" toptext="dragon ball z GIF by Geek & Sundry" style="width: 75%;"></meme-maker>
+
+
+
+
+</grid-plate>
+<p>But seriously. We're going to work through these different topics to skill up and get a better feel for the industry and how to participate in it.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Resources</title>
     <id>/resources</id>
     <updated>2019-08-23T09:52:38-04:00</updated>
@@ -314,31 +339,6 @@
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Let's do this!</title>
-    <id>/topics</id>
-    <updated>2019-08-23T09:52:38-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary>ARE YOU READY!?Are you ready to hit power level 9000!? Then read through these lessons.But seriously. We're going to work through these different topics to skill up and get a better feel f</summary>
-    <link href="/topics"/>
-    
-    <content type="html">
-      <![CDATA[ <grid-plate layout="6/6" responsive-size="xl" style="width: 100%;"><h2 slot="col-1">ARE YOU READY!?</h2>
-
-
-
-<p slot="col-1"><span style="font-size: 24px; letter-spacing: 0.5px; caret-color: rgb(25, 30, 35);">Are you ready to hit power level 9000!? Then read through these lessons.</span><br/></p>
-
-<meme-maker slot="col-2" alt="dragon ball z GIF by Geek & Sundry" image-url="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" bottom-text="Said no one... ever" imageurl="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" toptext="dragon ball z GIF by Geek & Sundry" style="width: 75%;"></meme-maker>
-
-
-
-
-</grid-plate>
-<p>But seriously. We're going to work through these different topics to skill up and get a better feel for the industry and how to participate in it.</p>
- ]]>
     </content>
   </entry>
   <entry>
