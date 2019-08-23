@@ -226,20 +226,21 @@
             "order": "2",
             "parent": null,
             "title": "Goals.. for you!",
-            "description": "My goals for you to learn during this course include...Learning not just what a technology is but...Who's using it, what industries, what web servicesGetting hands on and implementing it small scal",
+            "description": "My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...Learning not just what a technology is but...Who's using it, what ",
             "metadata": {
                 "created": 1566414674,
-                "updated": 1566415837,
+                "updated": 1566567689,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 1,
+                    "paragraphs": 2,
                     "schema": [],
                     "tags": {
-                        "p": 1,
-                        "ul": 1
+                        "p": 2,
+                        "ul": 1,
+                        "meme-maker": 1
                     },
-                    "elements": 2
+                    "elements": 4
                 }
             }
         },
