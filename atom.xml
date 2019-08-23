@@ -400,26 +400,33 @@
   <entry>
     <title>Resources</title>
     <id>/resources</id>
-    <updated>2019-08-23T09:52:38-04:00</updated>
+    <updated>2019-08-23T11:00:50-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
-    <summary>This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub / collaboration locationDigital Ocean - Easy to use server environmentHover / Google Domains - E</summary>
+    <summary>This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub / collaboration locationDigital Ocean - Easy to use server environmentHover / Google Domains</summary>
     <link href="/resources"/>
     
     <content type="html">
       <![CDATA[ <p>This list will keep growing</p>
 <p><a href="https://github.com">Github</a>
+
  - Popular code sharing space</p>
 <p><a href="https://slack.com">Slack</a>
+
  - Popular productivity hub / collaboration location</p>
 <p><a href="https://digitalocean.com">Digital Ocean </a>
+
 - Easy to use server environment</p>
 <p><a href="https://hover.com">Hover</a>
+
  / <a href="https://domains.google.com">Google Domains</a>
+
  - Easy to buy domain registrar</p>
 <p><a href="https://elmsln.org/">ELMS:LN</a>
+
  - Penn State developed learning platform</p>
 <p><a href="https://haxtheweb.org/">HAXcms</a>
- - Penn State developed flat file CMS (powers this website)</p>
+
+ - Penn State developed flat file CMS (powers this course site)</p>
  ]]>
     </content>
   </entry>
