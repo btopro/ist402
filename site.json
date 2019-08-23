@@ -137,14 +137,14 @@
         {
             "id": "item-71734ca0-b7cd-4ee4-842d-7a2ef440cd3d",
             "indent": "1",
-            "location": "pages\/labs\/labs\/digital-identity\/index.html",
+            "location": "pages\/labs\/labs\/building-your-digital-identity\/index.html",
             "order": "0",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "Lab 1 -\u00a0Building your digital identity",
             "description": "August 28th, 2019 - Lab 1 \/ first classThis is a warm up lab that will help set the stage for the platforms we&#39;ll use for the rest of the semester.Create a Slack account and join two slack channels",
             "metadata": {
                 "created": 1566568358,
-                "updated": 1566575906,
+                "updated": 1566575930,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 1,

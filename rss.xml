@@ -10,7 +10,7 @@
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Lab 1 - Building your digital identity</title>
-      <link>/labs/labs/digital-identity</link>
+      <link>/labs/labs/building-your-digital-identity</link>
       <description>
           <![CDATA[ <h2>August 28th, 2019 - Lab 1 / first class</h2>
 <p>This is a warm up lab that will help set the stage for the platforms we'll use for the rest of the semester.</p>
@@ -109,7 +109,7 @@
  ]]>
       </description>
       <category></category>
-      <guid>/labs/labs/digital-identity</guid>
+      <guid>/labs/labs/building-your-digital-identity</guid>
       <pubDate>Fri, 23 Aug 2019 09:52:38 -0400</pubDate>
     </item>
     <item>
