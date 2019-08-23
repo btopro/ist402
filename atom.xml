@@ -10,11 +10,11 @@
   <id>/feed</id>
   <entry>
     <title>Lab 1 - Building your digital identity</title>
-    <id>/labs/blank</id>
-    <updated>2019-08-23T11:00:17-04:00</updated>
+    <id>/labs/labs/digital-identity</id>
+    <updated>2019-08-23T11:58:26-04:00</updated>
     <published>2019-08-23T09:52:38-04:00</published>
-    <summary>August 28th, 2019 - Lab 1 / first classThis is a warm up lab that will help set the stage for the platforms we'll use for the rest of the semester.Create a Slack account and join two slack channels</summary>
-    <link href="/labs/blank"/>
+    <summary>August 28th, 2019 - Lab 1 / first classThis is a warm up lab that will help set the stage for the platforms we&#39;ll use for the rest of the semester.Create a Slack account and join two slack channels</summary>
+    <link href="/labs/labs/digital-identity"/>
     
     <content type="html">
       <![CDATA[ <h2>August 28th, 2019 - Lab 1 / first class</h2>
