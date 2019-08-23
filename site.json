@@ -164,10 +164,27 @@
             "order": "0",
             "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
             "title": "Building your digital identity",
-            "description": "",
+            "description": "No one knows who you are if you're not effectively communicating. I recall a colleague several years ago getting pissed that I was invited to speak some place. \"It's like no one knows I exist or appre",
             "metadata": {
                 "created": 1565902902,
-                "updated": 1566415837
+                "updated": 1566568284,
+                "readtime": 2,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 6,
+                    "schema": [
+                        {
+                            "resource": "#d7c9f858-a9be-b117-7795",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "p": 6,
+                        "ul": 1,
+                        "a11y-gif-player": 1
+                    },
+                    "elements": 8
+                }
             }
         },
         {
