@@ -399,19 +399,6 @@
             }
         },
         {
-            "id": "item-1929ac1a-e7bf-4846-80cc-eeab54a24d9b",
-            "indent": "1",
-            "location": "pages\/topics\/responsive-\/-mobile-design\/index.html",
-            "order": "6",
-            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
-            "title": "Responsive \/ Mobile design",
-            "description": "",
-            "metadata": {
-                "created": 1565968185,
-                "updated": 1566673837
-            }
-        },
-        {
             "id": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
             "indent": 0,
             "location": "pages\/topics\/index.html",

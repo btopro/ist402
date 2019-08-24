@@ -3,7 +3,7 @@
   <title>ist402</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>IST 402 course content space</subtitle>
-  <updated>2019-08-23T09:52:38-04:00</updated>
+  <updated>2019-08-24T15:10:37-04:00</updated>
   <author>
       <name></name>
   </author>
@@ -252,18 +252,6 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
     </content>
   </entry>
   <entry>
-    <title>Responsive / Mobile design</title>
-    <id>/topics/responsive-/-mobile-design</id>
-    <updated>2019-08-24T15:10:37-04:00</updated>
-    <published>2019-08-16T11:09:45-04:00</published>
-    <summary></summary>
-    <link href="/topics/responsive-/-mobile-design"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Project</title>
     <id>/project</id>
     <updated>2019-08-24T15:10:37-04:00</updated>
@@ -275,18 +263,6 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
       <![CDATA[ <p>The last week of the semester there will be a slightly longer lab that I'm calling a project. You'll have to put together a pitch for one of multiple problem spaces but it's a technical pitch. You'll be asked to use as many technologies we used in the course to express how you'll solution will utilize these technologies, while it still being in the form of a pitch.</p>
 <p>This will be explained more as we go into the course but it's effectively a double lab as far as points and time involved. There is no final exam so it's just a final project</p>
  ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Web components / HTML</title>
-    <id>/topics/web-components-/-html</id>
-    <updated>2019-08-24T15:10:37-04:00</updated>
-    <published>2019-08-15T17:01:42-04:00</published>
-    <summary></summary>
-    <link href="/topics/web-components-/-html"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
     </content>
   </entry>
   <entry>
@@ -323,6 +299,18 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
     <published>2019-08-15T17:01:42-04:00</published>
     <summary></summary>
     <link href="/topics/open-source-software"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Web components / HTML</title>
+    <id>/topics/web-components-/-html</id>
+    <updated>2019-08-24T15:10:37-04:00</updated>
+    <published>2019-08-15T17:01:42-04:00</published>
+    <summary></summary>
+    <link href="/topics/web-components-/-html"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>

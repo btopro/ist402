@@ -6,7 +6,7 @@
     <description>IST 402 course content space</description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Aug 2019 09:52:38 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 24 Aug 2019 15:10:37 -0400</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Lab 1 - Building your digital identity</title>
@@ -242,16 +242,6 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
       <pubDate>Wed, 21 Aug 2019 15:04:55 -0400</pubDate>
     </item>
     <item>
-      <title>Responsive / Mobile design</title>
-      <link>/topics/responsive-/-mobile-design</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics/responsive-/-mobile-design</guid>
-      <pubDate>Fri, 16 Aug 2019 11:09:45 -0400</pubDate>
-    </item>
-    <item>
       <title>Project</title>
       <link>/project</link>
       <description>
@@ -262,16 +252,6 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
       <category></category>
       <guid>/project</guid>
       <pubDate>Fri, 16 Aug 2019 11:09:45 -0400</pubDate>
-    </item>
-    <item>
-      <title>Web components / HTML</title>
-      <link>/topics/web-components-/-html</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics/web-components-/-html</guid>
-      <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
     </item>
     <item>
       <title>Building your digital identity</title>
@@ -306,6 +286,16 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
       </description>
       <category></category>
       <guid>/topics/open-source-software</guid>
+      <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Web components / HTML</title>
+      <link>/topics/web-components-/-html</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/topics/web-components-/-html</guid>
       <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
     </item>
     <item>
