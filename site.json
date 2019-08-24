@@ -349,19 +349,6 @@
             }
         },
         {
-            "id": "item-7af30cf6-a474-4c0e-8044-cdbf0b3374ed",
-            "indent": "1",
-            "location": "pages\/topics\/user-experience\/index.html",
-            "order": "5",
-            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
-            "title": "User experience",
-            "description": "",
-            "metadata": {
-                "created": 1565902902,
-                "updated": 1566673837
-            }
-        },
-        {
             "id": "item-0e26f609-2f2a-41cb-a142-e222a7def3f7",
             "indent": 0,
             "location": "pages\/technologies-we-explore\/index.html",

@@ -254,16 +254,6 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
       <pubDate>Fri, 16 Aug 2019 11:09:45 -0400</pubDate>
     </item>
     <item>
-      <title>Web components / HTML</title>
-      <link>/topics/web-components-/-html</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics/web-components-/-html</guid>
-      <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
-    </item>
-    <item>
       <title>Building your digital identity</title>
       <link>/topics/building-your-digital-identity</link>
       <description>
@@ -299,13 +289,13 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
       <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
     </item>
     <item>
-      <title>User experience</title>
-      <link>/topics/user-experience</link>
+      <title>Web components / HTML</title>
+      <link>/topics/web-components-/-html</link>
       <description>
           <![CDATA[ <p>Ex uno Plures</p> ]]>
       </description>
       <category></category>
-      <guid>/topics/user-experience</guid>
+      <guid>/topics/web-components-/-html</guid>
       <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
     </item>
     <item>

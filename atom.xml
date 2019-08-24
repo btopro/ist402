@@ -266,18 +266,6 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
     </content>
   </entry>
   <entry>
-    <title>Web components / HTML</title>
-    <id>/topics/web-components-/-html</id>
-    <updated>2019-08-24T15:10:37-04:00</updated>
-    <published>2019-08-15T17:01:42-04:00</published>
-    <summary></summary>
-    <link href="/topics/web-components-/-html"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Building your digital identity</title>
     <id>/topics/building-your-digital-identity</id>
     <updated>2019-08-24T15:10:37-04:00</updated>
@@ -317,12 +305,12 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
     </content>
   </entry>
   <entry>
-    <title>User experience</title>
-    <id>/topics/user-experience</id>
+    <title>Web components / HTML</title>
+    <id>/topics/web-components-/-html</id>
     <updated>2019-08-24T15:10:37-04:00</updated>
     <published>2019-08-15T17:01:42-04:00</published>
     <summary></summary>
-    <link href="/topics/user-experience"/>
+    <link href="/topics/web-components-/-html"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>
