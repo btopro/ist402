@@ -423,19 +423,6 @@
             }
         },
         {
-            "id": "item-3a44207a-5776-4ed4-88f9-95880752bb4b",
-            "indent": "1",
-            "location": "pages\/topics\/docker\/index.html",
-            "order": "7",
-            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
-            "title": "Automation \/ Docker \/ IFTTT",
-            "description": "",
-            "metadata": {
-                "created": 1565898527,
-                "updated": 1566673837
-            }
-        },
-        {
             "id": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "indent": 0,
             "location": "pages\/labs\/index.html",

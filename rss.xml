@@ -254,6 +254,26 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
       <pubDate>Fri, 16 Aug 2019 11:09:45 -0400</pubDate>
     </item>
     <item>
+      <title>Web components / HTML</title>
+      <link>/topics/web-components-/-html</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/topics/web-components-/-html</guid>
+      <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>User experience</title>
+      <link>/topics/user-experience</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/topics/user-experience</guid>
+      <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
+    </item>
+    <item>
       <title>Building your digital identity</title>
       <link>/topics/building-your-digital-identity</link>
       <description>
@@ -286,26 +306,6 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
       </description>
       <category></category>
       <guid>/topics/open-source-software</guid>
-      <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>Web components / HTML</title>
-      <link>/topics/web-components-/-html</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics/web-components-/-html</guid>
-      <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>User experience</title>
-      <link>/topics/user-experience</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics/user-experience</guid>
       <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
     </item>
     <item>
@@ -347,16 +347,6 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
       <category></category>
       <guid>/technologies-we-explore</guid>
       <pubDate>Thu, 15 Aug 2019 16:17:19 -0400</pubDate>
-    </item>
-    <item>
-      <title>Automation / Docker / IFTTT</title>
-      <link>/topics/docker</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics/docker</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
       <title>Topic overview</title>
