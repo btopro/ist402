@@ -508,13 +508,13 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Syllabus</title>
     <id>/syllabus</id>
-    <updated>2019-08-23T09:52:38-04:00</updated>
+    <updated>2019-08-24T15:10:09-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
-    <summary>A standard syllabus is a contract between us (literally). You will receive a standard syllabus on the first day of class and it will be attached to this page for future reference.</summary>
+    <summary>A standard syllabus is a contract between us. You will receive a standard syllabus on the first day of class and it will be attached to this page for future reference.</summary>
     <link href="/syllabus"/>
     
     <content type="html">
-      <![CDATA[ <p>A standard syllabus is a contract between us (literally). You will receive a standard syllabus on the first day of class and it will be attached to this page for future reference.</p>
+      <![CDATA[ <p>A standard syllabus is a contract between us. You will receive a standard syllabus on the first day of class and it will be attached to this page for future reference.</p>
  ]]>
     </content>
   </entry>
