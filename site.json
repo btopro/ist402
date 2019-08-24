@@ -261,10 +261,10 @@
             "order": "1",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "Lab 2 - Git \/ Github \/ Contribution",
-            "description": "September 4th, 2019 - Lab 2We've talked about git for version control and explored Github a bit and how teams work together using the platform. Now let's dig in!",
+            "description": "September 4th, 2019 - Lab 2We've talked about git for version control and explored Github a bit and how teams work together using the platform. Now let's dig in!Create a GitHub account",
             "metadata": {
                 "created": 1566673990,
-                "updated": 1566675469,
+                "updated": 1566678462,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 1,
@@ -272,9 +272,10 @@
                     "schema": [],
                     "tags": {
                         "p": 3,
-                        "h2": 1
+                        "h2": 1,
+                        "ol": 1
                     },
-                    "elements": 4
+                    "elements": 5
                 }
             }
         },
