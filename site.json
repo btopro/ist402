@@ -257,14 +257,14 @@
         {
             "id": "item-32a18c3d-2429-48b0-a0e3-ac09ec410bbd",
             "indent": "1",
-            "location": "pages\/labs\/lab2\/index.html",
+            "location": "pages\/labs\/git\/index.html",
             "order": "1",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "Lab 2 - Git \/ Github \/ Contribution",
             "description": "September 4th, 2019 - Lab 2We&#39;ve talked about git for version control and explored Github a bit and how teams work together using the platform. Now let&#39;s dig in!Create a GitHub account",
             "metadata": {
                 "created": 1566673990,
-                "updated": 1566679197,
+                "updated": 1566679219,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 1,
