@@ -324,19 +324,6 @@
             }
         },
         {
-            "id": "item-f545ac21-9c43-4cc6-98fa-46e6e73634a9",
-            "indent": "1",
-            "location": "pages\/topics\/accessibility\/index.html",
-            "order": "4",
-            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
-            "title": "Accessibility",
-            "description": "",
-            "metadata": {
-                "created": 1565898527,
-                "updated": 1566673837
-            }
-        },
-        {
             "id": "item-92214bfc-6937-414b-878b-04341e61d70d",
             "indent": 0,
             "location": "pages\/after-class-reflection\/index.html",

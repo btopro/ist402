@@ -264,16 +264,6 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
       <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
     </item>
     <item>
-      <title>User experience</title>
-      <link>/topics/user-experience</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics/user-experience</guid>
-      <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
-    </item>
-    <item>
       <title>Building your digital identity</title>
       <link>/topics/building-your-digital-identity</link>
       <description>
@@ -306,6 +296,16 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
       </description>
       <category></category>
       <guid>/topics/open-source-software</guid>
+      <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>User experience</title>
+      <link>/topics/user-experience</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/topics/user-experience</guid>
       <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
     </item>
     <item>
@@ -400,16 +400,6 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
       </description>
       <category></category>
       <guid>/resources</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Accessibility</title>
-      <link>/topics/accessibility</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/topics/accessibility</guid>
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
