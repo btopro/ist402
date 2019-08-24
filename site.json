@@ -287,19 +287,6 @@
             }
         },
         {
-            "id": "item-03307c52-b638-47ce-b95d-1eb56fe931e1",
-            "indent": "1",
-            "location": "pages\/topics\/web-components-\/-html\/index.html",
-            "order": "3",
-            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
-            "title": "Web components \/ HTML",
-            "description": "",
-            "metadata": {
-                "created": 1565902902,
-                "updated": 1566673837
-            }
-        },
-        {
             "id": "item-af1f84a0-8331-4a64-90d7-aa555fe76116",
             "indent": 0,
             "location": "pages\/class-time-together\/index.html",
