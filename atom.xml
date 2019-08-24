@@ -11,9 +11,9 @@
   <entry>
     <title>Lab 2 - Git / Github / Contribution</title>
     <id>/labs/git</id>
-    <updated>2019-08-24T16:40:19-04:00</updated>
+    <updated>2019-08-24T16:41:55-04:00</updated>
     <published>2019-08-24T15:13:10-04:00</published>
-    <summary>September 4th, 2019 - Lab 2We&#39;ve talked about git for version control and explored Github a bit and how teams work together using the platform. Now let&#39;s dig in!Create a GitHub account</summary>
+    <summary>September 4th, 2019 - Lab 2We've talked about git for version control and explored Github a bit and how teams work together using the platform. Now let's dig in!Create a GitHub accountFork th</summary>
     <link href="/labs/git"/>
     
     <content type="html">
@@ -22,9 +22,14 @@
 <h2>September 4th, 2019 - Lab 2</h2>
 <p>We've talked about git for version control and explored Github a bit and how teams work together using the platform. Now let's dig in!</p>
 <ol><li>Create a <a href="http://github.com/">GitHub account</a>
+
 </li>
 
-<li></li>
+
+<li>Fork this repo <a href="https://github.com/btopro/lab2/blob/master/README.md">https://github.com/btopro/lab2/blob/master/README.md</a>
+ and follow the directions found there</li>
+<li><br/></li>
+
 </ol>
 <p></p>
  ]]>
