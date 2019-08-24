@@ -291,19 +291,6 @@
             }
         },
         {
-            "id": "item-cea67c3f-0678-47fc-a7b6-546f232f9556",
-            "indent": "1",
-            "location": "pages\/topics\/open-source-software\/index.html",
-            "order": "2",
-            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
-            "title": "Open source software Communities",
-            "description": "",
-            "metadata": {
-                "created": 1565902902,
-                "updated": 1566673990
-            }
-        },
-        {
             "id": "item-36bcf954-e790-478c-bf90-1bd711ae80ca",
             "indent": 0,
             "location": "pages\/goals-for-you-\/index.html",
