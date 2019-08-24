@@ -9,7 +9,7 @@
         "site": {
             "name": "ist402",
             "created": 1565898366,
-            "updated": 1566568358,
+            "updated": 1566673837,
             "git": {}
         },
         "theme": {
@@ -79,7 +79,7 @@
             "description": "IST 402: Emerging TechnologiesMy name is Bryan Ollendyke, and welcome to IST 402: Emerging Tech!I'm excited to expose you to the ideas and technologies I wish I had been exposed to when I was",
             "metadata": {
                 "created": 1565898366,
-                "updated": 1566568358,
+                "updated": 1566673837,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/\/headshot.jpg",
@@ -115,7 +115,7 @@
             "description": "This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.My name is Bryan Ollendyke and I've been living workin",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1566568358,
+                "updated": 1566673837,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 0,
@@ -144,7 +144,7 @@
             "description": "August 28th, 2019 - Lab 1 \/ first classThis is a warm up lab that will help set the stage for the platforms we&#39;ll use for the rest of the semester.Create a Slack account and join two slack channels",
             "metadata": {
                 "created": 1566568358,
-                "updated": 1566575939,
+                "updated": 1566673837,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 1,
@@ -169,7 +169,7 @@
             "description": "No one knows who you are if you're not effectively communicating. I recall a colleague several years ago getting pissed that I was invited to speak some place. \"It's like no one knows I exist or appre",
             "metadata": {
                 "created": 1565902902,
-                "updated": 1566568358,
+                "updated": 1566673837,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 0,
@@ -199,7 +199,7 @@
             "description": "In all the technologies and skillsets we'll explore in this course, I want you to approach them with the same questions that I have explored in my career. These simple questions will help you decipher",
             "metadata": {
                 "created": 1565900319,
-                "updated": 1566568358,
+                "updated": 1566673837,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -222,7 +222,7 @@
             "description": "A standard syllabus is a contract between us. You will receive a standard syllabus on the first day of class and it will be attached to this page for future reference.",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1566673809,
+                "updated": 1566673837,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -245,7 +245,7 @@
             "description": "",
             "metadata": {
                 "created": 1565902902,
-                "updated": 1566568358
+                "updated": 1566673837
             }
         },
         {
@@ -258,7 +258,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1566568358
+                "updated": 1566673837
             }
         },
         {
@@ -271,7 +271,7 @@
             "description": "My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...Learning not just what a technology is but...Who's using it, what ",
             "metadata": {
                 "created": 1566414674,
-                "updated": 1566568358,
+                "updated": 1566673837,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -287,6 +287,19 @@
             }
         },
         {
+            "id": "item-03307c52-b638-47ce-b95d-1eb56fe931e1",
+            "indent": "1",
+            "location": "pages\/topics\/web-components-\/-html\/index.html",
+            "order": "3",
+            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
+            "title": "Web components \/ HTML",
+            "description": "",
+            "metadata": {
+                "created": 1565902902,
+                "updated": 1566673837
+            }
+        },
+        {
             "id": "item-af1f84a0-8331-4a64-90d7-aa555fe76116",
             "indent": 0,
             "location": "pages\/class-time-together\/index.html",
@@ -296,7 +309,7 @@
             "description": "We're going to strive for this general flow to each week of the semester. A few specific topics will deviate and we may have some guest speakers, but generally this is what class will look like togeth",
             "metadata": {
                 "created": 1566414295,
-                "updated": 1566580444,
+                "updated": 1566673837,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -311,19 +324,6 @@
             }
         },
         {
-            "id": "item-03307c52-b638-47ce-b95d-1eb56fe931e1",
-            "indent": "1",
-            "location": "pages\/topics\/web-components-\/-html\/index.html",
-            "order": "3",
-            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
-            "title": "Web components \/ HTML",
-            "description": "",
-            "metadata": {
-                "created": 1565902902,
-                "updated": 1566568358
-            }
-        },
-        {
             "id": "item-f545ac21-9c43-4cc6-98fa-46e6e73634a9",
             "indent": "1",
             "location": "pages\/topics\/accessibility\/index.html",
@@ -333,7 +333,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1566568358
+                "updated": 1566673837
             }
         },
         {
@@ -346,7 +346,7 @@
             "description": "All assignments are setup as labs and you'll be starting into them at the end of class. Once finished with the lab, you'll demonstrate you've done the work by reflecting on it in the form of a written",
             "metadata": {
                 "created": 1566414674,
-                "updated": 1566580504,
+                "updated": 1566673837,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 2,
@@ -371,7 +371,7 @@
             "description": "",
             "metadata": {
                 "created": 1565902902,
-                "updated": 1566568358
+                "updated": 1566673837
             }
         },
         {
@@ -384,7 +384,7 @@
             "description": "It's not as scary as that title.We'll be exploring lots of different technologies through labs. In order to give me a good sense of what everyone's past experience is with these technologies, please ",
             "metadata": {
                 "created": 1565900239,
-                "updated": 1566568358,
+                "updated": 1566673837,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -408,7 +408,7 @@
             "description": "",
             "metadata": {
                 "created": 1565968185,
-                "updated": 1566568358
+                "updated": 1566673837
             }
         },
         {
@@ -421,7 +421,7 @@
             "description": "ARE YOU READY!?Are you ready to hit power level 9000!? Then read through these lessons.But seriously. We&#39;re going to work through these different topics to skill up and get a better feel f",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1566568375,
+                "updated": 1566673837,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -445,7 +445,7 @@
             "description": "",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1566568358
+                "updated": 1566673837
             }
         },
         {
@@ -458,7 +458,7 @@
             "description": "We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.Remember t",
             "metadata": {
                 "created": 1566568358,
-                "updated": 1566580381,
+                "updated": 1566673837,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -481,7 +481,7 @@
             "description": "The last week of the semester there will be a slightly longer lab that I'm calling a project. You'll have to put together a pitch for one of multiple problem spaces but it's a technical pitch. You'll ",
             "metadata": {
                 "created": 1565968185,
-                "updated": 1566568358,
+                "updated": 1566673837,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -504,7 +504,7 @@
             "description": "This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub \/ collaboration locationDigital Ocean - Easy to use server environmentHover \/ Google Domains",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1566572450,
+                "updated": 1566673837,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,

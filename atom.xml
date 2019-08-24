@@ -11,7 +11,7 @@
   <entry>
     <title>Lab 1 - Building your digital identity</title>
     <id>/labs/building-your-digital-identity</id>
-    <updated>2019-08-23T11:58:59-04:00</updated>
+    <updated>2019-08-24T15:10:37-04:00</updated>
     <published>2019-08-23T09:52:38-04:00</published>
     <summary>August 28th, 2019 - Lab 1 / first classThis is a warm up lab that will help set the stage for the platforms we&#39;ll use for the rest of the semester.Create a Slack account and join two slack channels</summary>
     <link href="/labs/building-your-digital-identity"/>
@@ -117,7 +117,7 @@
   <entry>
     <title>Labs</title>
     <id>/labs</id>
-    <updated>2019-08-23T13:13:01-04:00</updated>
+    <updated>2019-08-24T15:10:37-04:00</updated>
     <published>2019-08-23T09:52:38-04:00</published>
     <summary>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.Remember t</summary>
     <link href="/labs"/>
@@ -133,7 +133,7 @@
   <entry>
     <title>Goals.. for you!</title>
     <id>/goals-for-you-</id>
-    <updated>2019-08-23T09:52:38-04:00</updated>
+    <updated>2019-08-24T15:10:37-04:00</updated>
     <published>2019-08-21T15:11:14-04:00</published>
     <summary>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...Learning not just what a technology is but...Who's using it, what </summary>
     <link href="/goals-for-you-"/>
@@ -177,7 +177,7 @@
   <entry>
     <title>After class reflection</title>
     <id>/after-class-reflection</id>
-    <updated>2019-08-23T13:15:04-04:00</updated>
+    <updated>2019-08-24T15:10:37-04:00</updated>
     <published>2019-08-21T15:11:14-04:00</published>
     <summary>All assignments are setup as labs and you'll be starting into them at the end of class. Once finished with the lab, you'll demonstrate you've done the work by reflecting on it in the form of a written</summary>
     <link href="/after-class-reflection"/>
@@ -228,7 +228,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Class time together</title>
     <id>/class-time-together</id>
-    <updated>2019-08-23T13:14:04-04:00</updated>
+    <updated>2019-08-24T15:10:37-04:00</updated>
     <published>2019-08-21T15:04:55-04:00</published>
     <summary>We're going to strive for this general flow to each week of the semester. A few specific topics will deviate and we may have some guest speakers, but generally this is what class will look like togeth</summary>
     <link href="/class-time-together"/>
@@ -254,7 +254,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Responsive / Mobile design</title>
     <id>/topics/responsive-/-mobile-design</id>
-    <updated>2019-08-23T09:52:38-04:00</updated>
+    <updated>2019-08-24T15:10:37-04:00</updated>
     <published>2019-08-16T11:09:45-04:00</published>
     <summary></summary>
     <link href="/topics/responsive-/-mobile-design"/>
@@ -266,7 +266,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Project</title>
     <id>/project</id>
-    <updated>2019-08-23T09:52:38-04:00</updated>
+    <updated>2019-08-24T15:10:37-04:00</updated>
     <published>2019-08-16T11:09:45-04:00</published>
     <summary>The last week of the semester there will be a slightly longer lab that I'm calling a project. You'll have to put together a pitch for one of multiple problem spaces but it's a technical pitch. You'll </summary>
     <link href="/project"/>
@@ -280,7 +280,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Web components / HTML</title>
     <id>/topics/web-components-/-html</id>
-    <updated>2019-08-23T09:52:38-04:00</updated>
+    <updated>2019-08-24T15:10:37-04:00</updated>
     <published>2019-08-15T17:01:42-04:00</published>
     <summary></summary>
     <link href="/topics/web-components-/-html"/>
@@ -292,7 +292,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Building your digital identity</title>
     <id>/topics/building-your-digital-identity</id>
-    <updated>2019-08-23T09:52:38-04:00</updated>
+    <updated>2019-08-24T15:10:37-04:00</updated>
     <published>2019-08-15T17:01:42-04:00</published>
     <summary>No one knows who you are if you're not effectively communicating. I recall a colleague several years ago getting pissed that I was invited to speak some place. "It's like no one knows I exist or appre</summary>
     <link href="/topics/building-your-digital-identity"/>
@@ -319,7 +319,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Open source software Communities</title>
     <id>/topics/open-source-software</id>
-    <updated>2019-08-23T09:52:38-04:00</updated>
+    <updated>2019-08-24T15:10:37-04:00</updated>
     <published>2019-08-15T17:01:42-04:00</published>
     <summary></summary>
     <link href="/topics/open-source-software"/>
@@ -331,7 +331,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>User experience</title>
     <id>/topics/user-experience</id>
-    <updated>2019-08-23T09:52:38-04:00</updated>
+    <updated>2019-08-24T15:10:37-04:00</updated>
     <published>2019-08-15T17:01:42-04:00</published>
     <summary></summary>
     <link href="/topics/user-experience"/>
@@ -343,7 +343,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Questions driven teaching</title>
     <id>/question-driven-teaching</id>
-    <updated>2019-08-23T09:52:38-04:00</updated>
+    <updated>2019-08-24T15:10:37-04:00</updated>
     <published>2019-08-15T16:18:39-04:00</published>
     <summary>In all the technologies and skillsets we'll explore in this course, I want you to approach them with the same questions that I have explored in my career. These simple questions will help you decipher</summary>
     <link href="/question-driven-teaching"/>
@@ -363,7 +363,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Initial skills assessment</title>
     <id>/technologies-we-explore</id>
-    <updated>2019-08-23T09:52:38-04:00</updated>
+    <updated>2019-08-24T15:10:37-04:00</updated>
     <published>2019-08-15T16:17:19-04:00</published>
     <summary>It's not as scary as that title.We'll be exploring lots of different technologies through labs. In order to give me a good sense of what everyone's past experience is with these technologies, please </summary>
     <link href="/technologies-we-explore"/>
@@ -387,7 +387,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Automation / Docker / IFTTT</title>
     <id>/topics/docker</id>
-    <updated>2019-08-23T09:52:38-04:00</updated>
+    <updated>2019-08-24T15:10:37-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/topics/docker"/>
@@ -399,7 +399,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Topic overview</title>
     <id>/topics</id>
-    <updated>2019-08-23T09:52:55-04:00</updated>
+    <updated>2019-08-24T15:10:37-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary>ARE YOU READY!?Are you ready to hit power level 9000!? Then read through these lessons.But seriously. We&#39;re going to work through these different topics to skill up and get a better feel f</summary>
     <link href="/topics"/>
@@ -424,7 +424,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Resources</title>
     <id>/resources</id>
-    <updated>2019-08-23T11:00:50-04:00</updated>
+    <updated>2019-08-24T15:10:37-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary>This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub / collaboration locationDigital Ocean - Easy to use server environmentHover / Google Domains</summary>
     <link href="/resources"/>
@@ -457,7 +457,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Accessibility</title>
     <id>/topics/accessibility</id>
-    <updated>2019-08-23T09:52:38-04:00</updated>
+    <updated>2019-08-24T15:10:37-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/topics/accessibility"/>
@@ -469,7 +469,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>About the instructor (boring)</title>
     <id>/welcome/welcome/about-the-instructor</id>
-    <updated>2019-08-23T09:52:38-04:00</updated>
+    <updated>2019-08-24T15:10:37-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary>This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.My name is Bryan Ollendyke and I've been living workin</summary>
     <link href="/welcome/welcome/about-the-instructor"/>
@@ -496,7 +496,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Git / Github / Contribution</title>
     <id>/topics/git</id>
-    <updated>2019-08-23T09:52:38-04:00</updated>
+    <updated>2019-08-24T15:10:37-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary></summary>
     <link href="/topics/git"/>
@@ -508,7 +508,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Syllabus</title>
     <id>/syllabus</id>
-    <updated>2019-08-24T15:10:09-04:00</updated>
+    <updated>2019-08-24T15:10:37-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary>A standard syllabus is a contract between us. You will receive a standard syllabus on the first day of class and it will be attached to this page for future reference.</summary>
     <link href="/syllabus"/>
@@ -521,7 +521,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Welcome</title>
     <id>/welcome</id>
-    <updated>2019-08-23T09:52:38-04:00</updated>
+    <updated>2019-08-24T15:10:37-04:00</updated>
     <published>2019-08-15T15:46:06-04:00</published>
     <summary>IST 402: Emerging TechnologiesMy name is Bryan Ollendyke, and welcome to IST 402: Emerging Tech!I'm excited to expose you to the ideas and technologies I wish I had been exposed to when I was</summary>
     <link href="/welcome"/>
