@@ -9,7 +9,7 @@
         "site": {
             "name": "ist402",
             "created": 1565898366,
-            "updated": 1566673990,
+            "updated": 1566844040,
             "git": {}
         },
         "theme": {
@@ -79,7 +79,7 @@
             "description": "IST 402: Emerging TechnologiesMy name is Bryan Ollendyke, and welcome to IST 402: Emerging Tech!I'm excited to expose you to the ideas and technologies I wish I had been exposed to when I was",
             "metadata": {
                 "created": 1565898366,
-                "updated": 1566673990,
+                "updated": 1566844040,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/\/headshot.jpg",
@@ -115,7 +115,7 @@
             "description": "This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.My name is Bryan Ollendyke and I've been living workin",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1566673990,
+                "updated": 1566844040,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 0,
@@ -135,6 +135,49 @@
             }
         },
         {
+            "id": "item-dad56398-4e61-4705-8b8a-55186055c2b5",
+            "indent": "1",
+            "location": "pages\/resources\/screencasting\/index.html",
+            "order": "0",
+            "parent": "item-cabad7a7-8b29-4e70-8786-1c60e33a7b90",
+            "title": "Screencasting",
+            "description": "",
+            "metadata": {
+                "created": 1566844040,
+                "updated": 1566844040
+            }
+        },
+        {
+            "id": "item-1ec5980a-48cc-40d9-9646-91b9ee438858",
+            "indent": "1",
+            "location": "pages\/topics\/building-your-digital-identity\/index.html",
+            "order": "0",
+            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
+            "title": "Building your digital identity",
+            "description": "No one knows who you are if you're not effectively communicating. I recall a colleague several years ago getting pissed that I was invited to speak some place. \"It's like no one knows I exist or appre",
+            "metadata": {
+                "created": 1565902902,
+                "updated": 1566844040,
+                "readtime": 2,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 7,
+                    "schema": [
+                        {
+                            "resource": "#d7c9f858-a9be-b117-7795",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "p": 7,
+                        "ul": 1,
+                        "a11y-gif-player": 1
+                    },
+                    "elements": 9
+                }
+            }
+        },
+        {
             "id": "item-71734ca0-b7cd-4ee4-842d-7a2ef440cd3d",
             "indent": "1",
             "location": "pages\/labs\/building-your-digital-identity\/index.html",
@@ -144,7 +187,7 @@
             "description": "August 28th, 2019 - Lab 1 \/ first classThis is a warm up lab that will help set the stage for the platforms we'll use for the rest of the semester.Create a Slack account and join two slack channels",
             "metadata": {
                 "created": 1566568358,
-                "updated": 1566843805,
+                "updated": 1566844040,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 1,
@@ -166,46 +209,16 @@
             }
         },
         {
-            "id": "item-1ec5980a-48cc-40d9-9646-91b9ee438858",
-            "indent": "1",
-            "location": "pages\/topics\/building-your-digital-identity\/index.html",
-            "order": "0",
-            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
-            "title": "Building your digital identity",
-            "description": "No one knows who you are if you're not effectively communicating. I recall a colleague several years ago getting pissed that I was invited to speak some place. \"It's like no one knows I exist or appre",
-            "metadata": {
-                "created": 1565902902,
-                "updated": 1566844026,
-                "readtime": 2,
-                "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 7,
-                    "schema": [
-                        {
-                            "resource": "#d7c9f858-a9be-b117-7795",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "p": 7,
-                        "ul": 1,
-                        "a11y-gif-player": 1
-                    },
-                    "elements": 9
-                }
-            }
-        },
-        {
             "id": "item-e0732067-8550-48ce-a287-bf2beceb0e81",
             "indent": "1",
             "location": "pages\/question-driven-teaching\/index.html",
-            "order": "0",
+            "order": "1",
             "parent": "item-cabad7a7-8b29-4e70-8786-1c60e33a7b90",
             "title": "Questions driven teaching",
             "description": "In all the technologies and skillsets we'll explore in this course, I want you to approach them with the same questions that I have explored in my career. These simple questions will help you decipher",
             "metadata": {
                 "created": 1565900319,
-                "updated": 1566673990,
+                "updated": 1566844040,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -228,7 +241,7 @@
             "description": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.Git provides a command line interface or CL",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1566674871,
+                "updated": 1566844040,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/\/2019-08-24_15-21-52.png",
@@ -270,7 +283,7 @@
             "description": "September 4th, 2019 - Lab 2We've talked about git for version control and explored Github a bit and how teams work together using the platform. Now let's dig in!Basic example \/ Getting startedCre",
             "metadata": {
                 "created": 1566673990,
-                "updated": 1566843646,
+                "updated": 1566844040,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 3,
@@ -296,7 +309,7 @@
             "description": "A standard syllabus is a contract between us. You will receive a standard syllabus on the first day of class and it will be attached to this page for future reference.",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1566673990,
+                "updated": 1566844040,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -319,7 +332,7 @@
             "description": "My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...Learning not just what a technology is but...Who's using it, what ",
             "metadata": {
                 "created": 1566414674,
-                "updated": 1566673990,
+                "updated": 1566844040,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -344,7 +357,7 @@
             "description": "We're going to strive for this general flow to each week of the semester. A few specific topics will deviate and we may have some guest speakers, but generally this is what class will look like togeth",
             "metadata": {
                 "created": 1566414295,
-                "updated": 1566673990,
+                "updated": 1566844040,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -368,7 +381,7 @@
             "description": "All assignments are setup as labs and you'll be starting into them at the end of class. Once finished with the lab, you'll demonstrate you've done the work by reflecting on it in the form of a written",
             "metadata": {
                 "created": 1566414674,
-                "updated": 1566673990,
+                "updated": 1566844040,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 2,
@@ -393,7 +406,7 @@
             "description": "It's not as scary as that title.We'll be exploring lots of different technologies through labs. In order to give me a good sense of what everyone's past experience is with these technologies, please ",
             "metadata": {
                 "created": 1565900239,
-                "updated": 1566673990,
+                "updated": 1566844040,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -417,7 +430,7 @@
             "description": "ARE YOU READY!?Are you ready to hit power level 9000!? Then read through these lessons.But seriously. We&#39;re going to work through these different topics to skill up and get a better feel f",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1566673990,
+                "updated": 1566844040,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -441,7 +454,7 @@
             "description": "We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.Remember t",
             "metadata": {
                 "created": 1566568358,
-                "updated": 1566673990,
+                "updated": 1566844040,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -464,7 +477,7 @@
             "description": "The last week of the semester there will be a slightly longer lab that I'm calling a project. You'll have to put together a pitch for one of multiple problem spaces but it's a technical pitch. You'll ",
             "metadata": {
                 "created": 1565968185,
-                "updated": 1566673990,
+                "updated": 1566844040,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -487,7 +500,7 @@
             "description": "This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub \/ collaboration locationDigital Ocean - Easy to use server environmentHover \/ Google Domains",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1566673990,
+                "updated": 1566844040,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
