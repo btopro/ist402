@@ -9,6 +9,16 @@
     <lastBuildDate>Mon, 26 Aug 2019 14:27:20 -0400</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Materials</title>
+      <link>/materials</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/materials</guid>
+      <pubDate>Mon, 26 Aug 2019 15:00:15 -0400</pubDate>
+    </item>
+    <item>
       <title>Screencasting</title>
       <link>/resources/screencasting</link>
       <description>
@@ -96,6 +106,20 @@
       <category></category>
       <guid>/labs/git</guid>
       <pubDate>Sat, 24 Aug 2019 15:13:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Labs</title>
+      <link>/labs</link>
+      <description>
+          <![CDATA[ <p>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.</p>
+<p><b>Remember that after each lab you have to do a concise overview of the topic in the form of a blog post and a YouTube explainer video, then submit it to Slack for review.</b>
+</p>
+<p>We'll start out class the following week reviewing some videos and posts created by the class to point out what worked well and what could have been done better in presenting the previous topic.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/labs</guid>
+      <pubDate>Fri, 23 Aug 2019 09:52:38 -0400</pubDate>
     </item>
     <item>
       <title>Lab 1 - Building your digital identity</title>
@@ -322,62 +346,6 @@
       <pubDate>Fri, 23 Aug 2019 09:52:38 -0400</pubDate>
     </item>
     <item>
-      <title>Labs</title>
-      <link>/labs</link>
-      <description>
-          <![CDATA[ <p>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.</p>
-<p><b>Remember that after each lab you have to do a concise overview of the topic in the form of a blog post and a YouTube explainer video, then submit it to Slack for review.</b>
-</p>
-<p>We'll start out class the following week reviewing some videos and posts created by the class to point out what worked well and what could have been done better in presenting the previous topic.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/labs</guid>
-      <pubDate>Fri, 23 Aug 2019 09:52:38 -0400</pubDate>
-    </item>
-    <item>
-      <title>Goals.. for you!</title>
-      <link>/goals-for-you-</link>
-      <description>
-          <![CDATA[ <p>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...</p>
-<ul><li>Learning not just what a technology is but...</li>
-
-<ul><li>Who's using it, what industries, what web services</li>
-
-<li>Getting hands on and implementing it small scale</li>
-
-<li>Being able to better communicate purpose and ideas around it</li>
-
-</ul>
-
-
-<li>Building a digital footprint of YOU, the IT worker / manager / developer / whatever your path, just that it's out there!</li>
-
-<ul><li>Creating a YouTube channel of explainer videos about the topics discussed in class</li>
-
-<li>Creating a Blog about these same topics</li>
-
-<li>Creating social coder accounts and connecting them all together (like Github, TravisCI, Stackblitz, CodePen, Glitch, IFTTT, etc)</li>
-
-</ul>
-
-<li>Learn about all levels of "the stack" in order to better empathize with those working in different levels of the stack from you (or people you'll one day manage)</li>
-
-<li>Have a website on the internet that you control and have a window into how all aspects of it function.</li>
-<li><i>Take hand written tests</i>
- and <i>use platforms and technologies that no employer on earth will care about</i>
- once you graduate</li>
-
-</ul>
-<p><span style="letter-spacing: -0.48px;">Ok.. maybe not that last one but the rest are legit.</span></p>
-<meme-maker alt="troll GIF" image-url="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" bottom-text="Ok, not that last one." imageurl="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" toptext="troll GIF" style="width: 75%;"></meme-maker>
- ]]>
-      </description>
-      <category></category>
-      <guid>/goals-for-you-</guid>
-      <pubDate>Wed, 21 Aug 2019 15:11:14 -0400</pubDate>
-    </item>
-    <item>
       <title>After class reflection</title>
       <link>/after-class-reflection</link>
       <description>
@@ -424,6 +392,48 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
       </description>
       <category></category>
       <guid>/after-class-reflection</guid>
+      <pubDate>Wed, 21 Aug 2019 15:11:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Goals.. for you!</title>
+      <link>/goals-for-you-</link>
+      <description>
+          <![CDATA[ <p>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...</p>
+<ul><li>Learning not just what a technology is but...</li>
+
+<ul><li>Who's using it, what industries, what web services</li>
+
+<li>Getting hands on and implementing it small scale</li>
+
+<li>Being able to better communicate purpose and ideas around it</li>
+
+</ul>
+
+
+<li>Building a digital footprint of YOU, the IT worker / manager / developer / whatever your path, just that it's out there!</li>
+
+<ul><li>Creating a YouTube channel of explainer videos about the topics discussed in class</li>
+
+<li>Creating a Blog about these same topics</li>
+
+<li>Creating social coder accounts and connecting them all together (like Github, TravisCI, Stackblitz, CodePen, Glitch, IFTTT, etc)</li>
+
+</ul>
+
+<li>Learn about all levels of "the stack" in order to better empathize with those working in different levels of the stack from you (or people you'll one day manage)</li>
+
+<li>Have a website on the internet that you control and have a window into how all aspects of it function.</li>
+<li><i>Take hand written tests</i>
+ and <i>use platforms and technologies that no employer on earth will care about</i>
+ once you graduate</li>
+
+</ul>
+<p><span style="letter-spacing: -0.48px;">Ok.. maybe not that last one but the rest are legit.</span></p>
+<meme-maker alt="troll GIF" image-url="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" bottom-text="Ok, not that last one." imageurl="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" toptext="troll GIF" style="width: 75%;"></meme-maker>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/goals-for-you-</guid>
       <pubDate>Wed, 21 Aug 2019 15:11:14 -0400</pubDate>
     </item>
     <item>
@@ -535,96 +545,6 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
       <pubDate>Thu, 15 Aug 2019 16:17:19 -0400</pubDate>
     </item>
     <item>
-      <title>Resources</title>
-      <link>/resources</link>
-      <description>
-          <![CDATA[ <p>This list will keep growing</p>
-<p><a href="https://github.com">Github</a>
-
- - Popular code sharing space</p>
-<p><a href="https://slack.com">Slack</a>
-
- - Popular productivity hub / collaboration location</p>
-<p><a href="https://digitalocean.com">Digital Ocean </a>
-
-- Easy to use server environment</p>
-<p><a href="https://hover.com">Hover</a>
-
- / <a href="https://domains.google.com">Google Domains</a>
-
- - Easy to buy domain registrar</p>
-<p><a href="https://elmsln.org/">ELMS:LN</a>
-
- - Penn State developed learning platform</p>
-<p><a href="https://haxtheweb.org/">HAXcms</a>
-
- - Penn State developed flat file CMS (powers this course site)</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/resources</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Syllabus</title>
-      <link>/syllabus</link>
-      <description>
-          <![CDATA[ <p>A standard syllabus is a contract between us. You will receive a standard syllabus on the first day of class and it will be attached to this page for future reference.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/syllabus</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>Topic overview</title>
-      <link>/topics</link>
-      <description>
-          <![CDATA[ <grid-plate layout="6/6" responsive-size="xl" style="width: 100%;"><h2 slot="col-1">ARE YOU READY!?</h2>
-
-
-
-<p slot="col-1"><span style="font-size: 24px; letter-spacing: 0.5px; caret-color: rgb(25, 30, 35);">Are you ready to hit power level 9000!? Then read through these lessons.</span><br/></p>
-
-<meme-maker slot="col-2" alt="dragon ball z GIF by Geek & Sundry" image-url="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" bottom-text="Said no one... ever" imageurl="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" toptext="dragon ball z GIF by Geek & Sundry" style="width: 75%;"></meme-maker>
-
-
-
-
-</grid-plate>
-<p>But seriously. We're going to work through these different topics to skill up and get a better feel for the industry and how to participate in it.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/topics</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
-      <title>About the instructor (boring)</title>
-      <link>/welcome/welcome/about-the-instructor</link>
-      <description>
-          <![CDATA[ <p>This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.</p>
-<a11y-gif-player src="https://media3.giphy.com/media/5wWf7GW1AzV6pF3MaVW/giphy.gif" src-without-animation="https://media0.giphy.com/media/5wWf7GW1AzV6pF3MaVW/480w_s.jpg" alt="high five the office" schema-resource-id="#0e8a5bdc-121d-e719-bbe6" resource="#0e8a5bdc-121d-e719-bbe6" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 100%;"></a11y-gif-player>
-<p>My name is Bryan Ollendyke and I've been <strike>living</strike>
-
-
- working at Penn State since 2007. I did my undergrad in IST and was able to get a job working in the College of Arts & Architecture's online learning unit (now called Office of Digital Learning).</p>
-<p>In 2015 I completed my MS by studying the spread of an open source platform called Drupal. The theory I reasoned from my thesis is an effect I call Information Altruism -- Meaning that it isn't open source software that impacts institutions <b>but the free giving away of knowledge about how to use it</b>
-
-
- which does.</p>
-<p>Open source lays the ground work, but it still requires knowledge workers to pick up those raw minerals and make rails of them for organizations to ride on.</p>
-<p>I am in the rare position of getting to teach you leveraging tools which I and my team have built. This content is written in a platform called HAXcms which we are actively building. I'm also the project lead on a project called ELMS: Learning Network.</p>
-<p>Since starting at Penn State, I would say 99.5% of every hour of every day I work is contributed directly back to open code and documentation. I've contributed hundreds of modules for Drupal, dozens of themes and installation profiles, millions of lines of code liberated from the ownership of anyone or anywhere.</p>
-<p>In the last two years, our team has released north of 400 reusable design assets called Web components. These modules and design assets power thousands of websites and help empower people we'll never know to better express themselves online, whether for instructional content or otherwise.</p>
-<p>I'm a self described Developer Activist in that I don't think open source can change society: I know it can and does constantly. It's why I still work in academia - to try and open source as much of the application stack associated with teaching and learning in order to provide both better options as well as lower costs.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/welcome/welcome/about-the-instructor</guid>
-      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
-    </item>
-    <item>
       <title>Git / Github / Contribution</title>
       <link>/topics/git</link>
       <description>
@@ -668,6 +588,96 @@ Capabilities like clicking edit on the website, making a change in the browser a
       </description>
       <category></category>
       <guid>/topics/git</guid>
+      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Syllabus</title>
+      <link>/syllabus</link>
+      <description>
+          <![CDATA[ <p>A standard syllabus is a contract between us. You will receive a standard syllabus on the first day of class and it will be attached to this page for future reference.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/syllabus</guid>
+      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>About the instructor (boring)</title>
+      <link>/welcome/welcome/about-the-instructor</link>
+      <description>
+          <![CDATA[ <p>This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.</p>
+<a11y-gif-player src="https://media3.giphy.com/media/5wWf7GW1AzV6pF3MaVW/giphy.gif" src-without-animation="https://media0.giphy.com/media/5wWf7GW1AzV6pF3MaVW/480w_s.jpg" alt="high five the office" schema-resource-id="#0e8a5bdc-121d-e719-bbe6" resource="#0e8a5bdc-121d-e719-bbe6" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 100%;"></a11y-gif-player>
+<p>My name is Bryan Ollendyke and I've been <strike>living</strike>
+
+
+ working at Penn State since 2007. I did my undergrad in IST and was able to get a job working in the College of Arts & Architecture's online learning unit (now called Office of Digital Learning).</p>
+<p>In 2015 I completed my MS by studying the spread of an open source platform called Drupal. The theory I reasoned from my thesis is an effect I call Information Altruism -- Meaning that it isn't open source software that impacts institutions <b>but the free giving away of knowledge about how to use it</b>
+
+
+ which does.</p>
+<p>Open source lays the ground work, but it still requires knowledge workers to pick up those raw minerals and make rails of them for organizations to ride on.</p>
+<p>I am in the rare position of getting to teach you leveraging tools which I and my team have built. This content is written in a platform called HAXcms which we are actively building. I'm also the project lead on a project called ELMS: Learning Network.</p>
+<p>Since starting at Penn State, I would say 99.5% of every hour of every day I work is contributed directly back to open code and documentation. I've contributed hundreds of modules for Drupal, dozens of themes and installation profiles, millions of lines of code liberated from the ownership of anyone or anywhere.</p>
+<p>In the last two years, our team has released north of 400 reusable design assets called Web components. These modules and design assets power thousands of websites and help empower people we'll never know to better express themselves online, whether for instructional content or otherwise.</p>
+<p>I'm a self described Developer Activist in that I don't think open source can change society: I know it can and does constantly. It's why I still work in academia - to try and open source as much of the application stack associated with teaching and learning in order to provide both better options as well as lower costs.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/welcome/welcome/about-the-instructor</guid>
+      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Topic overview</title>
+      <link>/topics</link>
+      <description>
+          <![CDATA[ <grid-plate layout="6/6" responsive-size="xl" style="width: 100%;"><h2 slot="col-1">ARE YOU READY!?</h2>
+
+
+
+<p slot="col-1"><span style="font-size: 24px; letter-spacing: 0.5px; caret-color: rgb(25, 30, 35);">Are you ready to hit power level 9000!? Then read through these lessons.</span><br/></p>
+
+<meme-maker slot="col-2" alt="dragon ball z GIF by Geek & Sundry" image-url="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" bottom-text="Said no one... ever" imageurl="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" toptext="dragon ball z GIF by Geek & Sundry" style="width: 75%;"></meme-maker>
+
+
+
+
+</grid-plate>
+<p>But seriously. We're going to work through these different topics to skill up and get a better feel for the industry and how to participate in it.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/topics</guid>
+      <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>/resources</link>
+      <description>
+          <![CDATA[ <p>This list will keep growing</p>
+<p><a href="https://github.com">Github</a>
+
+ - Popular code sharing space</p>
+<p><a href="https://slack.com">Slack</a>
+
+ - Popular productivity hub / collaboration location</p>
+<p><a href="https://digitalocean.com">Digital Ocean </a>
+
+- Easy to use server environment</p>
+<p><a href="https://hover.com">Hover</a>
+
+ / <a href="https://domains.google.com">Google Domains</a>
+
+ - Easy to buy domain registrar</p>
+<p><a href="https://elmsln.org/">ELMS:LN</a>
+
+ - Penn State developed learning platform</p>
+<p><a href="https://haxtheweb.org/">HAXcms</a>
+
+ - Penn State developed flat file CMS (powers this course site)</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/resources</guid>
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>

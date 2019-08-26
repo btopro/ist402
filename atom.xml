@@ -9,9 +9,21 @@
   </author>
   <id>/feed</id>
   <entry>
+    <title>Materials</title>
+    <id>/materials</id>
+    <updated>2019-08-26T15:00:15-04:00</updated>
+    <published>2019-08-26T15:00:15-04:00</published>
+    <summary></summary>
+    <link href="/materials"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Screencasting</title>
     <id>/resources/screencasting</id>
-    <updated>2019-08-26T14:49:18-04:00</updated>
+    <updated>2019-08-26T15:00:15-04:00</updated>
     <published>2019-08-26T14:27:20-04:00</published>
     <summary>ChecklistBefore recording always make sure...You've got the links you want to view open in tabs in a browser windowYou've got headphones / some kind of microphone to record your voiceYou can use i</summary>
     <link href="/resources/screencasting"/>
@@ -54,7 +66,7 @@
   <entry>
     <title>Lab 2 - Git / Github / Contribution</title>
     <id>/labs/git</id>
-    <updated>2019-08-26T14:27:20-04:00</updated>
+    <updated>2019-08-26T15:00:15-04:00</updated>
     <published>2019-08-24T15:13:10-04:00</published>
     <summary>September 4th, 2019 - Lab 2We've talked about git for version control and explored Github a bit and how teams work together using the platform. Now let's dig in!Basic example / Getting startedCre</summary>
     <link href="/labs/git"/>
@@ -102,9 +114,25 @@
     </content>
   </entry>
   <entry>
+    <title>Labs</title>
+    <id>/labs</id>
+    <updated>2019-08-26T15:00:15-04:00</updated>
+    <published>2019-08-23T09:52:38-04:00</published>
+    <summary>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.Remember t</summary>
+    <link href="/labs"/>
+    
+    <content type="html">
+      <![CDATA[ <p>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.</p>
+<p><b>Remember that after each lab you have to do a concise overview of the topic in the form of a blog post and a YouTube explainer video, then submit it to Slack for review.</b>
+</p>
+<p>We'll start out class the following week reviewing some videos and posts created by the class to point out what worked well and what could have been done better in presenting the previous topic.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Lab 1 - Building your digital identity</title>
     <id>/labs/building-your-digital-identity</id>
-    <updated>2019-08-26T14:27:20-04:00</updated>
+    <updated>2019-08-26T15:00:15-04:00</updated>
     <published>2019-08-23T09:52:38-04:00</published>
     <summary>August 28th, 2019 - Lab 1 / first classThis is a warm up lab that will help set the stage for the platforms we'll use for the rest of the semester.Create a Slack account and join two slack channels</summary>
     <link href="/labs/building-your-digital-identity"/>
@@ -328,69 +356,9 @@
     </content>
   </entry>
   <entry>
-    <title>Labs</title>
-    <id>/labs</id>
-    <updated>2019-08-26T14:27:20-04:00</updated>
-    <published>2019-08-23T09:52:38-04:00</published>
-    <summary>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.Remember t</summary>
-    <link href="/labs"/>
-    
-    <content type="html">
-      <![CDATA[ <p>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.</p>
-<p><b>Remember that after each lab you have to do a concise overview of the topic in the form of a blog post and a YouTube explainer video, then submit it to Slack for review.</b>
-</p>
-<p>We'll start out class the following week reviewing some videos and posts created by the class to point out what worked well and what could have been done better in presenting the previous topic.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Goals.. for you!</title>
-    <id>/goals-for-you-</id>
-    <updated>2019-08-26T14:27:20-04:00</updated>
-    <published>2019-08-21T15:11:14-04:00</published>
-    <summary>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...Learning not just what a technology is but...Who's using it, what </summary>
-    <link href="/goals-for-you-"/>
-    
-    <content type="html">
-      <![CDATA[ <p>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...</p>
-<ul><li>Learning not just what a technology is but...</li>
-
-<ul><li>Who's using it, what industries, what web services</li>
-
-<li>Getting hands on and implementing it small scale</li>
-
-<li>Being able to better communicate purpose and ideas around it</li>
-
-</ul>
-
-
-<li>Building a digital footprint of YOU, the IT worker / manager / developer / whatever your path, just that it's out there!</li>
-
-<ul><li>Creating a YouTube channel of explainer videos about the topics discussed in class</li>
-
-<li>Creating a Blog about these same topics</li>
-
-<li>Creating social coder accounts and connecting them all together (like Github, TravisCI, Stackblitz, CodePen, Glitch, IFTTT, etc)</li>
-
-</ul>
-
-<li>Learn about all levels of "the stack" in order to better empathize with those working in different levels of the stack from you (or people you'll one day manage)</li>
-
-<li>Have a website on the internet that you control and have a window into how all aspects of it function.</li>
-<li><i>Take hand written tests</i>
- and <i>use platforms and technologies that no employer on earth will care about</i>
- once you graduate</li>
-
-</ul>
-<p><span style="letter-spacing: -0.48px;">Ok.. maybe not that last one but the rest are legit.</span></p>
-<meme-maker alt="troll GIF" image-url="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" bottom-text="Ok, not that last one." imageurl="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" toptext="troll GIF" style="width: 75%;"></meme-maker>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>After class reflection</title>
     <id>/after-class-reflection</id>
-    <updated>2019-08-26T14:27:20-04:00</updated>
+    <updated>2019-08-26T15:00:15-04:00</updated>
     <published>2019-08-21T15:11:14-04:00</published>
     <summary>All assignments are setup as labs and you'll be starting into them at the end of class. Once finished with the lab, you'll demonstrate you've done the work by reflecting on it in the form of a written</summary>
     <link href="/after-class-reflection"/>
@@ -439,9 +407,53 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
     </content>
   </entry>
   <entry>
+    <title>Goals.. for you!</title>
+    <id>/goals-for-you-</id>
+    <updated>2019-08-26T15:00:15-04:00</updated>
+    <published>2019-08-21T15:11:14-04:00</published>
+    <summary>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...Learning not just what a technology is but...Who's using it, what </summary>
+    <link href="/goals-for-you-"/>
+    
+    <content type="html">
+      <![CDATA[ <p>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...</p>
+<ul><li>Learning not just what a technology is but...</li>
+
+<ul><li>Who's using it, what industries, what web services</li>
+
+<li>Getting hands on and implementing it small scale</li>
+
+<li>Being able to better communicate purpose and ideas around it</li>
+
+</ul>
+
+
+<li>Building a digital footprint of YOU, the IT worker / manager / developer / whatever your path, just that it's out there!</li>
+
+<ul><li>Creating a YouTube channel of explainer videos about the topics discussed in class</li>
+
+<li>Creating a Blog about these same topics</li>
+
+<li>Creating social coder accounts and connecting them all together (like Github, TravisCI, Stackblitz, CodePen, Glitch, IFTTT, etc)</li>
+
+</ul>
+
+<li>Learn about all levels of "the stack" in order to better empathize with those working in different levels of the stack from you (or people you'll one day manage)</li>
+
+<li>Have a website on the internet that you control and have a window into how all aspects of it function.</li>
+<li><i>Take hand written tests</i>
+ and <i>use platforms and technologies that no employer on earth will care about</i>
+ once you graduate</li>
+
+</ul>
+<p><span style="letter-spacing: -0.48px;">Ok.. maybe not that last one but the rest are legit.</span></p>
+<meme-maker alt="troll GIF" image-url="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" bottom-text="Ok, not that last one." imageurl="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" toptext="troll GIF" style="width: 75%;"></meme-maker>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Class time together</title>
     <id>/class-time-together</id>
-    <updated>2019-08-26T14:27:20-04:00</updated>
+    <updated>2019-08-26T15:00:15-04:00</updated>
     <published>2019-08-21T15:04:55-04:00</published>
     <summary>We're going to strive for this general flow to each week of the semester. A few specific topics will deviate and we may have some guest speakers, but generally this is what class will look like togeth</summary>
     <link href="/class-time-together"/>
@@ -467,7 +479,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Project</title>
     <id>/project</id>
-    <updated>2019-08-26T14:27:20-04:00</updated>
+    <updated>2019-08-26T15:00:15-04:00</updated>
     <published>2019-08-16T11:09:45-04:00</published>
     <summary>The last week of the semester there will be a slightly longer lab that I'm calling a project. You'll have to put together a pitch for one of multiple problem spaces but it's a technical pitch. You'll </summary>
     <link href="/project"/>
@@ -481,7 +493,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Building your digital identity</title>
     <id>/topics/building-your-digital-identity</id>
-    <updated>2019-08-26T14:27:20-04:00</updated>
+    <updated>2019-08-26T15:00:15-04:00</updated>
     <published>2019-08-15T17:01:42-04:00</published>
     <summary>No one knows who you are if you're not effectively communicating. I recall a colleague several years ago getting pissed that I was invited to speak some place. "It's like no one knows I exist or appre</summary>
     <link href="/topics/building-your-digital-identity"/>
@@ -515,7 +527,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Questions driven teaching</title>
     <id>/question-driven-teaching</id>
-    <updated>2019-08-26T14:27:20-04:00</updated>
+    <updated>2019-08-26T15:00:15-04:00</updated>
     <published>2019-08-15T16:18:39-04:00</published>
     <summary>In all the technologies and skillsets we'll explore in this course, I want you to approach them with the same questions that I have explored in my career. These simple questions will help you decipher</summary>
     <link href="/question-driven-teaching"/>
@@ -535,7 +547,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Initial skills assessment</title>
     <id>/technologies-we-explore</id>
-    <updated>2019-08-26T14:27:20-04:00</updated>
+    <updated>2019-08-26T15:00:15-04:00</updated>
     <published>2019-08-15T16:17:19-04:00</published>
     <summary>It's not as scary as that title.We'll be exploring lots of different technologies through labs. In order to give me a good sense of what everyone's past experience is with these technologies, please </summary>
     <link href="/technologies-we-explore"/>
@@ -557,107 +569,9 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
     </content>
   </entry>
   <entry>
-    <title>Resources</title>
-    <id>/resources</id>
-    <updated>2019-08-26T14:27:20-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary>This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub / collaboration locationDigital Ocean - Easy to use server environmentHover / Google Domains</summary>
-    <link href="/resources"/>
-    
-    <content type="html">
-      <![CDATA[ <p>This list will keep growing</p>
-<p><a href="https://github.com">Github</a>
-
- - Popular code sharing space</p>
-<p><a href="https://slack.com">Slack</a>
-
- - Popular productivity hub / collaboration location</p>
-<p><a href="https://digitalocean.com">Digital Ocean </a>
-
-- Easy to use server environment</p>
-<p><a href="https://hover.com">Hover</a>
-
- / <a href="https://domains.google.com">Google Domains</a>
-
- - Easy to buy domain registrar</p>
-<p><a href="https://elmsln.org/">ELMS:LN</a>
-
- - Penn State developed learning platform</p>
-<p><a href="https://haxtheweb.org/">HAXcms</a>
-
- - Penn State developed flat file CMS (powers this course site)</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Syllabus</title>
-    <id>/syllabus</id>
-    <updated>2019-08-26T14:27:20-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary>A standard syllabus is a contract between us. You will receive a standard syllabus on the first day of class and it will be attached to this page for future reference.</summary>
-    <link href="/syllabus"/>
-    
-    <content type="html">
-      <![CDATA[ <p>A standard syllabus is a contract between us. You will receive a standard syllabus on the first day of class and it will be attached to this page for future reference.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Topic overview</title>
-    <id>/topics</id>
-    <updated>2019-08-26T14:27:20-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary>ARE YOU READY!?Are you ready to hit power level 9000!? Then read through these lessons.But seriously. We&#39;re going to work through these different topics to skill up and get a better feel f</summary>
-    <link href="/topics"/>
-    
-    <content type="html">
-      <![CDATA[ <grid-plate layout="6/6" responsive-size="xl" style="width: 100%;"><h2 slot="col-1">ARE YOU READY!?</h2>
-
-
-
-<p slot="col-1"><span style="font-size: 24px; letter-spacing: 0.5px; caret-color: rgb(25, 30, 35);">Are you ready to hit power level 9000!? Then read through these lessons.</span><br/></p>
-
-<meme-maker slot="col-2" alt="dragon ball z GIF by Geek & Sundry" image-url="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" bottom-text="Said no one... ever" imageurl="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" toptext="dragon ball z GIF by Geek & Sundry" style="width: 75%;"></meme-maker>
-
-
-
-
-</grid-plate>
-<p>But seriously. We're going to work through these different topics to skill up and get a better feel for the industry and how to participate in it.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>About the instructor (boring)</title>
-    <id>/welcome/welcome/about-the-instructor</id>
-    <updated>2019-08-26T14:27:20-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary>This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.My name is Bryan Ollendyke and I've been living workin</summary>
-    <link href="/welcome/welcome/about-the-instructor"/>
-    
-    <content type="html">
-      <![CDATA[ <p>This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.</p>
-<a11y-gif-player src="https://media3.giphy.com/media/5wWf7GW1AzV6pF3MaVW/giphy.gif" src-without-animation="https://media0.giphy.com/media/5wWf7GW1AzV6pF3MaVW/480w_s.jpg" alt="high five the office" schema-resource-id="#0e8a5bdc-121d-e719-bbe6" resource="#0e8a5bdc-121d-e719-bbe6" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 100%;"></a11y-gif-player>
-<p>My name is Bryan Ollendyke and I've been <strike>living</strike>
-
-
- working at Penn State since 2007. I did my undergrad in IST and was able to get a job working in the College of Arts & Architecture's online learning unit (now called Office of Digital Learning).</p>
-<p>In 2015 I completed my MS by studying the spread of an open source platform called Drupal. The theory I reasoned from my thesis is an effect I call Information Altruism -- Meaning that it isn't open source software that impacts institutions <b>but the free giving away of knowledge about how to use it</b>
-
-
- which does.</p>
-<p>Open source lays the ground work, but it still requires knowledge workers to pick up those raw minerals and make rails of them for organizations to ride on.</p>
-<p>I am in the rare position of getting to teach you leveraging tools which I and my team have built. This content is written in a platform called HAXcms which we are actively building. I'm also the project lead on a project called ELMS: Learning Network.</p>
-<p>Since starting at Penn State, I would say 99.5% of every hour of every day I work is contributed directly back to open code and documentation. I've contributed hundreds of modules for Drupal, dozens of themes and installation profiles, millions of lines of code liberated from the ownership of anyone or anywhere.</p>
-<p>In the last two years, our team has released north of 400 reusable design assets called Web components. These modules and design assets power thousands of websites and help empower people we'll never know to better express themselves online, whether for instructional content or otherwise.</p>
-<p>I'm a self described Developer Activist in that I don't think open source can change society: I know it can and does constantly. It's why I still work in academia - to try and open source as much of the application stack associated with teaching and learning in order to provide both better options as well as lower costs.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Git / Github / Contribution</title>
     <id>/topics/git</id>
-    <updated>2019-08-26T14:27:20-04:00</updated>
+    <updated>2019-08-26T15:00:15-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
     <summary>Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.Git provides a command line interface or CL</summary>
     <link href="/topics/git"/>
@@ -703,9 +617,107 @@ Capabilities like clicking edit on the website, making a change in the browser a
     </content>
   </entry>
   <entry>
+    <title>Syllabus</title>
+    <id>/syllabus</id>
+    <updated>2019-08-26T15:00:15-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary>A standard syllabus is a contract between us. You will receive a standard syllabus on the first day of class and it will be attached to this page for future reference.</summary>
+    <link href="/syllabus"/>
+    
+    <content type="html">
+      <![CDATA[ <p>A standard syllabus is a contract between us. You will receive a standard syllabus on the first day of class and it will be attached to this page for future reference.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>About the instructor (boring)</title>
+    <id>/welcome/welcome/about-the-instructor</id>
+    <updated>2019-08-26T15:00:15-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary>This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.My name is Bryan Ollendyke and I've been living workin</summary>
+    <link href="/welcome/welcome/about-the-instructor"/>
+    
+    <content type="html">
+      <![CDATA[ <p>This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.</p>
+<a11y-gif-player src="https://media3.giphy.com/media/5wWf7GW1AzV6pF3MaVW/giphy.gif" src-without-animation="https://media0.giphy.com/media/5wWf7GW1AzV6pF3MaVW/480w_s.jpg" alt="high five the office" schema-resource-id="#0e8a5bdc-121d-e719-bbe6" resource="#0e8a5bdc-121d-e719-bbe6" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 100%;"></a11y-gif-player>
+<p>My name is Bryan Ollendyke and I've been <strike>living</strike>
+
+
+ working at Penn State since 2007. I did my undergrad in IST and was able to get a job working in the College of Arts & Architecture's online learning unit (now called Office of Digital Learning).</p>
+<p>In 2015 I completed my MS by studying the spread of an open source platform called Drupal. The theory I reasoned from my thesis is an effect I call Information Altruism -- Meaning that it isn't open source software that impacts institutions <b>but the free giving away of knowledge about how to use it</b>
+
+
+ which does.</p>
+<p>Open source lays the ground work, but it still requires knowledge workers to pick up those raw minerals and make rails of them for organizations to ride on.</p>
+<p>I am in the rare position of getting to teach you leveraging tools which I and my team have built. This content is written in a platform called HAXcms which we are actively building. I'm also the project lead on a project called ELMS: Learning Network.</p>
+<p>Since starting at Penn State, I would say 99.5% of every hour of every day I work is contributed directly back to open code and documentation. I've contributed hundreds of modules for Drupal, dozens of themes and installation profiles, millions of lines of code liberated from the ownership of anyone or anywhere.</p>
+<p>In the last two years, our team has released north of 400 reusable design assets called Web components. These modules and design assets power thousands of websites and help empower people we'll never know to better express themselves online, whether for instructional content or otherwise.</p>
+<p>I'm a self described Developer Activist in that I don't think open source can change society: I know it can and does constantly. It's why I still work in academia - to try and open source as much of the application stack associated with teaching and learning in order to provide both better options as well as lower costs.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Topic overview</title>
+    <id>/topics</id>
+    <updated>2019-08-26T15:00:15-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary>ARE YOU READY!?Are you ready to hit power level 9000!? Then read through these lessons.But seriously. We&#39;re going to work through these different topics to skill up and get a better feel f</summary>
+    <link href="/topics"/>
+    
+    <content type="html">
+      <![CDATA[ <grid-plate layout="6/6" responsive-size="xl" style="width: 100%;"><h2 slot="col-1">ARE YOU READY!?</h2>
+
+
+
+<p slot="col-1"><span style="font-size: 24px; letter-spacing: 0.5px; caret-color: rgb(25, 30, 35);">Are you ready to hit power level 9000!? Then read through these lessons.</span><br/></p>
+
+<meme-maker slot="col-2" alt="dragon ball z GIF by Geek & Sundry" image-url="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" bottom-text="Said no one... ever" imageurl="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" toptext="dragon ball z GIF by Geek & Sundry" style="width: 75%;"></meme-maker>
+
+
+
+
+</grid-plate>
+<p>But seriously. We're going to work through these different topics to skill up and get a better feel for the industry and how to participate in it.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Resources</title>
+    <id>/resources</id>
+    <updated>2019-08-26T15:00:15-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary>This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub / collaboration locationDigital Ocean - Easy to use server environmentHover / Google Domains</summary>
+    <link href="/resources"/>
+    
+    <content type="html">
+      <![CDATA[ <p>This list will keep growing</p>
+<p><a href="https://github.com">Github</a>
+
+ - Popular code sharing space</p>
+<p><a href="https://slack.com">Slack</a>
+
+ - Popular productivity hub / collaboration location</p>
+<p><a href="https://digitalocean.com">Digital Ocean </a>
+
+- Easy to use server environment</p>
+<p><a href="https://hover.com">Hover</a>
+
+ / <a href="https://domains.google.com">Google Domains</a>
+
+ - Easy to buy domain registrar</p>
+<p><a href="https://elmsln.org/">ELMS:LN</a>
+
+ - Penn State developed learning platform</p>
+<p><a href="https://haxtheweb.org/">HAXcms</a>
+
+ - Penn State developed flat file CMS (powers this course site)</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Welcome</title>
     <id>/welcome</id>
-    <updated>2019-08-26T14:27:20-04:00</updated>
+    <updated>2019-08-26T15:00:15-04:00</updated>
     <published>2019-08-15T15:46:06-04:00</published>
     <summary>IST 402: Emerging TechnologiesMy name is Bryan Ollendyke, and welcome to IST 402: Emerging Tech!I'm excited to expose you to the ideas and technologies I wish I had been exposed to when I was</summary>
     <link href="/welcome"/>
