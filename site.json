@@ -261,21 +261,22 @@
             "order": "1",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "Lab 2 - Git \/ Github \/ Contribution",
-            "description": "September 4th, 2019 - Lab 2We've talked about git for version control and explored Github a bit and how teams work together using the platform. Now let's dig in!Create a GitHub accountFork th",
+            "description": "September 4th, 2019 - Lab 2We've talked about git for version control and explored Github a bit and how teams work together using the platform. Now let's dig in!Basic example \/ Getting startedCre",
             "metadata": {
                 "created": 1566673990,
-                "updated": 1566679315,
+                "updated": 1566842909,
                 "readtime": 1,
                 "contentDetails": {
-                    "headings": 1,
-                    "paragraphs": 3,
+                    "headings": 3,
+                    "paragraphs": 5,
                     "schema": [],
                     "tags": {
-                        "p": 3,
+                        "p": 5,
                         "h2": 1,
-                        "ol": 1
+                        "h3": 2,
+                        "ol": 2
                     },
-                    "elements": 5
+                    "elements": 10
                 }
             }
         },

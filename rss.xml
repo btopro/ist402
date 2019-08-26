@@ -16,15 +16,30 @@
 </p>
 <h2>September 4th, 2019 - Lab 2</h2>
 <p>We've talked about git for version control and explored Github a bit and how teams work together using the platform. Now let's dig in!</p>
+<h3>Basic example / Getting started</h3>
 <ol><li>Create a <a href="http://github.com/">GitHub account</a>
+
 
 </li>
 
 
-<li>Fork this repo <a href="https://github.com/btopro/lab2/blob/master/README.md">https://github.com/btopro/lab2/blob/master/README.md</a>
- and follow the directions found there</li>
-<li><br/></li>
 
+<li>Fork this repo <a href="https://github.com/btopro/lab2/blob/master/README.md">by going to this link</a>
+ and clicking "Fork" in the top right</li>
+<li>Read along in the document and complete the tasks asked of you by navigating to the README.md file and hitting edit.</li>
+
+<li>We'll work through this in class and I'll mix between showing things interactively done between specific people as well as roaming around to answer questions</li>
+<li>After you make the updates requested in the document, issue a "Pull Request" back against the source (my repo)</li>
+<li>Fill out the details indicating what you changed and we'll talk through it in class how this is the building block for all web based development collaborations</li>
+
+
+</ol>
+<h3><span style="letter-spacing: -0.48px;">Let's start contributing to an open source project!</span></h3>
+<p><span style="letter-spacing: -0.48px;">Let's start contributing to our first open source project! I've left a few issues in my own projects so that we can see the full project development life cycle at play here. Don't worry, these are minor documentation and spelling issues which while seeming minor, are a HUGE deal to developers and project managers as far as community involvement.</span></p>
+<p><span style="letter-spacing: -0.48px;">EVERYONE (me included) start out getting into a development community by updating documentation, making sure acronyms made sense and fixing links and typos. It's the best way to get into a software community is to fix things around the edges and ensure that you can effectively communicate with people in the project. It also helps prove they are human.</span></p>
+<ol><li><span style="letter-spacing: -0.48px;"></span></li>
+
+<li></li>
 </ol>
 <p></p>
  ]]>
