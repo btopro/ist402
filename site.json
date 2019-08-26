@@ -175,11 +175,11 @@
             "description": "No one knows who you are if you're not effectively communicating. I recall a colleague several years ago getting pissed that I was invited to speak some place. \"It's like no one knows I exist or appre",
             "metadata": {
                 "created": 1565902902,
-                "updated": 1566673990,
+                "updated": 1566844026,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 6,
+                    "paragraphs": 7,
                     "schema": [
                         {
                             "resource": "#d7c9f858-a9be-b117-7795",
@@ -187,11 +187,11 @@
                         }
                     ],
                     "tags": {
-                        "p": 6,
+                        "p": 7,
                         "ul": 1,
                         "a11y-gif-player": 1
                     },
-                    "elements": 8
+                    "elements": 9
                 }
             }
         },
