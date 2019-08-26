@@ -341,10 +341,20 @@
             "order": "2",
             "parent": null,
             "title": "Materials",
-            "description": "",
+            "description": "There are no required course materials in the textbook form but there are digital services you'll need to purchase for one of our Labs which will have usage in multiple labs in the future. These servi",
             "metadata": {
                 "created": 1566846015,
-                "updated": 1566846015
+                "updated": 1566846457,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 7,
+                    "schema": [],
+                    "tags": {
+                        "p": 7
+                    },
+                    "elements": 7
+                }
             }
         },
         {
