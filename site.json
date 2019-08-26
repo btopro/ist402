@@ -141,10 +141,22 @@
             "order": "0",
             "parent": "item-cabad7a7-8b29-4e70-8786-1c60e33a7b90",
             "title": "Screencasting",
-            "description": "",
+            "description": "ChecklistBefore recording always make sure...You've got the links you want to view open in tabs in a browser windowYou've got headphones \/ some kind of microphone to record your voiceYou can use i",
             "metadata": {
                 "created": 1566844040,
-                "updated": 1566844040
+                "updated": 1566845358,
+                "readtime": 2,
+                "contentDetails": {
+                    "headings": 4,
+                    "paragraphs": 10,
+                    "schema": [],
+                    "tags": {
+                        "h3": 4,
+                        "p": 10,
+                        "ul": 1
+                    },
+                    "elements": 15
+                }
             }
         },
         {
