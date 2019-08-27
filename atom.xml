@@ -991,13 +991,15 @@ be leveraged</li>
   <entry>
     <title>Syllabus</title>
     <id>/syllabus</id>
-    <updated>2019-08-26T15:00:15-04:00</updated>
+    <updated>2019-08-27T18:56:43-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
-    <summary>A standard syllabus is a contract between us. You will receive a standard syllabus on the first day of class and it will be attached to this page for future reference.</summary>
+    <summary>A standard syllabus is a contract between us.IST 402 Fall 2019 Syllabus (PDF)</summary>
     <link href="/syllabus"/>
     
     <content type="html">
-      <![CDATA[ <p>A standard syllabus is a contract between us. You will receive a standard syllabus on the first day of class and it will be attached to this page for future reference.</p>
+      <![CDATA[ <p>A standard syllabus is a contract between us.</p>
+<p><a href="https://psu.box.com/s/2dp0l2ex01d4nz9ovxcg9f8jnkupsr0j">IST 402 Fall 2019 Syllabus (PDF)</a>
+</p>
  ]]>
     </content>
   </entry>
