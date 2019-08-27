@@ -463,18 +463,19 @@
             "order": "7",
             "parent": null,
             "title": "Topic overview",
-            "description": "ARE YOU READY!?Are you ready to hit power level 9000!? Then read through these lessons.But seriously. We're going to work through these different topics to skill up and get a better ",
+            "description": "ARE YOU READY!?Are you ready to hit power level 9000!? Then read through this lesson plan to be a super saiyan.Topic \/ semester outlineHere's the proposed topics I've come up wit",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1566875648,
+                "updated": 1566875741,
                 "readtime": 3,
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 2,
+                    "headings": 1,
+                    "paragraphs": 1,
                     "schema": [],
                     "tags": {
                         "grid-plate": 1,
-                        "p": 2,
+                        "h3": 1,
+                        "p": 1,
                         "ul": 1
                     },
                     "elements": 4
