@@ -463,20 +463,21 @@
             "order": "7",
             "parent": null,
             "title": "Topic overview",
-            "description": "ARE YOU READY!?Are you ready to hit power level 9000!? Then read through these lessons.But seriously. We're going to work through these different topics to skill up and get a better fee",
+            "description": "ARE YOU READY!?Are you ready to hit power level 9000!? Then read through these lessons.But seriously. We're going to work through these different topics to skill up and get a better ",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1566875228,
+                "updated": 1566875648,
                 "readtime": 3,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 36,
+                    "paragraphs": 2,
                     "schema": [],
                     "tags": {
                         "grid-plate": 1,
-                        "p": 36
+                        "p": 2,
+                        "ul": 1
                     },
-                    "elements": 37
+                    "elements": 4
                 }
             }
         },
