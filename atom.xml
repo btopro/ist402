@@ -153,7 +153,7 @@
   <entry>
     <title>Lab 1 - Building your digital identity</title>
     <id>/labs/building-your-digital-identity</id>
-    <updated>2019-08-26T23:20:25-04:00</updated>
+    <updated>2019-08-28T15:03:04-04:00</updated>
     <published>2019-08-23T09:52:38-04:00</published>
     <summary>August 28th, 2019 - Lab 1 / first classThis is a warm up lab that will help set the stage for the platforms we'll use for the rest of the semester.Create a Slack account and join two slack channels</summary>
     <link href="/labs/building-your-digital-identity"/>
@@ -162,6 +162,7 @@
       <![CDATA[ <h2>August 28th, 2019 - Lab 1 / first class</h2>
 <p>This is a warm up lab that will help set the stage for the platforms we'll use for the rest of the semester.</p>
 <ol><li>Create a Slack account and join two slack channels</li>
+
 
 
 
@@ -183,6 +184,7 @@
 
 
 
+
 <span style="caret-color: var(--hax-color-text);"> - <a href="https://join.slack.com/t/ist-402/shared_invite/enQtNzI5OTAyMTczNjY1LTUzZDQ1ZDFmMmU1ZTM1MTViN2QyNDAyNWJkYjgwZDhlYzc3ZDNhYTc1MjhhZWJhNjAyYjIxOGJlMWM2MGI3NGM">Slack Invite</a>
 
 
@@ -191,7 +193,9 @@
 
 
 
+
 </span></li>
+
 
 
 
@@ -213,7 +217,9 @@
 
 
 
+
 </ul>
+
 
 
 
@@ -232,7 +238,9 @@
 
 
 
+
 <span style="caret-color: var(--hax-color-text);"><a href="https://join.slack.com/t/elmsln/shared_invite/enQtMjg2MzUxMTYyNjcyLWNhYzU1ODk0MjQ5MWZlNjVjNWJkMmZlODJiMGNmNDBjODk2NDc2MDUzNTZkODE4NTRiMjUzYzkzOTBkNjI4NGE">Slack Invite</a>
+
 
 
 
@@ -251,7 +259,9 @@
 
 
 
+
 <ul><li>Me and my band of nuts are available to you. If you want to get more involved in this space beyond what we'll experience in class or have questions about the education or web industry, the door is always open</li>
+
 <li>There's developers and educational professionals from multiple universities there, IST and otherwise.</li>
 
 
@@ -263,18 +273,21 @@
 
 
 
-</ul>
-
-
-
-
-
-
-
-
-
 
 </ul>
+
+
+
+
+
+
+
+
+
+
+
+</ul>
+
 
 
 
@@ -297,7 +310,9 @@
 
 
 
+
 <ul><li>What does your brand feel like?</li>
+
 
 
 
@@ -319,7 +334,9 @@
 
 
 
+
 </ul>
+
 
 
 
@@ -341,6 +358,7 @@
 
 
 
+
 <ul><li>Domain name, Github, Twitter, LinkedIn, YouTube</li>
 
 
@@ -352,7 +370,9 @@
 
 
 
+
 </ul>
+
 
 
 
@@ -364,9 +384,9 @@
 
 
 <li>Note: You MAY want to divorce this from your real persona / personal accounts. Everyone does it differently in industry; many merge, there are risks associated with that. I fragment on YouTube  but generally keep all mine unified.<br/></li>
-<li>Because we haven't started a blog yet (but let's get in the swing of doing a write up and a video), write up a paragraph describing your brand and post it to the IST 402 Slack in the 
-<b style="font-style: italic;">#lab-1-brand-management </b>
-channel</li>
+
+<li>Because we haven't started a blog yet (but let's get in the swing of doing a write up and a video), write up a paragraph describing your brand in Word/Docs</li>
+
 
 
 
@@ -378,6 +398,7 @@ channel</li>
 
 
 </ul>
+
 
 
 
@@ -399,6 +420,7 @@ channel</li>
 
 
 
+
 <ul><li><span style="caret-color: var(--hax-color-text);">Be sure to set the username to be the same across them</span></li>
 
 
@@ -410,7 +432,9 @@ channel</li>
 
 
 
+
 </ul>
+
 
 
 
@@ -432,7 +456,9 @@ channel</li>
 
 
 
-<li>Create a screencast that's 2 - 5 minutes long that includes the following:</li>
+
+<li>Create a screencast that's 3 - 5 minutes long that includes the following:</li>
+
 
 
 
@@ -445,10 +471,13 @@ channel</li>
 
 <ul><li><span style="caret-color: var(--hax-color-text);">Pick a screencasting solution <a href="resources/screencasting">from the Screencasting resources area</a>
 
+
 </span></li>
 
 
+
 <li><span style="caret-color: var(--hax-color-text);">introducing your channel <i><b>from a technology professional context</b>
+
 
 
 
@@ -460,7 +489,9 @@ channel</li>
 
 
 
+
 </span></li>
+
 
 
 
@@ -480,7 +511,9 @@ channel</li>
 
 
 
+
 <li><span style="caret-color: var(--hax-color-text);">End with what piece of technology you'd like to learn more about how it works from the topics in the survey</span></li>
+
 
 
 
@@ -500,20 +533,20 @@ channel</li>
 
 
 
-<li><span style="caret-color: rgb(25, 30, 35);">Post a link to this video on your social accounts (Twitter / LinkedIn) with some setup to try and draw people to it using 3 hashtags</span></li>
 
+<li><span style="caret-color: rgb(25, 30, 35);">Post a link to this video on your social accounts (Twitter / LinkedIn) with some setup to try and draw people to it using 3 hashtags.</span></li>
 
+<li><span style="caret-color: var(--hax-color-text);">Use the </span><b style="caret-color: var(--hax-color-text);">IST402 Slack directly</b>
+<span style="caret-color: var(--hax-color-text);"> and upload your Word/Doc file to the channel named </span><i style="caret-color: var(--hax-color-text); font-weight: bold;">#lab-1-brand-management.</i>
+<i style="caret-color: var(--hax-color-text);"> </i>
+<span style="caret-color: var(--hax-color-text);">Make sure to include a link to your YouTube Channel and Video post in the bottom of your "blog" post</span><br/></li>
+<li><span style="caret-color: var(--hax-color-text);"><b>Extra if you'd like</b>
+</span></li>
+<ol><li><span style="caret-color: var(--hax-color-text);">If you @btopro on twitter I'll RT to increase reach</span></li>
+<li>@EdTechJoker is an account that will post into the "Socialmedia" channel in our slack channel. You're welcome to use this for social reach / to try it out as well</li>
 
-
-
-
-
-
-<li><span style="caret-color: var(--hax-color-text);" class="hax-active">On Twitter: Make sure you @EdTechJoker & @btopro so we can aggregate and review posts more easily.</span></li>
-<ol><li><span style="caret-color: var(--hax-color-text);">You can also use the <b>IST402 Slack directly</b>
- and post to the channel named <i style="font-weight: bold;">#lab-1-brand-management </i>
-channel instead of tweeting it if you'd prefer.</span></li>
 </ol>
+
 
 
 
