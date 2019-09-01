@@ -92,7 +92,7 @@
   <entry>
     <title>Lab 2 - Git / Github / Contribution</title>
     <id>/labs/git</id>
-    <updated>2019-09-01T19:54:07-04:00</updated>
+    <updated>2019-09-01T19:54:31-04:00</updated>
     <published>2019-08-24T15:13:10-04:00</published>
     <summary>September 4th, 2019 - Lab 2We've talked about git for version control and explored Github a bit and how teams work together using the platform. Now let's dig in!Basic example / Getting startedCre</summary>
     <link href="/labs/git"/>
@@ -113,7 +113,9 @@
 
 
 
+
 </li>
+
 
 
 
@@ -129,7 +131,9 @@
 
 
 
+
 </li>
+
 
 
 
@@ -146,6 +150,7 @@
 
 
 
+
 <li>We'll work through this in class and I'll mix between showing things interactively done between specific people as well as roaming around to answer questions</li>
 
 
@@ -154,7 +159,9 @@
 
 
 
+
 <li>After you make the updates requested in the document, issue a "Pull Request" back against the source (my repo)</li>
+
 
 
 
@@ -172,11 +179,13 @@
 
 
 
+
 </ol>
 <h3><span style="letter-spacing: -0.48px;">Let's start contributing to an open source project!</span></h3>
 <p><span style="letter-spacing: -0.48px;">Let's start contributing to our first open source project! I've left a few issues in my own projects so that we can see the full project development life cycle at play here. I'm providing links below so your job is to fix one of these things and issue a pull request just like we did in the practice.</span></p>
 <p><span style="letter-spacing: -0.48px;">EVERYONE (me included) start out getting into a development community by updating documentation, making sure acronyms made sense and fixing links and typos. The best way to get into a software community is to fix things around the edges and ensure that you can effectively communicate with people in the project. It also helps prove they are human.</span></p>
-<ol><li>Select one of the issues from this list of issues; Pick one from the number based on the row you are sitting in if still in class.</li>
+<ol><li>Select one of the issues from this list of issues; Pick one from the number based on the row you are sitting in if still in class, if not, try to pick one that hasn't been closed yet or have comments on it.</li>
+
 
 
 
@@ -185,29 +194,38 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
 
 
 
+
 <br/>OR</li>
+
 
 
 
 <li>HAXTheWeb minor documentation clean up - <a href="https://github.com/elmsln/haxtheweb.org/labels/HAXedu">https://github.com/elmsln/haxtheweb.org/labels/HAXedu</a>
 
 
+
 <br/>OR</li>
+
 
 <li>ELMS:LN minor documentation clean up - 
 <a href="https://github.com/elmsln/elmsln/labels/HAXedu">https://github.com/elmsln/elmsln/labels/HAXedu</a>
 
+
 <br/>OR</li>
 
 
+
 <li>Add a property description of the course to the <a href="https://github.com/btopro/ist402">https://github.com/btopro/ist402</a>
+
 
 
  README.md file and provide an issue describing the need to make the change<br/></li>
 
 
 
+
 </ol>
+
 
 
 
@@ -222,7 +240,9 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
 
 
 
+
 <li>Hit FORK on the repo (or go to your fork), fix the issue and submit a pull request.</li>
+
 
 
 
@@ -237,7 +257,9 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
 
 
 
+
 <li><span style="letter-spacing: 0.5px;">Git</span></li>
+
 
 
 
@@ -247,8 +269,10 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
 
 
 
+
 </ul>
 <p><span style="letter-spacing: -0.48px;">In your screencast talk about one of these four above as far as what it is and then showcase it in context of what we did in the lab. This could involve talking about what Pull Requests are while showing off a link that has good tutorials on Pull Request workflows, then showing the relevant links in the project you selected associated with a pull Request. <b>It could also be showing you talking about proposing changes to a file in a repo, then doing it in the UI and talking about what's happening.</b>
+
 
 
 
@@ -261,7 +285,9 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
 
 
 
+
 </b>
+
 
 
 
@@ -272,7 +298,9 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
 
 
 
+
 , post it into the <b>#lab-2-github</b>
+
 
 
 
