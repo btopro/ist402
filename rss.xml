@@ -1246,6 +1246,8 @@ Capabilities like clicking edit on the website, making a change in the browser a
       <link>/welcome</link>
       <description>
           <![CDATA[ <h2>IST 402: Emerging Technologies</h2>
+<p><a href="https://github.com/btopro/ist402">Repo backing this website</a>
+</p>
 <grid-plate layout="8/4" responsive-size="md" style="width: 100%;"><p slot="col-1">My name is Bryan Ollendyke, and welcome to IST 402: Emerging Tech!</p>
 
 
@@ -1255,8 +1257,11 @@ Capabilities like clicking edit on the website, making a change in the browser a
 
 
 
+
 <p slot="col-1">I'm excited to expose you to the ideas and technologies I wish I had been exposed to when I was in IST. I graduated from IST in 2006 (and again in 2015), and while I took some programming focused courses in undergrad, it wasn't until I starting working on projects for the university that I had to learn on the job all aspects of real software development.</p>
+
 <p slot="col-1"><br/></p>
+
 
 
 <p slot="col-1">I am a unicorn in the industry. A unicorn is often known as a "Full Stack Developer". It's a thing that "doesn't exist" or isn't to be sought after. The market tends to force hyper specialization, front end, back end, sys ops, dev ops, css / designer as opposed to one person that can touch all aspects of the application. I've been collecting a mix of unicorns through my work at the university and would love to share our experiences with you and expose you to technologies we work on every day.</p>
@@ -1264,10 +1269,13 @@ Capabilities like clicking edit on the website, making a change in the browser a
 
 
 
+
 <p slot="col-1">I love open source software, hockey, web technologies, Penn State, and meme's.... cause obviously. I present regularly at events around the country on web components, educational technology, NGDLE, and Drupal / PHP at both technical events and educator centric ones.</p>
 
 
+
 <p slot="col-1">I walk between worlds and hope to provide you with a unique perspective in the process!</p>
+
 
 
 
@@ -1280,7 +1288,9 @@ Capabilities like clicking edit on the website, making a change in the browser a
 
 
 
+
 <meme-maker style="width: 75%;" image-url="files/headshot.jpg" top-text="is so" bottom-text="strange" imageurl="files/headshot.jpg" slot="col-2"></meme-maker>
+
 
 
 
@@ -1309,7 +1319,9 @@ Capabilities like clicking edit on the website, making a change in the browser a
 
 
 
+
 <meme-maker alt="happy dance GIF by SpongeBob SquarePants" image-url="https://media0.giphy.com/media/nDSlfqf0gn5g4/giphy.gif" bottom-text="Ready?" imageurl="https://media0.giphy.com/media/nDSlfqf0gn5g4/giphy.gif" toptext="happy dance GIF by SpongeBob SquarePants" slot="col-3" top-text=""></meme-maker>
+
 
 
 
@@ -1321,8 +1333,10 @@ Capabilities like clicking edit on the website, making a change in the browser a
 
 
 
+
 </grid-plate>
 <h2>(Boring) "Blue Book" description from {<i>terrible</i>
+
 
 } LionPath</h2>
 <h3>Start up? Let's Tool up!</h3>
