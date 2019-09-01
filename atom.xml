@@ -961,13 +961,14 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Topic overview</title>
     <id>/topics</id>
-    <updated>2019-09-01T16:54:51-04:00</updated>
+    <updated>2019-09-01T19:56:39-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
-    <summary>ARE YOU READY!?Are you ready to hit power level 9000!? Then read through this lesson plan to be a super saiyan.Topic / semester outlineHere's the proposed topics I've come </summary>
+    <summary>ARE YOU READY!?Are you ready to hit power level 9000!? Then read through this lesson plan to be a super saiyan.Topic / semester outlineHere's the proposed topics I've co</summary>
     <link href="/topics"/>
     
     <content type="html">
       <![CDATA[ <grid-plate layout="6/6" responsive-size="md" style="width: 100%;"><h2 slot="col-1">ARE YOU READY!?</h2>
+
 
 
 
@@ -983,7 +984,9 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
 
 
 
+
 <meme-maker slot="col-2" alt="dragon ball z GIF by Geek & Sundry" image-url="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" bottom-text="Said no one... ever" imageurl="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" toptext="dragon ball z GIF by Geek & Sundry" style="width: 75%;"></meme-maker>
+
 
 
 
@@ -1001,9 +1004,11 @@ IT Professional (Vlogger)</li>
 
 
 
+
 <ul><li>Treating ourselves as brands, we will establish
 accounts and begin to setup the foundation for submission of assignments
 throughout the semester</li>
+
 
 
 
@@ -1011,7 +1016,9 @@ throughout the semester</li>
 
 
 
+
 <li>Week 2 – Git / Github / Contribution (All roles)</li>
+
 
 
 
@@ -1020,9 +1027,12 @@ understanding concepts of Git / version control and how teams leverage this
 technology for code and <b style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: rgb(0, 0, 0);">non-code
 projects</b>
 
+
 </li>
 
+
 </ul>
+
 
 <ul>
 
@@ -1030,7 +1040,9 @@ projects</b>
 
 
 
+
 <li><span style="caret-color: var(--hax-color-text);">Week 3 - HTML / CSS / JavaScript (Front end)</span></li>
+
 
 
 
@@ -1040,7 +1052,9 @@ you can extend concepts of github into other realms</li>
 
 
 
+
 </ul>
+
 
 
 
@@ -1049,12 +1063,15 @@ end)</span></li>
 
 
 
+
 <ul><li>NPM / Composer and how we stand on the shoulders
 of giants</li>
 
 
 
+
 </ul>
+
 
 
 
@@ -1063,8 +1080,10 @@ Apps (Front end)</li>
 
 
 
+
 <ul><li>HTML on steroids and the future of all
 application development, web or otherwise</li>
+
 
 
 
@@ -1074,26 +1093,37 @@ efficiency perspective. We’ll also experiment with a powerful new platform
 called Stackblitz to demonstrate the power of Package management +
 compartmentalized HTML</li>
 
+
 </ul>
 
+
 <li>Week 6 – Creating a website + server (Sys admin)<br/></li>
+
 
 <ul>
 <li>We’ll use this for a blog and other experiments throughout the semester but we’ll mostly demystify the process<br/></li>
 
 
+
 </ul>
 
-<li>Week 7 – Terminal and Command line basics (Sys admin)<br/></li>
+
+<li>Week 7 – Terminal and Command line basics and DDOS (Sys admin)<br/></li>
+
 
 <ul>
 <li>Step by step through the basic commands that system developers use to make everything work</li>
+<li>Looking at <a href="https://www.cloudflare.com/">Cloudflare</a>
+ and discussing Denial of Service attacks</li>
+
 
 </ul>
+
 
 <ul>
 
 </ul>
+
 
 
 
@@ -1101,11 +1131,14 @@ compartmentalized HTML</li>
 
 
 
+
 </li>
 
 
 
+
 <ul><li>We’ll have a mid-term based on the technologies and skills covered the 1<sup style="letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text); font-weight: bold;">st</sup>
+
 
 
 
@@ -1114,7 +1147,9 @@ compartmentalized HTML</li>
 
 
 
+
 <li><b style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text);">There will be no lab this week.</b>
+
 
 
 
@@ -1122,11 +1157,14 @@ compartmentalized HTML</li>
 
 
 
+
 <li><span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text);">Come to class, take the exam and then you're free to leave or use the open lab time for catching up on past labs.</span></li>
 
 
 
+
 </ul>
+
 
 
 
@@ -1134,15 +1172,19 @@ compartmentalized HTML</li>
 
 
 
+
 <ul><li>We’ll review governance within open source
 communities, understand the difference between licenses, learn how different structures operate (including Open vs Closed), see how to identify
 healthy vs stagnated open source communities, and learn when people fallback to proprietary technologies.</li>
+
 
 <li>We'll try to identify gaps in on boarding into a community and help improve the documentation associated with this.</li>
 
 
 
+
 </ul>
+
 
 
 
@@ -1150,10 +1192,13 @@ healthy vs stagnated open source communities, and learn when people fallback to 
 
 
 
+
 <ul><li>A window into Drupal, WordPress, GravCMS, HAXcms
 to understand how they work, limitations, why they are popular, how their
 communities operate</li>
+
 <li>We'll play with https://surge.sh/ for static publishing</li>
+
 
 
 
@@ -1161,7 +1206,9 @@ communities operate</li>
 
 
 
+
 <li>Week 11 – Accessibility (Front end / Developer)</li>
+
 
 
 
@@ -1170,11 +1217,14 @@ how do we test for it?</li>
 
 
 
+
 </ul>
 
 
 
+
 <li>Week 12 - User experience (Front end / Designer)</li>
+
 
 
 
@@ -1183,11 +1233,14 @@ applications</li>
 
 
 
+
 </ul>
 
 
 
+
 <li>Week 13 - Server Virtualization technologies (DevOps)</li>
+
 
 
 
@@ -1197,7 +1250,9 @@ powerful</li>
 
 
 
+
 </ul>
+
 
 
 
@@ -1206,7 +1261,9 @@ Thanksgiving Break</b>
 
 
 
+
 </li>
+
 
 
 
@@ -1214,7 +1271,9 @@ Thanksgiving Break</b>
 
 
 
+
 </li>
+
 
 
 
@@ -1222,8 +1281,10 @@ Thanksgiving Break</b>
 
 
 
+
 <li>Week 15-16 Educational Technology, Open
 Education Resources (Edtech)</li>
+
 
 
 
@@ -1233,8 +1294,10 @@ accessibility can be improved or accounted for.</li>
 
 
 
+
 <li>We’ll look at OER / open course technology
 movements from philosophical, societal and technological perspectives.</li>
+
 
 
 
@@ -1245,7 +1308,9 @@ be leveraged</li>
 
 
 
+
 <li><b>These labs will be combined into a single submission with 10% of the grade. Lab time will be spent learning about the context and having access to instructors to help while exploring the topic.</b>
+
 
 
 
@@ -1253,7 +1318,9 @@ be leveraged</li>
 
 
 
+
 </ul>
+
 
 
 
