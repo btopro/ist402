@@ -100,7 +100,9 @@
 
 
 
+
 </li>
+
 
 
 
@@ -108,7 +110,9 @@
 
 
 <li>Go to this repo off btopro's github account <a href="https://github.com/btopro/lab2/blob/master/README.md">by going to this link</a>
+
 </li>
+
 
 
 
@@ -117,11 +121,14 @@
 
 
 
+
 <li>We'll work through this in class and I'll mix between showing things interactively done between specific people as well as roaming around to answer questions</li>
 
 
 
+
 <li>After you make the updates requested in the document, issue a "Pull Request" back against the source (my repo)</li>
+
 
 
 
@@ -131,36 +138,54 @@
 
 
 
+
 </ol>
 <h3><span style="letter-spacing: -0.48px;">Let's start contributing to an open source project!</span></h3>
 <p><span style="letter-spacing: -0.48px;">Let's start contributing to our first open source project! I've left a few issues in my own projects so that we can see the full project development life cycle at play here. I'm providing links below so your job is to fix one of these things and issue a pull request just like we did in the practice.</span></p>
 <p><span style="letter-spacing: -0.48px;">EVERYONE (me included) start out getting into a development community by updating documentation, making sure acronyms made sense and fixing links and typos. The best way to get into a software community is to fix things around the edges and ensure that you can effectively communicate with people in the project. It also helps prove they are human.</span></p>
-<ol><li>Select one of the issues from this list of issues</li>
+<ol><li>Select one of the issues from this list of issues:</li>
+<ol><li>
+HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/issues?q=is%3Aissue+is%3Aopen+label%3AHAXEdu">https://github.com/elmsln/HAXcms/issues?q=is%3Aissue+is%3Aopen+label%3AHAXEdu</a>
+<br/>OR</li>
+<li>HAXTheWeb minor documentation clean up - <a href="https://github.com/elmsln/haxtheweb.org/labels/HAXedu">https://github.com/elmsln/haxtheweb.org/labels/HAXedu</a>
+<br/></li>
+</ol>
 
 
-<li>Read the description of what needs fixed, ask questions if you need clarification, and comment in the thread indicating that you plan on working on it.</li>
+
+<li>Read the description of what needs fixed, ask questions if you need clarification via commenting in the associated thread</li>
 
 
 
-<li>Hit FORK on the repo, fix the issue and submit a pull request.</li>
+
+<li>Hit FORK on the repo (or go to your fork), fix the issue and submit a pull request.</li>
+
 
 
 </ol>
 <h3 class="hax-active"><span style="letter-spacing: -0.48px;">Writing / screencast / reflection lab submission</span></h3>
 <p><span style="letter-spacing: -0.48px;">For our reflection piece this week, pick one of the following topics (or multiple if you like)</span></p>
 <ul><li><span style="letter-spacing: 0.5px;">Markdown<br/></span></li>
+
 <li><span style="letter-spacing: 0.5px;">Git</span></li>
+
 <li><span style="letter-spacing: 0.5px;">Pull Requests</span></li>
+
 </ul>
 <p><span style="letter-spacing: -0.48px;">In your screencast talk about one of these four above as far as what it is and then showcase it in context of what we did in the lab. This could involve talking about what Pull Requests are while showing off a link that has good tutorials on Pull Request workflows, then showing the relevant links in the project you selected associated with a pull Request. <b>It could also be showing you talking about proposing changes to a file in a repo, then doing it in the UI and talking about what's happening.</b>
+
 </span></p>
 <p><span style="letter-spacing: -0.48px;">I only bold that text because then you'd be saving time; doing the Lab while talking about doing the lab; which demonstrates you get the concept, while showing someone else how to accomplish the same task.</span></p>
 <h3><span style="letter-spacing: -0.48px;">Submitting your reflection</span></h3>
 <p><span style="letter-spacing: -0.48px;">This week our blogging piece will take place in the fork of your github repo for Lab2. There's a boilerplate file I created called <b><i>lab2/blob/master/Reflection.md</i>
+
 </b>
+
  which asks you to write your post there using some basic markdown for practice and linking to your video post.</span></p>
 <p><span style="letter-spacing: -0.48px;">Then when you've made your post in <b>github</b>
+
 , post it into the <b>#lab-2-github</b>
+
  channel in our ist-402 slack group.</span></p>
  ]]>
       </description>
