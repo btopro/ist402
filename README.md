@@ -16,5 +16,8 @@ The CDN mirrors for HAXcms may or may not include the elements you wish to exten
 # HAXcms
 HAX CMS seeks to be the smallest possible back-end CMS to make HAX work and be able to build websites with it. Leveraging JSON Outline Schema, HAX is able to author multiple pages, which it then writes onto the file system.
 
+### What is IST 402 (Emerging Issues in Tech)
+This IST 402 class is application of our knowlege on modern day technology. We are focusing on understanding of concepts that will be applied in the working world. Then we learn how these tools are used and their benefits. This class will eventually use this knowlegde to help us learn about new technology as soon as it comes out. This will be possible because this class will give us the tools to learn these new technologies for ourselves.
+
 ## License
 [Apache 2.0](LICENSE.md)
