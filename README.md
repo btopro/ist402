@@ -18,3 +18,7 @@ HAX CMS seeks to be the smallest possible back-end CMS to make HAX work and be a
 
 ## License
 [Apache 2.0](LICENSE.md)
+
+IST 402 Course Decription
+
+This course prepares students to understand the difference between potential technological failures and success, fads and revolutionary technology. It also helps students to view emerging issues as an opportunity rather than a threat. Intellectual tools are provided to assist in understanding issues, assessing and forecasting technological changes for feasibility and planning in real world situations.
