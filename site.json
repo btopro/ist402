@@ -9,7 +9,7 @@
         "site": {
             "name": "ist402",
             "created": 1565898366,
-            "updated": 1567596719,
+            "updated": 1568062380,
             "git": {}
         },
         "theme": {
@@ -79,7 +79,7 @@
             "description": "IST 402: Emerging TechnologiesRepo backing this websiteMy name is Bryan Ollendyke, and welcome to IST 402: Emerging Tech!I'm excited to expose you to the ideas and technologies I wish I h",
             "metadata": {
                 "created": 1565898366,
-                "updated": 1567596719,
+                "updated": 1568062380,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/\/headshot.jpg",
@@ -115,7 +115,7 @@
             "description": "This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.My name is Bryan Ollendyke and I've been living workin",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1567596719,
+                "updated": 1568062380,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 0,
@@ -144,7 +144,7 @@
             "description": "ChecklistBefore recording always make sure...You've got the links you want to view open in tabs in a browser windowYou've got headphones \/ some kind of microphone to record your voiceYou can use i",
             "metadata": {
                 "created": 1566844040,
-                "updated": 1567596719,
+                "updated": 1568062380,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 4,
@@ -169,7 +169,7 @@
             "description": "Slides from the talk in classNo one knows who you are if you're not effectively communicating. I recall a colleague several years ago getting pissed that I was invited to speak some place. \"It's li",
             "metadata": {
                 "created": 1565902902,
-                "updated": 1567596719,
+                "updated": 1568062380,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 1,
@@ -200,7 +200,7 @@
             "description": "August 28th, 2019 - Lab 1 \/ first classThis is a warm up lab that will help set the stage for the platforms we'll use for the rest of the semester.Create a Slack account and join two slack channels",
             "metadata": {
                 "created": 1566568358,
-                "updated": 1567596719,
+                "updated": 1568062380,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 1,
@@ -231,7 +231,7 @@
             "description": "In all the technologies and skillsets we'll explore in this course, I want you to approach them with the same questions that I have explored in my career. These simple questions will help you decipher",
             "metadata": {
                 "created": 1565900319,
-                "updated": 1567596719,
+                "updated": 1568062380,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -254,7 +254,7 @@
             "description": "Link to the slides from class.Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.Git provide",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1567625367,
+                "updated": 1568062380,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/\/2019-08-24_15-21-52.png",
@@ -296,7 +296,7 @@
             "description": "September 4th, 2019 - Lab 2We've talked about git for version control and explored Github a bit and how teams work together using the platform. Now let's dig in!Basic example \/ Getting startedCre",
             "metadata": {
                 "created": 1566673990,
-                "updated": 1567636434,
+                "updated": 1568062380,
                 "readtime": 3,
                 "contentDetails": {
                     "headings": 5,
@@ -323,7 +323,7 @@
             "description": "A standard syllabus is a contract between us.IST 402 Fall 2019 Syllabus (PDF)\u00a0\/ (Docx format)",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1567596719,
+                "updated": 1568062380,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -347,6 +347,32 @@
             }
         },
         {
+            "id": "item-fde4614a-bcc6-4cf4-ab72-2e76a42ad4f0",
+            "indent": "1",
+            "location": "pages\/topics\/html-\/-css-\/-js-web-basics\/index.html",
+            "order": "2",
+            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
+            "title": "HTML \/ CSS \/ JS Web basics",
+            "description": "",
+            "metadata": {
+                "created": 1568062380,
+                "updated": 1568062380
+            }
+        },
+        {
+            "id": "item-2a97bdd0-3cef-44df-a508-1af6ac78c17e",
+            "indent": "1",
+            "location": "pages\/labs\/lab-3-html-\/-css-\/-js-web-basics\/index.html",
+            "order": "2",
+            "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
+            "title": "Lab 3 - HTML \/ CSS \/ JS Web basics",
+            "description": "",
+            "metadata": {
+                "created": 1568062380,
+                "updated": 1568062380
+            }
+        },
+        {
             "id": "item-37e35ce7-9239-4d9b-a0a3-81d809543a9d",
             "indent": 0,
             "location": "pages\/materials\/index.html",
@@ -356,7 +382,7 @@
             "description": "There are no required course materials in the textbook form but there are digital services you'll need to purchase for one of our Labs which will have usage in multiple labs in the future. These servi",
             "metadata": {
                 "created": 1566846015,
-                "updated": 1567596719,
+                "updated": 1568062380,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 1,
@@ -380,7 +406,7 @@
             "description": "My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...Learning not just what a technology is but...Who's using it, what ",
             "metadata": {
                 "created": 1566414674,
-                "updated": 1567596719,
+                "updated": 1568062380,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -405,7 +431,7 @@
             "description": "We're going to strive for this general flow to each week of the semester. A few specific topics will deviate and we may have some guest speakers, but generally this is what class will look like togeth",
             "metadata": {
                 "created": 1566414295,
-                "updated": 1567596719,
+                "updated": 1568062380,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -429,7 +455,7 @@
             "description": "All assignments are setup as labs and you'll be starting into them at the end of class. Once finished with the lab, you'll demonstrate you've done the work by reflecting on it in the form of a written",
             "metadata": {
                 "created": 1566414674,
-                "updated": 1567596719,
+                "updated": 1568062380,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 2,
@@ -454,7 +480,7 @@
             "description": "It's not as scary as that title.We'll be exploring lots of different technologies through labs. In order to give me a good sense of what everyone's past experience is with these technologies, please ",
             "metadata": {
                 "created": 1565900239,
-                "updated": 1567596719,
+                "updated": 1568062380,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -478,7 +504,7 @@
             "description": "ARE YOU READY!?Are you ready to hit power level 9000!? Then read through this lesson plan to be a super saiyan.Topic \/ semester outlineHere's the proposed topics I've",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1568044044,
+                "updated": 1568062380,
                 "readtime": 3,
                 "contentDetails": {
                     "headings": 1,
@@ -504,7 +530,7 @@
             "description": "We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.Remember t",
             "metadata": {
                 "created": 1566568358,
-                "updated": 1567596719,
+                "updated": 1568062380,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -527,7 +553,7 @@
             "description": "Lab 1ABOB (made up acronym) - Always Be On Brand. Similar account names, same photos, interlink social accounts with writing with postsAlways leave 2-3 seconds on the front and back of a screencast",
             "metadata": {
                 "created": 1567596719,
-                "updated": 1567597947,
+                "updated": 1568062380,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 1,
@@ -552,7 +578,7 @@
             "description": "The last week of the semester there will be a slightly longer lab that I'm calling a project. You'll have to put together a pitch for one of multiple problem spaces but it's a technical pitch. You'll ",
             "metadata": {
                 "created": 1565968185,
-                "updated": 1567596719,
+                "updated": 1568062380,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -575,7 +601,7 @@
             "description": "This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub \/ collaboration locationDigital Ocean - Easy to use server environmentHover \/ Google Domains",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1567596719,
+                "updated": 1568062380,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
