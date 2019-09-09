@@ -349,14 +349,14 @@
         {
             "id": "item-fde4614a-bcc6-4cf4-ab72-2e76a42ad4f0",
             "indent": "1",
-            "location": "pages\/topics\/html-\/-css-\/-js-web-basics\/index.html",
+            "location": "pages\/topics\/topics\/html-css-js-web-basics\/index.html",
             "order": "2",
             "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
             "title": "HTML \/ CSS \/ JS Web basics",
             "description": "",
             "metadata": {
                 "created": 1568062380,
-                "updated": 1568062380
+                "updated": 1568062396
             }
         },
         {
