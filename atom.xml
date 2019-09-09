@@ -10,11 +10,11 @@
   <id>/feed</id>
   <entry>
     <title>Lab 3 - HTML / CSS / JS Web basics</title>
-    <id>/labs/lab-3-html-css-js-web-basics</id>
-    <updated>2019-09-09T17:08:56-04:00</updated>
+    <id>/labs/html-css-js-web-basics</id>
+    <updated>2019-09-09T17:21:50-04:00</updated>
     <published>2019-09-09T16:53:00-04:00</published>
-    <summary>For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in the future so we'll k</summary>
-    <link href="/labs/lab-3-html-css-js-web-basics"/>
+    <summary>For this lab we&#39;re going to be modifying three CodePens. The first one we&#39;ll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in the future so we&#39;ll k</summary>
+    <link href="/labs/html-css-js-web-basics"/>
     
     <content type="html">
       <![CDATA[ <p>For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in the future so we'll keep the JS brief for this one.</p>
