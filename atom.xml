@@ -10,11 +10,11 @@
   <id>/feed</id>
   <entry>
     <title>Lab 3 - HTML / CSS / JS Web basics</title>
-    <id>/labs/lab-3-html-/-css-/-js-web-basics</id>
-    <updated>2019-09-09T16:53:00-04:00</updated>
+    <id>/labs/lab-3-html-css-js-web-basics</id>
+    <updated>2019-09-09T16:53:40-04:00</updated>
     <published>2019-09-09T16:53:00-04:00</published>
     <summary></summary>
-    <link href="/labs/lab-3-html-/-css-/-js-web-basics"/>
+    <link href="/labs/lab-3-html-css-js-web-basics"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>
