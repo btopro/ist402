@@ -23,13 +23,25 @@
   <entry>
     <title>HTML / CSS / JS Web basics</title>
     <id>/topics/html-css-js-web-basics</id>
-    <updated>2019-09-09T16:53:26-04:00</updated>
+    <updated>2019-09-09T16:56:54-04:00</updated>
     <published>2019-09-09T16:53:00-04:00</published>
-    <summary></summary>
+    <summary>Load up the link machine. Many of these are inside the lecture presentation (in context)ResourcesCodePen.io - Great playground (where we'll do the lab today)CanIuse.com - Determine browser compa</summary>
     <link href="/topics/html-css-js-web-basics"/>
     
     <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
+      <![CDATA[ <p>Load up the link machine. Many of these are inside the lecture presentation (in context)<br/></p>
+<h3 class="hax-active">Resources</h3>
+<ul><li><a href="https://codepen.io/">CodePen.io</a>
+ - Great playground (where we'll do the lab today)</li>
+
+<li><a href="https://caniuse.com/">CanIuse.com</a>
+ - Determine browser compatibility with different CSS and JS capabilities</li>
+<li><a href="https://getbootstrap.com/">https://getbootstrap.com/</a>
+ - Bootstrap Design library, good for baseline styles and bringing responsive design (without thinking how)<br/></li>
+<li><a href="https://fonts.google.com">Google Fonts</a>
+ - Open source / easy to use CDN fonts</li>
+</ul>
+ ]]>
     </content>
   </entry>
   <entry>
