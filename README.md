@@ -18,3 +18,7 @@ HAX CMS seeks to be the smallest possible back-end CMS to make HAX work and be a
 
 ## License
 [Apache 2.0](LICENSE.md)
+
+Course Description
+
+We're going to learn about and participate in open source software communities. We're going to use github to do this. We're going to make YouTube channels full of knowledge that you've assembled in this course, create social media posts promoting it and other projects you'll work on, and generally give you a sense of the skills required to get involved in start up culture.
