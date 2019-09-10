@@ -48,36 +48,49 @@
       <link>/topics/html-css-js-web-basics</link>
       <description>
           <![CDATA[ <p><a href="https://www.slideshare.net/btopro/html-css-js-web-basics">Lecture Slides for Topic 3</a>
+
 </p>
 <p>Load up the link machine. Many of these are inside the lecture presentation (in context)<br/></p>
 <h3 class="hax-active">Resources</h3>
 <ul><li><a href="https://codepen.io/">CodePen.io</a>
 
 
+
  - Great playground (where we'll do the lab today)</li>
+
 
 
 
 <li><a href="https://caniuse.com/">CanIuse.com</a>
 
 
+
  - Determine browser compatibility with different CSS and JS capabilities</li>
+
 
 
 <li><a href="https://getbootstrap.com/">https://getbootstrap.com/</a>
 
 
+
  - Bootstrap Design library, good for baseline styles and bringing responsive design (without thinking how)<br/></li>
+
 
 
 <li><a href="https://fonts.google.com">Google Fonts</a>
 
 
+
  - Open source / easy to use CDN fonts</li>
+
 
 <li><a href="https://gist.github.com/btopro/cf4ea532694b811324727d3f3be5fce7">For the glory of Old State bookmarklet</a>
 
+
 </li>
+<li><a href="https://github.com/elmsln/lrnwebcomponents/blob/master/elements/hax-bookmarklet/README.md">HAX Bookmarklet</a>
+</li>
+
 
 
 </ul>
