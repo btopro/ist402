@@ -31,3 +31,6 @@ This IST 402 class is application of our knowlege on modern day technology. We a
 IST 402 Course Decription
 
 This course prepares students to understand the difference between potential technological failures and success, fads and revolutionary technology. It also helps students to view emerging issues as an opportunity rather than a threat. Intellectual tools are provided to assist in understanding issues, assessing and forecasting technological changes for feasibility and planning in real world situations.
+
+# IST 402 Description
+IST 402 is a course introducing students to emerging and current trends in the IT field. This particular IST 402 class focuses on the web and web technologies. By the end of the semester, students will have a broad understanding in web development and the tools used for web development. This includes knowledge of front-end, back-end, and the use of open source technologies. Additionally, students will document their progress throughout the course and establish an online brand for exposure.
