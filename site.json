@@ -575,21 +575,20 @@
             "order": "9",
             "parent": null,
             "title": "Feedback",
-            "description": "Lab 1ABOB (made up acronym) - Always Be On Brand. Similar account names, same photos, interlink social accounts with writing with postsAlways leave 2-3 seconds on the front and back of a screencast",
+            "description": "Lab 1ABOB (made up acronym) - Always Be On Brand. Similar account names, same photos, interlink social accounts with writing with postsAlways leave 2-3 seconds on the front and back of a screencas",
             "metadata": {
                 "created": 1567596719,
-                "updated": 1568062380,
+                "updated": 1568219966,
                 "readtime": 1,
                 "contentDetails": {
-                    "headings": 1,
-                    "paragraphs": 1,
+                    "headings": 2,
+                    "paragraphs": 0,
                     "schema": [],
                     "tags": {
-                        "h3": 1,
-                        "ul": 1,
-                        "p": 1
+                        "h3": 2,
+                        "ul": 2
                     },
-                    "elements": 3
+                    "elements": 4
                 }
             }
         },
