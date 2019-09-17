@@ -575,20 +575,20 @@
             "order": "9",
             "parent": null,
             "title": "Feedback",
-            "description": "Lab 2When you include links, videos, images, etc in your video, try to copy and paste the link into the description on YouTube. This helps others explore the topics in greater detail (general scr",
+            "description": "Lab 3When you include links, videos, images, etc in your video, try to copy and paste the link into the description on YouTube . This helps others explore the topics in greater detail\u00a0AND DIRECTLY I",
             "metadata": {
                 "created": 1567596719,
-                "updated": 1568220722,
+                "updated": 1568738523,
                 "readtime": 2,
                 "contentDetails": {
-                    "headings": 2,
+                    "headings": 3,
                     "paragraphs": 0,
                     "schema": [],
                     "tags": {
-                        "h3": 2,
-                        "ul": 2
+                        "h3": 3,
+                        "ul": 3
                     },
-                    "elements": 4
+                    "elements": 6
                 }
             }
         },
