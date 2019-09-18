@@ -16,32 +16,88 @@
 <h3>Exercises</h3>
 <p><b>Glitch.com</b>
 
+
+
  - A basic example of referencing and leveraging existing web components to do small things and insane things. Buttons, calendars, or... 3d model viewing???</p>
 <ul><li><a href="https://glitch.com/~ui5-webcomponents">https://glitch.com/~ui5-webcomponents</a>
 
+
+
 </li>
+
+
 
 <li>
 <a href="https://glitch.com/edit/#!/wcp-model-viewer?path=index.html:27:28">https://glitch.com/edit/#!/wcp-model-viewer?path=index.html:27:28</a>
 
+
+
 <br/></li>
+
+
 
 </ul>
 <p><b>Stackblitz.com</b>
 
+
+
  - An example of three different web component libraries achieving the same result through similar syntax: 
 <a href="https://stackblitz.com/edit/govsummit">https://stackblitz.com/edit/govsummit</a>
+
+
 
 </p>
 <p><b>Webcomponents.dev</b>
 
+
+
  - A Headless web application example: 
 <a href="https://webcomponents.dev/edit/nBDd1nHi5clvN1QAdSys">https://webcomponents.dev/edit/nBDd1nHi5clvN1QAdSys</a>
 
+
+
 </p>
-<p>Lab to submit</p>
+<h3>How to submit to lab</h3>
 <p>Similar to last week, we're going to fork and modify something but then we have a specific type of topic prompt for the response:</p>
-<p><br/></p>
+<ol>
+  <li><a href="https://webcomponents.dev/edit/KaQ3RE2hDjqwG48OPrnL">Fork this repo just like we did last week</a>
+</li>
+
+  <li>Update the details in example-app to relate to you</li>
+
+  <li>Copy the example-app code and fill it out differently, demonstrating stacking / time savings</li>
+
+  <li>update the CSS code to <b>remove the yellow background </b>
+and<b> change the border color</b>
+ of the css</li>
+
+  <li>Do your written response where it says "<i>Here's where you should fill in your response</i>
+" on one of these topics.</li>
+<li>Pick <b>one of these </b>
+to frame your writing and video response:	
+    <ul>
+    	<li>Make the <i>business</i>
+, <i>security</i>
+, <i>accessibility</i>
+, or <i>design</i>
+ case for using web components, leveraging links to support your case or through demonstration.</li>
+
+      	<li><i>Code / Developer route</i>
+: Run through <a href="https://lit-element.polymer-project.org/try">Try LitElement</a>
+ and do a video explaining the value of LitElement, with supporting links</li>
+<li>Package manager / tooling pro: Setup NPM / node and create an element using Open-WC, the tooling the pros use <a href="https://open-wc.org/guide/">https://open-wc.org/guide/</a>
+</li>
+
+    </ul>
+
+  </li>
+
+  <li>Record your video and link to it from your fork of the repo next to the writing area</li>
+
+  <li>Post in <b>#lab-4-webcomponents</b>
+ in our slack group</li>
+
+</ol>
  ]]>
       </description>
       <category></category>
