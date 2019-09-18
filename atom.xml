@@ -23,13 +23,15 @@
   <entry>
     <title>Webcomponents</title>
     <id>/topics/webcomponents</id>
-    <updated>2019-09-18T14:38:01-04:00</updated>
+    <updated>2019-09-18T14:43:50-04:00</updated>
     <published>2019-09-18T14:38:01-04:00</published>
-    <summary></summary>
+    <summary>Web components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a sustainable, secure and accessible manner.T</summary>
     <link href="/topics/webcomponents"/>
     
     <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
+      <![CDATA[ <p>Web components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a sustainable, secure and accessible manner.</p>
+<p>This week is mostly in slide form as a result of the many talks that btopro gives on these topics. This course is built out of web components and increasingly everything from signs at fast food restaurants to websites you use ever day (like YouTube) will be built out of web components.</p>
+ ]]>
     </content>
   </entry>
   <entry>

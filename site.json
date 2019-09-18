@@ -453,10 +453,20 @@
             "order": "3",
             "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
             "title": "Webcomponents",
-            "description": "",
+            "description": "Web components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a sustainable, secure and accessible manner.T",
             "metadata": {
                 "created": 1568831881,
-                "updated": 1568831881
+                "updated": 1568832230,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 2,
+                    "schema": [],
+                    "tags": {
+                        "p": 2
+                    },
+                    "elements": 2
+                }
             }
         },
         {
