@@ -479,19 +479,19 @@
             "description": "September 18th, 2019For this lab we're going to look at a few different services that are like codepen but allow for more advanced use-cases and development to support web components (and other front",
             "metadata": {
                 "created": 1568831881,
-                "updated": 1568835204,
+                "updated": 1568835737,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 3,
-                    "paragraphs": 5,
+                    "paragraphs": 6,
                     "schema": [],
                     "tags": {
                         "h3": 3,
-                        "p": 5,
+                        "p": 6,
                         "ul": 1,
                         "ol": 1
                     },
-                    "elements": 10
+                    "elements": 11
                 }
             }
         },
