@@ -462,14 +462,14 @@
         {
             "id": "item-3ffe3dcf-73aa-4b26-b63b-949dc5e9daac",
             "indent": "1",
-            "location": "pages\/labs\/webcomponents\/index.html",
+            "location": "pages\/labs\/webcomponents-1\/index.html",
             "order": "3",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
-            "title": "Webcomponents",
+            "title": "Lab 4 - Webcomponents",
             "description": "",
             "metadata": {
                 "created": 1568831881,
-                "updated": 1568831881
+                "updated": 1568831914
             }
         },
         {

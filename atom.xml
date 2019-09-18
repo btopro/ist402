@@ -3,18 +3,18 @@
   <title>ist402</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>IST 402 course content space</subtitle>
-  <updated>2019-09-09T16:53:00-04:00</updated>
+  <updated>2019-09-18T14:38:01-04:00</updated>
   <author>
       <name></name>
   </author>
   <id>/feed</id>
   <entry>
-    <title>Webcomponents</title>
-    <id>/labs/webcomponents</id>
-    <updated>2019-09-18T14:38:01-04:00</updated>
+    <title>Lab 4 - Webcomponents</title>
+    <id>/labs/webcomponents-1</id>
+    <updated>2019-09-18T14:38:34-04:00</updated>
     <published>2019-09-18T14:38:01-04:00</published>
     <summary></summary>
-    <link href="/labs/webcomponents"/>
+    <link href="/labs/webcomponents-1"/>
     
     <content type="html">
       <![CDATA[ <p>Ex uno Plures</p> ]]>
@@ -1050,6 +1050,50 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
     </content>
   </entry>
   <entry>
+    <title>Goals.. for you!</title>
+    <id>/goals-for-you-</id>
+    <updated>2019-09-18T14:38:01-04:00</updated>
+    <published>2019-08-21T15:11:14-04:00</published>
+    <summary>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...Learning not just what a technology is but...Who's using it, what </summary>
+    <link href="/goals-for-you-"/>
+    
+    <content type="html">
+      <![CDATA[ <p>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...</p>
+<ul><li>Learning not just what a technology is but...</li>
+
+<ul><li>Who's using it, what industries, what web services</li>
+
+<li>Getting hands on and implementing it small scale</li>
+
+<li>Being able to better communicate purpose and ideas around it</li>
+
+</ul>
+
+
+<li>Building a digital footprint of YOU, the IT worker / manager / developer / whatever your path, just that it's out there!</li>
+
+<ul><li>Creating a YouTube channel of explainer videos about the topics discussed in class</li>
+
+<li>Creating a Blog about these same topics</li>
+
+<li>Creating social coder accounts and connecting them all together (like Github, TravisCI, Stackblitz, CodePen, Glitch, IFTTT, etc)</li>
+
+</ul>
+
+<li>Learn about all levels of "the stack" in order to better empathize with those working in different levels of the stack from you (or people you'll one day manage)</li>
+
+<li>Have a website on the internet that you control and have a window into how all aspects of it function.</li>
+<li><i>Take hand written tests</i>
+ and <i>use platforms and technologies that no employer on earth will care about</i>
+ once you graduate</li>
+
+</ul>
+<p><span style="letter-spacing: -0.48px;">Ok.. maybe not that last one but the rest are legit.</span></p>
+<meme-maker alt="troll GIF" image-url="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" bottom-text="Ok, not that last one." imageurl="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" toptext="troll GIF" style="width: 75%;"></meme-maker>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>After class reflection</title>
     <id>/after-class-reflection</id>
     <updated>2019-09-18T14:38:01-04:00</updated>
@@ -1097,50 +1141,6 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
 
 <br/></span></p>
 <p>https://www.youtube.com/watch?v=Q4e4Z32mITo&list=PLJQupiji7J5dqyIVrKfPOujZKuqbmgJKm&index=8&t=0s<br/></p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Goals.. for you!</title>
-    <id>/goals-for-you-</id>
-    <updated>2019-09-18T14:38:01-04:00</updated>
-    <published>2019-08-21T15:11:14-04:00</published>
-    <summary>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...Learning not just what a technology is but...Who's using it, what </summary>
-    <link href="/goals-for-you-"/>
-    
-    <content type="html">
-      <![CDATA[ <p>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...</p>
-<ul><li>Learning not just what a technology is but...</li>
-
-<ul><li>Who's using it, what industries, what web services</li>
-
-<li>Getting hands on and implementing it small scale</li>
-
-<li>Being able to better communicate purpose and ideas around it</li>
-
-</ul>
-
-
-<li>Building a digital footprint of YOU, the IT worker / manager / developer / whatever your path, just that it's out there!</li>
-
-<ul><li>Creating a YouTube channel of explainer videos about the topics discussed in class</li>
-
-<li>Creating a Blog about these same topics</li>
-
-<li>Creating social coder accounts and connecting them all together (like Github, TravisCI, Stackblitz, CodePen, Glitch, IFTTT, etc)</li>
-
-</ul>
-
-<li>Learn about all levels of "the stack" in order to better empathize with those working in different levels of the stack from you (or people you'll one day manage)</li>
-
-<li>Have a website on the internet that you control and have a window into how all aspects of it function.</li>
-<li><i>Take hand written tests</i>
- and <i>use platforms and technologies that no employer on earth will care about</i>
- once you graduate</li>
-
-</ul>
-<p><span style="letter-spacing: -0.48px;">Ok.. maybe not that last one but the rest are legit.</span></p>
-<meme-maker alt="troll GIF" image-url="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" bottom-text="Ok, not that last one." imageurl="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" toptext="troll GIF" style="width: 75%;"></meme-maker>
  ]]>
     </content>
   </entry>
@@ -1307,66 +1307,6 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
 <p><a href="https://haxtheweb.org/">HAXcms</a>
 
  - Penn State developed flat file CMS (powers this course site)</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Git / Github / Contribution</title>
-    <id>/topics/git</id>
-    <updated>2019-09-18T14:38:01-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary>Link to the slides from class.Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.Git provide</summary>
-    <link href="/topics/git"/>
-    
-    <content type="html">
-      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/background-info-on-git-github">Link to the slides from class</a>
-.</p>
-<lrndesign-blockquote citation="git-scm.com" source-link="https://git-scm.com/" display-mode="default" resource="#8b61e53c-8efa-f160-e9f8" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 100%; margin: 0px auto; display: block;"><span>Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.</span>
-</lrndesign-blockquote>
-<p>Git provides a command line interface or CLI that allows developers to track changes in the code they are writing. Some basic commands in git are as follows</p>
-<code-sample copy-clipboard-button>  <template preserve-content="preserve-content"># create a new repo
-git init
-
-# create a file
-touch Readme.md
-
-# add file to git
-git add -A
-
-# "commit" the change
-git commit -m "Initial readme created"
-
-# "push" the change to a repository
-git push origin master</template>
-</code-sample>
-<p>All git is doing, is keeping track of a simple record that indicates what a line number WAS and what it should be now. Here's an example from the HAXcms Readme file</p>
-<img src="files/2019-08-24_15-21-52.png" alt="Looking at a git commit diff to see what something became" style="width: 100%;"/><p>In this example, we can see that lines 18 and 19 in the file called README.md were changed. The left in red is what it was. The right in green is what it became. This visualization is provided by Github, where I manage the vast majority of my projects.</p>
-<p><a href="https://github.com/">Github</a>
-
- is a popular space for developers in and out of open source software communities to collaborate. Microsoft recently purchased Github but the platform has been popular with developers of open source projects for over a decade prior.</p>
-<p>Github has gained popularity in part because</p>
-<ul><li>Git as a version control system has largely won the popularity contest</li>
-
-<li>They allow you to use the platform for free so long as what you do is open source</li>
-
-<li>Private repos then allow companies to align their open contribution strategy with their internal development workflows</li>
-
-
-<li>Github's social networking aspects around issue queues, following, forking and staring repos have all helped improve the social aspect of software development online</li>
-
-<li><i>Github is adding capabilities to make code contributions without needing to understand everything that goes into making the contribution. </i>
-
-Capabilities like clicking edit on the website, making a change in the browser and typing the commit name, then it automatically saving the change or creating a "Pull Request" for whoever owns the file</li>
-
-<li>All of these reasons are why developers <b>and non-developers</b>
-
- are joining Github to do a lot of open source contribution.</li>
-
-<li>Lots of other services and "apps" are starting to integrate with Github as a platform and as a login system</li>
-
-</ul>
-<p><span style="letter-spacing: -0.48px;">There is an open source variation of GitHub called GitLab. Gitlab is used by the university to share code internally (like WebAccess, security related code), automate workflows and increase collaboration between organizations.</span></p>
-<p><span style="letter-spacing: -0.48px;">For the purposes of this class we're going to focus on Github as it will provide the most visibility for you and what you are showcasing as being able to do.</span></p>
  ]]>
     </content>
   </entry>
@@ -1865,6 +1805,66 @@ be leveraged</li>
 <p><a href="https://psu.box.com/s/2dp0l2ex01d4nz9ovxcg9f8jnkupsr0j">IST 402 Fall 2019 Syllabus (PDF)</a>
  / (<a href="https://psu.box.com/s/2feisa6840l8h0mb5uvhw1nl9tce2hzb">Docx format</a>
 )</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Git / Github / Contribution</title>
+    <id>/topics/git</id>
+    <updated>2019-09-18T14:38:01-04:00</updated>
+    <published>2019-08-15T15:48:47-04:00</published>
+    <summary>Link to the slides from class.Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.Git provide</summary>
+    <link href="/topics/git"/>
+    
+    <content type="html">
+      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/background-info-on-git-github">Link to the slides from class</a>
+.</p>
+<lrndesign-blockquote citation="git-scm.com" source-link="https://git-scm.com/" display-mode="default" resource="#8b61e53c-8efa-f160-e9f8" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 100%; margin: 0px auto; display: block;"><span>Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.</span>
+</lrndesign-blockquote>
+<p>Git provides a command line interface or CLI that allows developers to track changes in the code they are writing. Some basic commands in git are as follows</p>
+<code-sample copy-clipboard-button>  <template preserve-content="preserve-content"># create a new repo
+git init
+
+# create a file
+touch Readme.md
+
+# add file to git
+git add -A
+
+# "commit" the change
+git commit -m "Initial readme created"
+
+# "push" the change to a repository
+git push origin master</template>
+</code-sample>
+<p>All git is doing, is keeping track of a simple record that indicates what a line number WAS and what it should be now. Here's an example from the HAXcms Readme file</p>
+<img src="files/2019-08-24_15-21-52.png" alt="Looking at a git commit diff to see what something became" style="width: 100%;"/><p>In this example, we can see that lines 18 and 19 in the file called README.md were changed. The left in red is what it was. The right in green is what it became. This visualization is provided by Github, where I manage the vast majority of my projects.</p>
+<p><a href="https://github.com/">Github</a>
+
+ is a popular space for developers in and out of open source software communities to collaborate. Microsoft recently purchased Github but the platform has been popular with developers of open source projects for over a decade prior.</p>
+<p>Github has gained popularity in part because</p>
+<ul><li>Git as a version control system has largely won the popularity contest</li>
+
+<li>They allow you to use the platform for free so long as what you do is open source</li>
+
+<li>Private repos then allow companies to align their open contribution strategy with their internal development workflows</li>
+
+
+<li>Github's social networking aspects around issue queues, following, forking and staring repos have all helped improve the social aspect of software development online</li>
+
+<li><i>Github is adding capabilities to make code contributions without needing to understand everything that goes into making the contribution. </i>
+
+Capabilities like clicking edit on the website, making a change in the browser and typing the commit name, then it automatically saving the change or creating a "Pull Request" for whoever owns the file</li>
+
+<li>All of these reasons are why developers <b>and non-developers</b>
+
+ are joining Github to do a lot of open source contribution.</li>
+
+<li>Lots of other services and "apps" are starting to integrate with Github as a platform and as a login system</li>
+
+</ul>
+<p><span style="letter-spacing: -0.48px;">There is an open source variation of GitHub called GitLab. Gitlab is used by the university to share code internally (like WebAccess, security related code), automate workflows and increase collaboration between organizations.</span></p>
+<p><span style="letter-spacing: -0.48px;">For the purposes of this class we're going to focus on Github as it will provide the most visibility for you and what you are showcasing as being able to do.</span></p>
  ]]>
     </content>
   </entry>
