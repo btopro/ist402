@@ -377,22 +377,22 @@
             "order": "2",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "Lab 3 - HTML \/ CSS \/ JS Web basics",
-            "description": "For this lab we&#39;re going to be modifying three CodePens. The first one we&#39;ll do together in class for practice and getting a feel for HTML \/ CSS. JavaScript will come up again in the future so we&#39;ll k",
+            "description": "September 11th, 2019For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML \/ CSS. JavaScript will come up again in ",
             "metadata": {
                 "created": 1568062380,
-                "updated": 1568831881,
+                "updated": 1568835178,
                 "readtime": 1,
                 "contentDetails": {
-                    "headings": 2,
+                    "headings": 3,
                     "paragraphs": 6,
                     "schema": [],
                     "tags": {
+                        "h3": 2,
                         "p": 6,
                         "h2": 1,
-                        "h3": 1,
                         "ul": 1
                     },
-                    "elements": 9
+                    "elements": 10
                 }
             }
         },
