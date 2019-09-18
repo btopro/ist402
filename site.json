@@ -476,10 +476,22 @@
             "order": "3",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "Lab 4 - Webcomponents",
-            "description": "",
+            "description": "For this lab we're going to look at a few different services that are like codepen but allow for more advanced use-cases and development to support web components (and other front end languages).Exer",
             "metadata": {
                 "created": 1568831881,
-                "updated": 1568831914
+                "updated": 1568833771,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 1,
+                    "paragraphs": 4,
+                    "schema": [],
+                    "tags": {
+                        "p": 4,
+                        "h3": 1,
+                        "ul": 1
+                    },
+                    "elements": 6
+                }
             }
         },
         {

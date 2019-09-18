@@ -11,13 +11,31 @@
   <entry>
     <title>Lab 4 - Webcomponents</title>
     <id>/labs/webcomponents-1</id>
-    <updated>2019-09-18T14:38:34-04:00</updated>
+    <updated>2019-09-18T15:09:31-04:00</updated>
     <published>2019-09-18T14:38:01-04:00</published>
-    <summary></summary>
+    <summary>For this lab we're going to look at a few different services that are like codepen but allow for more advanced use-cases and development to support web components (and other front end languages).Exer</summary>
     <link href="/labs/webcomponents-1"/>
     
     <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
+      <![CDATA[ <p>For this lab we're going to look at a few different services that are like codepen but allow for more advanced use-cases and development to support web components (and other front end languages).</p>
+<h3 class="hax-active">Exercises</h3>
+<p><b>Glitch.com</b>
+ - A basic example of referencing and leveraging existing web components to do small things and insane things. Buttons, calendars, or... 3d model viewing???</p>
+<ul><li><a href="https://glitch.com/~ui5-webcomponents">https://glitch.com/~ui5-webcomponents</a>
+</li>
+<li>
+<a href="https://glitch.com/edit/#!/wcp-model-viewer?path=index.html:27:28">https://glitch.com/edit/#!/wcp-model-viewer?path=index.html:27:28</a>
+<br/></li>
+</ul>
+<p><b>Stackblitz.com</b>
+ - An example of three different web component libraries achieving the same result through similar syntax: 
+<a href="https://stackblitz.com/edit/govsummit">https://stackblitz.com/edit/govsummit</a>
+</p>
+<p><b>Webcomponents.dev</b>
+ - A Headless web application example: 
+<a href="https://webcomponents.dev/edit/nBDd1nHi5clvN1QAdSys">https://webcomponents.dev/edit/nBDd1nHi5clvN1QAdSys</a>
+</p>
+ ]]>
     </content>
   </entry>
   <entry>
