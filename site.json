@@ -575,22 +575,22 @@
             "order": "7",
             "parent": null,
             "title": "Topic overview",
-            "description": "ARE YOU READY!?Are you ready to hit power level 9000!? Then read through this lesson plan to be a super saiyan.Topic \/ semester outlineHere's the proposed topics I",
+            "description": "ARE YOU READY!?Are you ready to hit power level 9000!? Then read through this lesson plan to be a super saiyan.Topic \/ semester outlineHere's the proposed topic",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1568831881,
+                "updated": 1568921923,
                 "readtime": 5,
                 "contentDetails": {
                     "headings": 1,
                     "paragraphs": 1,
                     "schema": [],
                     "tags": {
-                        "grid-plate": 1,
+                        "grid-plate": 2,
                         "h3": 1,
                         "p": 1,
                         "ul": 1
                     },
-                    "elements": 4
+                    "elements": 5
                 },
                 "files": [
                     {
