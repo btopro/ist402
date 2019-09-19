@@ -591,7 +591,17 @@
                         "ul": 1
                     },
                     "elements": 4
-                }
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/\/giphy.gif",
+                        "fullUrl": "\/bto108\/sites\/ist402\/files\/giphy.gif",
+                        "url": "files\/giphy.gif",
+                        "type": "image\/gif",
+                        "name": "giphy.gif",
+                        "size": 1123383
+                    }
+                ]
             }
         },
         {
