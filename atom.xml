@@ -1610,13 +1610,15 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Topic overview</title>
     <id>/topics</id>
-    <updated>2019-09-19T15:38:43-04:00</updated>
+    <updated>2019-09-19T15:43:36-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
-    <summary>ARE YOU READY!?Are you ready to hit power level 9000!? Then read through this lesson plan to be a super saiyan.Topic / semester outlineHere's the proposed topic</summary>
+    <summary>ARE YOU READY!?Are you ready to hit power level 9000!? Then read through this lesson plan to be a super saiyan.Topic / semester outlineHere's the proposed</summary>
     <link href="/topics"/>
     
     <content type="html">
       <![CDATA[ <grid-plate layout="6/6" responsive-size="md" style="width: 100%;"><h2 slot="col-1">ARE YOU READY!?</h2>
+
+
 
 
 
@@ -1640,7 +1642,11 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
 
 
 
+
+
 <meme-maker slot="col-2" alt="dragon ball z GIF by Geek & Sundry" image-url="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" bottom-text="Said no one... ever" imageurl="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" toptext="dragon ball z GIF by Geek & Sundry" style="width: 75%;"></meme-maker>
+
+
 
 
 
@@ -1666,9 +1672,13 @@ IT Professional (Vlogger)</li>
 
 
 
+
+
 <ul><li>Treating ourselves as brands, we will establish
 accounts and begin to setup the foundation for submission of assignments
 throughout the semester</li>
+
+
 
 
 
@@ -1684,7 +1694,11 @@ throughout the semester</li>
 
 
 
+
+
 <li>Week 2 – Git / Github / Contribution (All roles)</li>
+
+
 
 
 
@@ -1701,13 +1715,19 @@ projects</b>
 
 
 
+
+
 </li>
 
 
 
 
 
+
+
 </ul>
+
+
 
 
 
@@ -1723,7 +1743,11 @@ projects</b>
 
 
 
+
+
 <li><span style="caret-color: var(--hax-color-text);">Week 3 - HTML / CSS / JavaScript & the web (Front end)</span></li>
+
+
 
 
 
@@ -1735,7 +1759,11 @@ projects</b>
 today, a primer for reverse engineering. We’ll use codepen to demonstrate how
 you can extend concepts of github into other realms</li>
 
+
+
 </ul>
+
+
 
 
 
@@ -1752,8 +1780,12 @@ Apps (Front end)</li>
 
 
 
+
+
 <ul><li>HTML on steroids and the future of all
 application development, web or otherwise</li>
+
+
 
 
 
@@ -1767,63 +1799,123 @@ efficiency perspective. We’ll also experiment with a powerful new platform
 called Stackblitz to demonstrate the power of Package management +
 compartmentalized HTML</li>
 
+
+
 <li>NPM / Composer and how we stand on the shoulders of giants</li>
 
+
+
 </ul>
+
+
 
 <li>Week 5 - Reclaim Hosting & CPanel & GravCMS</li>
 
+
+
 <ul><li>We're going to dig into <a href="https://reclaimhosting.com/"><b>Reclaim</b>
 
+
+
  <b>hosting</b>
+
+
 
 </a>
 
+
+
  for the next several lessons and to give us a server to deploy CMSs on. CMSs come in different shapes and sizes and this will kick off several weeks looking at different CMSs in depth</li>
+
+
 
 <li><b>Reclaim</b>
 
+
+
  uses <a href="https://cpanel.net/">CPanel</a>
+
+
 
  - A hosting management platform which makes installing new applications a click away. We'll explore the CPanel interface and open the door to installing and experimenting with many different applications.</li>
 
+
+
 <li>We'll use GravCMS as our first vehicle into CPanels powers. GravCMS is a powerful yet simple static file driven website. It's built in PHP yet reads off <b>Markdown</b>
+
+
 
  files in order to generate content. We'll explore the GravCMS user interface, learn why people use it and look at some sites built using it.</li>
 
+
+
 </ul>
+
+
 
 <li>Week 6 - <a href="https://drupal.org/">Drupal CMS</a>
 
+
+
 </li>
+
+
 
 <ul><li>We'll look at the Drupal community, it's history, structure and learn about why it's popular at a high level</li>
 
+
+
 <li>We'll dig into the Drupal UI and look at the more powerful aspects of it as to why people put up for lack of UX in exchange for raw power like User / role management and entity / field management</li>
+
+
 
 <li>We'll setup a basic Drupal site in <b>Reclaim</b>
 
+
+
  <b>hosting</b>
+
+
 
  to explore the guts of our own real working Drupal site.</li>
 
+
+
 </ul>
+
+
 
 <li>Week 7 - <a href="https://wordpress.org/">WordPress CMS</a>
 
+
+
 </li>
+
+
 
 <ul><li>We'll look at the WordPress community and platform as it is the worlds most used open source CMS, thought to power some 30+% of all websites</li>
 
+
+
 <li>We'll dig into the WordPress UI, look at the Gutenberg editor, and see why more people build smaller websites using WordPress than any other platform out there today</li>
+
+
 
 <li>We'll setup a basic WordPress site in <b>Reclaim</b>
 
+
+
  <b>hosting</b>
+
+
 
  to explore the guts of our own real working WordPress site.</li>
 
+
+
 </ul>
+
+
 
 <ul>
 
@@ -1835,9 +1927,13 @@ compartmentalized HTML</li>
 
 
 
+
+
 <ul>
 
 </ul>
+
+
 
 
 
@@ -1853,6 +1949,8 @@ compartmentalized HTML</li>
 
 
 
+
+
 </li>
 
 
@@ -1861,7 +1959,11 @@ compartmentalized HTML</li>
 
 
 
+
+
 <ul><li>We’ll have a mid-term based on the technologies and skills covered the 1<sup style="letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text); font-weight: bold;">st</sup>
+
+
 
 
 
@@ -1878,7 +1980,11 @@ compartmentalized HTML</li>
 
 
 
+
+
 <li><b style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text);">There will be no lab this week.</b>
+
+
 
 
 
@@ -1894,7 +2000,11 @@ compartmentalized HTML</li>
 
 
 
+
+
 <li><span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text);">Come to class, take the exam and then you're free to leave or use the open lab time for catching up on past labs.</span></li>
+
+
 
 
 
@@ -1910,9 +2020,15 @@ compartmentalized HTML</li>
 
 
 
+
+
 <li>Week 9 - Open source communities & <a href="https://github.com/elmsln/haxcms">HAXcms</a>
 
+
+
  (All roles)</li>
+
+
 
 
 
@@ -1924,7 +2040,11 @@ compartmentalized HTML</li>
 communities, understand the difference between licenses, learn how different structures operate (including Open vs Closed), see how to identify
 healthy vs stagnated open source communities, and learn when people fallback to proprietary technologies. ELMS:LN / HAXcms had to go through a formal audit from the <a href="https://apereo.org/">Apereo Foundation</a>
 
+
+
 , so I'll provide insight into what got us certified as a well formed software community.</li>
+
+
 
 
 
@@ -1932,21 +2052,37 @@ healthy vs stagnated open source communities, and learn when people fallback to 
 
 <li>We'll try to identify gaps in on boarding into a community and help improve the documentation associated with this by installing and experimenting with HAXcms, a system I've dubbed an <b>organic static site generator</b>
 
+
+
 .</li>
+
+
 
 </ul>
 
+
+
 <li>Week 10 – Servers, Terminal and Command line basics and DDOS (Sys admin)<br/></li>
+
+
 
 <ul>
 <li><span style="caret-color: var(--hax-color-text);">Step by step through the basic commands that system developers use to make everything work</span><br/></li>
 
+
+
 <li><span style="caret-color: var(--hax-color-text);">Looking at </span><a href="https://www.cloudflare.com/" style="caret-color: var(--hax-color-text);">Cloudflare</a>
+
+
 
 <span style="caret-color: var(--hax-color-text);">
  and discussing Denial of Service attacks</span><br/></li>
 
+
+
 </ul>
+
+
 
 <ul>
 
@@ -1959,7 +2095,11 @@ healthy vs stagnated open source communities, and learn when people fallback to 
 
 
 
+
+
 </ul>
+
+
 
 
 
@@ -1975,12 +2115,20 @@ healthy vs stagnated open source communities, and learn when people fallback to 
 
 
 
+
+
 <ul><li>What is it, why is it important, who benefits,
 how do we test for it?</li>
 
+
+
 <li>We'll use Lighthouse and Wave to test different websites and parse through the reports</li>
 
+
+
 <li>We'll also have a guest speaker from the university who works in disability services, Sonya Woods, to talk about accessibility and her job as a specialist in this field.</li>
+
+
 
 
 
@@ -1996,7 +2144,11 @@ how do we test for it?</li>
 
 
 
+
+
 <li>Week 12 - User experience (Front end / Designer)</li>
+
+
 
 
 
@@ -2013,6 +2165,8 @@ applications</li>
 
 
 
+
+
 </ul>
 
 
@@ -2021,7 +2175,11 @@ applications</li>
 
 
 
+
+
 <li>Week 13 - Server Virtualization technologies (DevOps)</li>
+
+
 
 
 
@@ -2039,7 +2197,11 @@ powerful</li>
 
 
 
+
+
 </ul>
+
+
 
 
 
@@ -2056,7 +2218,11 @@ Thanksgiving Break</b>
 
 
 
+
+
 </li>
+
+
 
 
 
@@ -2072,7 +2238,11 @@ Thanksgiving Break</b>
 
 
 
+
+
 </li>
+
+
 
 
 
@@ -2088,8 +2258,12 @@ Thanksgiving Break</b>
 
 
 
+
+
 <li>Week 15-16 Educational Technology, Open
 Education Resources (Edtech)</li>
+
+
 
 
 
@@ -2107,8 +2281,12 @@ accessibility can be improved or accounted for.</li>
 
 
 
+
+
 <li>We’ll look at OER / open course technology
 movements from philosophical, societal and technological perspectives.</li>
+
+
 
 
 
@@ -2127,7 +2305,11 @@ be leveraged</li>
 
 
 
+
+
 <li><b>These labs will be combined into a single submission with 10% of the grade. Lab time will be spent learning about the context and having access to instructors to help while exploring the topic.</b>
+
+
 
 
 
@@ -2143,21 +2325,32 @@ be leveraged</li>
 
 
 
-</ul>
-
-
-
-
-
 
 
 </ul>
-<grid-plate layout="6/6" responsive-size="md">
-<p slot="col-1">A paragraph of text would go here to describe the work.</p>
 
-<h2 slot="col-2">Heading i modified before</h2>
-<a11y-gif-player src="files/giphy.gif" src-without-animation="files/IMG_20190307_142259.jpg" alt="This is that makes fun of flaming dumpster fire LMSs." schema-resource-id="#374c54e3-631b-bafd-b3f5" resource="#374c54e3-631b-bafd-b3f5" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " slot="col-2"></a11y-gif-player>
 
+
+
+
+
+
+
+
+</ul>
+<grid-plate breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" layout="1-1-1" responsive-size="md">  <p slot="col-1">A paragraph of text would go here to describe the work.</p>
+
+  <h2 slot="col-2">Heading i modified before</h2>
+
+  <a11y-gif-player src="files/giphy.gif" src-without-animation="files/IMG_20190307_142259.jpg" alt="This is that makes fun of flaming dumpster fire LMSs." schema-resource-id="#374c54e3-631b-bafd-b3f5" resource="#374c54e3-631b-bafd-b3f5" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " slot="col-2"></a11y-gif-player>
+
+
+  
+
+  <a11y-gif-player src="files/giphy.gif" src-without-animation="files/IMG_20190307_142259.jpg" alt="This is that makes fun of flaming dumpster fire LMSs." schema-resource-id="#374c54e3-631b-bafd-b3f5" resource="#374c54e3-631b-bafd-b3f5" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " slot="col-1"></a11y-gif-player>
+
+
+<a11y-gif-player src="files/giphy.gif" src-without-animation="files/IMG_20190307_142259.jpg" alt="This is that makes fun of flaming dumpster fire LMSs." schema-resource-id="#374c54e3-631b-bafd-b3f5" resource="#374c54e3-631b-bafd-b3f5" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " slot="col-3" style="width: 50%;"></a11y-gif-player>
 </grid-plate>
  ]]>
     </content>
