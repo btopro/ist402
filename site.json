@@ -600,6 +600,14 @@
                         "type": "image\/gif",
                         "name": "giphy.gif",
                         "size": 1123383
+                    },
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/\/IMG_20190307_142259.jpg",
+                        "fullUrl": "\/bto108\/sites\/ist402\/files\/IMG_20190307_142259.jpg",
+                        "url": "files\/IMG_20190307_142259.jpg",
+                        "type": "image\/jpeg",
+                        "name": "IMG_20190307_142259.jpg",
+                        "size": 32993
                     }
                 ]
             }
