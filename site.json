@@ -551,10 +551,21 @@
             "order": "4",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "Lab 5 - GravCMS",
-            "description": "",
+            "description": "Lab scenarioYouare a project manager in a design firmYour team is 1 developer, 1 sitebuilder,\u00a01 designer and you report to theCEOYou think GravCMS might be a great way\u00a0to deliver 10-20 page m",
             "metadata": {
                 "created": 1569423610,
-                "updated": 1569423610
+                "updated": 1569439318,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 3,
+                    "paragraphs": 0,
+                    "schema": [],
+                    "tags": {
+                        "h2": 3,
+                        "ul": 3
+                    },
+                    "elements": 6
+                }
             }
         },
         {

@@ -12,7 +12,73 @@
       <title>Lab 5 - GravCMS</title>
       <link>/labs/lab-5-gravcms</link>
       <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
+          <![CDATA[ <h2><font face="Space Mono"><span style=""><span style="letter-spacing: -0.48px;" class="hax-active">Lab scenario</span><br/></span></font>
+</h2>
+<ul><li><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">You
+are a project manager in a design firm</span></li>
+<li>Your team is 1 <span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-style: italic;">developer</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">, 1 </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-style: italic;">site
+builder</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">, </span>1 <span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-style: italic;">designer</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"> and you report to </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-style: italic;">the</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-style: italic;">
+</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-style: italic;">CEO</span></li>
+<li>You think <span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">GravCMS</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"> might be a great way </span>to deliver 10-20 page marketing
+websites faster to small clients</li>
+
+<li>SEO is critical to rank high on Google or mom ‘n pop clients will close!!<span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">😲
+😲</span></li>
+
+<li>Your team <span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-style: italic;">isn’t
+convinced on any CMS </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">as </span>they always build everything <span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-style: italic;">from scratch</span></li>
+</ul>
+<h2><font face="Space Mono"><span style=""><span style="letter-spacing: -0.48px;" class="hax-active">Lab deliverable</span><br/></span></font>
+</h2>
+<ul><li><span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">Sell the team on </span><span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;" class="hax-active">by
+building a site!</span></li>
+
+<li>Page 1: Management - How <span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"> will save money on
+projects</span></li>
+
+<li>Page 2: Developer buy-in - How does <span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"> improve security?</span></li>
+
+<li>Page 3: Designer buy-in - How <span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"> promotes design / brand
+quality</span></li>
+
+<li>Page 4: Site builder buy-in - What does authoring feel like? How
+will <span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">improve</span><span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">their
+day to day interfacing with clients wanting content changes?</span><span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"></span></li>
+
+<li>Page 5: Additional Resources - Link to <b>3 resources</b>
+ for the team to get
+more info</li>
+<font face="Space Mono"><i style="">
+</i>
+</font>
+<li><font face="Space Mono"><i style=""></i>
+</font>
+</li>
+</ul>
+<h2><span style=""><span style="letter-spacing: -0.48px;">Submitting the Lab deliverable</span><br/></span></h2>
+<ul><li><span style=""><span style="letter-spacing: -0.48px;"><span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">Create your </span><span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: bold;">GravCMS</span><span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: bold;"> site</span><span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">
+with the 5 pages </span></span></span>meeting the objectives of each
+audience</li>
+<li>Record a video <span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: bold; font-style: italic;">demonstrating</span><span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"> 1 of the
+following:</span></li>
+
+<ul><li>How to add a new page and author in <span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">GravCMS and </span>record yourself adding or modifying
+some of the pages in the
+deliverable</li>
+<li>How to add plugins, specifically the
+SEO plugin and demonstrate what it enables on
+social media by showing you sharing one of your
+pages on twitter, <span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">F</span><span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">acebook
+or </span><span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">L</span><span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">inkedin</span><span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">.</span></li>
+</ul>
+
+<li>Embed a link to your YouTube video in the <b>Additional
+Resources</b>
+<span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"> page
+of your </span><span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"> Site</span></li>
+<li>Post your link to your site in <span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: bold;">#lab5-gravcms</span></li>
+</ul>
+ ]]>
       </description>
       <category></category>
       <guid>/labs/lab-5-gravcms</guid>
