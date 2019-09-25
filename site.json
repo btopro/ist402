@@ -526,10 +526,20 @@
             "order": "4",
             "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
             "title": "GravCMS",
-            "description": "",
+            "description": "Slides about CPanel & GravCMS from classThis week kicks off Reclaim hosting and our Content Management System section of the course. We're going to be covering four different content management syst",
             "metadata": {
                 "created": 1569423610,
-                "updated": 1569423610
+                "updated": 1569423855,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 5,
+                    "schema": [],
+                    "tags": {
+                        "p": 5
+                    },
+                    "elements": 5
+                }
             }
         },
         {
