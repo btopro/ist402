@@ -1939,6 +1939,8 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
 
 
 
+
+
 <p slot="col-1"><span style="font-size: 24px; letter-spacing: 0.5px; caret-color: rgb(25, 30, 35);">Are you ready to hit power level 9000!? Then read through this lesson plan to be a super saiyan.</span><br/></p>
 
 
@@ -1953,7 +1955,11 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
 
 
 
+
+
 <meme-maker slot="col-2" alt="dragon ball z GIF by Geek & Sundry" image-url="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" bottom-text="Said no one... ever" imageurl="https://media0.giphy.com/media/3ohrydqJVXULwIffIk/giphy.gif" toptext="dragon ball z GIF by Geek & Sundry" style="width: 75%;"></meme-maker>
+
+
 
 
 
@@ -1985,9 +1991,13 @@ IT Professional (Vlogger)</li>
 
 
 
+
+
 <ul><li>Treating ourselves as brands, we will establish
 accounts and begin to setup the foundation for submission of assignments
 throughout the semester</li>
+
+
 
 
 
@@ -2009,7 +2019,11 @@ throughout the semester</li>
 
 
 
+
+
 <li>Week 2 – Git / Github / Contribution (All roles)</li>
+
+
 
 
 
@@ -2032,6 +2046,8 @@ projects</b>
 
 
 
+
+
 </li>
 
 
@@ -2041,7 +2057,11 @@ projects</b>
 
 
 
+
+
 </ul>
+
+
 
 
 
@@ -2063,7 +2083,11 @@ projects</b>
 
 
 
+
+
 <li><span style="caret-color: var(--hax-color-text);">Week 3 - HTML / CSS / JavaScript & the web (Front end)</span></li>
+
+
 
 
 
@@ -2081,7 +2105,11 @@ you can extend concepts of github into other realms</li>
 
 
 
+
+
 </ul>
+
+
 
 
 
@@ -2104,8 +2132,12 @@ Apps (Front end)</li>
 
 
 
+
+
 <ul><li>HTML on steroids and the future of all
 application development, web or otherwise</li>
+
+
 
 
 
@@ -2125,12 +2157,18 @@ compartmentalized HTML</li>
 
 
 
+
+
 <li>NPM / Composer and how we stand on the shoulders of giants</li>
 
 
 
 
+
+
 </ul>
+
+
 
 
 
@@ -2140,12 +2178,18 @@ compartmentalized HTML</li>
 
 
 
+
+
 <ul><li>We're going to dig into <a href="https://reclaimhosting.com/"><b>Reclaim</b>
 
 
 
 
+
+
  <b>hosting</b>
+
+
 
 
 
@@ -2155,7 +2199,11 @@ compartmentalized HTML</li>
 
 
 
+
+
  for the next several lessons and to give us a server to deploy CMSs on. CMSs come in different shapes and sizes and this will kick off several weeks looking at different CMSs in depth</li>
+
+
 
 
 
@@ -2165,7 +2213,11 @@ compartmentalized HTML</li>
 
 
 
+
+
  uses <a href="https://cpanel.net/">CPanel</a>
+
+
 
 
 
@@ -2175,52 +2227,20 @@ compartmentalized HTML</li>
 
 
 
+
+
 <li>We'll use GravCMS as our first vehicle into CPanels powers. GravCMS is a powerful yet simple static file driven website. It's built in PHP yet reads off <b>Markdown</b>
+
+
 
 
 
 
  files in order to generate content. We'll explore the GravCMS user interface, learn why people use it and look at some sites built using it.</li>
 
-
-
-
 </ul>
 
-
-
-
-<li>Week 6 - <a href="https://drupal.org/">Drupal CMS</a>
-
-
-
-
-</li>
-
-
-
-
-<ul><li>We'll look at the Drupal community, it's history, structure and learn about why it's popular at a high level</li>
-
-
-
-
-<li>We'll dig into the Drupal UI and look at the more powerful aspects of it as to why people put up for lack of UX in exchange for raw power like User / role management and entity / field management</li>
-
-
-
-
-<li>We'll setup a basic Drupal site in <b>Reclaim</b>
-
-
-
-
- <b>hosting</b>
-
-
-
-
- to explore the guts of our own real working Drupal site.</li>
+<ul>
 
 
 
@@ -2230,12 +2250,18 @@ compartmentalized HTML</li>
 
 
 
-<li>Week 7 - <a href="https://wordpress.org/">WordPress CMS</a>
+
+
+<li>Week 6 - <a href="https://wordpress.org/">WordPress CMS</a>
+
+
 
 
 
 
 </li>
+
+
 
 
 
@@ -2245,7 +2271,13 @@ compartmentalized HTML</li>
 
 
 
+
+
 <li>We'll dig into the WordPress UI, look at the Gutenberg editor, and see why more people build smaller websites using WordPress than any other platform out there today</li>
+
+<li>We'll talk about "Forks" through the lens of ClassicPress which is a popular fork of WordPress caused as a result of the Gutenberg editor</li>
+
+
 
 
 
@@ -2255,17 +2287,46 @@ compartmentalized HTML</li>
 
 
 
+
+
  <b>hosting</b>
+
+
 
 
 
 
  to explore the guts of our own real working WordPress site.</li>
 
+</ul>
+
+<li>Week 7 - <a href="https://drupal.org/">Drupal CMS</a>
+
+<br/></li>
+
+<ul>
+<li>We'll look at the Drupal community, it's history, structure and learn about why it's popular at a high level<br/></li>
+
+<li>We'll dig into the Drupal UI and look at the more powerful aspects of it as to why people put up for lack of UX in exchange for raw power like User / role management and entity / field management<br/></li>
+
+<li>We'll setup a basic Drupal site in <b>Reclaim</b>
+
+
+ <b>hosting</b>
+
+
+ to explore the guts of our own real working Drupal site.</li>
+
+</ul>
+
+<ul>
+
 
 
 
 </ul>
+
+
 
 
 
@@ -2283,9 +2344,13 @@ compartmentalized HTML</li>
 
 
 
+
+
 <ul>
 
 </ul>
+
+
 
 
 
@@ -2307,6 +2372,8 @@ compartmentalized HTML</li>
 
 
 
+
+
 </li>
 
 
@@ -2318,7 +2385,11 @@ compartmentalized HTML</li>
 
 
 
+
+
 <ul><li>We’ll have a mid-term based on the technologies and skills covered the 1<sup style="letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text); font-weight: bold;">st</sup>
+
+
 
 
 
@@ -2341,7 +2412,11 @@ compartmentalized HTML</li>
 
 
 
+
+
 <li><b style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text);">There will be no lab this week.</b>
+
+
 
 
 
@@ -2363,7 +2438,11 @@ compartmentalized HTML</li>
 
 
 
+
+
 <li><span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text);">Come to class, take the exam and then you're free to leave or use the open lab time for catching up on past labs.</span></li>
+
+
 
 
 
@@ -2385,12 +2464,13 @@ compartmentalized HTML</li>
 
 
 
-<li>Week 9 - Open source communities & <a href="https://github.com/elmsln/haxcms">HAXcms</a>
 
 
+<li>Week 9 - <a href="https://github.com/elmsln/haxcms">HAXcms</a>
+
+</li>
 
 
- (All roles)</li>
 
 
 
@@ -2408,7 +2488,13 @@ healthy vs stagnated open source communities, and learn when people fallback to 
 
 
 
+
+
 , so I'll provide insight into what got us certified as a well formed software community.</li>
+
+<li>We'll play with HAXcms and create a basic website in it, identifying issues run into and submitting them to the project issues queue.</li>
+
+
 
 
 
@@ -2422,7 +2508,11 @@ healthy vs stagnated open source communities, and learn when people fallback to 
 
 
 
+
+
 .</li>
+
+
 
 
 
@@ -2432,7 +2522,11 @@ healthy vs stagnated open source communities, and learn when people fallback to 
 
 
 
+
+
 <li>Week 10 – Servers, Terminal and Command line basics and DDOS (Sys admin)<br/></li>
+
+
 
 
 
@@ -2443,7 +2537,11 @@ healthy vs stagnated open source communities, and learn when people fallback to 
 
 
 
+
+
 <li><span style="caret-color: var(--hax-color-text);">Looking at </span><a href="https://www.cloudflare.com/" style="caret-color: var(--hax-color-text);">Cloudflare</a>
+
+
 
 
 
@@ -2454,7 +2552,11 @@ healthy vs stagnated open source communities, and learn when people fallback to 
 
 
 
+
+
 </ul>
+
+
 
 
 
@@ -2473,7 +2575,11 @@ healthy vs stagnated open source communities, and learn when people fallback to 
 
 
 
+
+
 </ul>
+
+
 
 
 
@@ -2495,13 +2601,19 @@ healthy vs stagnated open source communities, and learn when people fallback to 
 
 
 
+
+
 <ul><li>What is it, why is it important, who benefits,
 how do we test for it?</li>
 
 
 
 
+
+
 <li>We'll use Lighthouse and Wave to test different websites and parse through the reports</li>
+
+
 
 
 
@@ -2517,7 +2629,11 @@ how do we test for it?</li>
 
 
 
+
+
 </ul>
+
+
 
 
 
@@ -2539,8 +2655,14 @@ how do we test for it?</li>
 
 
 
+
+
 <ul><li>Persona creation and testing using real world
 applications</li>
+
+<li>We'll do some UX audit work on ELMS:LN and HAXcms, two platforms our team works on to deliver online education</li>
+
+
 
 
 
@@ -2562,7 +2684,11 @@ applications</li>
 
 
 
+
+
 <li>Week 13 - Server Virtualization technologies (DevOps)</li>
+
+
 
 
 
@@ -2586,7 +2712,11 @@ powerful</li>
 
 
 
+
+
 </ul>
+
+
 
 
 
@@ -2609,7 +2739,11 @@ Thanksgiving Break</b>
 
 
 
+
+
 </li>
+
+
 
 
 
@@ -2631,7 +2765,11 @@ Thanksgiving Break</b>
 
 
 
+
+
 </li>
+
+
 
 
 
@@ -2653,8 +2791,12 @@ Thanksgiving Break</b>
 
 
 
+
+
 <li>Week 15-16 Educational Technology, Open
 Education Resources (Edtech)</li>
+
+
 
 
 
@@ -2678,8 +2820,12 @@ accessibility can be improved or accounted for.</li>
 
 
 
+
+
 <li>We’ll look at OER / open course technology
 movements from philosophical, societal and technological perspectives.</li>
+
+
 
 
 
@@ -2704,7 +2850,11 @@ be leveraged</li>
 
 
 
+
+
 <li><b>These labs will be combined into a single submission with 10% of the grade. Lab time will be spent learning about the context and having access to instructors to help while exploring the topic.</b>
+
+
 
 
 
@@ -2726,7 +2876,11 @@ be leveraged</li>
 
 
 
+
+
 </ul>
+
+
 
 
 
