@@ -612,6 +612,14 @@
                         "type": "image\/jpeg",
                         "name": "headshot63573.249999994005.jpg",
                         "size": 207543
+                    },
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/IMG_20190823_102434 2.jpg",
+                        "fullUrl": "\/bto108\/sites\/ist402\/files\/IMG_20190823_102434 2.jpg",
+                        "url": "files\/IMG_20190823_102434 2.jpg",
+                        "type": "image\/jpeg",
+                        "name": "IMG_20190823_102434 2.jpg",
+                        "size": 100516
                     }
                 ]
             }
