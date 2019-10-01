@@ -623,10 +623,10 @@
             "order": "5",
             "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
             "title": "WordPress",
-            "description": "This week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why it powers (estimates, numbers d",
+            "description": "Lecture slides from this weekThis week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why ",
             "metadata": {
                 "created": 1569952972,
-                "updated": 1569972469,
+                "updated": 1569972789,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/headshot63573.249999994005.jpg",
@@ -656,12 +656,12 @@
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 6,
+                    "paragraphs": 7,
                     "schema": [],
                     "tags": {
-                        "p": 6
+                        "p": 7
                     },
-                    "elements": 6
+                    "elements": 7
                 }
             }
         },
