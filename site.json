@@ -662,19 +662,19 @@
             "order": "5",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "Lab 6 - WordPress",
-            "description": "This week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why it powers (estimates, numbers d",
+            "description": "Lab scenario",
             "metadata": {
                 "created": 1569952972,
-                "updated": 1569956403,
-                "readtime": 2,
+                "updated": 1569972460,
+                "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 6,
+                    "paragraphs": 1,
                     "schema": [],
                     "tags": {
-                        "p": 6
+                        "p": 1
                     },
-                    "elements": 6
+                    "elements": 1
                 }
             }
         },
