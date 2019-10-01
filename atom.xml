@@ -3,7 +3,7 @@
   <title>ist402</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>IST 402 course content space</subtitle>
-  <updated>2019-10-01T14:30:23-04:00</updated>
+  <updated>2019-10-01T19:40:19-04:00</updated>
   <author>
       <name></name>
   </author>
@@ -23,13 +23,129 @@
   <entry>
     <title>Scenario 1</title>
     <id>/labs/lab-6-wordpress/scenario-1</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
+    <updated>2019-10-01T19:43:29-04:00</updated>
     <published>2019-10-01T19:40:19-04:00</published>
-    <summary></summary>
+    <summary>LabScenario 1 – Soaps R Us ContextMom’n’Pop store “Soaps R Us” wants to sell their famous soap online. They need anattractive website with high SEOthat has a shopping cart and a s</summary>
     <link href="/labs/lab-6-wordpress/scenario-1"/>
     
     <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
+      <![CDATA[ <h2><span style="letter-spacing: -0.48px;">
+
+
+
+
+
+<!--    StartFragment    --><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: bold;">Lab
+Scenario</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: bold;">1 – Soaps R Us Context</span></span></h2>
+<ul>
+<li><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">Mom’n’Pop</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"> store “Soaps R Us” wants to sell </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">their </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">famous soap online. They need </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">an</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">
+</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: bold;">attractive </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: bold;">website</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"> with </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: bold;">high SEO</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">
+that has </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">a </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: bold;">shopping cart </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">and a </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: bold;">small blogging area</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">for
+</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">their “Hot Soap!” </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: bold;">newsletter</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">.</span></li>
+
+
+
+<li>They’ve heard great things about <span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">WordPress</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">but
+</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">are </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-style: italic;">concerned
+about the new editor</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">as they </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-style: italic;">don’t have time</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"> to learn something
+new</span></li>
+
+
+
+<li>What plugins would you recommend to <span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">get</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">their
+</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">WordPress site off in the right </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">direction? Install them in the site
+to test</span></li>
+
+
+
+<li><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">Pick out </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">a theme and </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">then</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">
+</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">customize </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">it and the menu items </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">appropriately as a mock site to
+market their business</span></li>
+
+
+</ul>
+<h2 class="hax-active"><!-- StartFragment --><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: bold;">Deliverable</span></h2>
+<ul>
+<li>Create a WordPress site on reclaim hosting</li>
+
+<li>Select plugins to improve SEO, provide <span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">a</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">shopping
+</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">cart, and simplify content </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">editing</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">beyond
+</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">the default editor</span></li>
+
+<li>Pick a nice theme and customize it with a few links to make the site look
+real (typical small business has Home, News, Hours, Location, Reviews, <span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">etc</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">).</span></li>
+
+<li>Edit 1 page in Gutenberg and <span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">1
+pave with the</span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">Classic </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">Editor</span><br/></li>
+
+<li>Record a video explaining the difference <span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">and
+justify why you think they should either use Classic, Gutenberg, or Both</span></li>
+<font face="Space Mono">
+</font>
+<li><font face="Space Mono"></font>
+</li>
+</ul>
+<ul><li><font face="Space Mono"><span style="letter-spacing: -0.48px;">
+
+
+
+
+
+<!-- StartFragment --><span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: bold;">Remember..</span><span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;"></span></span></font>
+</li>
+<font face="Space Mono">
+<li>
+</li>
+
+<li>
+- Remember, they are concerned about this <span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;">“new</span><span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;">fancy
+editor” </span><span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;">because
+of </span><span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;">learning curve, evaluate, </span><span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal; font-style: italic;">is it that hard for a new person to
+learn</span><span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;">? Does the quality of output
+outweigh training?</span><span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;"></span></li>
+
+<li>
+<span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;"></span></li>
+
+<li>
+Your tas<span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;">k is
+then to frame your response as one of the following:</span></li>
+
+<li>
+<span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;"></span></li>
+
+<li>
+- Either your selling them on the new <span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;">editor</span><span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;">by
+</span><span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;">allaying these </span><span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;">concerns and showing high quality
+output</span><span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;"></span></li>
+
+<li>
+</li>
+
+<li>
+  OR</li>
+
+<li>
+</li>
+
+<li>
+- Your agreeing with them and showing them <span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;">how</span><span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;">easy
+</span><span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;">it is to use Classic Editor and why
+</span><span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;">you</span><span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;">
+</span><span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;">recommend </span><span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;">not using </span><span style="font-size: 18pt; font-variant-numeric: normal; font-variant-east-asian: normal;">Gutenberg by demonstrating
+complexity / learning curve</span><!-- EndFragment -->    </li>
+
+</font>
+<li><font face="Space Mono"></font>
+</li>
+</ul>
+<p><font face="Space Mono"><span style="letter-spacing: -0.48px;"><b><br/></b>
+</span></font>
+</p>
+<p><font face="Space Mono"><span style="letter-spacing: -0.48px;"><b><br/></b>
+</span></font>
+</p>
+ ]]>
     </content>
   </entry>
   <entry>
@@ -103,6 +219,51 @@
 
 
  once more!</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>GravCMS</title>
+    <id>/topics/gravcms</id>
+    <updated>2019-10-01T19:40:19-04:00</updated>
+    <published>2019-09-25T11:00:10-04:00</published>
+    <summary>Slides about CPanel & GravCMS from classThis week kicks off Reclaim hosting and our Content Management System section of the course. We're going to be covering four different content management </summary>
+    <link href="/topics/gravcms"/>
+    
+    <content type="html">
+      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/gravcms">Slides about CPanel & GravCMS from class</a>
+</p>
+<p>This week kicks off <a href="https://reclaimhosting.com/">Reclaim hosting</a>
+
+
+
+ and our Content Management System section of the course. We're going to be covering four different content management systems in this section of the course leveraging <a href="https://reclaimhosting.com/">Reclaim hosting</a>
+
+
+
+ to skip a lot of the tediousness of setting up and playing with a CMS.</p>
+<p>We'll talk about CPanel in the high level as far as what function it provides and navigate some of the parts of it a bit, though it won't be the focus. CPanel has been around forever (in web terms) and is still a powerful way to abstract away the complexity of managing servers and get you access to installing apps via a nice UI and mild technical knowledge.</p>
+<p>Listing CMS "Site building" skills on a resume is a sure fire way to get noticed by certain companies looking for people who can hit the ground running with their internal systems. It demonstrates that you know how to navigate technical systems and can be taught out to administer them (potentially).</p>
+<p>It's also a bit crazy as CMSs really are just big storage houses of information with text editors and other UIs that help streamline getting large groups of media and content on the web. The crazy part is, this really isn't that hard to do (as we'll demonstrate through these units) but a lot of people are so afraid of them that they won't touch them.</p>
+<p>Master any one of these popular CMSs coming up (especially Drupal coming up) and you'll stand out in any organization that manages web projects or interfaces regularly with the web properties of the company directly.</p>
+<h2 class="hax-active">Links and resources for working with GravCMS</h2>
+<ul><li><a href="https://learn.getgrav.org/16/basics/basic-tutorial">GravCMS documentation</a>
+
+ (Basic tutorial of working with it)</li>
+
+<li><a href="https://getgrav.org/">GravCMS homepage</a>
+
+</li>
+
+<li><a href="https://getgrav.org/downloads/plugins">GravCMS plugin listing</a>
+
+</li>
+
+<li><a href="https://github.com/getgrav">Grav community on Github</a>
+
+</li>
+
+</ul>
  ]]>
     </content>
   </entry>
@@ -273,51 +434,6 @@ of your </span><span style="font-variant-numeric: normal; font-variant-east-asia
 
 </ul>
 
-
-</ul>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>GravCMS</title>
-    <id>/topics/gravcms</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
-    <published>2019-09-25T11:00:10-04:00</published>
-    <summary>Slides about CPanel & GravCMS from classThis week kicks off Reclaim hosting and our Content Management System section of the course. We're going to be covering four different content management </summary>
-    <link href="/topics/gravcms"/>
-    
-    <content type="html">
-      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/gravcms">Slides about CPanel & GravCMS from class</a>
-</p>
-<p>This week kicks off <a href="https://reclaimhosting.com/">Reclaim hosting</a>
-
-
-
- and our Content Management System section of the course. We're going to be covering four different content management systems in this section of the course leveraging <a href="https://reclaimhosting.com/">Reclaim hosting</a>
-
-
-
- to skip a lot of the tediousness of setting up and playing with a CMS.</p>
-<p>We'll talk about CPanel in the high level as far as what function it provides and navigate some of the parts of it a bit, though it won't be the focus. CPanel has been around forever (in web terms) and is still a powerful way to abstract away the complexity of managing servers and get you access to installing apps via a nice UI and mild technical knowledge.</p>
-<p>Listing CMS "Site building" skills on a resume is a sure fire way to get noticed by certain companies looking for people who can hit the ground running with their internal systems. It demonstrates that you know how to navigate technical systems and can be taught out to administer them (potentially).</p>
-<p>It's also a bit crazy as CMSs really are just big storage houses of information with text editors and other UIs that help streamline getting large groups of media and content on the web. The crazy part is, this really isn't that hard to do (as we'll demonstrate through these units) but a lot of people are so afraid of them that they won't touch them.</p>
-<p>Master any one of these popular CMSs coming up (especially Drupal coming up) and you'll stand out in any organization that manages web projects or interfaces regularly with the web properties of the company directly.</p>
-<h2 class="hax-active">Links and resources for working with GravCMS</h2>
-<ul><li><a href="https://learn.getgrav.org/16/basics/basic-tutorial">GravCMS documentation</a>
-
- (Basic tutorial of working with it)</li>
-
-<li><a href="https://getgrav.org/">GravCMS homepage</a>
-
-</li>
-
-<li><a href="https://getgrav.org/downloads/plugins">GravCMS plugin listing</a>
-
-</li>
-
-<li><a href="https://github.com/getgrav">Grav community on Github</a>
-
-</li>
 
 </ul>
  ]]>
@@ -590,60 +706,6 @@ to frame your writing and video response:
     </content>
   </entry>
   <entry>
-    <title>Lab 3 - HTML / CSS / JS Web basics</title>
-    <id>/labs/html-css-js-web-basics</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
-    <published>2019-09-09T16:53:00-04:00</published>
-    <summary>September 11th, 2019For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in </summary>
-    <link href="/labs/html-css-js-web-basics"/>
-    
-    <content type="html">
-      <![CDATA[ <h3 class="hax-active">September 11th, 2019</h3>
-<p>For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in the future so we'll keep the JS brief for this one.</p>
-<p><a href="https://codepen.io/btopro/pen/zYOWqKZ">Exercise Pen</a>
-
-: <span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text);">Fork this Pen and we can follow along together in class.</span></p>
-<h2>Lab Pen</h2>
-<p>For this lab, I want you to modify <b>one of these</b>
-
- <b>pens</b>
-
- in order to make the resume reflect your own information. There's a <i>beginner Pen</i>
-
- and a more <i>advanced pen</i>
-
-.</p>
-<p><a href="https://codepen.io/btopro/pen/GRKQVBx?editors=1000">Beginner Pen</a>
-
-: Personal Resume which contains hints and directions inside</p>
-<p><a href="https://codepen.io/btopro/pen/GRKxKgX?editors=1000">Advanced Pen</a>
-
-: no instructions and a slightly more advanced design. Use this to challenge yourself or if you've previously written HTML to make something more useful.</p>
-<h3 class="hax-active">Reflection Pen</h3>
-<p><a href="https://codepen.io/btopro/pen/KKPozvd">FORK THIS PEN</a>
-
-: For reflection this week I want you to fork this pen and write your response using HTML. For the topic this week pick one of the following:</p>
-<ul><li>Explaining how to apply styling to an element in <b>CSS</b>
-
-</li>
-
-<li>Explain how to use JavaScript and <b>getElementById</b>
-
- to add a <i>click event to</i>
-
- an element in an existing codepen that generates an alert saying <b>Hello</b>
-
-</li>
-
-<li><i>Value of CodePen as a platform</i>
-
- to learn coding by finding an inspiring pen and explain what's going on.</li>
-
-</ul>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>HTML / CSS / JS Web basics</title>
     <id>/topics/html-css-js-web-basics</id>
     <updated>2019-10-01T19:40:19-04:00</updated>
@@ -697,6 +759,60 @@ to frame your writing and video response:
 </li>
 
 
+
+</ul>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Lab 3 - HTML / CSS / JS Web basics</title>
+    <id>/labs/html-css-js-web-basics</id>
+    <updated>2019-10-01T19:40:19-04:00</updated>
+    <published>2019-09-09T16:53:00-04:00</published>
+    <summary>September 11th, 2019For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in </summary>
+    <link href="/labs/html-css-js-web-basics"/>
+    
+    <content type="html">
+      <![CDATA[ <h3 class="hax-active">September 11th, 2019</h3>
+<p>For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in the future so we'll keep the JS brief for this one.</p>
+<p><a href="https://codepen.io/btopro/pen/zYOWqKZ">Exercise Pen</a>
+
+: <span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text);">Fork this Pen and we can follow along together in class.</span></p>
+<h2>Lab Pen</h2>
+<p>For this lab, I want you to modify <b>one of these</b>
+
+ <b>pens</b>
+
+ in order to make the resume reflect your own information. There's a <i>beginner Pen</i>
+
+ and a more <i>advanced pen</i>
+
+.</p>
+<p><a href="https://codepen.io/btopro/pen/GRKQVBx?editors=1000">Beginner Pen</a>
+
+: Personal Resume which contains hints and directions inside</p>
+<p><a href="https://codepen.io/btopro/pen/GRKxKgX?editors=1000">Advanced Pen</a>
+
+: no instructions and a slightly more advanced design. Use this to challenge yourself or if you've previously written HTML to make something more useful.</p>
+<h3 class="hax-active">Reflection Pen</h3>
+<p><a href="https://codepen.io/btopro/pen/KKPozvd">FORK THIS PEN</a>
+
+: For reflection this week I want you to fork this pen and write your response using HTML. For the topic this week pick one of the following:</p>
+<ul><li>Explaining how to apply styling to an element in <b>CSS</b>
+
+</li>
+
+<li>Explain how to use JavaScript and <b>getElementById</b>
+
+ to add a <i>click event to</i>
+
+ an element in an existing codepen that generates an alert saying <b>Hello</b>
+
+</li>
+
+<li><i>Value of CodePen as a platform</i>
+
+ to learn coding by finding an inspiring pen and explain what's going on.</li>
 
 </ul>
  ]]>
@@ -1376,22 +1492,6 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
     </content>
   </entry>
   <entry>
-    <title>Labs</title>
-    <id>/labs</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
-    <published>2019-08-23T09:52:38-04:00</published>
-    <summary>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.Remember t</summary>
-    <link href="/labs"/>
-    
-    <content type="html">
-      <![CDATA[ <p>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.</p>
-<p><b>Remember that after each lab you have to do a concise overview of the topic in the form of a blog post and a YouTube explainer video, then submit it to Slack for review.</b>
-</p>
-<p>We'll start out class the following week reviewing some videos and posts created by the class to point out what worked well and what could have been done better in presenting the previous topic.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Lab 1 - Building your digital identity</title>
     <id>/labs/building-your-digital-identity</id>
     <updated>2019-10-01T19:40:19-04:00</updated>
@@ -1797,46 +1897,18 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
     </content>
   </entry>
   <entry>
-    <title>Goals.. for you!</title>
-    <id>/goals-for-you-</id>
+    <title>Labs</title>
+    <id>/labs</id>
     <updated>2019-10-01T19:40:19-04:00</updated>
-    <published>2019-08-21T15:11:14-04:00</published>
-    <summary>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...Learning not just what a technology is but...Who's using it, what </summary>
-    <link href="/goals-for-you-"/>
+    <published>2019-08-23T09:52:38-04:00</published>
+    <summary>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.Remember t</summary>
+    <link href="/labs"/>
     
     <content type="html">
-      <![CDATA[ <p>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...</p>
-<ul><li>Learning not just what a technology is but...</li>
-
-<ul><li>Who's using it, what industries, what web services</li>
-
-<li>Getting hands on and implementing it small scale</li>
-
-<li>Being able to better communicate purpose and ideas around it</li>
-
-</ul>
-
-
-<li>Building a digital footprint of YOU, the IT worker / manager / developer / whatever your path, just that it's out there!</li>
-
-<ul><li>Creating a YouTube channel of explainer videos about the topics discussed in class</li>
-
-<li>Creating a Blog about these same topics</li>
-
-<li>Creating social coder accounts and connecting them all together (like Github, TravisCI, Stackblitz, CodePen, Glitch, IFTTT, etc)</li>
-
-</ul>
-
-<li>Learn about all levels of "the stack" in order to better empathize with those working in different levels of the stack from you (or people you'll one day manage)</li>
-
-<li>Have a website on the internet that you control and have a window into how all aspects of it function.</li>
-<li><i>Take hand written tests</i>
- and <i>use platforms and technologies that no employer on earth will care about</i>
- once you graduate</li>
-
-</ul>
-<p><span style="letter-spacing: -0.48px;">Ok.. maybe not that last one but the rest are legit.</span></p>
-<meme-maker alt="troll GIF" image-url="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" bottom-text="Ok, not that last one." imageurl="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" toptext="troll GIF" style="width: 75%;"></meme-maker>
+      <![CDATA[ <p>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.</p>
+<p><b>Remember that after each lab you have to do a concise overview of the topic in the form of a blog post and a YouTube explainer video, then submit it to Slack for review.</b>
+</p>
+<p>We'll start out class the following week reviewing some videos and posts created by the class to point out what worked well and what could have been done better in presenting the previous topic.</p>
  ]]>
     </content>
   </entry>
@@ -1888,6 +1960,50 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
 
 <br/></span></p>
 <p>https://www.youtube.com/watch?v=Q4e4Z32mITo&list=PLJQupiji7J5dqyIVrKfPOujZKuqbmgJKm&index=8&t=0s<br/></p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Goals.. for you!</title>
+    <id>/goals-for-you-</id>
+    <updated>2019-10-01T19:40:19-04:00</updated>
+    <published>2019-08-21T15:11:14-04:00</published>
+    <summary>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...Learning not just what a technology is but...Who's using it, what </summary>
+    <link href="/goals-for-you-"/>
+    
+    <content type="html">
+      <![CDATA[ <p>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...</p>
+<ul><li>Learning not just what a technology is but...</li>
+
+<ul><li>Who's using it, what industries, what web services</li>
+
+<li>Getting hands on and implementing it small scale</li>
+
+<li>Being able to better communicate purpose and ideas around it</li>
+
+</ul>
+
+
+<li>Building a digital footprint of YOU, the IT worker / manager / developer / whatever your path, just that it's out there!</li>
+
+<ul><li>Creating a YouTube channel of explainer videos about the topics discussed in class</li>
+
+<li>Creating a Blog about these same topics</li>
+
+<li>Creating social coder accounts and connecting them all together (like Github, TravisCI, Stackblitz, CodePen, Glitch, IFTTT, etc)</li>
+
+</ul>
+
+<li>Learn about all levels of "the stack" in order to better empathize with those working in different levels of the stack from you (or people you'll one day manage)</li>
+
+<li>Have a website on the internet that you control and have a window into how all aspects of it function.</li>
+<li><i>Take hand written tests</i>
+ and <i>use platforms and technologies that no employer on earth will care about</i>
+ once you graduate</li>
+
+</ul>
+<p><span style="letter-spacing: -0.48px;">Ok.. maybe not that last one but the rest are legit.</span></p>
+<meme-maker alt="troll GIF" image-url="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" bottom-text="Ok, not that last one." imageurl="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" toptext="troll GIF" style="width: 75%;"></meme-maker>
  ]]>
     </content>
   </entry>
@@ -2025,29 +2141,35 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
     </content>
   </entry>
   <entry>
-    <title>About the instructor (boring)</title>
-    <id>/welcome/welcome/about-the-instructor</id>
+    <title>Resources</title>
+    <id>/resources</id>
     <updated>2019-10-01T19:40:19-04:00</updated>
     <published>2019-08-15T15:48:47-04:00</published>
-    <summary>This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.My name is Bryan Ollendyke and I've been living workin</summary>
-    <link href="/welcome/welcome/about-the-instructor"/>
+    <summary>This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub / collaboration locationDigital Ocean - Easy to use server environmentHover / Google Domains</summary>
+    <link href="/resources"/>
     
     <content type="html">
-      <![CDATA[ <p>This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.</p>
-<a11y-gif-player src="https://media3.giphy.com/media/5wWf7GW1AzV6pF3MaVW/giphy.gif" src-without-animation="https://media0.giphy.com/media/5wWf7GW1AzV6pF3MaVW/480w_s.jpg" alt="high five the office" schema-resource-id="#0e8a5bdc-121d-e719-bbe6" resource="#0e8a5bdc-121d-e719-bbe6" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 100%;"></a11y-gif-player>
-<p>My name is Bryan Ollendyke and I've been <strike>living</strike>
+      <![CDATA[ <p>This list will keep growing</p>
+<p><a href="https://github.com">Github</a>
 
+ - Popular code sharing space</p>
+<p><a href="https://slack.com">Slack</a>
 
- working at Penn State since 2007. I did my undergrad in IST and was able to get a job working in the College of Arts & Architecture's online learning unit (now called Office of Digital Learning).</p>
-<p>In 2015 I completed my MS by studying the spread of an open source platform called Drupal. The theory I reasoned from my thesis is an effect I call Information Altruism -- Meaning that it isn't open source software that impacts institutions <b>but the free giving away of knowledge about how to use it</b>
+ - Popular productivity hub / collaboration location</p>
+<p><a href="https://digitalocean.com">Digital Ocean </a>
 
+- Easy to use server environment</p>
+<p><a href="https://hover.com">Hover</a>
 
- which does.</p>
-<p>Open source lays the ground work, but it still requires knowledge workers to pick up those raw minerals and make rails of them for organizations to ride on.</p>
-<p>I am in the rare position of getting to teach you leveraging tools which I and my team have built. This content is written in a platform called HAXcms which we are actively building. I'm also the project lead on a project called ELMS: Learning Network.</p>
-<p>Since starting at Penn State, I would say 99.5% of every hour of every day I work is contributed directly back to open code and documentation. I've contributed hundreds of modules for Drupal, dozens of themes and installation profiles, millions of lines of code liberated from the ownership of anyone or anywhere.</p>
-<p>In the last two years, our team has released north of 400 reusable design assets called Web components. These modules and design assets power thousands of websites and help empower people we'll never know to better express themselves online, whether for instructional content or otherwise.</p>
-<p>I'm a self described Developer Activist in that I don't think open source can change society: I know it can and does constantly. It's why I still work in academia - to try and open source as much of the application stack associated with teaching and learning in order to provide both better options as well as lower costs.</p>
+ / <a href="https://domains.google.com">Google Domains</a>
+
+ - Easy to buy domain registrar</p>
+<p><a href="https://elmsln.org/">ELMS:LN</a>
+
+ - Penn State developed learning platform</p>
+<p><a href="https://haxtheweb.org/">HAXcms</a>
+
+ - Penn State developed flat file CMS (powers this course site)</p>
  ]]>
     </content>
   </entry>

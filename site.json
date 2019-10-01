@@ -251,10 +251,22 @@
             "order": "0",
             "parent": "item-506faa66-813a-4726-8769-d1c5f521af27",
             "title": "Scenario 1",
-            "description": "",
+            "description": "LabScenario 1 \u2013 Soaps R Us ContextMom\u2019n\u2019Pop store \u201cSoaps R Us\u201d wants to sell their famous soap online. They need anattractive website with high SEOthat has a shopping cart and a s",
             "metadata": {
                 "created": 1569973219,
-                "updated": 1569973219
+                "updated": 1569973409,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 2,
+                    "paragraphs": 2,
+                    "schema": [],
+                    "tags": {
+                        "h2": 2,
+                        "ul": 3,
+                        "p": 2
+                    },
+                    "elements": 7
+                }
             }
         },
         {
