@@ -23,10 +23,11 @@
     }
   </script>
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1,user-scalable=yes">
-  <meta name="generator" content="HAXCMS">
-  <meta name="description" content="My HAXCMS site description">
+  <meta name="generator" content="HAXcms">
+  <meta name="description" content="A HAXCMS site">
   <meta name="theme-color" content="#3f51b5">
   <meta name="mobile-web-app-capable" content="yes">
+  <meta name=”robots” content=”index, follow”>
   <meta name="application-name" content="My site">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -76,7 +77,7 @@
     }
   </style>
 </head>
-<body no-js>
+<body no-js vocab="http://schema.org/" prefix="oer:http://oerschema.org cc:http://creativecommons.org/ns dc:http://purl.org/dc/terms/">
   <haxcms-site-builder id="site" file="site.json"><div class="loading"><div>Site</div><div>loading</div></div></haxcms-site-builder>
   <div id="haxcmsoutdatedfallback">
     <haxcms-legacy-player file="site.json"></haxcms-legacy-player>
@@ -88,7 +89,7 @@
         view our website correctly. <a href="http://outdatedbrowser.com/">Update my browser now</a></div>
     </div>
   </div>
-  <script>document.body.removeAttribute('no-js');var cdn="";var old=false;var ancient=false;
+  <script>document.body.removeAttribute('no-js');var cdn="";var forceUpgrade=false;var old=false;var ancient=false;
     if (typeof Symbol == "undefined") { // IE 11, at least try to serve a watered down site
       ancient = true;
     }
@@ -140,6 +141,9 @@
     }
     else {
       old=true;
+      if (forceUpgrade) {
+        window.location = "upgrade-browser.html";
+      }
       // we bombed somewhere above, this implies that it's some odd between version
       // most likely Safari 9ish, IE pre 11 and anything uber old. Serve no JS variation
       document.getElementById('site').style.display = 'none';

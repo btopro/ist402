@@ -37,7 +37,208 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = {{ swhash|json_encode(constant('JSON_PRETTY_PRINT'))|raw }};
+var precacheConfig = [
+    [
+        "pages\/welcome\/index.html",
+        "OKQ4JQnilVDzrGMvvm17w"
+    ],
+    [
+        "pages\/welcome\/welcome\/about-the-instructor\/index.html",
+        "IoHvAz6PNVOI3Zt4EOX4sA"
+    ],
+    [
+        "pages\/resources\/screencasting\/index.html",
+        "P5kOlxbSn3jXlfzBcYEPA"
+    ],
+    [
+        "pages\/topics\/building-your-digital-identity\/index.html",
+        "x6eY3zU0MCYDxffHW9aYQ"
+    ],
+    [
+        "pages\/labs\/building-your-digital-identity\/index.html",
+        "Tw2fIiyqAY7d9pQACmg2Q"
+    ],
+    [
+        "pages\/question-driven-teaching\/index.html",
+        "8LGj6KFqiZqmP5gN4yAipA"
+    ],
+    [
+        "pages\/topics\/git\/index.html",
+        "FbC4YGenH2Y8f0F6nqsw"
+    ],
+    [
+        "pages\/labs\/git\/index.html",
+        "fJYbvu9nkMCpLbP7N7UKbg"
+    ],
+    [
+        "pages\/syllabus\/index.html",
+        "e1scIo9JuTJosBTwTpr1zA"
+    ],
+    [
+        "pages\/materials\/index.html",
+        "V5z3PULRHzhQns8xXgL9w"
+    ],
+    [
+        "pages\/labs\/html-css-js-web-basics\/index.html",
+        "TZbceAYfdtufOrWO3ySdzQ"
+    ],
+    [
+        "pages\/topics\/html-css-js-web-basics\/index.html",
+        "Salui53dXin5EmSnOGBYw"
+    ],
+    [
+        "pages\/topics\/webcomponents\/index.html",
+        "U0E4Fog6fN9iJdkZc4oUw"
+    ],
+    [
+        "pages\/goals-for-you-\/index.html",
+        "J3jy0pfTCivBKrHulpBPQ"
+    ],
+    [
+        "pages\/labs\/webcomponents-1\/index.html",
+        "eMo2lI1u0JeCTdZYVyXA"
+    ],
+    [
+        "pages\/class-time-together\/index.html",
+        "2UsfxtmRfE4cCEGSUqDVBw"
+    ],
+    [
+        "pages\/topics\/gravcms\/index.html",
+        "Q4iTsrlijB68PH3Z16WrYw"
+    ],
+    [
+        "pages\/labs\/lab-5-gravcms\/index.html",
+        "5l5zwNzeWbiSe8L4owiEhA"
+    ],
+    [
+        "pages\/after-class-reflection\/index.html",
+        "0RvKyGOldNovCbyaKclEw"
+    ],
+    [
+        "pages\/topics\/wordpress\/index.html",
+        "q39zrQZesegT0B84QxhQ"
+    ],
+    [
+        "pages\/labs\/lab-6-wordpress\/index.html",
+        "THfkjZgWVOGxRXoqDBe6g"
+    ],
+    [
+        "pages\/technologies-we-explore\/index.html",
+        "cmqfd8jaG10H8thH9CaQ"
+    ],
+    [
+        "pages\/topics\/index.html",
+        "BqyFjrP8MrvrOufR7RMw4g"
+    ],
+    [
+        "pages\/labs\/index.html",
+        "aQKNQ6jZVg7OBSvi4xbeRw"
+    ],
+    [
+        "pages\/feedback\/index.html",
+        "Etb9SwooxMNhJ8CoQ2moQ"
+    ],
+    [
+        "pages\/mid-term-review\/index.html",
+        "Z6lKyvqX9SUcpR6Jjxni1g"
+    ],
+    [
+        "pages\/project\/index.html",
+        "KeDtGEUVlw0f9ZSDdVKfHw"
+    ],
+    [
+        "pages\/resources\/index.html",
+        "xeFmXcv8K33OWqwMU5LdJw"
+    ],
+    [
+        "index.html",
+        "tI74TTDVG5vUuIuhDt5Wjw"
+    ],
+    [
+        "files\/haxcms-managed\/512x512-IMG_20190823_102434 2.jpg",
+        "RMuKEMmXQwyCiEFWW59N0A"
+    ],
+    [
+        "files\/haxcms-managed\/310x310-IMG_20190823_102434 2.jpg",
+        "x5VRkvbVlfcnhZvQ2eLZA"
+    ],
+    [
+        "files\/haxcms-managed\/192x192-IMG_20190823_102434 2.jpg",
+        "wTVCFKtpmsW0SvRGrAFw"
+    ],
+    [
+        "files\/haxcms-managed\/150x150-IMG_20190823_102434 2.jpg",
+        "gjkMQhlMXvrthcbqBSc8Q"
+    ],
+    [
+        "files\/haxcms-managed\/144x144-IMG_20190823_102434 2.jpg",
+        "J9XNQQWTXSKLPJmyOoAWA"
+    ],
+    [
+        "files\/haxcms-managed\/96x96-IMG_20190823_102434 2.jpg",
+        "HzYZ8IvE9wfJHAEjkgONRQ"
+    ],
+    [
+        "files\/haxcms-managed\/72x72-IMG_20190823_102434 2.jpg",
+        "bP4mQkAWnVEa1PFiTobA"
+    ],
+    [
+        "files\/haxcms-managed\/70x70-IMG_20190823_102434 2.jpg",
+        "QHr7eI2l4ETGVE2tmIedQ"
+    ],
+    [
+        "files\/haxcms-managed\/48x48-IMG_20190823_102434 2.jpg",
+        "VC1M2eBkPS47I02q1j2I4A"
+    ],
+    [
+        "files\/haxcms-managed\/36x36-IMG_20190823_102434 2.jpg",
+        "aP82luzmv19QDAnjWvW0aA"
+    ],
+    [
+        "files\/haxcms-managed\/16x16-IMG_20190823_102434 2.jpg",
+        "MC2oEa4LYQvAnSJAw65c2w"
+    ],
+    [
+        "manifest.json",
+        "gmNXxVtnfpUk2yLp2YOQ"
+    ],
+    [
+        "site.json",
+        "ucwH3LcoPIcG1bwrF2yM8g"
+    ],
+    [
+        "404.html",
+        "dSqOj2FfwLtvzh03W3Gyg"
+    ],
+    [
+        "files\/giphy.gif",
+        "h1yR0gvHTSroF3LTwkHtXA"
+    ],
+    [
+        "files\/ECrfY0IXUAA4qsQ.jpeg",
+        "V5eA5Y3sQYGZuNDwfYH67Q"
+    ],
+    [
+        "files\/headshot63573.249999994005.jpg",
+        "PFCaIImGUxgZQdbPRnc1fg"
+    ],
+    [
+        "files\/headshot.jpg",
+        "JkwKNRVzizk5HjpprMaLPQ"
+    ],
+    [
+        "files\/IMG_20190823_102434 2.jpg",
+        "78cjrqsJ4FniDgCxzAsQ"
+    ],
+    [
+        "files\/2019-08-24_15-21-52.png",
+        "eqPGwJMfeGB6hRdL5hIAoQ"
+    ],
+    [
+        "files\/IMG_20190307_142259.jpg",
+        "8OkItQreBhhbFEFKJJf2A"
+    ]
+];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
@@ -285,6 +486,3 @@ self.addEventListener('fetch', function (event) {
 
 
 // Runtime cache configuration, using the sw-toolbox library.
-{% if cdnRegex %}
-toolbox.router.get(/{{ cdnRegex|raw }}/, toolbox.fastest, {});
-{% endif %}

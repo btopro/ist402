@@ -1,14 +1,14 @@
 {
-    "title": "My website",
-    "description": "A simple website built with HAXCMS",
+    "title": "ist402",
+    "description": "IST 402 course content space",
     "type": [
-        "website"
+        "website", "HAXcms"
     ],
     "links": {
         "license": [
             {
-                "href": "http://creativecommons.org/licenses/by-nc/2.5/",
-                "title": "CC BY-NC 2.5"
+                "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+                "title": "License: Creative Commons: Attribution Share a like"
             }
         ]
     }
