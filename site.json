@@ -20,7 +20,8 @@
                 "branch": "master",
                 "staticBranch": "gh-pages",
                 "vendor": "github",
-                "publicRepoUrl": "https:\/\/github.com\/btopro\/ist402\/blob\/master\/"
+                "publicRepoUrl": "https:\/\/github.com\/btopro\/ist402\/blob\/master\/",
+                "url": "git@github.com:btopro\/ist402.git"
             },
             "version": "0.12.0",
             "domain": "",
