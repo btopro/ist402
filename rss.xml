@@ -6,7 +6,7 @@
     <description>IST 402 course content space</description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Sep 2019 11:00:10 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 14:02:52 -0400</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Mid-term review</title>
@@ -1705,6 +1705,48 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
       <pubDate>Fri, 23 Aug 2019 09:52:38 -0400</pubDate>
     </item>
     <item>
+      <title>Goals.. for you!</title>
+      <link>/goals-for-you-</link>
+      <description>
+          <![CDATA[ <p>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...</p>
+<ul><li>Learning not just what a technology is but...</li>
+
+<ul><li>Who's using it, what industries, what web services</li>
+
+<li>Getting hands on and implementing it small scale</li>
+
+<li>Being able to better communicate purpose and ideas around it</li>
+
+</ul>
+
+
+<li>Building a digital footprint of YOU, the IT worker / manager / developer / whatever your path, just that it's out there!</li>
+
+<ul><li>Creating a YouTube channel of explainer videos about the topics discussed in class</li>
+
+<li>Creating a Blog about these same topics</li>
+
+<li>Creating social coder accounts and connecting them all together (like Github, TravisCI, Stackblitz, CodePen, Glitch, IFTTT, etc)</li>
+
+</ul>
+
+<li>Learn about all levels of "the stack" in order to better empathize with those working in different levels of the stack from you (or people you'll one day manage)</li>
+
+<li>Have a website on the internet that you control and have a window into how all aspects of it function.</li>
+<li><i>Take hand written tests</i>
+ and <i>use platforms and technologies that no employer on earth will care about</i>
+ once you graduate</li>
+
+</ul>
+<p><span style="letter-spacing: -0.48px;">Ok.. maybe not that last one but the rest are legit.</span></p>
+<meme-maker alt="troll GIF" image-url="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" bottom-text="Ok, not that last one." imageurl="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" toptext="troll GIF" style="width: 75%;"></meme-maker>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/goals-for-you-</guid>
+      <pubDate>Wed, 21 Aug 2019 15:11:14 -0400</pubDate>
+    </item>
+    <item>
       <title>After class reflection</title>
       <link>/after-class-reflection</link>
       <description>
@@ -1751,48 +1793,6 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
       </description>
       <category></category>
       <guid>/after-class-reflection</guid>
-      <pubDate>Wed, 21 Aug 2019 15:11:14 -0400</pubDate>
-    </item>
-    <item>
-      <title>Goals.. for you!</title>
-      <link>/goals-for-you-</link>
-      <description>
-          <![CDATA[ <p>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...</p>
-<ul><li>Learning not just what a technology is but...</li>
-
-<ul><li>Who's using it, what industries, what web services</li>
-
-<li>Getting hands on and implementing it small scale</li>
-
-<li>Being able to better communicate purpose and ideas around it</li>
-
-</ul>
-
-
-<li>Building a digital footprint of YOU, the IT worker / manager / developer / whatever your path, just that it's out there!</li>
-
-<ul><li>Creating a YouTube channel of explainer videos about the topics discussed in class</li>
-
-<li>Creating a Blog about these same topics</li>
-
-<li>Creating social coder accounts and connecting them all together (like Github, TravisCI, Stackblitz, CodePen, Glitch, IFTTT, etc)</li>
-
-</ul>
-
-<li>Learn about all levels of "the stack" in order to better empathize with those working in different levels of the stack from you (or people you'll one day manage)</li>
-
-<li>Have a website on the internet that you control and have a window into how all aspects of it function.</li>
-<li><i>Take hand written tests</i>
- and <i>use platforms and technologies that no employer on earth will care about</i>
- once you graduate</li>
-
-</ul>
-<p><span style="letter-spacing: -0.48px;">Ok.. maybe not that last one but the rest are legit.</span></p>
-<meme-maker alt="troll GIF" image-url="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" bottom-text="Ok, not that last one." imageurl="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" toptext="troll GIF" style="width: 75%;"></meme-maker>
- ]]>
-      </description>
-      <category></category>
-      <guid>/goals-for-you-</guid>
       <pubDate>Wed, 21 Aug 2019 15:11:14 -0400</pubDate>
     </item>
     <item>
@@ -1919,17 +1919,34 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
       <pubDate>Thu, 15 Aug 2019 16:17:19 -0400</pubDate>
     </item>
     <item>
-      <title>Syllabus</title>
-      <link>/syllabus</link>
+      <title>Resources</title>
+      <link>/resources</link>
       <description>
-          <![CDATA[ <p>A standard syllabus is a contract between us.</p>
-<p><a href="https://psu.box.com/s/2dp0l2ex01d4nz9ovxcg9f8jnkupsr0j">IST 402 Fall 2019 Syllabus (PDF)</a>
- / (<a href="https://psu.box.com/s/2feisa6840l8h0mb5uvhw1nl9tce2hzb">Docx format</a>
-)</p>
+          <![CDATA[ <p>This list will keep growing</p>
+<p><a href="https://github.com">Github</a>
+
+ - Popular code sharing space</p>
+<p><a href="https://slack.com">Slack</a>
+
+ - Popular productivity hub / collaboration location</p>
+<p><a href="https://digitalocean.com">Digital Ocean </a>
+
+- Easy to use server environment</p>
+<p><a href="https://hover.com">Hover</a>
+
+ / <a href="https://domains.google.com">Google Domains</a>
+
+ - Easy to buy domain registrar</p>
+<p><a href="https://elmsln.org/">ELMS:LN</a>
+
+ - Penn State developed learning platform</p>
+<p><a href="https://haxtheweb.org/">HAXcms</a>
+
+ - Penn State developed flat file CMS (powers this course site)</p>
  ]]>
       </description>
       <category></category>
-      <guid>/syllabus</guid>
+      <guid>/resources</guid>
       <pubDate>Thu, 15 Aug 2019 15:48:47 -0400</pubDate>
     </item>
     <item>
