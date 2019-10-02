@@ -59,32 +59,44 @@ var precacheConfig = [
         "Tw2fIiyqAY7d9pQACmg2Q"
     ],
     [
-        "pages\/question-driven-teaching\/index.html",
-        "8LGj6KFqiZqmP5gN4yAipA"
-    ],
-    [
-        "pages\/topics\/git\/index.html",
-        "FbC4YGenH2Y8f0F6nqsw"
-    ],
-    [
-        "pages\/labs\/git\/index.html",
-        "fJYbvu9nkMCpLbP7N7UKbg"
+        "pages\/labs\/lab-6-wordpress\/scenario-1\/index.html",
+        "oSO1wLHPY5YJXnnuGSO8A"
     ],
     [
         "pages\/syllabus\/index.html",
         "e1scIo9JuTJosBTwTpr1zA"
     ],
     [
-        "pages\/materials\/index.html",
-        "V5z3PULRHzhQns8xXgL9w"
+        "pages\/labs\/lab-6-wordpress\/scenario-2\/index.html",
+        "xJnbxu0fn0N0aDiHsaqA"
+    ],
+    [
+        "pages\/labs\/git\/index.html",
+        "fJYbvu9nkMCpLbP7N7UKbg"
+    ],
+    [
+        "pages\/topics\/git\/index.html",
+        "FbC4YGenH2Y8f0F6nqsw"
+    ],
+    [
+        "pages\/question-driven-teaching\/index.html",
+        "8LGj6KFqiZqmP5gN4yAipA"
+    ],
+    [
+        "pages\/topics\/html-css-js-web-basics\/index.html",
+        "Salui53dXin5EmSnOGBYw"
+    ],
+    [
+        "pages\/labs\/lab-6-wordpress\/submitting-the-lab\/index.html",
+        "gRT6cagqucIOh9mt8DihGQ"
     ],
     [
         "pages\/labs\/html-css-js-web-basics\/index.html",
         "TZbceAYfdtufOrWO3ySdzQ"
     ],
     [
-        "pages\/topics\/html-css-js-web-basics\/index.html",
-        "Salui53dXin5EmSnOGBYw"
+        "pages\/materials\/index.html",
+        "V5z3PULRHzhQns8xXgL9w"
     ],
     [
         "pages\/topics\/webcomponents\/index.html",
@@ -115,12 +127,12 @@ var precacheConfig = [
         "0RvKyGOldNovCbyaKclEw"
     ],
     [
-        "pages\/topics\/wordpress\/index.html",
-        "q39zrQZesegT0B84QxhQ"
+        "pages\/labs\/lab-6-wordpress\/index.html",
+        "fUldwATPWxqFiehJ1dw"
     ],
     [
-        "pages\/labs\/lab-6-wordpress\/index.html",
-        "THfkjZgWVOGxRXoqDBe6g"
+        "pages\/topics\/wordpress\/index.html",
+        "oR5ZuwXuJmvgNvuhNtG2qA"
     ],
     [
         "pages\/technologies-we-explore\/index.html",
@@ -204,7 +216,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "ucwH3LcoPIcG1bwrF2yM8g"
+        "5yiXfnWrrdAciXojgGw2GA"
     ],
     [
         "404.html",

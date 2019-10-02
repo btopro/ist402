@@ -1,7 +1,7 @@
 {
-  "name": "haxcms",
-  "version": "0.0.1",
-  "description": "HAXcms microsite dependencies for developer usage",
+  "name": "ist402",
+  "version": "0.12.0",
+  "description": "IST 402 course content space",
   "main": "index.html",
   "repository": {
     "type": "git",
