@@ -14,7 +14,7 @@
         "site": {
             "name": "ist402",
             "created": 1565898366,
-            "updated": 1569976994,
+            "updated": 1569988410,
             "git": {
                 "autoPush": false,
                 "branch": "master",
@@ -27,12 +27,13 @@
             "domain": "",
             "logo": "files\/IMG_20190823_102434 2.jpg",
             "static": {
-                "cdn": "webcomponents.psu.edu",
+                "cdn": "build",
                 "offline": false
             },
             "settings": {
                 "pathauto": false,
-                "publishPagesOn": false
+                "publishPagesOn": false,
+                "forceUpgrade": true
             }
         },
         "theme": {
@@ -42,7 +43,7 @@
             "variables": {
                 "image": "assets\/banner.jpg",
                 "hexCode": "#aeff00",
-                "cssVariable": "--simple-colors-default-theme-deep-purple-7",
+                "cssVariable": "--simple-colors-default-theme-indigo-7",
                 "icon": "maps:local-pizza"
             }
         },
