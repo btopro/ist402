@@ -9,9 +9,21 @@
   </author>
   <id>/feed</id>
   <entry>
+    <title>Submitting the lab</title>
+    <id>/labs/lab-6-wordpress/submitting-the-lab</id>
+    <updated>2019-10-01T20:43:14-04:00</updated>
+    <published>2019-10-01T20:43:14-04:00</published>
+    <summary></summary>
+    <link href="/labs/lab-6-wordpress/submitting-the-lab"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Scenario 2</title>
     <id>/labs/lab-6-wordpress/scenario-2</id>
-    <updated>2019-10-01T20:42:43-04:00</updated>
+    <updated>2019-10-01T20:43:14-04:00</updated>
     <published>2019-10-01T19:40:19-04:00</published>
     <summary>Lab Scenario 2 - Scope to nowhereYouwon a contract from the Alaska state government to build a website to market:Alaska’s ”Bridgeto nowhere” (look it up)This site was originallybuilt in </summary>
     <link href="/labs/lab-6-wordpress/scenario-2"/>
@@ -140,7 +152,7 @@ desire</span></li>
   <entry>
     <title>Scenario 1</title>
     <id>/labs/lab-6-wordpress/scenario-1</id>
-    <updated>2019-10-01T20:16:09-04:00</updated>
+    <updated>2019-10-01T20:43:14-04:00</updated>
     <published>2019-10-01T19:40:19-04:00</published>
     <summary>LabScenario 1 – Soaps R Us ContextMom’n’Pop store “Soaps R Us” wants to sell their famous soap online. They need anattractive website with high SEOthat has a shopping cart and a s</summary>
     <link href="/labs/lab-6-wordpress/scenario-1"/>
@@ -262,21 +274,9 @@ complexity and learning curve</span></li>
     </content>
   </entry>
   <entry>
-    <title>Mid-term review</title>
-    <id>/mid-term-review</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
-    <published>2019-10-01T14:02:52-04:00</published>
-    <summary></summary>
-    <link href="/mid-term-review"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Lab 6 - WordPress</title>
     <id>/labs/lab-6-wordpress</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
+    <updated>2019-10-01T20:43:14-04:00</updated>
     <published>2019-10-01T14:02:52-04:00</published>
     <summary>Lab ContextYou are the project manager that sold your team and CEO on using GravGrav is going great, but there are rumblings from some clients and team members used to WordPress Client 1 is </summary>
     <link href="/labs/lab-6-wordpress"/>
@@ -304,9 +304,21 @@ complexity and learning curve</span></li>
     </content>
   </entry>
   <entry>
+    <title>Mid-term review</title>
+    <id>/mid-term-review</id>
+    <updated>2019-10-01T20:43:14-04:00</updated>
+    <published>2019-10-01T14:02:52-04:00</published>
+    <summary></summary>
+    <link href="/mid-term-review"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
     <title>WordPress</title>
     <id>/topics/wordpress</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
+    <updated>2019-10-01T20:43:14-04:00</updated>
     <published>2019-10-01T14:02:52-04:00</published>
     <summary>Lecture slides from this weekThis week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why </summary>
     <link href="/topics/wordpress"/>
@@ -336,54 +348,9 @@ complexity and learning curve</span></li>
     </content>
   </entry>
   <entry>
-    <title>GravCMS</title>
-    <id>/topics/gravcms</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
-    <published>2019-09-25T11:00:10-04:00</published>
-    <summary>Slides about CPanel & GravCMS from classThis week kicks off Reclaim hosting and our Content Management System section of the course. We're going to be covering four different content management </summary>
-    <link href="/topics/gravcms"/>
-    
-    <content type="html">
-      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/gravcms">Slides about CPanel & GravCMS from class</a>
-</p>
-<p>This week kicks off <a href="https://reclaimhosting.com/">Reclaim hosting</a>
-
-
-
- and our Content Management System section of the course. We're going to be covering four different content management systems in this section of the course leveraging <a href="https://reclaimhosting.com/">Reclaim hosting</a>
-
-
-
- to skip a lot of the tediousness of setting up and playing with a CMS.</p>
-<p>We'll talk about CPanel in the high level as far as what function it provides and navigate some of the parts of it a bit, though it won't be the focus. CPanel has been around forever (in web terms) and is still a powerful way to abstract away the complexity of managing servers and get you access to installing apps via a nice UI and mild technical knowledge.</p>
-<p>Listing CMS "Site building" skills on a resume is a sure fire way to get noticed by certain companies looking for people who can hit the ground running with their internal systems. It demonstrates that you know how to navigate technical systems and can be taught out to administer them (potentially).</p>
-<p>It's also a bit crazy as CMSs really are just big storage houses of information with text editors and other UIs that help streamline getting large groups of media and content on the web. The crazy part is, this really isn't that hard to do (as we'll demonstrate through these units) but a lot of people are so afraid of them that they won't touch them.</p>
-<p>Master any one of these popular CMSs coming up (especially Drupal coming up) and you'll stand out in any organization that manages web projects or interfaces regularly with the web properties of the company directly.</p>
-<h2 class="hax-active">Links and resources for working with GravCMS</h2>
-<ul><li><a href="https://learn.getgrav.org/16/basics/basic-tutorial">GravCMS documentation</a>
-
- (Basic tutorial of working with it)</li>
-
-<li><a href="https://getgrav.org/">GravCMS homepage</a>
-
-</li>
-
-<li><a href="https://getgrav.org/downloads/plugins">GravCMS plugin listing</a>
-
-</li>
-
-<li><a href="https://github.com/getgrav">Grav community on Github</a>
-
-</li>
-
-</ul>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Lab 5 - GravCMS</title>
     <id>/labs/lab-5-gravcms</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
+    <updated>2019-10-01T20:43:14-04:00</updated>
     <published>2019-09-25T11:00:10-04:00</published>
     <summary>Lab scenarioYouare a project manager in a design firmYour team is 1 developer, 1 sitebuilder, 1 designer and you report to theCEOYou think GravCMS might be a great way to deliver 10-</summary>
     <link href="/labs/lab-5-gravcms"/>
@@ -553,25 +520,54 @@ of your </span><span style="font-variant-numeric: normal; font-variant-east-asia
     </content>
   </entry>
   <entry>
-    <title>Webcomponents</title>
-    <id>/topics/webcomponents</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
-    <published>2019-09-18T14:38:01-04:00</published>
-    <summary>Slides - Web components & Package managersWeb components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a </summary>
-    <link href="/topics/webcomponents"/>
+    <title>GravCMS</title>
+    <id>/topics/gravcms</id>
+    <updated>2019-10-01T20:43:14-04:00</updated>
+    <published>2019-09-25T11:00:10-04:00</published>
+    <summary>Slides about CPanel & GravCMS from classThis week kicks off Reclaim hosting and our Content Management System section of the course. We're going to be covering four different content management </summary>
+    <link href="/topics/gravcms"/>
     
     <content type="html">
-      <![CDATA[ <p>Slides - <a href="https://www.slideshare.net/btopro/web-components-and-package-managers">Web components & Package managers</a>
+      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/gravcms">Slides about CPanel & GravCMS from class</a>
 </p>
-<p>Web components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a sustainable, secure and accessible manner.</p>
-<p>This week is mostly in slide form as a result of the many talks that btopro gives on these topics. This course is built out of web components and increasingly everything from signs at fast food restaurants to websites you use ever day (like YouTube) will be built out of web components.</p>
+<p>This week kicks off <a href="https://reclaimhosting.com/">Reclaim hosting</a>
+
+
+
+ and our Content Management System section of the course. We're going to be covering four different content management systems in this section of the course leveraging <a href="https://reclaimhosting.com/">Reclaim hosting</a>
+
+
+
+ to skip a lot of the tediousness of setting up and playing with a CMS.</p>
+<p>We'll talk about CPanel in the high level as far as what function it provides and navigate some of the parts of it a bit, though it won't be the focus. CPanel has been around forever (in web terms) and is still a powerful way to abstract away the complexity of managing servers and get you access to installing apps via a nice UI and mild technical knowledge.</p>
+<p>Listing CMS "Site building" skills on a resume is a sure fire way to get noticed by certain companies looking for people who can hit the ground running with their internal systems. It demonstrates that you know how to navigate technical systems and can be taught out to administer them (potentially).</p>
+<p>It's also a bit crazy as CMSs really are just big storage houses of information with text editors and other UIs that help streamline getting large groups of media and content on the web. The crazy part is, this really isn't that hard to do (as we'll demonstrate through these units) but a lot of people are so afraid of them that they won't touch them.</p>
+<p>Master any one of these popular CMSs coming up (especially Drupal coming up) and you'll stand out in any organization that manages web projects or interfaces regularly with the web properties of the company directly.</p>
+<h2 class="hax-active">Links and resources for working with GravCMS</h2>
+<ul><li><a href="https://learn.getgrav.org/16/basics/basic-tutorial">GravCMS documentation</a>
+
+ (Basic tutorial of working with it)</li>
+
+<li><a href="https://getgrav.org/">GravCMS homepage</a>
+
+</li>
+
+<li><a href="https://getgrav.org/downloads/plugins">GravCMS plugin listing</a>
+
+</li>
+
+<li><a href="https://github.com/getgrav">Grav community on Github</a>
+
+</li>
+
+</ul>
  ]]>
     </content>
   </entry>
   <entry>
     <title>Lab 4 - Webcomponents</title>
     <id>/labs/webcomponents-1</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
+    <updated>2019-10-01T20:43:14-04:00</updated>
     <published>2019-09-18T14:38:01-04:00</published>
     <summary>September 18th, 2019For this lab we're going to look at a few different services that are like codepen but allow for more advanced use-cases and development to support web components (and other front</summary>
     <link href="/labs/webcomponents-1"/>
@@ -819,9 +815,79 @@ to frame your writing and video response:
     </content>
   </entry>
   <entry>
+    <title>Webcomponents</title>
+    <id>/topics/webcomponents</id>
+    <updated>2019-10-01T20:43:14-04:00</updated>
+    <published>2019-09-18T14:38:01-04:00</published>
+    <summary>Slides - Web components & Package managersWeb components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a </summary>
+    <link href="/topics/webcomponents"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Slides - <a href="https://www.slideshare.net/btopro/web-components-and-package-managers">Web components & Package managers</a>
+</p>
+<p>Web components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a sustainable, secure and accessible manner.</p>
+<p>This week is mostly in slide form as a result of the many talks that btopro gives on these topics. This course is built out of web components and increasingly everything from signs at fast food restaurants to websites you use ever day (like YouTube) will be built out of web components.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Lab 3 - HTML / CSS / JS Web basics</title>
+    <id>/labs/html-css-js-web-basics</id>
+    <updated>2019-10-01T20:43:14-04:00</updated>
+    <published>2019-09-09T16:53:00-04:00</published>
+    <summary>September 11th, 2019For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in </summary>
+    <link href="/labs/html-css-js-web-basics"/>
+    
+    <content type="html">
+      <![CDATA[ <h3 class="hax-active">September 11th, 2019</h3>
+<p>For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in the future so we'll keep the JS brief for this one.</p>
+<p><a href="https://codepen.io/btopro/pen/zYOWqKZ">Exercise Pen</a>
+
+: <span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text);">Fork this Pen and we can follow along together in class.</span></p>
+<h2>Lab Pen</h2>
+<p>For this lab, I want you to modify <b>one of these</b>
+
+ <b>pens</b>
+
+ in order to make the resume reflect your own information. There's a <i>beginner Pen</i>
+
+ and a more <i>advanced pen</i>
+
+.</p>
+<p><a href="https://codepen.io/btopro/pen/GRKQVBx?editors=1000">Beginner Pen</a>
+
+: Personal Resume which contains hints and directions inside</p>
+<p><a href="https://codepen.io/btopro/pen/GRKxKgX?editors=1000">Advanced Pen</a>
+
+: no instructions and a slightly more advanced design. Use this to challenge yourself or if you've previously written HTML to make something more useful.</p>
+<h3 class="hax-active">Reflection Pen</h3>
+<p><a href="https://codepen.io/btopro/pen/KKPozvd">FORK THIS PEN</a>
+
+: For reflection this week I want you to fork this pen and write your response using HTML. For the topic this week pick one of the following:</p>
+<ul><li>Explaining how to apply styling to an element in <b>CSS</b>
+
+</li>
+
+<li>Explain how to use JavaScript and <b>getElementById</b>
+
+ to add a <i>click event to</i>
+
+ an element in an existing codepen that generates an alert saying <b>Hello</b>
+
+</li>
+
+<li><i>Value of CodePen as a platform</i>
+
+ to learn coding by finding an inspiring pen and explain what's going on.</li>
+
+</ul>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>HTML / CSS / JS Web basics</title>
     <id>/topics/html-css-js-web-basics</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
+    <updated>2019-10-01T20:43:14-04:00</updated>
     <published>2019-09-09T16:53:00-04:00</published>
     <summary>Lecture Slides for Topic 3Load up the link machine. Many of these are inside the lecture presentation (in context)ResourcesCodePen.io - Great playground (where we'll do the lab today)Can</summary>
     <link href="/topics/html-css-js-web-basics"/>
@@ -878,63 +944,9 @@ to frame your writing and video response:
     </content>
   </entry>
   <entry>
-    <title>Lab 3 - HTML / CSS / JS Web basics</title>
-    <id>/labs/html-css-js-web-basics</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
-    <published>2019-09-09T16:53:00-04:00</published>
-    <summary>September 11th, 2019For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in </summary>
-    <link href="/labs/html-css-js-web-basics"/>
-    
-    <content type="html">
-      <![CDATA[ <h3 class="hax-active">September 11th, 2019</h3>
-<p>For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in the future so we'll keep the JS brief for this one.</p>
-<p><a href="https://codepen.io/btopro/pen/zYOWqKZ">Exercise Pen</a>
-
-: <span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text);">Fork this Pen and we can follow along together in class.</span></p>
-<h2>Lab Pen</h2>
-<p>For this lab, I want you to modify <b>one of these</b>
-
- <b>pens</b>
-
- in order to make the resume reflect your own information. There's a <i>beginner Pen</i>
-
- and a more <i>advanced pen</i>
-
-.</p>
-<p><a href="https://codepen.io/btopro/pen/GRKQVBx?editors=1000">Beginner Pen</a>
-
-: Personal Resume which contains hints and directions inside</p>
-<p><a href="https://codepen.io/btopro/pen/GRKxKgX?editors=1000">Advanced Pen</a>
-
-: no instructions and a slightly more advanced design. Use this to challenge yourself or if you've previously written HTML to make something more useful.</p>
-<h3 class="hax-active">Reflection Pen</h3>
-<p><a href="https://codepen.io/btopro/pen/KKPozvd">FORK THIS PEN</a>
-
-: For reflection this week I want you to fork this pen and write your response using HTML. For the topic this week pick one of the following:</p>
-<ul><li>Explaining how to apply styling to an element in <b>CSS</b>
-
-</li>
-
-<li>Explain how to use JavaScript and <b>getElementById</b>
-
- to add a <i>click event to</i>
-
- an element in an existing codepen that generates an alert saying <b>Hello</b>
-
-</li>
-
-<li><i>Value of CodePen as a platform</i>
-
- to learn coding by finding an inspiring pen and explain what's going on.</li>
-
-</ul>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Feedback</title>
     <id>/feedback</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
+    <updated>2019-10-01T20:43:14-04:00</updated>
     <published>2019-09-04T07:31:59-04:00</published>
     <summary>Lab 4Web components and "components" as in designed pieces of websites are different things (but related). Components could be like a product shown on the Walmart website. A Web component would be </summary>
     <link href="/feedback"/>
@@ -1254,7 +1266,7 @@ I did an <i>assignment once</i>
   <entry>
     <title>Materials</title>
     <id>/materials</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
+    <updated>2019-10-01T20:43:14-04:00</updated>
     <published>2019-08-26T15:00:15-04:00</published>
     <summary>There are no required course materials in the textbook form but there are digital services you'll need to purchase for one of our Labs which will have usage in multiple labs in the future. These servi</summary>
     <link href="/materials"/>
@@ -1292,7 +1304,7 @@ I did an <i>assignment once</i>
   <entry>
     <title>Screencasting</title>
     <id>/resources/screencasting</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
+    <updated>2019-10-01T20:43:14-04:00</updated>
     <published>2019-08-26T14:27:20-04:00</published>
     <summary>ChecklistBefore recording always make sure...You've got the links you want to view open in tabs in a browser windowYou've got headphones / some kind of microphone to record your voiceYou can use i</summary>
     <link href="/resources/screencasting"/>
@@ -1335,7 +1347,7 @@ I did an <i>assignment once</i>
   <entry>
     <title>Lab 2 - Git / Github / Contribution</title>
     <id>/labs/git</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
+    <updated>2019-10-01T20:43:14-04:00</updated>
     <published>2019-08-24T15:13:10-04:00</published>
     <summary>September 4th, 2019 - Lab 2We've talked about git for version control and explored Github a bit and how teams work together using the platform. Now let's dig in!Basic example / Getting startedCre</summary>
     <link href="/labs/git"/>
@@ -1607,7 +1619,7 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
   <entry>
     <title>Lab 1 - Building your digital identity</title>
     <id>/labs/building-your-digital-identity</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
+    <updated>2019-10-01T20:43:14-04:00</updated>
     <published>2019-08-23T09:52:38-04:00</published>
     <summary>August 28th, 2019 - Lab 1 / first classThis is a warm up lab that will help set the stage for the platforms we'll use for the rest of the semester.Create a Slack account and join two slack channels</summary>
     <link href="/labs/building-your-digital-identity"/>
@@ -2012,7 +2024,7 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
   <entry>
     <title>Labs</title>
     <id>/labs</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
+    <updated>2019-10-01T20:43:14-04:00</updated>
     <published>2019-08-23T09:52:38-04:00</published>
     <summary>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.Remember t</summary>
     <link href="/labs"/>
@@ -2028,7 +2040,7 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
   <entry>
     <title>After class reflection</title>
     <id>/after-class-reflection</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
+    <updated>2019-10-01T20:43:14-04:00</updated>
     <published>2019-08-21T15:11:14-04:00</published>
     <summary>All assignments are setup as labs and you'll be starting into them at the end of class. Once finished with the lab, you'll demonstrate you've done the work by reflecting on it in the form of a written</summary>
     <link href="/after-class-reflection"/>
@@ -2079,7 +2091,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Goals.. for you!</title>
     <id>/goals-for-you-</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
+    <updated>2019-10-01T20:43:14-04:00</updated>
     <published>2019-08-21T15:11:14-04:00</published>
     <summary>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...Learning not just what a technology is but...Who's using it, what </summary>
     <link href="/goals-for-you-"/>
@@ -2123,7 +2135,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Class time together</title>
     <id>/class-time-together</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
+    <updated>2019-10-01T20:43:14-04:00</updated>
     <published>2019-08-21T15:04:55-04:00</published>
     <summary>We're going to strive for this general flow to each week of the semester. A few specific topics will deviate and we may have some guest speakers, but generally this is what class will look like togeth</summary>
     <link href="/class-time-together"/>
@@ -2149,7 +2161,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Project</title>
     <id>/project</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
+    <updated>2019-10-01T20:43:14-04:00</updated>
     <published>2019-08-16T11:09:45-04:00</published>
     <summary>The last week of the semester there will be a slightly longer lab that I'm calling a project. You'll have to put together a pitch for one of multiple problem spaces but it's a technical pitch. You'll </summary>
     <link href="/project"/>
@@ -2163,7 +2175,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Building your digital identity</title>
     <id>/topics/building-your-digital-identity</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
+    <updated>2019-10-01T20:43:14-04:00</updated>
     <published>2019-08-15T17:01:42-04:00</published>
     <summary>Slides from the talk in classNo one knows who you are if you're not effectively communicating. I recall a colleague several years ago getting pissed that I was invited to speak some place. "It's li</summary>
     <link href="/topics/building-your-digital-identity"/>
@@ -2212,7 +2224,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Questions driven teaching</title>
     <id>/question-driven-teaching</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
+    <updated>2019-10-01T20:43:14-04:00</updated>
     <published>2019-08-15T16:18:39-04:00</published>
     <summary>In all the technologies and skillsets we'll explore in this course, I want you to approach them with the same questions that I have explored in my career. These simple questions will help you decipher</summary>
     <link href="/question-driven-teaching"/>
@@ -2232,7 +2244,7 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
   <entry>
     <title>Initial skills assessment</title>
     <id>/technologies-we-explore</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
+    <updated>2019-10-01T20:43:14-04:00</updated>
     <published>2019-08-15T16:17:19-04:00</published>
     <summary>It's not as scary as that title.We'll be exploring lots of different technologies through labs. In order to give me a good sense of what everyone's past experience is with these technologies, please </summary>
     <link href="/technologies-we-explore"/>
@@ -2250,39 +2262,6 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
 
 </p>
 <p>This is just to help me get a sense of things everyone has had past experience with so I know what to focus on in what order and in how much depth. These labs are designed to give you working knowledge of all of the things listed and to be able to have a conversation with managers, hiring groups, and developers about the tools IT organizations / start ups need to utilize on a daily basis.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Resources</title>
-    <id>/resources</id>
-    <updated>2019-10-01T19:40:19-04:00</updated>
-    <published>2019-08-15T15:48:47-04:00</published>
-    <summary>This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub / collaboration locationDigital Ocean - Easy to use server environmentHover / Google Domains</summary>
-    <link href="/resources"/>
-    
-    <content type="html">
-      <![CDATA[ <p>This list will keep growing</p>
-<p><a href="https://github.com">Github</a>
-
- - Popular code sharing space</p>
-<p><a href="https://slack.com">Slack</a>
-
- - Popular productivity hub / collaboration location</p>
-<p><a href="https://digitalocean.com">Digital Ocean </a>
-
-- Easy to use server environment</p>
-<p><a href="https://hover.com">Hover</a>
-
- / <a href="https://domains.google.com">Google Domains</a>
-
- - Easy to buy domain registrar</p>
-<p><a href="https://elmsln.org/">ELMS:LN</a>
-
- - Penn State developed learning platform</p>
-<p><a href="https://haxtheweb.org/">HAXcms</a>
-
- - Penn State developed flat file CMS (powers this course site)</p>
  ]]>
     </content>
   </entry>
