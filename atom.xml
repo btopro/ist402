@@ -3,7 +3,7 @@
   <title>ist402</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>IST 402 course content space</subtitle>
-  <updated>2019-10-01T20:43:14-04:00</updated>
+  <updated>2019-10-01T23:53:30-04:00</updated>
   <author>
       <name></name>
   </author>
@@ -407,14 +407,15 @@ desire</span></li>
   <entry>
     <title>Lab 6 - WordPress</title>
     <id>/labs/lab-6-wordpress</id>
-    <updated>2019-10-01T20:54:03-04:00</updated>
+    <updated>2019-10-02T13:20:25-04:00</updated>
     <published>2019-10-01T14:02:52-04:00</published>
-    <summary>Lab ContextYou are the project manager that sold your team and CEO on using GravGrav is going great, but there are rumblings from some clients recently and team members used to WordPress are as</summary>
+    <summary>Lab ContextYou are the project manager that sold your team and CEO on using GravGrav is going great, but there are rumblings from some clients recently and team members used to WordPress are a</summary>
     <link href="/labs/lab-6-wordpress"/>
     
     <content type="html">
       <![CDATA[ <h2>Lab Context</h2>
 <ul><li>You are the project manager that sold your team and CEO on using Grav</li>
+
 
 
 
@@ -426,8 +427,11 @@ desire</span></li>
 
 
 
+
 <li><b><a href="labs/lab-6-wordpress/scenario-1">Client 1</a>
+
 </b>
+
 
  is also concerned about this "New Editor" they keep hearing about. Some want to try it out, others like things the way it is now because of training.</li>
 
@@ -435,11 +439,24 @@ desire</span></li>
 
 
 
+
 <li><b><a href="labs/lab-6-wordpress/scenario-2">Client 2</a>
+
 </b>
 
+
  is questioning why you selected Grav for their project and wants you to review if they should be using WordPress because of other projects they are using it on.</li>
+
 </ul>
+<h2 class="hax-active"><span style=""><span style="letter-spacing: -0.48px;" class="hax-active">Grading the Lab deliverable</span></span></h2>
+<ul><li><span style=""><span style="letter-spacing: -0.48px;" class="hax-active">Did you create a WordPress site in Reclaim and post your link to the channel <b>(2pts)</b>
+</span></span></li>
+<li><span style=""><span style="letter-spacing: -0.48px;" class="hax-active">Did you create the site and effectively effectively argue the case for the technology selection in the scenario? <b>(4pts)</b>
+</span></span></li>
+<li><span style=""><span style="letter-spacing: -0.48px;">Did you record a video that makes the case for or against the decision in question?<b> (4pts)</b>
+</span></span></li>
+</ul>
+<p><span style="letter-spacing: -0.48px;">This lab is worth 10 points</span></p>
  ]]>
     </content>
   </entry>

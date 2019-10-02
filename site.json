@@ -695,20 +695,21 @@
             "order": "5",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "Lab 6 - WordPress",
-            "description": "Lab ContextYou are the project manager that sold your team and CEO on using GravGrav is going great, but there are rumblings from some clients recently and team members used to WordPress are as",
+            "description": "Lab ContextYou are the project manager that sold your team and CEO on using GravGrav is going great, but there are rumblings from some clients recently and team members used to WordPress are a",
             "metadata": {
                 "created": 1569952972,
-                "updated": 1569977643,
+                "updated": 1570036825,
                 "readtime": 1,
                 "contentDetails": {
-                    "headings": 1,
-                    "paragraphs": 0,
+                    "headings": 2,
+                    "paragraphs": 1,
                     "schema": [],
                     "tags": {
-                        "h2": 1,
-                        "ul": 1
+                        "h2": 2,
+                        "ul": 2,
+                        "p": 1
                     },
-                    "elements": 2
+                    "elements": 5
                 }
             }
         },
