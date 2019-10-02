@@ -308,19 +308,18 @@
             "order": "1",
             "parent": "item-506faa66-813a-4726-8769-d1c5f521af27",
             "title": "Scenario 2",
-            "description": "Lab Scenario 2 - Scope to nowhereYouwon a contract from the Alaska state government to build a website to market:Alaska\u2019s \u201dBridgeto nowhere\u201d (look it up)This site was originallybuilt in G",
+            "description": "Lab Scenario 2 - Scope to nowhereYouwon a contract from the Alaska state government to build a website to market:Alaska\u2019s \u201dBridgeto nowhere\u201d (look it up)This site was originallybuilt in ",
             "metadata": {
                 "created": 1569973219,
-                "updated": 1569975698,
+                "updated": 1569976963,
                 "readtime": 2,
                 "contentDetails": {
-                    "headings": 2,
-                    "paragraphs": 1,
+                    "headings": 3,
+                    "paragraphs": 0,
                     "schema": [],
                     "tags": {
-                        "h2": 2,
-                        "ul": 3,
-                        "p": 1
+                        "h2": 3,
+                        "ul": 3
                     },
                     "elements": 6
                 }

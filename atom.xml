@@ -11,9 +11,9 @@
   <entry>
     <title>Scenario 2</title>
     <id>/labs/lab-6-wordpress/scenario-2</id>
-    <updated>2019-10-01T20:21:38-04:00</updated>
+    <updated>2019-10-01T20:42:43-04:00</updated>
     <published>2019-10-01T19:40:19-04:00</published>
-    <summary>Lab Scenario 2 - Scope to nowhereYouwon a contract from the Alaska state government to build a website to market:Alaska’s ”Bridgeto nowhere” (look it up)This site was originallybuilt in G</summary>
+    <summary>Lab Scenario 2 - Scope to nowhereYouwon a contract from the Alaska state government to build a website to market:Alaska’s ”Bridgeto nowhere” (look it up)This site was originallybuilt in </summary>
     <link href="/labs/lab-6-wordpress/scenario-2"/>
     
     <content type="html">
@@ -23,21 +23,31 @@ won a contract from the Alaska state government to </span><span style="font-vari
 </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Alaska’s </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">”Bridge
 to nowhere” (look it up)</span></li>
 
+
 <li>This site was <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">originally
 built in </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> because you thought it was a one
 off, but now the client is mad because they heard a word other than “WordPress” (<i>snark but happens</i>
+
 ) and are instantly </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">concerned
 about having to </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">support
 <i>two different </i>
+
 </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"><i>applications</i>
+
 .</span></li>
+
 <li>You need to build a website and QUICK to convince <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">them to stay with you, either as a new WordPress site or get them to use the existing one. </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">This
 website needs turned around in 1 week (<i>shocking</i>
+
 </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">).</span></li>
+
 <li>Pick a <b>theme</b>
+
  for a <b>brochure style website</b>
+
  and show them what a site in
 WordPress would feel like relative to <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span></li>
+
 </ul>
 <h2 class="hax-active"><span style=""><span style="letter-spacing: -0.48px;">Deliverable</span><br/></span></h2>
 <ul><li><span style="" class="hax-active"><span style="" class="hax-active">
@@ -46,30 +56,41 @@ WordPress would feel like relative to <span style="font-variant-numeric: normal;
 
 
 
-<!-- StartFragment --><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Create
+<!--  StartFragment  --><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Create
 a WordPress site on reclaim hosting</span></span></span></li>
+
 
 <li>Select plugins to <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">improve
 SEO</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">, </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">help
 ensure accessibility</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">, and
 </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">simplify content editing beyond the
 default </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">editor </span>(<b>enable<span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">classic</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> </span></b>
+
 <span style="font-variant-numeric: normal; font-variant-east-asian: normal;"><b>editor</b>
+
 )</span></li>
+
 <li>Pick a nice theme and customize it with a few links to make the site look <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">like a <b>real brochure style website</b>
+
 
 (</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">typical parks and rec site has </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">History, </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">News, Hours, Location, Reviews, </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">etc</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">).</span></li>
 
+
 <li><b>Modify the </b>
+
 <span style="font-variant-numeric: normal; font-variant-east-asian: normal;"><b>homepage</b>
+
 ,
 </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">be as snarky as you like, this is a
 real bridge project so meme it up. </span><b><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Under
 History make </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">a
 Pros and Cons list of WordPress vs </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span></b>
+
 <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">. Make sure to list at least <b>3
 advantages and disadvantages</b>
+
  of each platform (links can help prove these).</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"></span></li>
+
 
 <li><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Record a video </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">demonstrating some of the similarities
 and differences</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">
@@ -77,41 +98,41 @@ between </span><span style="font-variant-numeric: normal; font-variant-east-asia
 </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">order</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">
 </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">to</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">
 </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">allay their concern</span></li>
+
 </ul>
-<p><span style="letter-spacing: -0.48px;">How to make your case</span></p>
+<h2><span style="letter-spacing: -0.48px;" class="hax-active">How to make your case</span></h2>
 <ul><li><span style="" class="hax-active"><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">The
 client is in favor of </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">WordPress</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">
 because of </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">other</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">projects</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">. </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">You
-like making money but want to cover your butt. Make arguments for why you
-agree they should migrate from </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> to WordPress. After all, billable
-hours are billable hours.</span></span></li>
+like making money but want to cover your butt. Make arguments for <b>why you
+agree they should migrate from </b>
+</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"><b>Grav</b>
+</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"><b> to WordPress</b>
+. After all, this is a government contract and once your in maybe you can get more by making them happy.<br/></span></span><br/><b><i>OR</i>
+</b>
+<br/><br/></li>
 
-<li>
-  OR</li>
 
-<li>
-</li>
-
-<li>
-- <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">You sell </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">
-over WordPress; if your going to get paid, might as well do it based on work
+<li><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">You <i><b>sell </b>
+</i>
+</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"><i><b>Grav</b>
+</i>
+</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"><i><b>
+over WordPres</b>
+</i>
+s; if you are going to get paid, might as well do it based on work
 you’ve </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">already
 done</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> rather then need to scrap it all
 and build them a new website. This </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">might
-seem more difficult but remember... </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Governments
-LOVE security</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> and
-WP is hacked... A lot</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">.
-Let’s exploit that fear.</span></li>
+seem more difficult but remember.. </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Governments
+<i>LOVE</i>
+ <i>security</i>
+</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> and
+WP is hacked.. a lot</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">.
+Play on that fear relative to how Grav works.<br/></span><br/>Note: You don’t have to build a new <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> site, you can point to features in
+the existing one you made but you are welcome to make a new one if you so
+desire</span></li>
 
-<li>
-</li>
-
-<li>
-(You don’t have to build a new <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> site, you can point to features in
-the existing one you made though your welcome to make a new one if you so
-desire)</span><!-- EndFragment -->    </li>
-
-<li></li>
 </ul>
  ]]>
     </content>
