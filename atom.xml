@@ -392,9 +392,9 @@ desire</span></li>
   <entry>
     <title>Lab 6 - WordPress</title>
     <id>/labs/lab-6-wordpress</id>
-    <updated>2019-10-01T20:43:14-04:00</updated>
+    <updated>2019-10-01T20:48:40-04:00</updated>
     <published>2019-10-01T14:02:52-04:00</published>
-    <summary>Lab ContextYou are the project manager that sold your team and CEO on using GravGrav is going great, but there are rumblings from some clients and team members used to WordPress Client 1 is </summary>
+    <summary>Lab ContextYou are the project manager that sold your team and CEO on using GravGrav is going great, but there are rumblings from some clients recently and team members used to WordPress are ask</summary>
     <link href="/labs/lab-6-wordpress"/>
     
     <content type="html">
@@ -403,15 +403,21 @@ desire</span></li>
 
 
 
-<li>Grav is going great, but there are rumblings from some clients and team members used to WordPress</li>
+
+<li>Grav is going great, but there are rumblings from some clients recently and team members used to WordPress are asking for it.</li>
 
 
 
-<li> Client 1 is also concerned about this "New Editor" they keep hearing about. Some want to try it out, others like things the way it is now because of training</li>
+
+<li><b>Client 1</b>
+ is also concerned about this "New Editor" they keep hearing about. Some want to try it out, others like things the way it is now because of training.</li>
 
 
 
-<li>Client 2 is questioning why you selected Grav for their project though and wants you to review if they should be using WordPress because of other projects they're doing</li>
+
+<li><b>Client 2</b>
+ is questioning why you selected Grav for their project and wants you to review if they should be using WordPress because of other projects they are using it on.</li>
+
 
 
 
