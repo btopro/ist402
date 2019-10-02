@@ -389,23 +389,26 @@ desire</span></li>
 
 
 
+
 <li>Grav is going great, but there are rumblings from some clients recently and team members used to WordPress are asking for it.</li>
 
 
 
 
-<li><b>Client 1</b>
+
+<li><b><a href="labs/lab-6-wordpress/scenario-1">Client 1</a>
+</b>
+
  is also concerned about this "New Editor" they keep hearing about. Some want to try it out, others like things the way it is now because of training.</li>
 
 
 
 
-<li><b>Client 2</b>
+
+<li><b><a href="labs/lab-6-wordpress/scenario-2">Client 2</a>
+</b>
+
  is questioning why you selected Grav for their project and wants you to review if they should be using WordPress because of other projects they are using it on.</li>
-
-
-
-
 </ul>
  ]]>
       </description>
