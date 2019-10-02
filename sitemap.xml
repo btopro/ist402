@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- generator-class="Icamys\SitemapGenerator\SitemapGenerator" -->
 <!-- generator-version="1.1.0" -->
-<!-- generated-on="2019-10-01T20:43:14-04:00" -->
+<!-- generated-on="2019-10-01T20:45:41-04:00" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>/welcome</loc>
@@ -70,10 +70,16 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/materials</loc>
+    <loc>/topics/html-css-js-web-basics</loc>
     <lastmod>2019-10-01T20:43:14-04:00</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/labs/lab-6-wordpress/submitting-the-lab</loc>
+    <lastmod>2019-10-01T20:45:41-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>/labs/html-css-js-web-basics</loc>
@@ -82,10 +88,10 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/topics/html-css-js-web-basics</loc>
+    <loc>/materials</loc>
     <lastmod>2019-10-01T20:43:14-04:00</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>/topics/webcomponents</loc>
@@ -182,11 +188,5 @@
     <lastmod>2019-10-01T20:43:14-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>/labs/lab-6-wordpress/submitting-the-lab</loc>
-    <lastmod>2019-10-01T20:43:14-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
