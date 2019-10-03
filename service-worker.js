@@ -128,7 +128,7 @@ var precacheConfig = [
     ],
     [
         "pages\/labs\/lab-6-wordpress\/index.html",
-        "fUldwATPWxqFiehJ1dw"
+        "5ZhQXqDoAuyEvEjegxw3tQ"
     ],
     [
         "pages\/topics\/wordpress\/index.html",
@@ -216,7 +216,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "5yiXfnWrrdAciXojgGw2GA"
+        "4RD9fHy6zoOdNAOUpxx0Bw"
     ],
     [
         "404.html",
