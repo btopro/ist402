@@ -14,7 +14,7 @@
         "site": {
             "name": "ist402",
             "created": 1565898366,
-            "updated": 1569988410,
+            "updated": 1570065067,
             "git": {
                 "autoPush": false,
                 "branch": "master",
@@ -23,7 +23,7 @@
                 "publicRepoUrl": "https:\/\/github.com\/btopro\/ist402\/blob\/master\/",
                 "url": "git@github.com:btopro\/ist402.git"
             },
-            "version": "0.12.0",
+            "version": "0.12.2",
             "domain": "",
             "logo": "files\/IMG_20190823_102434 2.jpg",
             "static": {
@@ -33,7 +33,8 @@
             "settings": {
                 "pathauto": false,
                 "publishPagesOn": false,
-                "forceUpgrade": true
+                "forceUpgrade": true,
+                "sw": false
             }
         },
         "theme": {
