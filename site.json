@@ -14,7 +14,7 @@
         "site": {
             "name": "ist402",
             "created": 1565898366,
-            "updated": 1570065110,
+            "updated": 1570065117,
             "git": {
                 "autoPush": false,
                 "branch": "master",
@@ -34,7 +34,7 @@
                 "pathauto": false,
                 "publishPagesOn": false,
                 "forceUpgrade": true,
-                "sw": true
+                "sw": false
             }
         },
         "theme": {
