@@ -6,7 +6,7 @@
     <description>IST 402 course content space</description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Oct 2019 21:12:58 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2019 20:07:06 -0400</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Lab 7 - Drupal</title>
@@ -367,6 +367,44 @@ desire</span></li>
       <pubDate>Tue, 01 Oct 2019 19:40:19 -0400</pubDate>
     </item>
     <item>
+      <title>WordPress</title>
+      <link>/topics/wordpress</link>
+      <description>
+          <![CDATA[ <p><a target="_blank" rel="noopener noreferrer" href="https://www.slideshare.net/btopro/classicpress-wordpress">Lecture slides from this week</a>
+
+
+</p>
+<p>This week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why it powers (estimates, numbers differ by source) 33% to as much as 50% of sites on the internet.</p>
+<p>These sites could be everything from the Whitehouse down to every individual blog / new acount on wordpress.com (SaaS solution version) which is why people take some of that number with a grain of salt.</p>
+<p>It's a great platform to start your own website on but it's run into some recent controversies which are worth exploring - namely the battle for the heart of the community around a text editor. It's weird to think about, but when a CMS lives and dies by the ease of content entry, you can understand why the <b>new core mandatory</b>
+
+
+
+
+
+ text editor called<b> Gutenberg</b>
+
+
+
+
+
+ would attract positive and negative attention.</p>
+<p>With plans to phase out the "Classic Editor" in 2020 many people in the community are at a cross-roads: Continue to trust the same core community that "took away" their beloved simple HTML editor, or forge a new path. We'll look briefly at the concept of community forks through the context of ClassicPress, a popular WordPress alternative that's gaining traction as the more community centric CMS.</p>
+<p>With parallels to Drupal and it's popular fork Backdrop (topic for next lab) we'll see that it's not always code that leads to inflection points in groups but the process by which that code is formed, agreed upon, and ultimately pushed into the main project everyone's aligned with.</p>
+<p>WordPress is a great resume builder both in terms of the platform as well as putting on your resume that you have experience with it, so let's dig in and check it out in <a href="https://reclaimhosting.com/">ReclaimHosting</a>
+
+
+
+
+
+ once more!</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/topics/wordpress</guid>
+      <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
+    </item>
+    <item>
       <title>Lab 6 - WordPress</title>
       <link>/labs/lab-6-wordpress</link>
       <description>
@@ -421,48 +459,11 @@ desire</span></li>
       <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
     </item>
     <item>
-      <title>WordPress</title>
-      <link>/topics/wordpress</link>
-      <description>
-          <![CDATA[ <p><a target="_blank" rel="noopener noreferrer" href="https://www.slideshare.net/btopro/classicpress-wordpress">Lecture slides from this week</a>
-
-
-</p>
-<p>This week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why it powers (estimates, numbers differ by source) 33% to as much as 50% of sites on the internet.</p>
-<p>These sites could be everything from the Whitehouse down to every individual blog / new acount on wordpress.com (SaaS solution version) which is why people take some of that number with a grain of salt.</p>
-<p>It's a great platform to start your own website on but it's run into some recent controversies which are worth exploring - namely the battle for the heart of the community around a text editor. It's weird to think about, but when a CMS lives and dies by the ease of content entry, you can understand why the <b>new core mandatory</b>
-
-
-
-
-
- text editor called<b> Gutenberg</b>
-
-
-
-
-
- would attract positive and negative attention.</p>
-<p>With plans to phase out the "Classic Editor" in 2020 many people in the community are at a cross-roads: Continue to trust the same core community that "took away" their beloved simple HTML editor, or forge a new path. We'll look briefly at the concept of community forks through the context of ClassicPress, a popular WordPress alternative that's gaining traction as the more community centric CMS.</p>
-<p>With parallels to Drupal and it's popular fork Backdrop (topic for next lab) we'll see that it's not always code that leads to inflection points in groups but the process by which that code is formed, agreed upon, and ultimately pushed into the main project everyone's aligned with.</p>
-<p>WordPress is a great resume builder both in terms of the platform as well as putting on your resume that you have experience with it, so let's dig in and check it out in <a href="https://reclaimhosting.com/">ReclaimHosting</a>
-
-
-
-
-
- once more!</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/topics/wordpress</guid>
-      <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
-    </item>
-    <item>
       <title>Mid-term review</title>
       <link>/mid-term-review</link>
       <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
+          <![CDATA[ <multiple-choice title="CMS Question 1" check-label="Check answer" reset-label="Reset" question="Order these CMSs by complexity from MOST complex to LEAST complex" correct-text="Nailed it" incorrect-text="Think about your using the three, which had the least concepts to recall, which the most" schema-resource-id="#da798bdd-6626-78dd-0b98" accent-color="grey" resource="#da798bdd-6626-78dd-0b98" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " typeof="oer:Assessment" answers="[{&quot;correct&quot;:true,&quot;label&quot;:&quot;Drupal, WordPress, Grav&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;Grav, Drupal, WordPress&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;Wordpress, Grav, Drupal&quot;},{&quot;correct&quot;:false,&quot;label&quot;:&quot;All equally difficult&quot;,&quot;userGuess&quot;:false}]"></multiple-choice>
+ ]]>
       </description>
       <category></category>
       <guid>/mid-term-review</guid>
@@ -944,6 +945,58 @@ to frame your writing and video response:
       <pubDate>Wed, 18 Sep 2019 14:38:01 -0400</pubDate>
     </item>
     <item>
+      <title>Lab 3 - HTML / CSS / JS Web basics</title>
+      <link>/labs/html-css-js-web-basics</link>
+      <description>
+          <![CDATA[ <h3 class="hax-active">September 11th, 2019</h3>
+<p>For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in the future so we'll keep the JS brief for this one.</p>
+<p><a href="https://codepen.io/btopro/pen/zYOWqKZ">Exercise Pen</a>
+
+: <span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text);">Fork this Pen and we can follow along together in class.</span></p>
+<h2>Lab Pen</h2>
+<p>For this lab, I want you to modify <b>one of these</b>
+
+ <b>pens</b>
+
+ in order to make the resume reflect your own information. There's a <i>beginner Pen</i>
+
+ and a more <i>advanced pen</i>
+
+.</p>
+<p><a href="https://codepen.io/btopro/pen/GRKQVBx?editors=1000">Beginner Pen</a>
+
+: Personal Resume which contains hints and directions inside</p>
+<p><a href="https://codepen.io/btopro/pen/GRKxKgX?editors=1000">Advanced Pen</a>
+
+: no instructions and a slightly more advanced design. Use this to challenge yourself or if you've previously written HTML to make something more useful.</p>
+<h3 class="hax-active">Reflection Pen</h3>
+<p><a href="https://codepen.io/btopro/pen/KKPozvd">FORK THIS PEN</a>
+
+: For reflection this week I want you to fork this pen and write your response using HTML. For the topic this week pick one of the following:</p>
+<ul><li>Explaining how to apply styling to an element in <b>CSS</b>
+
+</li>
+
+<li>Explain how to use JavaScript and <b>getElementById</b>
+
+ to add a <i>click event to</i>
+
+ an element in an existing codepen that generates an alert saying <b>Hello</b>
+
+</li>
+
+<li><i>Value of CodePen as a platform</i>
+
+ to learn coding by finding an inspiring pen and explain what's going on.</li>
+
+</ul>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/labs/html-css-js-web-basics</guid>
+      <pubDate>Mon, 09 Sep 2019 16:53:00 -0400</pubDate>
+    </item>
+    <item>
       <title>HTML / CSS / JS Web basics</title>
       <link>/topics/html-css-js-web-basics</link>
       <description>
@@ -998,58 +1051,6 @@ to frame your writing and video response:
       </description>
       <category></category>
       <guid>/topics/html-css-js-web-basics</guid>
-      <pubDate>Mon, 09 Sep 2019 16:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Lab 3 - HTML / CSS / JS Web basics</title>
-      <link>/labs/html-css-js-web-basics</link>
-      <description>
-          <![CDATA[ <h3 class="hax-active">September 11th, 2019</h3>
-<p>For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in the future so we'll keep the JS brief for this one.</p>
-<p><a href="https://codepen.io/btopro/pen/zYOWqKZ">Exercise Pen</a>
-
-: <span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text);">Fork this Pen and we can follow along together in class.</span></p>
-<h2>Lab Pen</h2>
-<p>For this lab, I want you to modify <b>one of these</b>
-
- <b>pens</b>
-
- in order to make the resume reflect your own information. There's a <i>beginner Pen</i>
-
- and a more <i>advanced pen</i>
-
-.</p>
-<p><a href="https://codepen.io/btopro/pen/GRKQVBx?editors=1000">Beginner Pen</a>
-
-: Personal Resume which contains hints and directions inside</p>
-<p><a href="https://codepen.io/btopro/pen/GRKxKgX?editors=1000">Advanced Pen</a>
-
-: no instructions and a slightly more advanced design. Use this to challenge yourself or if you've previously written HTML to make something more useful.</p>
-<h3 class="hax-active">Reflection Pen</h3>
-<p><a href="https://codepen.io/btopro/pen/KKPozvd">FORK THIS PEN</a>
-
-: For reflection this week I want you to fork this pen and write your response using HTML. For the topic this week pick one of the following:</p>
-<ul><li>Explaining how to apply styling to an element in <b>CSS</b>
-
-</li>
-
-<li>Explain how to use JavaScript and <b>getElementById</b>
-
- to add a <i>click event to</i>
-
- an element in an existing codepen that generates an alert saying <b>Hello</b>
-
-</li>
-
-<li><i>Value of CodePen as a platform</i>
-
- to learn coding by finding an inspiring pen and explain what's going on.</li>
-
-</ul>
- ]]>
-      </description>
-      <category></category>
-      <guid>/labs/html-css-js-web-basics</guid>
       <pubDate>Mon, 09 Sep 2019 16:53:00 -0400</pubDate>
     </item>
     <item>
@@ -1718,6 +1719,20 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
       <pubDate>Sat, 24 Aug 2019 15:13:10 -0400</pubDate>
     </item>
     <item>
+      <title>Labs</title>
+      <link>/labs</link>
+      <description>
+          <![CDATA[ <p>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.</p>
+<p><b>Remember that after each lab you have to do a concise overview of the topic in the form of a blog post and a YouTube explainer video, then submit it to Slack for review.</b>
+</p>
+<p>We'll start out class the following week reviewing some videos and posts created by the class to point out what worked well and what could have been done better in presenting the previous topic.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/labs</guid>
+      <pubDate>Fri, 23 Aug 2019 09:52:38 -0400</pubDate>
+    </item>
+    <item>
       <title>Lab 1 - Building your digital identity</title>
       <link>/labs/building-your-digital-identity</link>
       <description>
@@ -2121,62 +2136,6 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
       <pubDate>Fri, 23 Aug 2019 09:52:38 -0400</pubDate>
     </item>
     <item>
-      <title>Labs</title>
-      <link>/labs</link>
-      <description>
-          <![CDATA[ <p>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.</p>
-<p><b>Remember that after each lab you have to do a concise overview of the topic in the form of a blog post and a YouTube explainer video, then submit it to Slack for review.</b>
-</p>
-<p>We'll start out class the following week reviewing some videos and posts created by the class to point out what worked well and what could have been done better in presenting the previous topic.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/labs</guid>
-      <pubDate>Fri, 23 Aug 2019 09:52:38 -0400</pubDate>
-    </item>
-    <item>
-      <title>Goals.. for you!</title>
-      <link>/goals-for-you-</link>
-      <description>
-          <![CDATA[ <p>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...</p>
-<ul><li>Learning not just what a technology is but...</li>
-
-<ul><li>Who's using it, what industries, what web services</li>
-
-<li>Getting hands on and implementing it small scale</li>
-
-<li>Being able to better communicate purpose and ideas around it</li>
-
-</ul>
-
-
-<li>Building a digital footprint of YOU, the IT worker / manager / developer / whatever your path, just that it's out there!</li>
-
-<ul><li>Creating a YouTube channel of explainer videos about the topics discussed in class</li>
-
-<li>Creating a Blog about these same topics</li>
-
-<li>Creating social coder accounts and connecting them all together (like Github, TravisCI, Stackblitz, CodePen, Glitch, IFTTT, etc)</li>
-
-</ul>
-
-<li>Learn about all levels of "the stack" in order to better empathize with those working in different levels of the stack from you (or people you'll one day manage)</li>
-
-<li>Have a website on the internet that you control and have a window into how all aspects of it function.</li>
-<li><i>Take hand written tests</i>
- and <i>use platforms and technologies that no employer on earth will care about</i>
- once you graduate</li>
-
-</ul>
-<p><span style="letter-spacing: -0.48px;">Ok.. maybe not that last one but the rest are legit.</span></p>
-<meme-maker alt="troll GIF" image-url="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" bottom-text="Ok, not that last one." imageurl="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" toptext="troll GIF" style="width: 75%;"></meme-maker>
- ]]>
-      </description>
-      <category></category>
-      <guid>/goals-for-you-</guid>
-      <pubDate>Wed, 21 Aug 2019 15:11:14 -0400</pubDate>
-    </item>
-    <item>
       <title>After class reflection</title>
       <link>/after-class-reflection</link>
       <description>
@@ -2223,6 +2182,48 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
       </description>
       <category></category>
       <guid>/after-class-reflection</guid>
+      <pubDate>Wed, 21 Aug 2019 15:11:14 -0400</pubDate>
+    </item>
+    <item>
+      <title>Goals.. for you!</title>
+      <link>/goals-for-you-</link>
+      <description>
+          <![CDATA[ <p>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...</p>
+<ul><li>Learning not just what a technology is but...</li>
+
+<ul><li>Who's using it, what industries, what web services</li>
+
+<li>Getting hands on and implementing it small scale</li>
+
+<li>Being able to better communicate purpose and ideas around it</li>
+
+</ul>
+
+
+<li>Building a digital footprint of YOU, the IT worker / manager / developer / whatever your path, just that it's out there!</li>
+
+<ul><li>Creating a YouTube channel of explainer videos about the topics discussed in class</li>
+
+<li>Creating a Blog about these same topics</li>
+
+<li>Creating social coder accounts and connecting them all together (like Github, TravisCI, Stackblitz, CodePen, Glitch, IFTTT, etc)</li>
+
+</ul>
+
+<li>Learn about all levels of "the stack" in order to better empathize with those working in different levels of the stack from you (or people you'll one day manage)</li>
+
+<li>Have a website on the internet that you control and have a window into how all aspects of it function.</li>
+<li><i>Take hand written tests</i>
+ and <i>use platforms and technologies that no employer on earth will care about</i>
+ once you graduate</li>
+
+</ul>
+<p><span style="letter-spacing: -0.48px;">Ok.. maybe not that last one but the rest are legit.</span></p>
+<meme-maker alt="troll GIF" image-url="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" bottom-text="Ok, not that last one." imageurl="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" toptext="troll GIF" style="width: 75%;"></meme-maker>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/goals-for-you-</guid>
       <pubDate>Wed, 21 Aug 2019 15:11:14 -0400</pubDate>
     </item>
     <item>
