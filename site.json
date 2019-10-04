@@ -915,7 +915,7 @@
             "description": "",
             "metadata": {
                 "created": 1569952972,
-                "updated": 1570148320,
+                "updated": 1570148529,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -930,12 +930,17 @@
                             "typeof": "oer:Assessment",
                             "resource": "#8476583b-77f4-6a75-8b03",
                             "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        },
+                        {
+                            "typeof": "oer:Assessment",
+                            "resource": "#123fe0ed-ba77-50ab-4953",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
                         }
                     ],
                     "tags": {
-                        "multiple-choice": 2
+                        "multiple-choice": 3
                     },
-                    "elements": 2
+                    "elements": 3
                 }
             }
         },
