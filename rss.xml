@@ -6,8 +6,28 @@
     <description>IST 402 course content space</description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Oct 2019 23:53:30 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2019 21:12:58 -0400</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lab 7 - Drupal</title>
+      <link>/labs/lab-7-drupal</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/labs/lab-7-drupal</guid>
+      <pubDate>Thu, 03 Oct 2019 20:07:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Drupal</title>
+      <link>/topics/drupal</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/topics/drupal</guid>
+      <pubDate>Thu, 03 Oct 2019 20:07:06 -0400</pubDate>
+    </item>
     <item>
       <title>Submitting the lab</title>
       <link>/labs/lab-6-wordpress/submitting-the-lab</link>
@@ -347,54 +367,6 @@ desire</span></li>
       <pubDate>Tue, 01 Oct 2019 19:40:19 -0400</pubDate>
     </item>
     <item>
-      <title>Mid-term review</title>
-      <link>/mid-term-review</link>
-      <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
-      </description>
-      <category></category>
-      <guid>/mid-term-review</guid>
-      <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
-    </item>
-    <item>
-      <title>WordPress</title>
-      <link>/topics/wordpress</link>
-      <description>
-          <![CDATA[ <p><a target="_blank" rel="noopener noreferrer" href="https://www.slideshare.net/btopro/classicpress-wordpress">Lecture slides from this week</a>
-
-
-</p>
-<p>This week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why it powers (estimates, numbers differ by source) 33% to as much as 50% of sites on the internet.</p>
-<p>These sites could be everything from the Whitehouse down to every individual blog / new acount on wordpress.com (SaaS solution version) which is why people take some of that number with a grain of salt.</p>
-<p>It's a great platform to start your own website on but it's run into some recent controversies which are worth exploring - namely the battle for the heart of the community around a text editor. It's weird to think about, but when a CMS lives and dies by the ease of content entry, you can understand why the <b>new core mandatory</b>
-
-
-
-
-
- text editor called<b> Gutenberg</b>
-
-
-
-
-
- would attract positive and negative attention.</p>
-<p>With plans to phase out the "Classic Editor" in 2020 many people in the community are at a cross-roads: Continue to trust the same core community that "took away" their beloved simple HTML editor, or forge a new path. We'll look briefly at the concept of community forks through the context of ClassicPress, a popular WordPress alternative that's gaining traction as the more community centric CMS.</p>
-<p>With parallels to Drupal and it's popular fork Backdrop (topic for next lab) we'll see that it's not always code that leads to inflection points in groups but the process by which that code is formed, agreed upon, and ultimately pushed into the main project everyone's aligned with.</p>
-<p>WordPress is a great resume builder both in terms of the platform as well as putting on your resume that you have experience with it, so let's dig in and check it out in <a href="https://reclaimhosting.com/">ReclaimHosting</a>
-
-
-
-
-
- once more!</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/topics/wordpress</guid>
-      <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
-    </item>
-    <item>
       <title>Lab 6 - WordPress</title>
       <link>/labs/lab-6-wordpress</link>
       <description>
@@ -446,6 +418,54 @@ desire</span></li>
       </description>
       <category></category>
       <guid>/labs/lab-6-wordpress</guid>
+      <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>WordPress</title>
+      <link>/topics/wordpress</link>
+      <description>
+          <![CDATA[ <p><a target="_blank" rel="noopener noreferrer" href="https://www.slideshare.net/btopro/classicpress-wordpress">Lecture slides from this week</a>
+
+
+</p>
+<p>This week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why it powers (estimates, numbers differ by source) 33% to as much as 50% of sites on the internet.</p>
+<p>These sites could be everything from the Whitehouse down to every individual blog / new acount on wordpress.com (SaaS solution version) which is why people take some of that number with a grain of salt.</p>
+<p>It's a great platform to start your own website on but it's run into some recent controversies which are worth exploring - namely the battle for the heart of the community around a text editor. It's weird to think about, but when a CMS lives and dies by the ease of content entry, you can understand why the <b>new core mandatory</b>
+
+
+
+
+
+ text editor called<b> Gutenberg</b>
+
+
+
+
+
+ would attract positive and negative attention.</p>
+<p>With plans to phase out the "Classic Editor" in 2020 many people in the community are at a cross-roads: Continue to trust the same core community that "took away" their beloved simple HTML editor, or forge a new path. We'll look briefly at the concept of community forks through the context of ClassicPress, a popular WordPress alternative that's gaining traction as the more community centric CMS.</p>
+<p>With parallels to Drupal and it's popular fork Backdrop (topic for next lab) we'll see that it's not always code that leads to inflection points in groups but the process by which that code is formed, agreed upon, and ultimately pushed into the main project everyone's aligned with.</p>
+<p>WordPress is a great resume builder both in terms of the platform as well as putting on your resume that you have experience with it, so let's dig in and check it out in <a href="https://reclaimhosting.com/">ReclaimHosting</a>
+
+
+
+
+
+ once more!</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/topics/wordpress</guid>
+      <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Mid-term review</title>
+      <link>/mid-term-review</link>
+      <description>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
+      </description>
+      <category></category>
+      <guid>/mid-term-review</guid>
       <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
     </item>
     <item>
@@ -660,6 +680,20 @@ of your </span><span style="font-variant-numeric: normal; font-variant-east-asia
       <category></category>
       <guid>/topics/gravcms</guid>
       <pubDate>Wed, 25 Sep 2019 11:00:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Webcomponents</title>
+      <link>/topics/webcomponents</link>
+      <description>
+          <![CDATA[ <p>Slides - <a href="https://www.slideshare.net/btopro/web-components-and-package-managers">Web components & Package managers</a>
+</p>
+<p>Web components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a sustainable, secure and accessible manner.</p>
+<p>This week is mostly in slide form as a result of the many talks that btopro gives on these topics. This course is built out of web components and increasingly everything from signs at fast food restaurants to websites you use ever day (like YouTube) will be built out of web components.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/topics/webcomponents</guid>
+      <pubDate>Wed, 18 Sep 2019 14:38:01 -0400</pubDate>
     </item>
     <item>
       <title>Lab 4 - Webcomponents</title>
@@ -907,20 +941,6 @@ to frame your writing and video response:
       </description>
       <category></category>
       <guid>/labs/webcomponents-1</guid>
-      <pubDate>Wed, 18 Sep 2019 14:38:01 -0400</pubDate>
-    </item>
-    <item>
-      <title>Webcomponents</title>
-      <link>/topics/webcomponents</link>
-      <description>
-          <![CDATA[ <p>Slides - <a href="https://www.slideshare.net/btopro/web-components-and-package-managers">Web components & Package managers</a>
-</p>
-<p>Web components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a sustainable, secure and accessible manner.</p>
-<p>This week is mostly in slide form as a result of the many talks that btopro gives on these topics. This course is built out of web components and increasingly everything from signs at fast food restaurants to websites you use ever day (like YouTube) will be built out of web components.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/topics/webcomponents</guid>
       <pubDate>Wed, 18 Sep 2019 14:38:01 -0400</pubDate>
     </item>
     <item>
@@ -1698,20 +1718,6 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
       <pubDate>Sat, 24 Aug 2019 15:13:10 -0400</pubDate>
     </item>
     <item>
-      <title>Labs</title>
-      <link>/labs</link>
-      <description>
-          <![CDATA[ <p>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.</p>
-<p><b>Remember that after each lab you have to do a concise overview of the topic in the form of a blog post and a YouTube explainer video, then submit it to Slack for review.</b>
-</p>
-<p>We'll start out class the following week reviewing some videos and posts created by the class to point out what worked well and what could have been done better in presenting the previous topic.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/labs</guid>
-      <pubDate>Fri, 23 Aug 2019 09:52:38 -0400</pubDate>
-    </item>
-    <item>
       <title>Lab 1 - Building your digital identity</title>
       <link>/labs/building-your-digital-identity</link>
       <description>
@@ -2115,6 +2121,20 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
       <pubDate>Fri, 23 Aug 2019 09:52:38 -0400</pubDate>
     </item>
     <item>
+      <title>Labs</title>
+      <link>/labs</link>
+      <description>
+          <![CDATA[ <p>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.</p>
+<p><b>Remember that after each lab you have to do a concise overview of the topic in the form of a blog post and a YouTube explainer video, then submit it to Slack for review.</b>
+</p>
+<p>We'll start out class the following week reviewing some videos and posts created by the class to point out what worked well and what could have been done better in presenting the previous topic.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/labs</guid>
+      <pubDate>Fri, 23 Aug 2019 09:52:38 -0400</pubDate>
+    </item>
+    <item>
       <title>Goals.. for you!</title>
       <link>/goals-for-you-</link>
       <description>
@@ -2287,46 +2307,6 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
       <category></category>
       <guid>/topics/building-your-digital-identity</guid>
       <pubDate>Thu, 15 Aug 2019 17:01:42 -0400</pubDate>
-    </item>
-    <item>
-      <title>Questions driven teaching</title>
-      <link>/question-driven-teaching</link>
-      <description>
-          <![CDATA[ <p>In all the technologies and skillsets we'll explore in this course, I want you to approach them with the same questions that I have explored in my career. These simple questions will help you decipher what's going to get you the furthest for the longest.</p>
-<p>Technological sustainability is not easy; both in remaining relevant by sustaining your own skills as well as the sustained use of any solution by anyone or their organization.</p>
-<p>What problem does this solve?</p>
-<p>Who built this?</p>
-<p>Where is this being used?</p>
-<p>How can I go about using it?</p>
-<p>Why do people use this over alternatives? (and what are the top 3 alternatives)</p>
-<p>With each problem / solution space we look at in this course we're going to look at it through the lens of these questions.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/question-driven-teaching</guid>
-      <pubDate>Thu, 15 Aug 2019 16:18:39 -0400</pubDate>
-    </item>
-    <item>
-      <title>Initial skills assessment</title>
-      <link>/technologies-we-explore</link>
-      <description>
-          <![CDATA[ <p>It's not as scary as that title.</p>
-<p>We'll be exploring lots of different technologies through labs. In order to give me a good sense of what everyone's past experience is with these technologies, please complete the very short anonymous skills survey.</p>
-<p>You aren't judged on this or graded, it's just to help me know how best to pace the course so that we can make the best use of our time together.</p>
-<html-block style="margin: 0px auto; display: block;">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScCtAPX3fj1TXdNMyb1UgL83tex0z54Ya8JEG0N4zrzV8afCA/viewform?embedded=true" width="100%" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-
-</html-block>
-<p><a href="https://forms.gle/BpRv39fV5jZFMLg77">Open the above survey in a new window</a>
-
-</p>
-<p>This is just to help me get a sense of things everyone has had past experience with so I know what to focus on in what order and in how much depth. These labs are designed to give you working knowledge of all of the things listed and to be able to have a conversation with managers, hiring groups, and developers about the tools IT organizations / start ups need to utilize on a daily basis.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/technologies-we-explore</guid>
-      <pubDate>Thu, 15 Aug 2019 16:17:19 -0400</pubDate>
     </item>
   </channel>
 </rss>
