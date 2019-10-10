@@ -9,9 +9,33 @@
   </author>
   <id>/feed</id>
   <entry>
+    <title>Lab 8 - HAXTheWeb</title>
+    <id>/labs/lab-8-haxtheweb</id>
+    <updated>2019-10-10T15:41:57-04:00</updated>
+    <published>2019-10-10T15:41:57-04:00</published>
+    <summary></summary>
+    <link href="/labs/lab-8-haxtheweb"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>HAXTheWeb</title>
+    <id>/topics/haxtheweb</id>
+    <updated>2019-10-10T15:41:56-04:00</updated>
+    <published>2019-10-10T15:41:56-04:00</published>
+    <summary></summary>
+    <link href="/topics/haxtheweb"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Lab 7 - Drupal</title>
     <id>/labs/lab-7-drupal</id>
-    <updated>2019-10-10T15:25:27-04:00</updated>
+    <updated>2019-10-10T15:41:57-04:00</updated>
     <published>2019-10-03T20:07:06-04:00</published>
     <summary>Data modelingThis is to be done in class with image posted here for reference but in case you miss the activity that generates it. Take 10-15 minutes and figure out the fields and relationships of t</summary>
     <link href="/labs/lab-7-drupal"/>
@@ -102,7 +126,7 @@
   <entry>
     <title>Drupal</title>
     <id>/topics/drupal</id>
-    <updated>2019-10-10T15:41:07-04:00</updated>
+    <updated>2019-10-10T15:41:56-04:00</updated>
     <published>2019-10-03T20:07:06-04:00</published>
     <summary>Slides for this topicDrupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll</summary>
     <link href="/topics/drupal"/>
@@ -119,7 +143,7 @@
   <entry>
     <title>Submitting the lab</title>
     <id>/labs/lab-6-wordpress/submitting-the-lab</id>
-    <updated>2019-10-03T20:07:06-04:00</updated>
+    <updated>2019-10-10T15:41:57-04:00</updated>
     <published>2019-10-01T20:43:14-04:00</published>
     <summary>Create your WordPresssite withthe scenario you want to cover and the solution you want to proposeRecord a video makingthe case either way basedon the scenario selected and solutionselectedP</summary>
     <link href="/labs/lab-6-wordpress/submitting-the-lab"/>
@@ -155,7 +179,7 @@ your </span><span style="font-variant-numeric: normal; font-variant-east-asian: 
   <entry>
     <title>Scenario 1</title>
     <id>/labs/lab-6-wordpress/scenario-1</id>
-    <updated>2019-10-03T20:07:06-04:00</updated>
+    <updated>2019-10-10T15:41:57-04:00</updated>
     <published>2019-10-01T19:40:19-04:00</published>
     <summary>LabScenario 1 – Soaps R Us ContextMom’n’Pop store “Soaps R Us” wants to sell their famous soap online. They need anattractive website with high SEOthat has a shopping cart and a s</summary>
     <link href="/labs/lab-6-wordpress/scenario-1"/>
@@ -297,7 +321,7 @@ complexity and learning curve</span></li>
   <entry>
     <title>Scenario 2</title>
     <id>/labs/lab-6-wordpress/scenario-2</id>
-    <updated>2019-10-03T20:07:06-04:00</updated>
+    <updated>2019-10-10T15:41:57-04:00</updated>
     <published>2019-10-01T19:40:19-04:00</published>
     <summary>Lab Scenario 2 - Scope to nowhereYouwon a contract from the Alaska state government to build a website to market:Alaska’s ”Bridgeto nowhere” (look it up)This site was originallybuilt in</summary>
     <link href="/labs/lab-6-wordpress/scenario-2"/>
@@ -461,9 +485,24 @@ desire</span></li>
     </content>
   </entry>
   <entry>
+    <title>Mid-term review</title>
+    <id>/mid-term-review</id>
+    <updated>2019-10-10T15:41:57-04:00</updated>
+    <published>2019-10-01T14:02:52-04:00</published>
+    <summary></summary>
+    <link href="/mid-term-review"/>
+    
+    <content type="html">
+      <![CDATA[ <multiple-choice title="CMS Question 1" check-label="Check answer" reset-label="Reset" question="Order these CMSs by complexity from MOST complex to LEAST complex" correct-text="Nailed it" incorrect-text="Think about your using the three, which had the least concepts to recall, which the most" schema-resource-id="#da798bdd-6626-78dd-0b98" accent-color="grey" resource="#da798bdd-6626-78dd-0b98" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " typeof="oer:Assessment" answers="[{&quot;correct&quot;:false,&quot;label&quot;:&quot;ClassicPress&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:true,&quot;label&quot;:&quot;Grav&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;Drupal&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;HAXcms&quot;,&quot;userGuess&quot;:false}]"></multiple-choice>
+<multiple-choice title="CMS Review 2" check-label="Check answer" reset-label="Reset" question="Which of these was started by a former founder of Joomla" correct-text="Nailed it" incorrect-text="Think about your using the three, which had the least concepts to recall, which the most" quiz-name="Default Quiz" schema-resource-id="#8476583b-77f4-6a75-8b03" accent-color="grey" resource="#8476583b-77f4-6a75-8b03" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " typeof="oer:Assessment" answers="[{&quot;correct&quot;:false,&quot;label&quot;:&quot;ClassicPress&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;TinyMCE&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;CKEditor&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:true,&quot;label&quot;:&quot;Gutenberg&quot;,&quot;userGuess&quot;:false}]"></multiple-choice>
+<multiple-choice title="CMS Review 3" check-label="Check answer" reset-label="Reset" question="What is the name of the controversial new block editor for WordPress" correct-text="Nailed it" incorrect-text="This should be an easy google" quiz-name="Default Quiz" randomize schema-resource-id="#123fe0ed-ba77-50ab-4953" accent-color="grey" resource="#123fe0ed-ba77-50ab-4953" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " typeof="oer:Assessment" answers="[{&quot;correct&quot;:false,&quot;label&quot;:&quot;CKEditor&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:true,&quot;label&quot;:&quot;Gutenberg&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;TinyMCE&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;ClassicPress&quot;,&quot;userGuess&quot;:false}]"></multiple-choice>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>ClassicPress / WordPress</title>
     <id>/topics/wordpress</id>
-    <updated>2019-10-10T15:38:59-04:00</updated>
+    <updated>2019-10-10T15:41:56-04:00</updated>
     <published>2019-10-01T14:02:52-04:00</published>
     <summary>Lecture slides from this weekThis week we&#39;ll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It&#39;s why </summary>
     <link href="/topics/wordpress"/>
@@ -486,7 +525,7 @@ desire</span></li>
   <entry>
     <title>Lab 6 - WordPress</title>
     <id>/labs/lab-6-wordpress</id>
-    <updated>2019-10-03T20:07:06-04:00</updated>
+    <updated>2019-10-10T15:41:57-04:00</updated>
     <published>2019-10-01T14:02:52-04:00</published>
     <summary>Lab ContextYou are the project manager that sold your team and CEO on using GravGrav is going great, but there are rumblings from some clients recently and team members used to WordPress are a</summary>
     <link href="/labs/lab-6-wordpress"/>
@@ -540,24 +579,9 @@ desire</span></li>
     </content>
   </entry>
   <entry>
-    <title>Mid-term review</title>
-    <id>/mid-term-review</id>
-    <updated>2019-10-03T20:22:09-04:00</updated>
-    <published>2019-10-01T14:02:52-04:00</published>
-    <summary></summary>
-    <link href="/mid-term-review"/>
-    
-    <content type="html">
-      <![CDATA[ <multiple-choice title="CMS Question 1" check-label="Check answer" reset-label="Reset" question="Order these CMSs by complexity from MOST complex to LEAST complex" correct-text="Nailed it" incorrect-text="Think about your using the three, which had the least concepts to recall, which the most" schema-resource-id="#da798bdd-6626-78dd-0b98" accent-color="grey" resource="#da798bdd-6626-78dd-0b98" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " typeof="oer:Assessment" answers="[{&quot;correct&quot;:false,&quot;label&quot;:&quot;ClassicPress&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:true,&quot;label&quot;:&quot;Grav&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;Drupal&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;HAXcms&quot;,&quot;userGuess&quot;:false}]"></multiple-choice>
-<multiple-choice title="CMS Review 2" check-label="Check answer" reset-label="Reset" question="Which of these was started by a former founder of Joomla" correct-text="Nailed it" incorrect-text="Think about your using the three, which had the least concepts to recall, which the most" quiz-name="Default Quiz" schema-resource-id="#8476583b-77f4-6a75-8b03" accent-color="grey" resource="#8476583b-77f4-6a75-8b03" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " typeof="oer:Assessment" answers="[{&quot;correct&quot;:false,&quot;label&quot;:&quot;ClassicPress&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;TinyMCE&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;CKEditor&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:true,&quot;label&quot;:&quot;Gutenberg&quot;,&quot;userGuess&quot;:false}]"></multiple-choice>
-<multiple-choice title="CMS Review 3" check-label="Check answer" reset-label="Reset" question="What is the name of the controversial new block editor for WordPress" correct-text="Nailed it" incorrect-text="This should be an easy google" quiz-name="Default Quiz" randomize schema-resource-id="#123fe0ed-ba77-50ab-4953" accent-color="grey" resource="#123fe0ed-ba77-50ab-4953" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " typeof="oer:Assessment" answers="[{&quot;correct&quot;:false,&quot;label&quot;:&quot;CKEditor&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:true,&quot;label&quot;:&quot;Gutenberg&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;TinyMCE&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;ClassicPress&quot;,&quot;userGuess&quot;:false}]"></multiple-choice>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Lab 5 - GravCMS</title>
     <id>/labs/lab-5-gravcms</id>
-    <updated>2019-10-03T20:07:06-04:00</updated>
+    <updated>2019-10-10T15:41:57-04:00</updated>
     <published>2019-09-25T11:00:10-04:00</published>
     <summary>Lab scenarioYouare a project manager in a design firmYour team is 1 developer, 1 sitebuilder, 1 designer and you report to theCEOYou think GravCMS might be a great way to deliver 10-</summary>
     <link href="/labs/lab-5-gravcms"/>
@@ -729,7 +753,7 @@ of your </span><span style="font-variant-numeric: normal; font-variant-east-asia
   <entry>
     <title>GravCMS</title>
     <id>/topics/gravcms</id>
-    <updated>2019-10-10T15:37:24-04:00</updated>
+    <updated>2019-10-10T15:41:56-04:00</updated>
     <published>2019-09-25T11:00:10-04:00</published>
     <summary>Slides about CPanel & GravCMS from classThis week kicks off Reclaim hosting and our Content Management System section of the course. We're going to be covering four different content management sys</summary>
     <link href="/topics/gravcms"/>
@@ -758,25 +782,9 @@ of your </span><span style="font-variant-numeric: normal; font-variant-east-asia
     </content>
   </entry>
   <entry>
-    <title>Webcomponents</title>
-    <id>/topics/webcomponents</id>
-    <updated>2019-10-03T20:07:06-04:00</updated>
-    <published>2019-09-18T14:38:01-04:00</published>
-    <summary>Slides - Web components & Package managersWeb components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a </summary>
-    <link href="/topics/webcomponents"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Slides - <a href="https://www.slideshare.net/btopro/web-components-and-package-managers">Web components & Package managers</a>
-</p>
-<p>Web components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a sustainable, secure and accessible manner.</p>
-<p>This week is mostly in slide form as a result of the many talks that btopro gives on these topics. This course is built out of web components and increasingly everything from signs at fast food restaurants to websites you use ever day (like YouTube) will be built out of web components.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Lab 4 - Webcomponents</title>
     <id>/labs/webcomponents-1</id>
-    <updated>2019-10-03T20:07:06-04:00</updated>
+    <updated>2019-10-10T15:41:57-04:00</updated>
     <published>2019-09-18T14:38:01-04:00</published>
     <summary>September 18th, 2019For this lab we're going to look at a few different services that are like codepen but allow for more advanced use-cases and development to support web components (and other front</summary>
     <link href="/labs/webcomponents-1"/>
@@ -1024,9 +1032,25 @@ to frame your writing and video response:
     </content>
   </entry>
   <entry>
+    <title>Webcomponents</title>
+    <id>/topics/webcomponents</id>
+    <updated>2019-10-10T15:41:56-04:00</updated>
+    <published>2019-09-18T14:38:01-04:00</published>
+    <summary>Slides - Web components & Package managersWeb components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a </summary>
+    <link href="/topics/webcomponents"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Slides - <a href="https://www.slideshare.net/btopro/web-components-and-package-managers">Web components & Package managers</a>
+</p>
+<p>Web components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a sustainable, secure and accessible manner.</p>
+<p>This week is mostly in slide form as a result of the many talks that btopro gives on these topics. This course is built out of web components and increasingly everything from signs at fast food restaurants to websites you use ever day (like YouTube) will be built out of web components.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Lab 3 - HTML / CSS / JS Web basics</title>
     <id>/labs/html-css-js-web-basics</id>
-    <updated>2019-10-03T20:07:06-04:00</updated>
+    <updated>2019-10-10T15:41:57-04:00</updated>
     <published>2019-09-09T16:53:00-04:00</published>
     <summary>September 11th, 2019For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in </summary>
     <link href="/labs/html-css-js-web-basics"/>
@@ -1080,7 +1104,7 @@ to frame your writing and video response:
   <entry>
     <title>HTML / CSS / JS Web basics</title>
     <id>/topics/html-css-js-web-basics</id>
-    <updated>2019-10-03T20:07:06-04:00</updated>
+    <updated>2019-10-10T15:41:56-04:00</updated>
     <published>2019-09-09T16:53:00-04:00</published>
     <summary>Lecture Slides for Topic 3Load up the link machine. Many of these are inside the lecture presentation (in context)ResourcesCodePen.io - Great playground (where we'll do the lab today)Can</summary>
     <link href="/topics/html-css-js-web-basics"/>
@@ -1139,7 +1163,7 @@ to frame your writing and video response:
   <entry>
     <title>Feedback</title>
     <id>/feedback</id>
-    <updated>2019-10-03T20:07:06-04:00</updated>
+    <updated>2019-10-10T15:41:57-04:00</updated>
     <published>2019-09-04T07:31:59-04:00</published>
     <summary>Lab 4Web components and "components" as in designed pieces of websites are different things (but related). Components could be like a product shown on the Walmart website. A Web component would be </summary>
     <link href="/feedback"/>
@@ -1459,7 +1483,7 @@ I did an <i>assignment once</i>
   <entry>
     <title>Materials</title>
     <id>/materials</id>
-    <updated>2019-10-03T20:07:06-04:00</updated>
+    <updated>2019-10-10T15:41:56-04:00</updated>
     <published>2019-08-26T15:00:15-04:00</published>
     <summary>There are no required course materials in the textbook form but there are digital services you'll need to purchase for one of our Labs which will have usage in multiple labs in the future. These servi</summary>
     <link href="/materials"/>
@@ -1497,7 +1521,7 @@ I did an <i>assignment once</i>
   <entry>
     <title>Screencasting</title>
     <id>/resources/screencasting</id>
-    <updated>2019-10-03T20:07:06-04:00</updated>
+    <updated>2019-10-10T15:41:57-04:00</updated>
     <published>2019-08-26T14:27:20-04:00</published>
     <summary>ChecklistBefore recording always make sure...You've got the links you want to view open in tabs in a browser windowYou've got headphones / some kind of microphone to record your voiceYou can use i</summary>
     <link href="/resources/screencasting"/>
@@ -1540,7 +1564,7 @@ I did an <i>assignment once</i>
   <entry>
     <title>Lab 2 - Git / Github / Contribution</title>
     <id>/labs/git</id>
-    <updated>2019-10-03T20:07:06-04:00</updated>
+    <updated>2019-10-10T15:41:56-04:00</updated>
     <published>2019-08-24T15:13:10-04:00</published>
     <summary>September 4th, 2019 - Lab 2We've talked about git for version control and explored Github a bit and how teams work together using the platform. Now let's dig in!Basic example / Getting startedCre</summary>
     <link href="/labs/git"/>
@@ -1812,7 +1836,7 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
   <entry>
     <title>Labs</title>
     <id>/labs</id>
-    <updated>2019-10-03T20:07:06-04:00</updated>
+    <updated>2019-10-10T15:41:56-04:00</updated>
     <published>2019-08-23T09:52:38-04:00</published>
     <summary>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.Remember t</summary>
     <link href="/labs"/>
@@ -1828,7 +1852,7 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
   <entry>
     <title>Lab 1 - Building your digital identity</title>
     <id>/labs/building-your-digital-identity</id>
-    <updated>2019-10-03T20:07:06-04:00</updated>
+    <updated>2019-10-10T15:41:56-04:00</updated>
     <published>2019-08-23T09:52:38-04:00</published>
     <summary>August 28th, 2019 - Lab 1 / first classThis is a warm up lab that will help set the stage for the platforms we'll use for the rest of the semester.Create a Slack account and join two slack channels</summary>
     <link href="/labs/building-your-digital-identity"/>
@@ -2231,9 +2255,53 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
     </content>
   </entry>
   <entry>
+    <title>Goals.. for you!</title>
+    <id>/goals-for-you-</id>
+    <updated>2019-10-10T15:41:56-04:00</updated>
+    <published>2019-08-21T15:11:14-04:00</published>
+    <summary>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...Learning not just what a technology is but...Who's using it, what </summary>
+    <link href="/goals-for-you-"/>
+    
+    <content type="html">
+      <![CDATA[ <p>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...</p>
+<ul><li>Learning not just what a technology is but...</li>
+
+<ul><li>Who's using it, what industries, what web services</li>
+
+<li>Getting hands on and implementing it small scale</li>
+
+<li>Being able to better communicate purpose and ideas around it</li>
+
+</ul>
+
+
+<li>Building a digital footprint of YOU, the IT worker / manager / developer / whatever your path, just that it's out there!</li>
+
+<ul><li>Creating a YouTube channel of explainer videos about the topics discussed in class</li>
+
+<li>Creating a Blog about these same topics</li>
+
+<li>Creating social coder accounts and connecting them all together (like Github, TravisCI, Stackblitz, CodePen, Glitch, IFTTT, etc)</li>
+
+</ul>
+
+<li>Learn about all levels of "the stack" in order to better empathize with those working in different levels of the stack from you (or people you'll one day manage)</li>
+
+<li>Have a website on the internet that you control and have a window into how all aspects of it function.</li>
+<li><i>Take hand written tests</i>
+ and <i>use platforms and technologies that no employer on earth will care about</i>
+ once you graduate</li>
+
+</ul>
+<p><span style="letter-spacing: -0.48px;">Ok.. maybe not that last one but the rest are legit.</span></p>
+<meme-maker alt="troll GIF" image-url="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" bottom-text="Ok, not that last one." imageurl="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" toptext="troll GIF" style="width: 75%;"></meme-maker>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>After class reflection</title>
     <id>/after-class-reflection</id>
-    <updated>2019-10-03T20:07:06-04:00</updated>
+    <updated>2019-10-10T15:41:56-04:00</updated>
     <published>2019-08-21T15:11:14-04:00</published>
     <summary>All assignments are setup as labs and you'll be starting into them at the end of class. Once finished with the lab, you'll demonstrate you've done the work by reflecting on it in the form of a written</summary>
     <link href="/after-class-reflection"/>
@@ -2282,53 +2350,9 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
     </content>
   </entry>
   <entry>
-    <title>Goals.. for you!</title>
-    <id>/goals-for-you-</id>
-    <updated>2019-10-03T20:07:06-04:00</updated>
-    <published>2019-08-21T15:11:14-04:00</published>
-    <summary>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...Learning not just what a technology is but...Who's using it, what </summary>
-    <link href="/goals-for-you-"/>
-    
-    <content type="html">
-      <![CDATA[ <p>My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...</p>
-<ul><li>Learning not just what a technology is but...</li>
-
-<ul><li>Who's using it, what industries, what web services</li>
-
-<li>Getting hands on and implementing it small scale</li>
-
-<li>Being able to better communicate purpose and ideas around it</li>
-
-</ul>
-
-
-<li>Building a digital footprint of YOU, the IT worker / manager / developer / whatever your path, just that it's out there!</li>
-
-<ul><li>Creating a YouTube channel of explainer videos about the topics discussed in class</li>
-
-<li>Creating a Blog about these same topics</li>
-
-<li>Creating social coder accounts and connecting them all together (like Github, TravisCI, Stackblitz, CodePen, Glitch, IFTTT, etc)</li>
-
-</ul>
-
-<li>Learn about all levels of "the stack" in order to better empathize with those working in different levels of the stack from you (or people you'll one day manage)</li>
-
-<li>Have a website on the internet that you control and have a window into how all aspects of it function.</li>
-<li><i>Take hand written tests</i>
- and <i>use platforms and technologies that no employer on earth will care about</i>
- once you graduate</li>
-
-</ul>
-<p><span style="letter-spacing: -0.48px;">Ok.. maybe not that last one but the rest are legit.</span></p>
-<meme-maker alt="troll GIF" image-url="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" bottom-text="Ok, not that last one." imageurl="https://media3.giphy.com/media/eVy46EWyclTIA/giphy.gif" toptext="troll GIF" style="width: 75%;"></meme-maker>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Class time together</title>
     <id>/class-time-together</id>
-    <updated>2019-10-03T20:07:06-04:00</updated>
+    <updated>2019-10-10T15:41:56-04:00</updated>
     <published>2019-08-21T15:04:55-04:00</published>
     <summary>We're going to strive for this general flow to each week of the semester. A few specific topics will deviate and we may have some guest speakers, but generally this is what class will look like togeth</summary>
     <link href="/class-time-together"/>
@@ -2348,69 +2372,6 @@ Then we'll review some of the responses at the start of the next class. <b>Scro
 <li>What ever you don't get done in class is to be completed after class but we'll always start on the work together in case there are issues.</li>
 
 </ul>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Project</title>
-    <id>/project</id>
-    <updated>2019-10-03T20:07:06-04:00</updated>
-    <published>2019-08-16T11:09:45-04:00</published>
-    <summary>The last week of the semester there will be a slightly longer lab that I'm calling a project. You'll have to put together a pitch for one of multiple problem spaces but it's a technical pitch. You'll </summary>
-    <link href="/project"/>
-    
-    <content type="html">
-      <![CDATA[ <p>The last week of the semester there will be a slightly longer lab that I'm calling a project. You'll have to put together a pitch for one of multiple problem spaces but it's a technical pitch. You'll be asked to use as many technologies we used in the course to express how you'll solution will utilize these technologies, while it still being in the form of a pitch.</p>
-<p>This will be explained more as we go into the course but it's effectively a double lab as far as points and time involved. There is no final exam so it's just a final project</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Building your digital identity</title>
-    <id>/topics/building-your-digital-identity</id>
-    <updated>2019-10-03T20:07:06-04:00</updated>
-    <published>2019-08-15T17:01:42-04:00</published>
-    <summary>Slides from the talk in classNo one knows who you are if you're not effectively communicating. I recall a colleague several years ago getting pissed that I was invited to speak some place. "It's li</summary>
-    <link href="/topics/building-your-digital-identity"/>
-    
-    <content type="html">
-      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/edtechjoker-ist-402-syllabus-day">Slides from the talk in class</a>
-
-</p>
-<p>No one knows who you are if you're not effectively communicating. I recall a colleague several years ago getting pissed that I was invited to speak some place. "It's like no one knows I exist or appreciates what I know". He was absolutely just as or more tallented than I was... what was the difference?</p>
-<ul><li>I've blogged openly about tech and life since 2008</li>
-
-
-
-<li>I've got hundreds of YouTube videos ranging from "Hey look at this thing" to "let's learn about..." to "We're going to burn down this space"</li>
-
-
-
-
-<li>I've got unified social media accounts that signal boost content from the other spaces</li>
-
-
-
-</ul>
-<p><span style="letter-spacing: -0.48px;">As a result of having a unified social media front and regular presence on blogs / YouTube, I've gotten to speak nationally on a regular basis the last ten years. <b>Every recorded association of a brand or event to you personally is another form of signal boosting.</b>
-
-
-
-</span></p>
-<h3 class="hax-active"><span style="letter-spacing: -0.48px;">Theory</span></h3>
-<p><span style="letter-spacing: -0.48px;">A theory I learned about in Grad school that stuck with me the most is called <a href="https://en.wikipedia.org/wiki/Actor%E2%80%93network_theory">Actor Network Theory</a>
-
-
-
- (ANT). ANT can be argued as to if it's actually a theory, but the <b>TLDR;</b>
-
-
-
- is that all things influence each other.</span></p>
-<a11y-gif-player src="https://media1.giphy.com/media/aVtdz7iNVPI1W/giphy.gif" src-without-animation="https://media2.giphy.com/media/aVtdz7iNVPI1W/480w_s.jpg" alt="full house animation of young daughter saying DUH and rolling eyes" schema-resource-id="#d7c9f858-a9be-b117-7795" resource="#d7c9f858-a9be-b117-7795" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 25%;"></a11y-gif-player>
-<p><span style="letter-spacing: -0.48px;">For information sciences though, it's saying that anything created influences anything else created. This is particularly potent in the digital space when we can create a logo, brand, business, website, identity, or platform seemingly out of thin air. If I post on YouTube, I'm not just broadcasting there and increasing my brand recognition in that space. It's aggregated to blogs, it shows up in Google and Bing search results. Its lifted for replication on Russian botnet sites.</span></p>
-<p><span style="letter-spacing: -0.48px;">All of this, amplifies your voice and reach far beyond you speaking in public (again, duh). But if you recognize this, you can also weaponize it to your advantage (or be a Russian troll bot online and corrupt other countries cultures, I mean tomatoe tomatto). Through intentionality, we can increase our profile as technology professionals and begin to build a portfolio that anyone can stumble on (or seek out intentionally) to increase their knowledge.</span></p>
-<p class="hax-active"></p>
  ]]>
     </content>
   </entry>
