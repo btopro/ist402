@@ -720,11 +720,11 @@
             "location": "pages\/topics\/wordpress\/index.html",
             "order": "5",
             "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
-            "title": "WordPress",
-            "description": "Lecture slides from this weekThis week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why ",
+            "title": "ClassicPress \/ WordPress",
+            "description": "Lecture slides from this weekThis week we&#39;ll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It&#39;s why ",
             "metadata": {
                 "created": 1569952972,
-                "updated": 1570736331,
+                "updated": 1570736339,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/headshot63573.249999994005.jpg",
