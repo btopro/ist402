@@ -833,7 +833,17 @@
                         "h2": 4
                     },
                     "elements": 12
-                }
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/Untitled Diagram (1).jpg",
+                        "fullUrl": "\/bto108\/sites\/ist402\/files\/Untitled Diagram (1).jpg",
+                        "url": "files\/Untitled Diagram (1).jpg",
+                        "type": "image\/jpeg",
+                        "name": "Untitled Diagram (1).jpg",
+                        "size": 32628
+                    }
+                ]
             }
         },
         {
