@@ -898,10 +898,26 @@
             "order": "7",
             "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
             "title": "HAXTheWeb",
-            "description": "",
+            "description": "Slides for this week (available when ready)This is the platform that's powering THIS website you are reading through for class currently. HAXTheWeb is a series of platforms and web components to tran",
             "metadata": {
                 "created": 1570736516,
-                "updated": 1570736516
+                "updated": 1570736743,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 2,
+                    "schema": [
+                        {
+                            "resource": "#99a7108b-ace6-357f-2049",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "p": 2,
+                        "video-player": 1
+                    },
+                    "elements": 3
+                }
             }
         },
         {
