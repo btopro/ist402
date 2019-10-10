@@ -6,13 +6,14 @@
     <description>IST 402 course content space</description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Oct 2019 20:07:06 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2019 15:41:57 -0400</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Lab 8 - HAXTheWeb</title>
       <link>/labs/lab-8-haxtheweb</link>
       <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
+          <![CDATA[ <p>We'll cover user experience and generating ways of improving the platform by creating issues about any confusion you've run into when using the platform. Open critique is the best way to improve.</p>
+ ]]>
       </description>
       <category></category>
       <guid>/labs/lab-8-haxtheweb</guid>
@@ -27,6 +28,21 @@
       <category></category>
       <guid>/topics/haxtheweb</guid>
       <pubDate>Thu, 10 Oct 2019 15:41:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>Drupal</title>
+      <link>/topics/drupal</link>
+      <description>
+          <![CDATA[ <p><a href="https://www.slideshare.net/btopro/drupal-180769121">Slides for this topic</a>
+</p>
+<p>Drupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll use Drupal to model those relationships in the website.</p>
+<p>We'll learn about Content Types and fields to model data. Then we'll use Views in order to visualize that data and work with content entry to make sense of it all.</p>
+<p>Drupal is daunting at first but once you learn the concepts and experience them they form a repeatable pattern of development and site building that leads you into a large community with lots of financial opportunities.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/topics/drupal</guid>
+      <pubDate>Thu, 03 Oct 2019 20:07:06 -0400</pubDate>
     </item>
     <item>
       <title>Lab 7 - Drupal</title>
@@ -115,21 +131,6 @@
       </description>
       <category></category>
       <guid>/labs/lab-7-drupal</guid>
-      <pubDate>Thu, 03 Oct 2019 20:07:06 -0400</pubDate>
-    </item>
-    <item>
-      <title>Drupal</title>
-      <link>/topics/drupal</link>
-      <description>
-          <![CDATA[ <p><a href="https://www.slideshare.net/btopro/drupal-180769121">Slides for this topic</a>
-</p>
-<p>Drupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll use Drupal to model those relationships in the website.</p>
-<p>We'll learn about Content Types and fields to model data. Then we'll use Views in order to visualize that data and work with content entry to make sense of it all.</p>
-<p>Drupal is daunting at first but once you learn the concepts and experience them they form a repeatable pattern of development and site building that leads you into a large community with lots of financial opportunities.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/topics/drupal</guid>
       <pubDate>Thu, 03 Oct 2019 20:07:06 -0400</pubDate>
     </item>
     <item>
@@ -471,19 +472,6 @@ desire</span></li>
       <pubDate>Tue, 01 Oct 2019 19:40:19 -0400</pubDate>
     </item>
     <item>
-      <title>Mid-term review</title>
-      <link>/mid-term-review</link>
-      <description>
-          <![CDATA[ <multiple-choice title="CMS Question 1" check-label="Check answer" reset-label="Reset" question="Order these CMSs by complexity from MOST complex to LEAST complex" correct-text="Nailed it" incorrect-text="Think about your using the three, which had the least concepts to recall, which the most" schema-resource-id="#da798bdd-6626-78dd-0b98" accent-color="grey" resource="#da798bdd-6626-78dd-0b98" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " typeof="oer:Assessment" answers="[{&quot;correct&quot;:false,&quot;label&quot;:&quot;ClassicPress&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:true,&quot;label&quot;:&quot;Grav&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;Drupal&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;HAXcms&quot;,&quot;userGuess&quot;:false}]"></multiple-choice>
-<multiple-choice title="CMS Review 2" check-label="Check answer" reset-label="Reset" question="Which of these was started by a former founder of Joomla" correct-text="Nailed it" incorrect-text="Think about your using the three, which had the least concepts to recall, which the most" quiz-name="Default Quiz" schema-resource-id="#8476583b-77f4-6a75-8b03" accent-color="grey" resource="#8476583b-77f4-6a75-8b03" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " typeof="oer:Assessment" answers="[{&quot;correct&quot;:false,&quot;label&quot;:&quot;ClassicPress&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;TinyMCE&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;CKEditor&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:true,&quot;label&quot;:&quot;Gutenberg&quot;,&quot;userGuess&quot;:false}]"></multiple-choice>
-<multiple-choice title="CMS Review 3" check-label="Check answer" reset-label="Reset" question="What is the name of the controversial new block editor for WordPress" correct-text="Nailed it" incorrect-text="This should be an easy google" quiz-name="Default Quiz" randomize schema-resource-id="#123fe0ed-ba77-50ab-4953" accent-color="grey" resource="#123fe0ed-ba77-50ab-4953" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " typeof="oer:Assessment" answers="[{&quot;correct&quot;:false,&quot;label&quot;:&quot;CKEditor&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:true,&quot;label&quot;:&quot;Gutenberg&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;TinyMCE&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;ClassicPress&quot;,&quot;userGuess&quot;:false}]"></multiple-choice>
- ]]>
-      </description>
-      <category></category>
-      <guid>/mid-term-review</guid>
-      <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
-    </item>
-    <item>
       <title>ClassicPress / WordPress</title>
       <link>/topics/wordpress</link>
       <description>
@@ -556,6 +544,19 @@ desire</span></li>
       </description>
       <category></category>
       <guid>/labs/lab-6-wordpress</guid>
+      <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Mid-term review</title>
+      <link>/mid-term-review</link>
+      <description>
+          <![CDATA[ <multiple-choice title="CMS Question 1" check-label="Check answer" reset-label="Reset" question="Order these CMSs by complexity from MOST complex to LEAST complex" correct-text="Nailed it" incorrect-text="Think about your using the three, which had the least concepts to recall, which the most" schema-resource-id="#da798bdd-6626-78dd-0b98" accent-color="grey" resource="#da798bdd-6626-78dd-0b98" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " typeof="oer:Assessment" answers="[{&quot;correct&quot;:false,&quot;label&quot;:&quot;ClassicPress&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:true,&quot;label&quot;:&quot;Grav&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;Drupal&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;HAXcms&quot;,&quot;userGuess&quot;:false}]"></multiple-choice>
+<multiple-choice title="CMS Review 2" check-label="Check answer" reset-label="Reset" question="Which of these was started by a former founder of Joomla" correct-text="Nailed it" incorrect-text="Think about your using the three, which had the least concepts to recall, which the most" quiz-name="Default Quiz" schema-resource-id="#8476583b-77f4-6a75-8b03" accent-color="grey" resource="#8476583b-77f4-6a75-8b03" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " typeof="oer:Assessment" answers="[{&quot;correct&quot;:false,&quot;label&quot;:&quot;ClassicPress&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;TinyMCE&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;CKEditor&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:true,&quot;label&quot;:&quot;Gutenberg&quot;,&quot;userGuess&quot;:false}]"></multiple-choice>
+<multiple-choice title="CMS Review 3" check-label="Check answer" reset-label="Reset" question="What is the name of the controversial new block editor for WordPress" correct-text="Nailed it" incorrect-text="This should be an easy google" quiz-name="Default Quiz" randomize schema-resource-id="#123fe0ed-ba77-50ab-4953" accent-color="grey" resource="#123fe0ed-ba77-50ab-4953" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " typeof="oer:Assessment" answers="[{&quot;correct&quot;:false,&quot;label&quot;:&quot;CKEditor&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:true,&quot;label&quot;:&quot;Gutenberg&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;TinyMCE&quot;,&quot;userGuess&quot;:false},{&quot;correct&quot;:false,&quot;label&quot;:&quot;ClassicPress&quot;,&quot;userGuess&quot;:false}]"></multiple-choice>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/mid-term-review</guid>
       <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
     </item>
     <item>
@@ -756,6 +757,20 @@ of your </span><span style="font-variant-numeric: normal; font-variant-east-asia
       <category></category>
       <guid>/topics/gravcms</guid>
       <pubDate>Wed, 25 Sep 2019 11:00:10 -0400</pubDate>
+    </item>
+    <item>
+      <title>Webcomponents</title>
+      <link>/topics/webcomponents</link>
+      <description>
+          <![CDATA[ <p>Slides - <a href="https://www.slideshare.net/btopro/web-components-and-package-managers">Web components & Package managers</a>
+</p>
+<p>Web components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a sustainable, secure and accessible manner.</p>
+<p>This week is mostly in slide form as a result of the many talks that btopro gives on these topics. This course is built out of web components and increasingly everything from signs at fast food restaurants to websites you use ever day (like YouTube) will be built out of web components.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/topics/webcomponents</guid>
+      <pubDate>Wed, 18 Sep 2019 14:38:01 -0400</pubDate>
     </item>
     <item>
       <title>Lab 4 - Webcomponents</title>
@@ -1003,20 +1018,6 @@ to frame your writing and video response:
       </description>
       <category></category>
       <guid>/labs/webcomponents-1</guid>
-      <pubDate>Wed, 18 Sep 2019 14:38:01 -0400</pubDate>
-    </item>
-    <item>
-      <title>Webcomponents</title>
-      <link>/topics/webcomponents</link>
-      <description>
-          <![CDATA[ <p>Slides - <a href="https://www.slideshare.net/btopro/web-components-and-package-managers">Web components & Package managers</a>
-</p>
-<p>Web components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a sustainable, secure and accessible manner.</p>
-<p>This week is mostly in slide form as a result of the many talks that btopro gives on these topics. This course is built out of web components and increasingly everything from signs at fast food restaurants to websites you use ever day (like YouTube) will be built out of web components.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/topics/webcomponents</guid>
       <pubDate>Wed, 18 Sep 2019 14:38:01 -0400</pubDate>
     </item>
     <item>
@@ -1794,20 +1795,6 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
       <pubDate>Sat, 24 Aug 2019 15:13:10 -0400</pubDate>
     </item>
     <item>
-      <title>Labs</title>
-      <link>/labs</link>
-      <description>
-          <![CDATA[ <p>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.</p>
-<p><b>Remember that after each lab you have to do a concise overview of the topic in the form of a blog post and a YouTube explainer video, then submit it to Slack for review.</b>
-</p>
-<p>We'll start out class the following week reviewing some videos and posts created by the class to point out what worked well and what could have been done better in presenting the previous topic.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/labs</guid>
-      <pubDate>Fri, 23 Aug 2019 09:52:38 -0400</pubDate>
-    </item>
-    <item>
       <title>Lab 1 - Building your digital identity</title>
       <link>/labs/building-your-digital-identity</link>
       <description>
@@ -2208,6 +2195,20 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
       </description>
       <category></category>
       <guid>/labs/building-your-digital-identity</guid>
+      <pubDate>Fri, 23 Aug 2019 09:52:38 -0400</pubDate>
+    </item>
+    <item>
+      <title>Labs</title>
+      <link>/labs</link>
+      <description>
+          <![CDATA[ <p>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.</p>
+<p><b>Remember that after each lab you have to do a concise overview of the topic in the form of a blog post and a YouTube explainer video, then submit it to Slack for review.</b>
+</p>
+<p>We'll start out class the following week reviewing some videos and posts created by the class to point out what worked well and what could have been done better in presenting the previous topic.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/labs</guid>
       <pubDate>Fri, 23 Aug 2019 09:52:38 -0400</pubDate>
     </item>
     <item>

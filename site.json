@@ -911,10 +911,20 @@
             "order": "7",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "Lab 8 - HAXTheWeb",
-            "description": "",
+            "description": "We'll cover user experience and generating ways of improving the platform by creating issues about any confusion you've run into when using the platform. Open critique is the best way to improve.",
             "metadata": {
                 "created": 1570736517,
-                "updated": 1570736517
+                "updated": 1570736587,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 1,
+                    "schema": [],
+                    "tags": {
+                        "p": 1
+                    },
+                    "elements": 1
+                }
             }
         },
         {
