@@ -102,13 +102,13 @@
   <entry>
     <title>Drupal</title>
     <id>/topics/drupal</id>
-    <updated>2019-10-04T14:52:07-04:00</updated>
+    <updated>2019-10-10T15:41:07-04:00</updated>
     <published>2019-10-03T20:07:06-04:00</published>
-    <summary>Slides for this week.Drupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll</summary>
+    <summary>Slides for this topicDrupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll</summary>
     <link href="/topics/drupal"/>
     
     <content type="html">
-      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/drupal-179170612">Slides for this week.</a>
+      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/drupal-180769121">Slides for this topic</a>
 </p>
 <p>Drupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll use Drupal to model those relationships in the website.</p>
 <p>We'll learn about Content Types and fields to model data. Then we'll use Views in order to visualize that data and work with content entry to make sense of it all.</p>

@@ -794,10 +794,10 @@
             "order": "6",
             "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
             "title": "Drupal",
-            "description": "Slides for this week.Drupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll",
+            "description": "Slides for this topicDrupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll",
             "metadata": {
                 "created": 1570147626,
-                "updated": 1570215127,
+                "updated": 1570736467,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
