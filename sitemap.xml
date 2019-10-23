@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- generator-class="Icamys\SitemapGenerator\SitemapGenerator" -->
 <!-- generator-version="1.1.0" -->
-<!-- generated-on="2019-10-23T14:38:05-04:00" -->
+<!-- generated-on="2019-10-23T14:38:35-04:00" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>/welcome</loc>
@@ -11,18 +11,6 @@
   </url>
   <url>
     <loc>/welcome/welcome/about-the-instructor</loc>
-    <lastmod>2019-10-23T14:38:04-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>/resources/screencasting</loc>
-    <lastmod>2019-10-23T14:38:05-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>/topics/building-your-digital-identity</loc>
     <lastmod>2019-10-23T14:38:04-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -38,6 +26,18 @@
     <lastmod>2019-10-23T14:38:05-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/topics/building-your-digital-identity</loc>
+    <lastmod>2019-10-23T14:38:04-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/resources/screencasting</loc>
+    <lastmod>2019-10-23T14:38:05-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>/syllabus</loc>
@@ -58,14 +58,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/topics/git</loc>
-    <lastmod>2019-10-23T14:38:04-04:00</lastmod>
+    <loc>/question-driven-teaching</loc>
+    <lastmod>2019-10-23T14:38:05-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/question-driven-teaching</loc>
-    <lastmod>2019-10-23T14:38:05-04:00</lastmod>
+    <loc>/topics/git</loc>
+    <lastmod>2019-10-23T14:38:04-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -112,6 +112,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>/labs/lab-5-gravcms</loc>
+    <lastmod>2019-10-23T14:38:04-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>/class-time-together</loc>
     <lastmod>2019-10-23T14:38:04-04:00</lastmod>
     <changefreq>daily</changefreq>
@@ -119,12 +125,6 @@
   </url>
   <url>
     <loc>/topics/gravcms</loc>
-    <lastmod>2019-10-23T14:38:04-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>/labs/lab-5-gravcms</loc>
     <lastmod>2019-10-23T14:38:04-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -166,10 +166,10 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>/topics</loc>
-    <lastmod>2019-10-23T14:38:04-04:00</lastmod>
+    <loc>/labs/lab-8-midterm-no-lab</loc>
+    <lastmod>2019-10-23T14:38:35-04:00</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>/topics/haxtheweb</loc>
@@ -178,16 +178,28 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/labs/labs/lab-10-haxtheweb</loc>
-    <lastmod>2019-10-23T14:38:05-04:00</lastmod>
+    <loc>/topics</loc>
+    <lastmod>2019-10-23T14:38:04-04:00</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>/labs</loc>
     <lastmod>2019-10-23T14:38:04-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>/labs/lab-9-drupal-again</loc>
+    <lastmod>2019-10-23T14:38:05-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/labs/labs/lab-10-haxtheweb</loc>
+    <lastmod>2019-10-23T14:38:05-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>/feedback</loc>
@@ -212,17 +224,5 @@
     <lastmod>2019-10-23T14:38:05-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>/labs/lab-8-midterm-no-lab</loc>
-    <lastmod>2019-10-23T14:38:05-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>/labs/lab-9-drupal-again</loc>
-    <lastmod>2019-10-23T14:38:05-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

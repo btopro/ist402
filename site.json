@@ -854,10 +854,20 @@
             "order": "7",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "Lab 8 - Midterm, no lab",
-            "description": "",
+            "description": "Midterm was during Lab 8 and as a result there was no lab, enjoy the week catching up on past labs as needed.",
             "metadata": {
                 "created": 1571855885,
-                "updated": 1571855885
+                "updated": 1571855915,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 1,
+                    "schema": [],
+                    "tags": {
+                        "p": 1
+                    },
+                    "elements": 1
+                }
             }
         },
         {
