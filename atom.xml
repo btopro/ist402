@@ -9,12 +9,12 @@
   </author>
   <id>/feed</id>
   <entry>
-    <title>Lab 8 - HAXTheWeb</title>
-    <id>/labs/lab-8-haxtheweb</id>
-    <updated>2019-10-10T15:43:07-04:00</updated>
+    <title>Lab 10 - HAXTheWeb</title>
+    <id>/labs/labs/lab-10-haxtheweb</id>
+    <updated>2019-10-23T14:37:21-04:00</updated>
     <published>2019-10-10T15:41:57-04:00</published>
-    <summary>We'll cover user experience and generating ways of improving the platform by creating issues about any confusion you've run into when using the platform. Open critique is the best way to improve.</summary>
-    <link href="/labs/lab-8-haxtheweb"/>
+    <summary>We&#39;ll cover user experience and generating ways of improving the platform by creating issues about any confusion you&#39;ve run into when using the platform. Open critique is the best way to improve.</summary>
+    <link href="/labs/labs/lab-10-haxtheweb"/>
     
     <content type="html">
       <![CDATA[ <p>We'll cover user experience and generating ways of improving the platform by creating issues about any confusion you've run into when using the platform. Open critique is the best way to improve.</p>

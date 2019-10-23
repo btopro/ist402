@@ -923,14 +923,14 @@
         {
             "id": "item-bb57bf1a-e1eb-4625-b3d8-b565f45f461b",
             "indent": "1",
-            "location": "pages\/labs\/lab-8-haxtheweb\/index.html",
+            "location": "pages\/labs\/labs\/lab-10-haxtheweb\/index.html",
             "order": "7",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
-            "title": "Lab 8 - HAXTheWeb",
-            "description": "We'll cover user experience and generating ways of improving the platform by creating issues about any confusion you've run into when using the platform. Open critique is the best way to improve.",
+            "title": "Lab 10 - HAXTheWeb",
+            "description": "We&#39;ll cover user experience and generating ways of improving the platform by creating issues about any confusion you&#39;ve run into when using the platform. Open critique is the best way to improve.",
             "metadata": {
                 "created": 1570736517,
-                "updated": 1570736587,
+                "updated": 1571855841,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
