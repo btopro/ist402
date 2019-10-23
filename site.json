@@ -973,10 +973,22 @@
             "order": "8",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "Lab 9 - Drupal again",
-            "description": "",
+            "description": "Drupal was both challenging and many wanted to learn more. As it's a much more complex system then the other CMSs we're covering, we're going to dedicate an additional class period JUST to doing more ",
             "metadata": {
                 "created": 1571855885,
-                "updated": 1571855885
+                "updated": 1571859437,
+                "readtime": 4,
+                "contentDetails": {
+                    "headings": 5,
+                    "paragraphs": 18,
+                    "schema": [],
+                    "tags": {
+                        "p": 18,
+                        "h2": 5,
+                        "ul": 1
+                    },
+                    "elements": 24
+                }
             }
         },
         {

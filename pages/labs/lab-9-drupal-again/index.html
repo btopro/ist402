@@ -1,1 +1,58 @@
-<p>Ex uno Plures</p>
+<p>Drupal was both challenging and many wanted to learn more. As it's a much more complex system then the other CMSs we're covering, we're going to dedicate an additional class period JUST to doing more with Drupal.</p>
+<p>For this lab we're going for technique and comprehension of what's happening with Drupal and in a use-case that's treating our website like an API.</p>
+<p>We're going to build on the last lab where we started making a course schedule. Let's imagine that we're building a course scheduling system that is actually usable by humans (stretching your imagination, I know but stick with me, it's possible).</p>
+<h2>Lab Context <span style="font-family: var(--haxcms-base-styles-body-font-family, &quot;Noto Serif&quot;, serif); letter-spacing: var(--haxcms-base-styles-body-letter-spacing, 0.5px);">(purely hypothetical, NEVER happened before)</span></h2>
+<p>In an alternative universe, you are the <b>site builder</b>
+ that convinced the team <b>they COULD do</b>
+ projects with Drupal. Even though you work for a marketing firm, your CEO enjoys money and hears higher education clients have a lot of it. Now that they <b><i>know</i>
+ based on 1 week experience</b>
+ that you can pull off complex technical projects in the "market vertical" and respond to an RFP from a large land grant university to redo their course scheduling system called "PionLath".</p>
+<p>"PionLath" has been an utter UX disaster.<b> It doesn't model user roles </b>
+correctly of the organization and has poor permission support within those roles. It also doesn't allow for <b>web services and APIs</b>
+ to get data back out of it in new and meaningful ways. The university wants to get data out in a format that can be displayed on signage around the university but also just to ensure they aren't locked into the horrific UX patterns they currently experience with "PionLath".</p>
+<p>They are looking for a solution that is cost effective given the multiple-millions of dollars spent on "PionLath" and the relative dislike of it by uhh... everyone. (again, totally hypothetical, this really isn't a problem that's ever happened at a <b>large land grant institution</b>
+)</p>
+<p>You easily win the bid because you've got a fantastic proposal writer, a cool sounding company and use words in marketing like "leader" and "synergy" and now you're ready to dig your claws into..err... help empower this large land grant institution.</p>
+<h2>Synergistically doing more Leader'ing with Drupal</h2>
+<p>Here's what we need to do this week and will walk through together in class. We need to:</p>
+<ul><li>Create roles for Instructor, Parent, Student, Administrator</li>
+<li>Change permissions for Instructors to be able to create new courses</li>
+<li>Create an entity reference field between the course and the room and the instructor correctly</li>
+<li>Fix any relationship data between courses, rooms and instructors now that we have a "reference" field that can help us relate the data together!</li>
+<li>Add an image field to our <b>course</b>
+ to better market it</li>
+<li>Enable these modules: Update Manager, HTTP Basic Authentication, JSON:API, RESTful Web Services, Serialization</li>
+<li>Click "Install new Module" or go to the path <b>admin/modules/install</b>
+</li>
+<li>Install the <a href="https://www.drupal.org/project/cors">CORS module for Drupal</a>
+ - by copy and pasting this https://ftp.drupal.org/files/projects/cors-8.x-1.0.tar.gz</li>
+<li>Enable the CORS module</li>
+<li>Go to the CORS settings page (admin/config/services/cors) and make sure that it says the following value: *|*</li>
+</ul>
+<p><span style="font-size: var(--hax-base-styles-list-font-size, 24px); letter-spacing: var(--hax-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text); font-family: var(--haxcms-base-styles-body-font-family, &quot;Noto Serif&quot;, serif);">Your site will now work with Web services! Now let's dig in and test the info some:</span><br/></p>
+<h2><span style="font-size: var(--hax-base-styles-list-font-size, 24px); letter-spacing: var(--hax-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text); font-family: var(--haxcms-base-styles-body-font-family, &quot;Noto Serif&quot;, serif);">Get the tools to start digging into this and implementing the API</span></h2>
+<p><span>https://www.getpostman.com</a>
+</span><span><a href="https://www.getpostman.com/">/</a>
+ -</span><span>https://chrome.google.com/webstore/detail/json-formatter/</a>
+</span><span><a href="https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa">bcjindcccaagfpapjjmafapmmgkkhgoa</a>
+ - </span><span style="font-size: 18pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal;">JSON Formatter chrome plugin</span><br/></span></p>
+<p><span style="caret-color: var(--hax-color-text);"><span>https://codepen.io/btopro/pen/eYYvbZm?editors=1000 - Fork this pen</font>
+<br/></span></span></p>
+<h2><font face="Space Mono">Site deliverable</font>
+</h2>
+<p><font face="Space Mono">No writing this week, only technique.</font>
+</p>
+<p><font face="Space Mono">Add the roles in question above and enable the correct modules so that if I go to YOURSITENAME.COM/DRUPALWHATEVER/jsonapi that it shows me the correct output.</font>
+</p>
+<h2><span style="caret-color: var(--hax-color-text);"><span>Video based deliverable</font>
+</span></span></h2>
+<p><span style="caret-color: var(--hax-color-text);"><span>Do A video explaining how this little API example is working.</font>
+</span></span></p>
+<p><span style="caret-color: var(--hax-color-text);"><span>Do a video explaining the value of "headless" and API driven example using this and any articles you find as examples. Why are API driven applications better then monolithic designed systems?</font>
+</span></span></p>
+<p><font face="Space Mono">Do a video about CORS and the security implications of headless based development methods. What is CORS? Why is it important? When does it get triggered?</font>
+</p>
+<p><font face="Space Mono">Method of delivery</font>
+</p>
+<p><font face="Space Mono">Post in the #lab9-drupal-again channel with a link to your site for me to test. On the homepage of your site include a link / embed your video about the topic of the week</font>
+</p>
