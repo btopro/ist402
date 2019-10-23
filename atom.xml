@@ -11,7 +11,7 @@
   <entry>
     <title>Lab 9 - Drupal again</title>
     <id>/labs/lab-9-drupal-again</id>
-    <updated>2019-10-23T15:41:06-04:00</updated>
+    <updated>2019-10-23T15:41:33-04:00</updated>
     <published>2019-10-23T14:38:05-04:00</published>
     <summary>Drupal was both challenging and many wanted to learn more. As it's a much more complex system then the other CMSs we're covering, we're going to dedicate an additional class period JUST to doing more </summary>
     <link href="/labs/lab-9-drupal-again"/>
@@ -35,6 +35,7 @@ correctly of the organization and has poor permission support within those roles
 <h2>Synergistically doing more Leader'ing with Drupal</h2>
 <p>Here's what we need to do this week and will walk through together in class. We need to:</p>
 <ul><li>Create roles for Instructor, Parent, Student, Administrator</li>
+<li>Let's create a block on the homepage / manipulate the blocks to show the latest content block</li>
 <li>Change permissions for Instructors to be able to create new courses</li>
 <li>Create an entity reference field between the course and the room and the instructor correctly</li>
 <li>Fix any relationship data between courses, rooms and instructors now that we have a "reference" field that can help us relate the data together!</li>
