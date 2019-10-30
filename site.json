@@ -930,23 +930,17 @@
             "description": "This is a small working definition of wikipediaSo that writing is fluid in a format that lives forever",
             "metadata": {
                 "created": 1572470485,
-                "updated": 1572472434,
+                "updated": 1572472445,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
                     "paragraphs": 2,
-                    "schema": [
-                        {
-                            "resource": "#979acd44-efe7-d5bf-ebc4",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
+                    "schema": [],
                     "tags": {
                         "p": 2,
-                        "wikipedia-query": 1,
-                        "video-player": 1
+                        "wikipedia-query": 1
                     },
-                    "elements": 4
+                    "elements": 3
                 }
             }
         },

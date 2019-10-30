@@ -11,7 +11,7 @@
   <entry>
     <title>Accessibility</title>
     <id>/topics/accessibility-1</id>
-    <updated>2019-10-30T17:53:54-04:00</updated>
+    <updated>2019-10-30T17:54:05-04:00</updated>
     <published>2019-10-30T17:21:25-04:00</published>
     <summary>This is a small working definition of wikipediaSo that writing is fluid in a format that lives forever</summary>
     <link href="/topics/accessibility-1"/>
@@ -20,7 +20,6 @@
       <![CDATA[ <p>This is a small working definition of wikipedia</p>
 <p>So that writing is fluid in a format that lives forever</p>
 <wikipedia-query show-title="show-title" search="Drupal" render-as="content" style="width: 100%;" search-response="[object Object]"></wikipedia-query>
-<video-player iframed="iframed" is-a11y-media="is-a11y-media" is-youtube="is-youtube" lang="en" preload="metadata" source="https://youtu.be/eyrPiSdkzsQ" source-type="youtube" sticky-corner="top-right" youtube-id="eyrPiSdkzsQ" schema-resource-id="#979acd44-efe7-d5bf-ebc4" resource="#979acd44-efe7-d5bf-ebc4" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " accent-color="grey" style="width: 50%;" sources="[]" tracks="[]"></video-player>
  ]]>
     </content>
   </entry>
