@@ -927,20 +927,19 @@
             "order": "8",
             "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
             "title": "Accessibility",
-            "description": "This is a small working definition of wikipediaSo that writing is fluid in a format that lives forever",
+            "description": "We'll have a guest speaker. WOOT!",
             "metadata": {
                 "created": 1572470485,
-                "updated": 1572472445,
+                "updated": 1572475402,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 2,
+                    "paragraphs": 1,
                     "schema": [],
                     "tags": {
-                        "p": 2,
-                        "wikipedia-query": 1
+                        "p": 1
                     },
-                    "elements": 3
+                    "elements": 1
                 }
             }
         },

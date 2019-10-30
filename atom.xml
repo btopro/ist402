@@ -11,15 +11,13 @@
   <entry>
     <title>Accessibility</title>
     <id>/topics/accessibility-1</id>
-    <updated>2019-10-30T17:54:05-04:00</updated>
+    <updated>2019-10-30T18:43:22-04:00</updated>
     <published>2019-10-30T17:21:25-04:00</published>
-    <summary>This is a small working definition of wikipediaSo that writing is fluid in a format that lives forever</summary>
+    <summary>We'll have a guest speaker. WOOT!</summary>
     <link href="/topics/accessibility-1"/>
     
     <content type="html">
-      <![CDATA[ <p>This is a small working definition of wikipedia</p>
-<p>So that writing is fluid in a format that lives forever</p>
-<wikipedia-query show-title="show-title" search="Drupal" render-as="content" style="width: 100%;" search-response="[object Object]"></wikipedia-query>
+      <![CDATA[ <p>We'll have a guest speaker. WOOT!</p>
  ]]>
     </content>
   </entry>
