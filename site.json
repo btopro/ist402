@@ -998,19 +998,22 @@
             "order": "9",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "Lab 10 - HAXTheWeb",
-            "description": "We&#39;ll cover user experience and generating ways of improving the platform by creating issues about any confusion you&#39;ve run into when using the platform. Open critique is the best way to improve.",
+            "description": "We'll cover user experience and generating ways of improving the platform by creating issues about any confusion you've run into when using the platform. Open critique is the best way to improve.In c",
             "metadata": {
                 "created": 1570736517,
-                "updated": 1571855885,
-                "readtime": 1,
+                "updated": 1572463520,
+                "readtime": 3,
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 1,
+                    "headings": 5,
+                    "paragraphs": 13,
                     "schema": [],
                     "tags": {
-                        "p": 1
+                        "p": 13,
+                        "h2": 4,
+                        "h3": 1,
+                        "ul": 2
                     },
-                    "elements": 1
+                    "elements": 20
                 }
             }
         },
