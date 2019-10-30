@@ -95,7 +95,7 @@ correctly of the organization and has poor permission support within those roles
   <entry>
     <title>Lab 10 - HAXTheWeb</title>
     <id>/labs/labs/lab-10-haxtheweb</id>
-    <updated>2019-10-30T15:25:20-04:00</updated>
+    <updated>2019-10-30T15:31:27-04:00</updated>
     <published>2019-10-10T15:41:57-04:00</published>
     <summary>We'll cover user experience and generating ways of improving the platform by creating issues about any confusion you've run into when using the platform. Open critique is the best way to improve.In c</summary>
     <link href="/labs/labs/lab-10-haxtheweb"/>
@@ -130,12 +130,14 @@ correctly of the organization and has poor permission support within those roles
 <h2>Video submission</h2>
 <p>Your video could be about any of the following in the HAX universe. The point is to generate content that is relevant in "selling" this new technology to a stakeholder group. Any of these are possible submissions</p>
 <ul><li><b>Sustainability</b>
- - that all content is in Web components and lives on beyond any one fad or system. Sell the CIO on the long term cost reduction associated with this platform.</li>
-<li><b>Portability</b>
+ - that all content is in Web components and lives on beyond any one fad or system. Sell a CIO on the long term cost reduction associated with this platform as well as the ability to be portable in migrating content between systems because its less platform locked.</li>
+<li><b>Multi-CMS</b>
  - HAX can be leveraged in Drupal, WordPress, GravCMS (you could even show how to install it in these..). Demonstrate HAX running in another platform and submit a video about your experience involved in that process. If it makes sense, if you couldn't get it working and what was confusing, are all valid and important outcomes.</li>
-<li><b>Experience</b>
- - Describe your frustrations in using HAX, what made sense immediately, what was difficult to figure out. What didn't work or what you ran into issues using.</li>
+<li><b>Your Experience</b>
+ - Describe your frustrations in using HAX and HAXcms. What made sense immediately? What took some time to figure out? What's something that worked really well? What's something that still doesn't make sense to you?</li>
 </ul>
+<p>
+What didn't work or what you ran into issues using the platform are critical to our team getting user feedback and improving.<br/></p>
 <h2>Submitting this Lab</h2>
 <p>Embed your YouTube video on the homepage of your HAXcms site.</p>
 <p>Submit a link to your HAXcms site to <b>#lab10-haxcms</b>
