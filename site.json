@@ -1001,19 +1001,20 @@
             "description": "We'll cover user experience and generating ways of improving the platform by creating issues about any confusion you've run into when using the platform. Open critique is the best way to improve.In c",
             "metadata": {
                 "created": 1570736517,
-                "updated": 1572463927,
-                "readtime": 3,
+                "updated": 1572464298,
+                "readtime": 4,
                 "contentDetails": {
-                    "headings": 5,
-                    "paragraphs": 14,
+                    "headings": 6,
+                    "paragraphs": 19,
                     "schema": [],
                     "tags": {
-                        "p": 14,
-                        "h2": 4,
+                        "p": 19,
+                        "h2": 5,
+                        "meme-maker": 2,
                         "h3": 1,
                         "ul": 2
                     },
-                    "elements": 21
+                    "elements": 29
                 }
             }
         },
