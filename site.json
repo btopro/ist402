@@ -337,7 +337,17 @@
             "description": "",
             "metadata": {
                 "created": 1572974832,
-                "updated": 1572974832
+                "updated": 1572974832,
+                "files": [
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/courselinks.csv",
+                        "fullUrl": "\/bto108\/sites\/ist402\/files\/courselinks.csv",
+                        "url": "files\/courselinks.csv",
+                        "type": "text\/plain",
+                        "name": "courselinks.csv",
+                        "size": 1410
+                    }
+                ]
             }
         },
         {
