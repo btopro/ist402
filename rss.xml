@@ -9,15 +9,14 @@
     <lastBuildDate>Wed, 30 Oct 2019 17:21:26 -0400</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Accessibility</title>
-      <link>/topics/accessibility-1</link>
+      <title>Past student work</title>
+      <link>/resources/past-student-work</link>
       <description>
-          <![CDATA[ <p>We'll have a guest speaker. WOOT!</p>
- ]]>
+          <![CDATA[ <p>Ex uno Plures</p> ]]>
       </description>
       <category></category>
-      <guid>/topics/accessibility-1</guid>
-      <pubDate>Wed, 30 Oct 2019 17:21:25 -0400</pubDate>
+      <guid>/resources/past-student-work</guid>
+      <pubDate>Tue, 05 Nov 2019 12:27:12 -0500</pubDate>
     </item>
     <item>
       <title>Lab 11 - Accessibility</title>
@@ -27,6 +26,17 @@
       </description>
       <category></category>
       <guid>/labs/lab-11-accessibility</guid>
+      <pubDate>Wed, 30 Oct 2019 17:21:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>Accessibility</title>
+      <link>/topics/accessibility-1</link>
+      <description>
+          <![CDATA[ <p>We'll have a guest speaker. WOOT!</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/topics/accessibility-1</guid>
       <pubDate>Wed, 30 Oct 2019 17:21:25 -0400</pubDate>
     </item>
     <item>
@@ -189,6 +199,21 @@ What didn't work or what you ran into issues using the platform are critical to 
       <pubDate>Thu, 10 Oct 2019 15:41:56 -0400</pubDate>
     </item>
     <item>
+      <title>Drupal</title>
+      <link>/topics/drupal</link>
+      <description>
+          <![CDATA[ <p><a href="https://www.slideshare.net/btopro/drupal-180769121">Slides for this topic</a>
+</p>
+<p>Drupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll use Drupal to model those relationships in the website.</p>
+<p>We'll learn about Content Types and fields to model data. Then we'll use Views in order to visualize that data and work with content entry to make sense of it all.</p>
+<p>Drupal is daunting at first but once you learn the concepts and experience them they form a repeatable pattern of development and site building that leads you into a large community with lots of financial opportunities.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/topics/drupal</guid>
+      <pubDate>Thu, 03 Oct 2019 20:07:06 -0400</pubDate>
+    </item>
+    <item>
       <title>Lab 7 - Drupal</title>
       <link>/labs/lab-7-drupal</link>
       <description>
@@ -275,21 +300,6 @@ What didn't work or what you ran into issues using the platform are critical to 
       </description>
       <category></category>
       <guid>/labs/lab-7-drupal</guid>
-      <pubDate>Thu, 03 Oct 2019 20:07:06 -0400</pubDate>
-    </item>
-    <item>
-      <title>Drupal</title>
-      <link>/topics/drupal</link>
-      <description>
-          <![CDATA[ <p><a href="https://www.slideshare.net/btopro/drupal-180769121">Slides for this topic</a>
-</p>
-<p>Drupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll use Drupal to model those relationships in the website.</p>
-<p>We'll learn about Content Types and fields to model data. Then we'll use Views in order to visualize that data and work with content entry to make sense of it all.</p>
-<p>Drupal is daunting at first but once you learn the concepts and experience them they form a repeatable pattern of development and site building that leads you into a large community with lots of financial opportunities.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/topics/drupal</guid>
       <pubDate>Thu, 03 Oct 2019 20:07:06 -0400</pubDate>
     </item>
     <item>
@@ -1953,20 +1963,6 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
       <category></category>
       <guid>/labs/git</guid>
       <pubDate>Sat, 24 Aug 2019 15:13:10 -0400</pubDate>
-    </item>
-    <item>
-      <title>Labs</title>
-      <link>/labs</link>
-      <description>
-          <![CDATA[ <p>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.</p>
-<p><b>Remember that after each lab you have to do a concise overview of the topic in the form of a blog post and a YouTube explainer video, then submit it to Slack for review.</b>
-</p>
-<p>We'll start out class the following week reviewing some videos and posts created by the class to point out what worked well and what could have been done better in presenting the previous topic.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/labs</guid>
-      <pubDate>Fri, 23 Aug 2019 09:52:38 -0400</pubDate>
     </item>
   </channel>
 </rss>

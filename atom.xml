@@ -9,9 +9,33 @@
   </author>
   <id>/feed</id>
   <entry>
+    <title>Past student work</title>
+    <id>/resources/past-student-work</id>
+    <updated>2019-11-05T12:27:12-05:00</updated>
+    <published>2019-11-05T12:27:12-05:00</published>
+    <summary></summary>
+    <link href="/resources/past-student-work"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Lab 11 - Accessibility</title>
+    <id>/labs/lab-11-accessibility</id>
+    <updated>2019-11-05T12:27:12-05:00</updated>
+    <published>2019-10-30T17:21:25-04:00</published>
+    <summary></summary>
+    <link href="/labs/lab-11-accessibility"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Ex uno Plures</p> ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Accessibility</title>
     <id>/topics/accessibility-1</id>
-    <updated>2019-10-30T18:43:22-04:00</updated>
+    <updated>2019-11-05T12:27:12-05:00</updated>
     <published>2019-10-30T17:21:25-04:00</published>
     <summary>We'll have a guest speaker. WOOT!</summary>
     <link href="/topics/accessibility-1"/>
@@ -22,21 +46,9 @@
     </content>
   </entry>
   <entry>
-    <title>Lab 11 - Accessibility</title>
-    <id>/labs/lab-11-accessibility</id>
-    <updated>2019-10-30T17:21:25-04:00</updated>
-    <published>2019-10-30T17:21:25-04:00</published>
-    <summary></summary>
-    <link href="/labs/lab-11-accessibility"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Lab 9 - Drupal again</title>
     <id>/labs/lab-9-drupal-again</id>
-    <updated>2019-10-30T17:21:25-04:00</updated>
+    <updated>2019-11-05T12:27:12-05:00</updated>
     <published>2019-10-23T14:38:05-04:00</published>
     <summary>Drupal was both challenging and many wanted to learn more. As it's a much more complex system then the other CMSs we're covering, we're going to dedicate an additional class period JUST to doing more </summary>
     <link href="/labs/lab-9-drupal-again"/>
@@ -107,7 +119,7 @@ correctly of the organization and has poor permission support within those roles
   <entry>
     <title>Lab 8 - Midterm, no lab</title>
     <id>/labs/lab-8-midterm-no-lab</id>
-    <updated>2019-10-30T17:21:25-04:00</updated>
+    <updated>2019-11-05T12:27:12-05:00</updated>
     <published>2019-10-23T14:38:05-04:00</published>
     <summary>Midterm was during Lab 8 and as a result there was no lab, enjoy the week catching up on past labs as needed.</summary>
     <link href="/labs/lab-8-midterm-no-lab"/>
@@ -120,7 +132,7 @@ correctly of the organization and has poor permission support within those roles
   <entry>
     <title>Lab 10 - HAXTheWeb</title>
     <id>/labs/labs/lab-10-haxtheweb</id>
-    <updated>2019-10-30T17:21:25-04:00</updated>
+    <updated>2019-11-05T12:27:12-05:00</updated>
     <published>2019-10-10T15:41:57-04:00</published>
     <summary>We'll cover user experience and generating ways of improving the platform by creating issues about any confusion you've run into when using the platform. Open critique is the best way to improve.In c</summary>
     <link href="/labs/labs/lab-10-haxtheweb"/>
@@ -187,7 +199,7 @@ What didn't work or what you ran into issues using the platform are critical to 
   <entry>
     <title>HAXTheWeb</title>
     <id>/topics/haxtheweb</id>
-    <updated>2019-10-30T17:21:25-04:00</updated>
+    <updated>2019-11-05T12:27:12-05:00</updated>
     <published>2019-10-10T15:41:56-04:00</published>
     <summary>Slides for this weekThis is the platform that's powering THIS website you are reading through for class currently. HAXTheWeb is a series of platforms and web components to transform web publishing. </summary>
     <link href="/topics/haxtheweb"/>
@@ -201,9 +213,26 @@ What didn't work or what you ran into issues using the platform are critical to 
     </content>
   </entry>
   <entry>
+    <title>Drupal</title>
+    <id>/topics/drupal</id>
+    <updated>2019-11-05T12:27:12-05:00</updated>
+    <published>2019-10-03T20:07:06-04:00</published>
+    <summary>Slides for this topicDrupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll</summary>
+    <link href="/topics/drupal"/>
+    
+    <content type="html">
+      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/drupal-180769121">Slides for this topic</a>
+</p>
+<p>Drupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll use Drupal to model those relationships in the website.</p>
+<p>We'll learn about Content Types and fields to model data. Then we'll use Views in order to visualize that data and work with content entry to make sense of it all.</p>
+<p>Drupal is daunting at first but once you learn the concepts and experience them they form a repeatable pattern of development and site building that leads you into a large community with lots of financial opportunities.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Lab 7 - Drupal</title>
     <id>/labs/lab-7-drupal</id>
-    <updated>2019-10-30T17:21:25-04:00</updated>
+    <updated>2019-11-05T12:27:12-05:00</updated>
     <published>2019-10-03T20:07:06-04:00</published>
     <summary>Data modelingThis is to be done in class with image posted here for reference but in case you miss the activity that generates it. Take 10-15 minutes and figure out the fields and relationships of t</summary>
     <link href="/labs/lab-7-drupal"/>
@@ -292,26 +321,9 @@ What didn't work or what you ran into issues using the platform are critical to 
     </content>
   </entry>
   <entry>
-    <title>Drupal</title>
-    <id>/topics/drupal</id>
-    <updated>2019-10-30T17:21:25-04:00</updated>
-    <published>2019-10-03T20:07:06-04:00</published>
-    <summary>Slides for this topicDrupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll</summary>
-    <link href="/topics/drupal"/>
-    
-    <content type="html">
-      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/drupal-180769121">Slides for this topic</a>
-</p>
-<p>Drupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll use Drupal to model those relationships in the website.</p>
-<p>We'll learn about Content Types and fields to model data. Then we'll use Views in order to visualize that data and work with content entry to make sense of it all.</p>
-<p>Drupal is daunting at first but once you learn the concepts and experience them they form a repeatable pattern of development and site building that leads you into a large community with lots of financial opportunities.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Submitting the lab</title>
     <id>/labs/lab-6-wordpress/submitting-the-lab</id>
-    <updated>2019-10-30T17:21:25-04:00</updated>
+    <updated>2019-11-05T12:27:12-05:00</updated>
     <published>2019-10-01T20:43:14-04:00</published>
     <summary>Create your WordPresssite withthe scenario you want to cover and the solution you want to proposeRecord a video makingthe case either way basedon the scenario selected and solutionselectedP</summary>
     <link href="/labs/lab-6-wordpress/submitting-the-lab"/>
@@ -347,7 +359,7 @@ your </span><span style="font-variant-numeric: normal; font-variant-east-asian: 
   <entry>
     <title>Scenario 1</title>
     <id>/labs/lab-6-wordpress/scenario-1</id>
-    <updated>2019-10-30T17:21:25-04:00</updated>
+    <updated>2019-11-05T12:27:12-05:00</updated>
     <published>2019-10-01T19:40:19-04:00</published>
     <summary>LabScenario 1 – Soaps R Us ContextMom’n’Pop store “Soaps R Us” wants to sell their famous soap online. They need anattractive website with high SEOthat has a shopping cart and a s</summary>
     <link href="/labs/lab-6-wordpress/scenario-1"/>
@@ -489,7 +501,7 @@ complexity and learning curve</span></li>
   <entry>
     <title>Scenario 2</title>
     <id>/labs/lab-6-wordpress/scenario-2</id>
-    <updated>2019-10-30T17:21:25-04:00</updated>
+    <updated>2019-11-05T12:27:12-05:00</updated>
     <published>2019-10-01T19:40:19-04:00</published>
     <summary>Lab Scenario 2 - Scope to nowhereYouwon a contract from the Alaska state government to build a website to market:Alaska’s ”Bridgeto nowhere” (look it up)This site was originallybuilt in</summary>
     <link href="/labs/lab-6-wordpress/scenario-2"/>
@@ -655,7 +667,7 @@ desire</span></li>
   <entry>
     <title>Mid-term review</title>
     <id>/mid-term-review</id>
-    <updated>2019-10-30T17:21:25-04:00</updated>
+    <updated>2019-11-05T12:27:12-05:00</updated>
     <published>2019-10-01T14:02:52-04:00</published>
     <summary>See slides from topic 7 on Drupal. There are several examples with answers in the front of the slide deck you can use to review the types of questions you'll be asked.This is an "open web" review. T</summary>
     <link href="/mid-term-review"/>
@@ -671,7 +683,7 @@ desire</span></li>
   <entry>
     <title>ClassicPress / WordPress</title>
     <id>/topics/wordpress</id>
-    <updated>2019-10-30T17:21:25-04:00</updated>
+    <updated>2019-11-05T12:27:12-05:00</updated>
     <published>2019-10-01T14:02:52-04:00</published>
     <summary>Lecture slides from this weekThis week we&#39;ll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It&#39;s why </summary>
     <link href="/topics/wordpress"/>
@@ -694,7 +706,7 @@ desire</span></li>
   <entry>
     <title>Lab 6 - WordPress</title>
     <id>/labs/lab-6-wordpress</id>
-    <updated>2019-10-30T17:21:25-04:00</updated>
+    <updated>2019-11-05T12:27:12-05:00</updated>
     <published>2019-10-01T14:02:52-04:00</published>
     <summary>Lab ContextYou are the project manager that sold your team and CEO on using GravGrav is going great, but there are rumblings from some clients recently and team members used to WordPress are a</summary>
     <link href="/labs/lab-6-wordpress"/>
@@ -750,7 +762,7 @@ desire</span></li>
   <entry>
     <title>GravCMS</title>
     <id>/topics/gravcms</id>
-    <updated>2019-10-30T17:21:25-04:00</updated>
+    <updated>2019-11-05T12:27:12-05:00</updated>
     <published>2019-09-25T11:00:10-04:00</published>
     <summary>Slides about CPanel & GravCMS from classThis week kicks off Reclaim hosting and our Content Management System section of the course. We're going to be covering four different content management sys</summary>
     <link href="/topics/gravcms"/>
@@ -781,7 +793,7 @@ desire</span></li>
   <entry>
     <title>Lab 5 - GravCMS</title>
     <id>/labs/lab-5-gravcms</id>
-    <updated>2019-10-30T17:21:25-04:00</updated>
+    <updated>2019-11-05T12:27:12-05:00</updated>
     <published>2019-09-25T11:00:10-04:00</published>
     <summary>Lab scenarioYouare a project manager in a design firmYour team is 1 developer, 1 sitebuilder, 1 designer and you report to theCEOYou think GravCMS might be a great way to deliver 10-</summary>
     <link href="/labs/lab-5-gravcms"/>
@@ -953,7 +965,7 @@ of your </span><span style="font-variant-numeric: normal; font-variant-east-asia
   <entry>
     <title>Lab 4 - Webcomponents</title>
     <id>/labs/webcomponents-1</id>
-    <updated>2019-10-30T17:21:25-04:00</updated>
+    <updated>2019-11-05T12:27:12-05:00</updated>
     <published>2019-09-18T14:38:01-04:00</published>
     <summary>September 18th, 2019For this lab we're going to look at a few different services that are like codepen but allow for more advanced use-cases and development to support web components (and other front</summary>
     <link href="/labs/webcomponents-1"/>
@@ -1203,7 +1215,7 @@ to frame your writing and video response:
   <entry>
     <title>Webcomponents</title>
     <id>/topics/webcomponents</id>
-    <updated>2019-10-30T17:21:25-04:00</updated>
+    <updated>2019-11-05T12:27:12-05:00</updated>
     <published>2019-09-18T14:38:01-04:00</published>
     <summary>Slides - Web components & Package managersWeb components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a </summary>
     <link href="/topics/webcomponents"/>
@@ -1219,7 +1231,7 @@ to frame your writing and video response:
   <entry>
     <title>Lab 3 - HTML / CSS / JS Web basics</title>
     <id>/labs/html-css-js-web-basics</id>
-    <updated>2019-10-30T17:21:25-04:00</updated>
+    <updated>2019-11-05T12:27:12-05:00</updated>
     <published>2019-09-09T16:53:00-04:00</published>
     <summary>September 11th, 2019For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in </summary>
     <link href="/labs/html-css-js-web-basics"/>
@@ -1273,7 +1285,7 @@ to frame your writing and video response:
   <entry>
     <title>HTML / CSS / JS Web basics</title>
     <id>/topics/html-css-js-web-basics</id>
-    <updated>2019-10-30T17:21:25-04:00</updated>
+    <updated>2019-11-05T12:27:12-05:00</updated>
     <published>2019-09-09T16:53:00-04:00</published>
     <summary>Lecture Slides for Topic 3Load up the link machine. Many of these are inside the lecture presentation (in context)ResourcesCodePen.io - Great playground (where we'll do the lab today)Can</summary>
     <link href="/topics/html-css-js-web-basics"/>
@@ -1332,7 +1344,7 @@ to frame your writing and video response:
   <entry>
     <title>Feedback</title>
     <id>/feedback</id>
-    <updated>2019-10-30T17:21:25-04:00</updated>
+    <updated>2019-11-05T12:27:12-05:00</updated>
     <published>2019-09-04T07:31:59-04:00</published>
     <summary>Lab 4Web components and "components" as in designed pieces of websites are different things (but related). Components could be like a product shown on the Walmart website. A Web component would be </summary>
     <link href="/feedback"/>
@@ -1652,7 +1664,7 @@ I did an <i>assignment once</i>
   <entry>
     <title>Materials</title>
     <id>/materials</id>
-    <updated>2019-10-30T17:21:25-04:00</updated>
+    <updated>2019-11-05T12:27:12-05:00</updated>
     <published>2019-08-26T15:00:15-04:00</published>
     <summary>There are no required course materials in the textbook form but there are digital services you'll need to purchase for one of our Labs which will have usage in multiple labs in the future. These servi</summary>
     <link href="/materials"/>
@@ -1690,7 +1702,7 @@ I did an <i>assignment once</i>
   <entry>
     <title>Screencasting</title>
     <id>/resources/screencasting</id>
-    <updated>2019-10-30T17:21:26-04:00</updated>
+    <updated>2019-11-05T12:27:12-05:00</updated>
     <published>2019-08-26T14:27:20-04:00</published>
     <summary>ChecklistBefore recording always make sure...You've got the links you want to view open in tabs in a browser windowYou've got headphones / some kind of microphone to record your voiceYou can use i</summary>
     <link href="/resources/screencasting"/>
@@ -1733,7 +1745,7 @@ I did an <i>assignment once</i>
   <entry>
     <title>Lab 2 - Git / Github / Contribution</title>
     <id>/labs/git</id>
-    <updated>2019-10-30T17:21:25-04:00</updated>
+    <updated>2019-11-05T12:27:12-05:00</updated>
     <published>2019-08-24T15:13:10-04:00</published>
     <summary>September 4th, 2019 - Lab 2We've talked about git for version control and explored Github a bit and how teams work together using the platform. Now let's dig in!Basic example / Getting startedCre</summary>
     <link href="/labs/git"/>
@@ -1999,22 +2011,6 @@ HAXcms minor documentation clean up -<a href="https://github.com/elmsln/HAXcms/i
 , post it into the <b>#</b>
 </span><span style="letter-spacing: -0.48px;"><b>lab-2-git-github</b>
 </span><span style="letter-spacing: -0.48px; font-size: var(--haxcms-base-styles-p-font-size, 24px); caret-color: var(--hax-color-text);"> channel in our ist-402 slack group.</span></p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Labs</title>
-    <id>/labs</id>
-    <updated>2019-10-30T17:21:25-04:00</updated>
-    <published>2019-08-23T09:52:38-04:00</published>
-    <summary>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.Remember t</summary>
-    <link href="/labs"/>
-    
-    <content type="html">
-      <![CDATA[ <p>We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.</p>
-<p><b>Remember that after each lab you have to do a concise overview of the topic in the form of a blog post and a YouTube explainer video, then submit it to Slack for review.</b>
-</p>
-<p>We'll start out class the following week reviewing some videos and posts created by the class to point out what worked well and what could have been done better in presenting the previous topic.</p>
  ]]>
     </content>
   </entry>

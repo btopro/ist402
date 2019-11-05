@@ -14,7 +14,7 @@
         "site": {
             "name": "ist402",
             "created": 1565898366,
-            "updated": 1572470486,
+            "updated": 1572974832,
             "git": {
                 "autoPush": false,
                 "branch": "master",
@@ -104,7 +104,7 @@
             "description": "IST 402: Emerging TechnologiesRepo backing this websiteMy name is Bryan Ollendyke, and welcome to IST 402: Emerging Tech!I'm excited to expose you to the ideas and technologies I wish I h",
             "metadata": {
                 "created": 1565898366,
-                "updated": 1572470485,
+                "updated": 1572974831,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/\/headshot.jpg",
@@ -140,7 +140,7 @@
             "description": "This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.My name is Bryan Ollendyke and I've been living workin",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1572470485,
+                "updated": 1572974831,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 0,
@@ -169,7 +169,7 @@
             "description": "August 28th, 2019 - Lab 1 \/ first classThis is a warm up lab that will help set the stage for the platforms we'll use for the rest of the semester.Create a Slack account and join two slack channels",
             "metadata": {
                 "created": 1566568358,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 1,
@@ -200,7 +200,7 @@
             "description": "LabScenario 1 \u2013 Soaps R Us ContextMom\u2019n\u2019Pop store \u201cSoaps R Us\u201d wants to sell their famous soap online. They need anattractive website with high SEOthat has a shopping cart and a s",
             "metadata": {
                 "created": 1569973219,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 3,
@@ -224,7 +224,7 @@
             "description": "Slides from the talk in classNo one knows who you are if you're not effectively communicating. I recall a colleague several years ago getting pissed that I was invited to speak some place. \"It's li",
             "metadata": {
                 "created": 1565902902,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 1,
@@ -255,7 +255,7 @@
             "description": "ChecklistBefore recording always make sure...You've got the links you want to view open in tabs in a browser windowYou've got headphones \/ some kind of microphone to record your voiceYou can use i",
             "metadata": {
                 "created": 1566844040,
-                "updated": 1572470486,
+                "updated": 1572974832,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 4,
@@ -271,6 +271,103 @@
             }
         },
         {
+            "id": "item-fcd19b21-b570-423b-a553-7275f64435e3",
+            "indent": "2",
+            "location": "pages\/labs\/lab-6-wordpress\/scenario-2\/index.html",
+            "order": "1",
+            "parent": "item-506faa66-813a-4726-8769-d1c5f521af27",
+            "title": "Scenario 2",
+            "description": "Lab Scenario 2 - Scope to nowhereYouwon a contract from the Alaska state government to build a website to market:Alaska\u2019s \u201dBridgeto nowhere\u201d (look it up)This site was originallybuilt in",
+            "metadata": {
+                "created": 1569973219,
+                "updated": 1572974832,
+                "readtime": 2,
+                "contentDetails": {
+                    "headings": 3,
+                    "paragraphs": 0,
+                    "schema": [],
+                    "tags": {
+                        "h2": 3,
+                        "ul": 3
+                    },
+                    "elements": 6
+                }
+            }
+        },
+        {
+            "id": "item-bbcf1985-2a65-43f7-bc26-17bd252a4960",
+            "indent": 0,
+            "location": "pages\/syllabus\/index.html",
+            "order": "1",
+            "parent": null,
+            "title": "Syllabus",
+            "description": "A standard syllabus is a contract between us.IST 402 Fall 2019 Syllabus (PDF)\u00a0\/ (Docx format)",
+            "metadata": {
+                "created": 1565898527,
+                "updated": 1572974831,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 2,
+                    "schema": [],
+                    "tags": {
+                        "p": 2
+                    },
+                    "elements": 2
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/IST402 - Ollendyke.pdf",
+                        "fullUrl": "\/bto108\/sites\/ist402\/files\/IST402 - Ollendyke.pdf",
+                        "url": "files\/IST402 - Ollendyke.pdf",
+                        "type": "application\/pdf",
+                        "name": "IST402 - Ollendyke.pdf",
+                        "size": 215502
+                    }
+                ]
+            }
+        },
+        {
+            "id": "item-471ed8e1-0c8b-4209-98bb-acbe77b8e797",
+            "indent": "1",
+            "location": "pages\/resources\/past-student-work\/index.html",
+            "order": "1",
+            "parent": "item-cabad7a7-8b29-4e70-8786-1c60e33a7b90",
+            "title": "Past student work",
+            "description": "",
+            "metadata": {
+                "created": 1572974832,
+                "updated": 1572974832
+            }
+        },
+        {
+            "id": "item-32a18c3d-2429-48b0-a0e3-ac09ec410bbd",
+            "indent": "1",
+            "location": "pages\/labs\/git\/index.html",
+            "order": "1",
+            "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
+            "title": "Lab 2 - Git \/ Github \/ Contribution",
+            "description": "September 4th, 2019 - Lab 2We've talked about git for version control and explored Github a bit and how teams work together using the platform. Now let's dig in!Basic example \/ Getting startedCre",
+            "metadata": {
+                "created": 1566673990,
+                "updated": 1572974832,
+                "readtime": 3,
+                "contentDetails": {
+                    "headings": 5,
+                    "paragraphs": 9,
+                    "schema": [],
+                    "tags": {
+                        "p": 9,
+                        "h2": 1,
+                        "h3": 4,
+                        "ol": 2,
+                        "ul": 1
+                    },
+                    "elements": 17
+                }
+            }
+        },
+        {
             "id": "item-d4ed1588-71f3-4318-a800-dd42ef27049d",
             "indent": "1",
             "location": "pages\/topics\/git\/index.html",
@@ -280,7 +377,7 @@
             "description": "Link to the slides from class.Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.Git provide",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/\/2019-08-24_15-21-52.png",
@@ -313,113 +410,6 @@
             }
         },
         {
-            "id": "item-e0732067-8550-48ce-a287-bf2beceb0e81",
-            "indent": "1",
-            "location": "pages\/question-driven-teaching\/index.html",
-            "order": "1",
-            "parent": "item-cabad7a7-8b29-4e70-8786-1c60e33a7b90",
-            "title": "Questions driven teaching",
-            "description": "In all the technologies and skillsets we'll explore in this course, I want you to approach them with the same questions that I have explored in my career. These simple questions will help you decipher",
-            "metadata": {
-                "created": 1565900319,
-                "updated": 1572470486,
-                "readtime": 1,
-                "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 8,
-                    "schema": [],
-                    "tags": {
-                        "p": 8
-                    },
-                    "elements": 8
-                }
-            }
-        },
-        {
-            "id": "item-32a18c3d-2429-48b0-a0e3-ac09ec410bbd",
-            "indent": "1",
-            "location": "pages\/labs\/git\/index.html",
-            "order": "1",
-            "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
-            "title": "Lab 2 - Git \/ Github \/ Contribution",
-            "description": "September 4th, 2019 - Lab 2We've talked about git for version control and explored Github a bit and how teams work together using the platform. Now let's dig in!Basic example \/ Getting startedCre",
-            "metadata": {
-                "created": 1566673990,
-                "updated": 1572470485,
-                "readtime": 3,
-                "contentDetails": {
-                    "headings": 5,
-                    "paragraphs": 9,
-                    "schema": [],
-                    "tags": {
-                        "p": 9,
-                        "h2": 1,
-                        "h3": 4,
-                        "ol": 2,
-                        "ul": 1
-                    },
-                    "elements": 17
-                }
-            }
-        },
-        {
-            "id": "item-fcd19b21-b570-423b-a553-7275f64435e3",
-            "indent": "2",
-            "location": "pages\/labs\/lab-6-wordpress\/scenario-2\/index.html",
-            "order": "1",
-            "parent": "item-506faa66-813a-4726-8769-d1c5f521af27",
-            "title": "Scenario 2",
-            "description": "Lab Scenario 2 - Scope to nowhereYouwon a contract from the Alaska state government to build a website to market:Alaska\u2019s \u201dBridgeto nowhere\u201d (look it up)This site was originallybuilt in",
-            "metadata": {
-                "created": 1569973219,
-                "updated": 1572470485,
-                "readtime": 2,
-                "contentDetails": {
-                    "headings": 3,
-                    "paragraphs": 0,
-                    "schema": [],
-                    "tags": {
-                        "h2": 3,
-                        "ul": 3
-                    },
-                    "elements": 6
-                }
-            }
-        },
-        {
-            "id": "item-bbcf1985-2a65-43f7-bc26-17bd252a4960",
-            "indent": 0,
-            "location": "pages\/syllabus\/index.html",
-            "order": "1",
-            "parent": null,
-            "title": "Syllabus",
-            "description": "A standard syllabus is a contract between us.IST 402 Fall 2019 Syllabus (PDF)\u00a0\/ (Docx format)",
-            "metadata": {
-                "created": 1565898527,
-                "updated": 1572470485,
-                "readtime": 1,
-                "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 2,
-                    "schema": [],
-                    "tags": {
-                        "p": 2
-                    },
-                    "elements": 2
-                },
-                "files": [
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/IST402 - Ollendyke.pdf",
-                        "fullUrl": "\/bto108\/sites\/ist402\/files\/IST402 - Ollendyke.pdf",
-                        "url": "files\/IST402 - Ollendyke.pdf",
-                        "type": "application\/pdf",
-                        "name": "IST402 - Ollendyke.pdf",
-                        "size": 215502
-                    }
-                ]
-            }
-        },
-        {
             "id": "item-fde4614a-bcc6-4cf4-ab72-2e76a42ad4f0",
             "indent": "1",
             "location": "pages\/topics\/html-css-js-web-basics\/index.html",
@@ -429,7 +419,7 @@
             "description": "Lecture Slides for Topic 3Load up the link machine. Many of these are inside the lecture presentation (in context)ResourcesCodePen.io - Great playground (where we'll do the lab today)Can",
             "metadata": {
                 "created": 1568062380,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 1,
@@ -454,7 +444,7 @@
             "description": "Create your WordPresssite withthe scenario you want to cover and the solution you want to proposeRecord a video makingthe case either way basedon the scenario selected and solutionselectedP",
             "metadata": {
                 "created": 1569976994,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -477,7 +467,7 @@
             "description": "September 11th, 2019For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML \/ CSS. JavaScript will come up again in ",
             "metadata": {
                 "created": 1568062380,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 3,
@@ -503,7 +493,7 @@
             "description": "There are no required course materials in the textbook form but there are digital services you'll need to purchase for one of our Labs which will have usage in multiple labs in the future. These servi",
             "metadata": {
                 "created": 1566846015,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 1,
@@ -518,6 +508,29 @@
             }
         },
         {
+            "id": "item-e0732067-8550-48ce-a287-bf2beceb0e81",
+            "indent": "1",
+            "location": "pages\/question-driven-teaching\/index.html",
+            "order": "2",
+            "parent": "item-cabad7a7-8b29-4e70-8786-1c60e33a7b90",
+            "title": "Questions driven teaching",
+            "description": "In all the technologies and skillsets we'll explore in this course, I want you to approach them with the same questions that I have explored in my career. These simple questions will help you decipher",
+            "metadata": {
+                "created": 1565900319,
+                "updated": 1572974832,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 8,
+                    "schema": [],
+                    "tags": {
+                        "p": 8
+                    },
+                    "elements": 8
+                }
+            }
+        },
+        {
             "id": "item-fdc66348-789e-478e-b0fd-d9ef3075c761",
             "indent": "1",
             "location": "pages\/topics\/webcomponents\/index.html",
@@ -527,7 +540,7 @@
             "description": "Slides - Web components & Package managersWeb components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a ",
             "metadata": {
                 "created": 1568831881,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -550,7 +563,7 @@
             "description": "My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically...Learning not just what a technology is but...Who's using it, what ",
             "metadata": {
                 "created": 1566414674,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -575,7 +588,7 @@
             "description": "September 18th, 2019For this lab we're going to look at a few different services that are like codepen but allow for more advanced use-cases and development to support web components (and other front",
             "metadata": {
                 "created": 1568831881,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 3,
@@ -592,25 +605,24 @@
             }
         },
         {
-            "id": "item-361be4ee-2219-44f8-8183-fc02d60f9fdd",
+            "id": "item-5dc2393a-00d8-41e5-be61-c74c99be841b",
             "indent": "1",
-            "location": "pages\/topics\/gravcms\/index.html",
+            "location": "pages\/labs\/lab-5-gravcms\/index.html",
             "order": "4",
-            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
-            "title": "GravCMS",
-            "description": "Slides about CPanel & GravCMS from classThis week kicks off Reclaim hosting and our Content Management System section of the course. We're going to be covering four different content management sys",
+            "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
+            "title": "Lab 5 - GravCMS",
+            "description": "Lab scenarioYouare a project manager in a design firmYour team is 1 developer, 1 sitebuilder,\u00a01 designer and you report to theCEOYou think GravCMS might be a great way\u00a0to deliver 10-",
             "metadata": {
                 "created": 1569423610,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 2,
                 "contentDetails": {
-                    "headings": 1,
-                    "paragraphs": 6,
+                    "headings": 4,
+                    "paragraphs": 0,
                     "schema": [],
                     "tags": {
-                        "p": 6,
-                        "h2": 1,
-                        "ul": 1
+                        "h2": 4,
+                        "ul": 4
                     },
                     "elements": 8
                 }
@@ -626,7 +638,7 @@
             "description": "We're going to strive for this general flow to each week of the semester. A few specific topics will deviate and we may have some guest speakers, but generally this is what class will look like togeth",
             "metadata": {
                 "created": 1566414295,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -641,24 +653,25 @@
             }
         },
         {
-            "id": "item-5dc2393a-00d8-41e5-be61-c74c99be841b",
+            "id": "item-361be4ee-2219-44f8-8183-fc02d60f9fdd",
             "indent": "1",
-            "location": "pages\/labs\/lab-5-gravcms\/index.html",
+            "location": "pages\/topics\/gravcms\/index.html",
             "order": "4",
-            "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
-            "title": "Lab 5 - GravCMS",
-            "description": "Lab scenarioYouare a project manager in a design firmYour team is 1 developer, 1 sitebuilder,\u00a01 designer and you report to theCEOYou think GravCMS might be a great way\u00a0to deliver 10-",
+            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
+            "title": "GravCMS",
+            "description": "Slides about CPanel & GravCMS from classThis week kicks off Reclaim hosting and our Content Management System section of the course. We're going to be covering four different content management sys",
             "metadata": {
                 "created": 1569423610,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 2,
                 "contentDetails": {
-                    "headings": 4,
-                    "paragraphs": 0,
+                    "headings": 1,
+                    "paragraphs": 6,
                     "schema": [],
                     "tags": {
-                        "h2": 4,
-                        "ul": 4
+                        "p": 6,
+                        "h2": 1,
+                        "ul": 1
                     },
                     "elements": 8
                 }
@@ -674,7 +687,7 @@
             "description": "All assignments are setup as labs and you'll be starting into them at the end of class. Once finished with the lab, you'll demonstrate you've done the work by reflecting on it in the form of a written",
             "metadata": {
                 "created": 1566414674,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 2,
@@ -699,7 +712,7 @@
             "description": "Lab ContextYou are the project manager that sold your team and CEO on using GravGrav is going great, but there are rumblings from some clients recently and team members used to WordPress are a",
             "metadata": {
                 "created": 1569952972,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 2,
@@ -724,7 +737,7 @@
             "description": "Lecture slides from this weekThis week we&#39;ll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It&#39;s why ",
             "metadata": {
                 "created": 1569952972,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/headshot63573.249999994005.jpg",
@@ -773,7 +786,7 @@
             "description": "Data modelingThis is to be done in class with image posted here for reference but in case you miss the activity that generates it.\u00a0Take 10-15 minutes and figure out the fields and relationships of t",
             "metadata": {
                 "created": 1570147626,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 3,
                 "contentDetails": {
                     "headings": 5,
@@ -801,29 +814,6 @@
             }
         },
         {
-            "id": "item-6fe80703-f0a3-41ac-b1fc-b378dbf8a384",
-            "indent": "1",
-            "location": "pages\/topics\/drupal\/index.html",
-            "order": "6",
-            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
-            "title": "Drupal",
-            "description": "Slides for this topicDrupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll",
-            "metadata": {
-                "created": 1570147626,
-                "updated": 1572470485,
-                "readtime": 1,
-                "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 4,
-                    "schema": [],
-                    "tags": {
-                        "p": 4
-                    },
-                    "elements": 4
-                }
-            }
-        },
-        {
             "id": "item-0e26f609-2f2a-41cb-a142-e222a7def3f7",
             "indent": 0,
             "location": "pages\/technologies-we-explore\/index.html",
@@ -833,7 +823,7 @@
             "description": "It's not as scary as that title.We'll be exploring lots of different technologies through labs. In order to give me a good sense of what everyone's past experience is with these technologies, please ",
             "metadata": {
                 "created": 1565900239,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -848,6 +838,29 @@
             }
         },
         {
+            "id": "item-6fe80703-f0a3-41ac-b1fc-b378dbf8a384",
+            "indent": "1",
+            "location": "pages\/topics\/drupal\/index.html",
+            "order": "6",
+            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
+            "title": "Drupal",
+            "description": "Slides for this topicDrupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll",
+            "metadata": {
+                "created": 1570147626,
+                "updated": 1572974832,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 4,
+                    "schema": [],
+                    "tags": {
+                        "p": 4
+                    },
+                    "elements": 4
+                }
+            }
+        },
+        {
             "id": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
             "indent": 0,
             "location": "pages\/topics\/index.html",
@@ -857,7 +870,7 @@
             "description": "ARE YOU READY!?Are you ready to hit power level 9000!? Then read through this lesson plan to be a super saiyan.Topic \/ semester outlineHere's the proposed topics I've come up with to start. We ma",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 7,
                 "contentDetails": {
                     "headings": 1,
@@ -901,7 +914,7 @@
             "description": "Slides for this weekThis is the platform that's powering THIS website you are reading through for class currently. HAXTheWeb is a series of platforms and web components to transform web publishing. ",
             "metadata": {
                 "created": 1570736516,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -930,7 +943,7 @@
             "description": "We'll have a guest speaker. WOOT!",
             "metadata": {
                 "created": 1572470485,
-                "updated": 1572475402,
+                "updated": 1572974832,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -953,7 +966,7 @@
             "description": "Midterm was during Lab 8 and as a result there was no lab, enjoy the week catching up on past labs as needed.",
             "metadata": {
                 "created": 1571855885,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -976,7 +989,7 @@
             "description": "We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.Remember t",
             "metadata": {
                 "created": 1566568358,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -999,7 +1012,7 @@
             "description": "Drupal was both challenging and many wanted to learn more. As it's a much more complex system then the other CMSs we're covering, we're going to dedicate an additional class period JUST to doing more ",
             "metadata": {
                 "created": 1571855885,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 4,
                 "contentDetails": {
                     "headings": 6,
@@ -1024,7 +1037,7 @@
             "description": "We'll cover user experience and generating ways of improving the platform by creating issues about any confusion you've run into when using the platform. Open critique is the best way to improve.In c",
             "metadata": {
                 "created": 1570736517,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 4,
                 "contentDetails": {
                     "headings": 6,
@@ -1051,7 +1064,7 @@
             "description": "",
             "metadata": {
                 "created": 1572470485,
-                "updated": 1572470485
+                "updated": 1572974832
             }
         },
         {
@@ -1064,7 +1077,7 @@
             "description": "Lab 4Web components and \"components\" as in designed pieces of websites are different things (but related). Components could be like a product shown on the Walmart website. A Web component would be ",
             "metadata": {
                 "created": 1567596719,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 3,
                 "contentDetails": {
                     "headings": 4,
@@ -1089,7 +1102,7 @@
             "description": "See slides from topic 7 on Drupal. There are several examples with answers in the front of the slide deck you can use to review the types of questions you'll be asked.This is an \"open web\" review. T",
             "metadata": {
                 "created": 1569952972,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -1112,7 +1125,7 @@
             "description": "The last week of the semester there will be a slightly longer lab that I'm calling a project. You'll have to put together a pitch for one of multiple problem spaces but it's a technical pitch. You'll ",
             "metadata": {
                 "created": 1565968185,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -1135,7 +1148,7 @@
             "description": "This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub \/ collaboration locationDigital Ocean - Easy to use server environmentHover \/ Google Domains",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1572470485,
+                "updated": 1572974832,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
