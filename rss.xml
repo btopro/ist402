@@ -12,7 +12,9 @@
       <title>Past student work</title>
       <link>/resources/past-student-work</link>
       <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
+          <![CDATA[ <p>Here are some examples of past student work to check out!</p>
+<lrn-table title="IST 402 Links to past topics" csv-file="files/courselinks.csv" description="For class we had to create our own HAxcms micro-sites and do video overviews talking about the experience with this advanced CMS technology." resource="#4f4f810b-b3fe-c40c-028c" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org "></lrn-table>
+ ]]>
       </description>
       <category></category>
       <guid>/resources/past-student-work</guid>

@@ -334,10 +334,10 @@
             "order": "1",
             "parent": "item-cabad7a7-8b29-4e70-8786-1c60e33a7b90",
             "title": "Past student work",
-            "description": "",
+            "description": "Here are some examples of past student work to check out!",
             "metadata": {
                 "created": 1572974832,
-                "updated": 1572974832,
+                "updated": 1572974944,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/courselinks.csv",
@@ -347,7 +347,23 @@
                         "name": "courselinks.csv",
                         "size": 1410
                     }
-                ]
+                ],
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 1,
+                    "schema": [
+                        {
+                            "resource": "#4f4f810b-b3fe-c40c-028c",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "p": 1,
+                        "lrn-table": 1
+                    },
+                    "elements": 2
+                }
             }
         },
         {
