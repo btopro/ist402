@@ -25,7 +25,7 @@
   <entry>
     <title>Lab 11 - Accessibility</title>
     <id>/labs/lab-11-accessibility</id>
-    <updated>2019-11-06T15:41:28-05:00</updated>
+    <updated>2019-11-06T15:47:49-05:00</updated>
     <published>2019-10-30T17:21:25-04:00</published>
     <summary>Web accessibility is just one piece of the accessibility pie but we're attuned to its importance. The next thing though is how do we use tools to help build more accessible things and remediate what w</summary>
     <link href="/labs/lab-11-accessibility"/>
@@ -43,6 +43,8 @@
 to understand issues and see what real reports look and feel like</p>
 <ul><li><a href="https://revenuedata.doi.gov/">https://revenuedata.doi.gov/</a>
  - Government website built in React</li>
+<li><a href="https://psu.edu">https://psu.edu</a>
+ - Penn state (dun, dun, dunnnnnn)</li>
 <li><a href="https://btopro.com/">https://btopro.com/</a>
  - personal blog hosted on gh-pages</li>
 <li><a href="https://oer.hax.psu.edu/hlp5129/sites/fish-ai-in-video-games/reflection-future-push">https://oer.hax.psu.edu/hlp5129/sites/fish-ai-in-video-games/reflection-future-push</a>
@@ -54,7 +56,7 @@ to understand issues and see what real reports look and feel like</p>
 <p>You are a consultant bring brought in to help out a web team organized by someone with <b>your exact name</b>
 , that has a site builder with <b>the same name</b>
 , and oddly a developer also with... the <b>same name</b>
- (weird..)! You work at A11y for All inc (great company name...) and you are here because of concerns by the web team that past projects were not correctly audited for performance and accessibility.<span style="font-size: var(--hax-base-styles-p-font-size, 24px); letter-spacing: var(--hax-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text); font-family: var(--haxcms-base-styles-body-font-family, &quot;Noto Serif&quot;, serif);"> (WTF?! WHY DIDN'T THE INSTRUCTOR TELL US TO AUDIT OUR STUFF ALONG THE WAY).</span></p>
+ (weird..)! You work at A11y for All inc (great company name...) and you are here because of concerns by the web team that past projects were not correctly audited for performance and accessibility.<span> (WTF?! WHY DIDN'T THE INSTRUCTOR TELL US TO AUDIT OUR STUFF ALONG THE WAY).</span></p>
 <p>Your CEO, Admiral Akbar is <i><b>piiiiiiiiiiiist</b>
 </i>
 </p>
