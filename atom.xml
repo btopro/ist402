@@ -25,13 +25,15 @@
   <entry>
     <title>Lab 11 - Accessibility</title>
     <id>/labs/lab-11-accessibility</id>
-    <updated>2019-11-05T12:27:12-05:00</updated>
+    <updated>2019-11-06T14:57:30-05:00</updated>
     <published>2019-10-30T17:21:25-04:00</published>
-    <summary></summary>
+    <summary>Web accessibility is just one piece of the accessibility pie but we're attuned to its importance. The next thing though is how do we use tools to help build more accessible things and remediate what w</summary>
     <link href="/labs/lab-11-accessibility"/>
     
     <content type="html">
-      <![CDATA[ <p>Ex uno Plures</p> ]]>
+      <![CDATA[ <p>Web accessibility is just one piece of the accessibility pie but we're attuned to its importance. The next thing though is how do we use tools to help build more accessible things and remediate what we already have?</p>
+<p></p>
+ ]]>
     </content>
   </entry>
   <entry>

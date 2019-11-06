@@ -1093,10 +1093,20 @@
             "order": "10",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "Lab 11 - Accessibility",
-            "description": "",
+            "description": "Web accessibility is just one piece of the accessibility pie but we're attuned to its importance. The next thing though is how do we use tools to help build more accessible things and remediate what w",
             "metadata": {
                 "created": 1572470485,
-                "updated": 1572974832
+                "updated": 1573070250,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 2,
+                    "schema": [],
+                    "tags": {
+                        "p": 2
+                    },
+                    "elements": 2
+                }
             }
         },
         {
