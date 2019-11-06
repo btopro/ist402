@@ -25,14 +25,33 @@
   <entry>
     <title>Lab 11 - Accessibility</title>
     <id>/labs/lab-11-accessibility</id>
-    <updated>2019-11-06T14:57:30-05:00</updated>
+    <updated>2019-11-06T15:25:52-05:00</updated>
     <published>2019-10-30T17:21:25-04:00</published>
     <summary>Web accessibility is just one piece of the accessibility pie but we're attuned to its importance. The next thing though is how do we use tools to help build more accessible things and remediate what w</summary>
     <link href="/labs/lab-11-accessibility"/>
     
     <content type="html">
       <![CDATA[ <p>Web accessibility is just one piece of the accessibility pie but we're attuned to its importance. The next thing though is how do we use tools to help build more accessible things and remediate what we already have?</p>
-<p></p>
+<h2>Prelab / in class doing</h2>
+<p>Let's install the <b>WAVE Evaluation Tool</b>
+ and <b>Lighthouse</b>
+ plugins for Chrome / Firefox.</p>
+<p>Let's work through some accessibility issues in a code pen to get some basics down</p>
+<p>Codepen: <a href="https://stackblitz.com/edit/a11y-issues?file=index.html" style="font-family: var(--haxcms-base-styles-body-font-family, &quot;Noto Serif&quot;, serif); letter-spacing: var(--haxcms-base-styles-body-letter-spacing, 0.5px);">https://stackblitz.com/edit/a11y-issues?file=index.html</a>
+</p>
+<p>Let's check out these websites and read through the <b>Lighthouse score and WAVE </b>
+to understand issues and see what real reports look and feel like</p>
+<ul><li><a href="https://revenuedata.doi.gov/">https://revenuedata.doi.gov/</a>
+ - Government website built in React</li>
+<li><a href="https://btopro.com/">https://btopro.com/</a>
+ - personal blog hosted on gh-pages</li>
+<li><a href="https://oer.hax.psu.edu/hlp5129/sites/fish-ai-in-video-games/reflection-future-push">https://oer.hax.psu.edu/hlp5129/sites/fish-ai-in-video-games/reflection-future-push</a>
+ - Classmate's HAXcms site<br/></li>
+<li><a href="https://archive.org/index.php">https://archive.org/index.php</a>
+ - Internet Archive</li>
+</ul>
+<h2>Lab Scenario</h2>
+<p>You were the project manager on the previous web projects we did in class.</p>
  ]]>
     </content>
   </entry>

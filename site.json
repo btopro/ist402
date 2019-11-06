@@ -1096,16 +1096,18 @@
             "description": "Web accessibility is just one piece of the accessibility pie but we're attuned to its importance. The next thing though is how do we use tools to help build more accessible things and remediate what w",
             "metadata": {
                 "created": 1572470485,
-                "updated": 1573070250,
+                "updated": 1573071952,
                 "readtime": 1,
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 2,
+                    "headings": 2,
+                    "paragraphs": 6,
                     "schema": [],
                     "tags": {
-                        "p": 2
+                        "p": 6,
+                        "h2": 2,
+                        "ul": 1
                     },
-                    "elements": 2
+                    "elements": 9
                 }
             }
         },
