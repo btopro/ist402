@@ -1018,10 +1018,20 @@
             "order": "9",
             "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
             "title": "Accessible Design",
-            "description": "",
+            "description": "Slides will be available after class.Today we're going to have a guest lecturer, Nikki Massaro-Kauffman, User Experience and Accessibility lead on all things HAXTheWeb. Nikki joined the ELMS:LN proje",
             "metadata": {
                 "created": 1573602627,
-                "updated": 1573602627
+                "updated": 1573602840,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 3,
+                    "schema": [],
+                    "tags": {
+                        "p": 3
+                    },
+                    "elements": 3
+                }
             }
         },
         {
