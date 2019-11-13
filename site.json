@@ -1148,10 +1148,21 @@
             "order": "11",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "Lab 12 - Accessible Design",
-            "description": "",
+            "description": "You live in the world of Stranger Things. I know, it's hard to envision, it's why it's such a good show. Old people like your instructor, actually remember parts of the 80s and what it was like to not",
             "metadata": {
                 "created": 1573603624,
-                "updated": 1573603648
+                "updated": 1573604012,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 1,
+                    "paragraphs": 6,
+                    "schema": [],
+                    "tags": {
+                        "p": 6,
+                        "h2": 1
+                    },
+                    "elements": 7
+                }
             }
         },
         {

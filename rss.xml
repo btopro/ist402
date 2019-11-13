@@ -6,13 +6,20 @@
     <description>IST 402 course content space</description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Nov 2019 19:06:16 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2019 19:07:28 -0500</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Lab 12 - Accessible Design</title>
       <link>/labs/lab-12-accessible-design</link>
       <description>
-          <![CDATA[ <p>Ex uno Plures</p> ]]>
+          <![CDATA[ <p>You live in the world of Stranger Things. I know, it's hard to envision, it's why it's such a good show. Old people like your instructor, actually remember parts of the 80s and what it was like to not know where people were at all times.</p>
+<p>Anyway. A lost art from the 80s was designing for interfaces that were primitive. Often times years would be lost trying to design simple things like joysticks and monitors to present primitive games with only a few options. But, these systems are universally approachable and the constrains put on the technology of the day helped inform this.</p>
+<p>Now we live in a world without constraints which often leads to less accessible, less usable experiences. That's where you come in...</p>
+<p>Today, we're going to design an interface or interaction that would be heavily steeped in constraints in order to envision more accessible systems. Take an application like twitter, remove the screen, the auto updating and self refreshing interfaces, remove the trolling and memes; how would people be able to leverage twitter effectively. What prompts would make sense on a command line, or on a simple 1999 style website (text box, click to submit data, that's about it).</p>
+<p>Twitter is too easy an example which is why I'm spelling it out here: that's because the 140 character limit previously on twitter was because it was envisioned as a way of initially bridging cellphones to contribute to the web. People would "log into twitter" by texting a special number and that text === tweet. Laughable to think about now, but it was the original design and simplicity that was possible via constraint based design.</p>
+<h2>Now it's your turn</h2>
+<p></p>
+ ]]>
       </description>
       <category></category>
       <guid>/labs/lab-12-accessible-design</guid>
@@ -45,6 +52,22 @@
       <category></category>
       <guid>/resources/past-student-work</guid>
       <pubDate>Tue, 05 Nov 2019 12:27:12 -0500</pubDate>
+    </item>
+    <item>
+      <title>Accessibility</title>
+      <link>/topics/accessibility-1</link>
+      <description>
+          <![CDATA[ <p><a href="https://www.slideshare.net/btopro/lecture11-accessibility">My slides from class</a>
+. <a href="https://www.slideshare.net/btopro/ist-402-presentation-by-sonya">Sonya Wood's accessibility talk</a>
+ in class.</p>
+<p>We'll have a guest speaker. <a href="https://www.linkedin.com/in/sonyawoods1/">Sonya Woods</a>
+ will be here to talk about Accessibility.</p>
+<a11y-gif-player src="https://media1.giphy.com/media/26u4eMlvKoTn7DfvG/giphy.gif" src-without-animation="https://media3.giphy.com/media/26u4eMlvKoTn7DfvG/480w_s.jpg" alt="Wheel chair user slowly being lowered by kegs down a ramp" schema-resource-id="#bc676c7d-31ce-58d0-f485" resource="#bc676c7d-31ce-58d0-f485" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 75%; margin: 0px auto; display: block;"></a11y-gif-player>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/topics/accessibility-1</guid>
+      <pubDate>Wed, 30 Oct 2019 17:21:25 -0400</pubDate>
     </item>
     <item>
       <title>Lab 11 - Accessibility</title>
@@ -107,22 +130,6 @@ to understand issues and see what real reports look and feel like</p>
       </description>
       <category></category>
       <guid>/labs/lab-11-accessibility</guid>
-      <pubDate>Wed, 30 Oct 2019 17:21:25 -0400</pubDate>
-    </item>
-    <item>
-      <title>Accessibility</title>
-      <link>/topics/accessibility-1</link>
-      <description>
-          <![CDATA[ <p><a href="https://www.slideshare.net/btopro/lecture11-accessibility">My slides from class</a>
-. <a href="https://www.slideshare.net/btopro/ist-402-presentation-by-sonya">Sonya Wood's accessibility talk</a>
- in class.</p>
-<p>We'll have a guest speaker. <a href="https://www.linkedin.com/in/sonyawoods1/">Sonya Woods</a>
- will be here to talk about Accessibility.</p>
-<a11y-gif-player src="https://media1.giphy.com/media/26u4eMlvKoTn7DfvG/giphy.gif" src-without-animation="https://media3.giphy.com/media/26u4eMlvKoTn7DfvG/480w_s.jpg" alt="Wheel chair user slowly being lowered by kegs down a ramp" schema-resource-id="#bc676c7d-31ce-58d0-f485" resource="#bc676c7d-31ce-58d0-f485" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 75%; margin: 0px auto; display: block;"></a11y-gif-player>
- ]]>
-      </description>
-      <category></category>
-      <guid>/topics/accessibility-1</guid>
       <pubDate>Wed, 30 Oct 2019 17:21:25 -0400</pubDate>
     </item>
     <item>
@@ -285,6 +292,21 @@ What didn't work or what you ran into issues using the platform are critical to 
       <pubDate>Thu, 10 Oct 2019 15:41:56 -0400</pubDate>
     </item>
     <item>
+      <title>Drupal</title>
+      <link>/topics/drupal</link>
+      <description>
+          <![CDATA[ <p><a href="https://www.slideshare.net/btopro/drupal-180769121">Slides for this topic</a>
+</p>
+<p>Drupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll use Drupal to model those relationships in the website.</p>
+<p>We'll learn about Content Types and fields to model data. Then we'll use Views in order to visualize that data and work with content entry to make sense of it all.</p>
+<p>Drupal is daunting at first but once you learn the concepts and experience them they form a repeatable pattern of development and site building that leads you into a large community with lots of financial opportunities.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/topics/drupal</guid>
+      <pubDate>Thu, 03 Oct 2019 20:07:06 -0400</pubDate>
+    </item>
+    <item>
       <title>Lab 7 - Drupal</title>
       <link>/labs/lab-7-drupal</link>
       <description>
@@ -371,21 +393,6 @@ What didn't work or what you ran into issues using the platform are critical to 
       </description>
       <category></category>
       <guid>/labs/lab-7-drupal</guid>
-      <pubDate>Thu, 03 Oct 2019 20:07:06 -0400</pubDate>
-    </item>
-    <item>
-      <title>Drupal</title>
-      <link>/topics/drupal</link>
-      <description>
-          <![CDATA[ <p><a href="https://www.slideshare.net/btopro/drupal-180769121">Slides for this topic</a>
-</p>
-<p>Drupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll use Drupal to model those relationships in the website.</p>
-<p>We'll learn about Content Types and fields to model data. Then we'll use Views in order to visualize that data and work with content entry to make sense of it all.</p>
-<p>Drupal is daunting at first but once you learn the concepts and experience them they form a repeatable pattern of development and site building that leads you into a large community with lots of financial opportunities.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/topics/drupal</guid>
       <pubDate>Thu, 03 Oct 2019 20:07:06 -0400</pubDate>
     </item>
     <item>
@@ -727,41 +734,6 @@ desire</span></li>
       <pubDate>Tue, 01 Oct 2019 19:40:19 -0400</pubDate>
     </item>
     <item>
-      <title>Mid-term review</title>
-      <link>/mid-term-review</link>
-      <description>
-          <![CDATA[ <p>See slides from <a href="topics/drupal">topic 7 on Drupal</a>
-. There are several examples with answers in the front of the slide deck you can use to review the types of questions you'll be asked.</p>
-<p>This is an "open web" review. The real world you can google things if you get stuck and this is no different. Now, you can't take credit for other people's work in my class or IRL, so the TA will be proctoring this exam and ensuring that everyone's responsible for their own work.</p>
-<p>After the exam please answer the course survey questions to give us feedback on how class has done so far and where to go.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/mid-term-review</guid>
-      <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
-    </item>
-    <item>
-      <title>ClassicPress / WordPress</title>
-      <link>/topics/wordpress</link>
-      <description>
-          <![CDATA[ <p><a href="https://www.slideshare.net/btopro/classicpress-wordpress-180769120">Lecture slides from this week</a>
-</p>
-<p>This week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why it powers (estimates, numbers differ by source) 33% to as much as 50% of sites on the internet.</p>
-<p>These sites could be everything from the Whitehouse down to every individual blog / new acount on wordpress.com (SaaS solution version) which is why people take some of that number with a grain of salt.</p>
-<p>It's a great platform to start your own website on but it's run into some recent controversies which are worth exploring - namely the battle for the heart of the community around a text editor. It's weird to think about, but when a CMS lives and dies by the ease of content entry, you can understand why the <b>new core mandatory</b>
- text editor called<b> Gutenberg</b>
- would attract positive and negative attention.</p>
-<p>With plans to phase out the "Classic Editor" in 2020 many people in the community are at a cross-roads: Continue to trust the same core community that "took away" their beloved simple HTML editor, or forge a new path. We'll look briefly at the concept of community forks through the context of ClassicPress, a popular WordPress alternative that's gaining traction as the more community centric CMS.</p>
-<p>With parallels to Drupal and it's popular fork Backdrop (topic for next lab) we'll see that it's not always code that leads to inflection points in groups but the process by which that code is formed, agreed upon, and ultimately pushed into the main project everyone's aligned with.</p>
-<p>WordPress is a great resume builder both in terms of the platform as well as putting on your resume that you have experience with it, so let's dig in and check it out in <a href="https://reclaimhosting.com/">ReclaimHosting</a>
- once more!</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/topics/wordpress</guid>
-      <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
-    </item>
-    <item>
       <title>Lab 6 - WordPress</title>
       <link>/labs/lab-6-wordpress</link>
       <description>
@@ -813,6 +785,41 @@ desire</span></li>
       </description>
       <category></category>
       <guid>/labs/lab-6-wordpress</guid>
+      <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>Mid-term review</title>
+      <link>/mid-term-review</link>
+      <description>
+          <![CDATA[ <p>See slides from <a href="topics/drupal">topic 7 on Drupal</a>
+. There are several examples with answers in the front of the slide deck you can use to review the types of questions you'll be asked.</p>
+<p>This is an "open web" review. The real world you can google things if you get stuck and this is no different. Now, you can't take credit for other people's work in my class or IRL, so the TA will be proctoring this exam and ensuring that everyone's responsible for their own work.</p>
+<p>After the exam please answer the course survey questions to give us feedback on how class has done so far and where to go.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/mid-term-review</guid>
+      <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
+    </item>
+    <item>
+      <title>ClassicPress / WordPress</title>
+      <link>/topics/wordpress</link>
+      <description>
+          <![CDATA[ <p><a href="https://www.slideshare.net/btopro/classicpress-wordpress-180769120">Lecture slides from this week</a>
+</p>
+<p>This week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why it powers (estimates, numbers differ by source) 33% to as much as 50% of sites on the internet.</p>
+<p>These sites could be everything from the Whitehouse down to every individual blog / new acount on wordpress.com (SaaS solution version) which is why people take some of that number with a grain of salt.</p>
+<p>It's a great platform to start your own website on but it's run into some recent controversies which are worth exploring - namely the battle for the heart of the community around a text editor. It's weird to think about, but when a CMS lives and dies by the ease of content entry, you can understand why the <b>new core mandatory</b>
+ text editor called<b> Gutenberg</b>
+ would attract positive and negative attention.</p>
+<p>With plans to phase out the "Classic Editor" in 2020 many people in the community are at a cross-roads: Continue to trust the same core community that "took away" their beloved simple HTML editor, or forge a new path. We'll look briefly at the concept of community forks through the context of ClassicPress, a popular WordPress alternative that's gaining traction as the more community centric CMS.</p>
+<p>With parallels to Drupal and it's popular fork Backdrop (topic for next lab) we'll see that it's not always code that leads to inflection points in groups but the process by which that code is formed, agreed upon, and ultimately pushed into the main project everyone's aligned with.</p>
+<p>WordPress is a great resume builder both in terms of the platform as well as putting on your resume that you have experience with it, so let's dig in and check it out in <a href="https://reclaimhosting.com/">ReclaimHosting</a>
+ once more!</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/topics/wordpress</guid>
       <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
     </item>
     <item>
