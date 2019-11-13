@@ -1151,18 +1151,25 @@
             "description": "You live in the world of Stranger Things. I know, it's hard to envision, it's why it's such a good show. Old people like your instructor, actually remember parts of the 80s and what it was like to not",
             "metadata": {
                 "created": 1573603624,
-                "updated": 1573605101,
-                "readtime": 1,
+                "updated": 1573669392,
+                "readtime": 3,
                 "contentDetails": {
-                    "headings": 1,
-                    "paragraphs": 6,
-                    "schema": [],
+                    "headings": 4,
+                    "paragraphs": 16,
+                    "schema": [
+                        {
+                            "resource": "#4bc09838-e59e-6789-8a79",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
                     "tags": {
-                        "p": 6,
+                        "p": 16,
                         "grid-plate": 1,
-                        "h2": 1
+                        "h2": 3,
+                        "h3": 1,
+                        "video-player": 1
                     },
-                    "elements": 8
+                    "elements": 22
                 }
             }
         },
