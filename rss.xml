@@ -13,10 +13,13 @@
       <link>/labs/lab-12-accessible-design</link>
       <description>
           <![CDATA[ <p>You live in the world of Stranger Things. I know, it's hard to envision, it's why it's such a good show. Old people like your instructor, actually remember parts of the 80s and what it was like to not know where people were at all times.</p>
-<p>Anyway. A lost art from the 80s was designing for interfaces that were primitive. Often times years would be lost trying to design simple things like joysticks and monitors to present primitive games with only a few options. But, these systems are universally approachable and the constrains put on the technology of the day helped inform this.</p>
+<grid-plate style="width: 100%;" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" layout="1-1" responsive-size="md">  <p slot="col-1">Anyway. A lost art from the 80s was designing for interfaces that were primitive. Often times years would be lost trying to design simple things like joysticks and monitors to present primitive games with only a few options. But, these systems are universally approachable and the constrains put on the technology of the day helped inform this.</p>
+  <meme-maker slot="col-2" alt="home video running GIF" image-url="https://media3.giphy.com/media/Z71HSa4vBWlW/giphy.gif" top-text="1 stick, no btnz" bottom-text="best game evrz" imageurl="https://media3.giphy.com/media/Z71HSa4vBWlW/giphy.gif" toptext="home video running GIF" style="width: 75%; margin: 0px auto; display: block;"></meme-maker>
+</grid-plate>
 <p>Now we live in a world without constraints which often leads to less accessible, less usable experiences. That's where you come in...</p>
 <p>Today, we're going to design an interface or interaction that would be heavily steeped in constraints in order to envision more accessible systems. Take an application like twitter, remove the screen, the auto updating and self refreshing interfaces, remove the trolling and memes; how would people be able to leverage twitter effectively. What prompts would make sense on a command line, or on a simple 1999 style website (text box, click to submit data, that's about it).</p>
 <p>Twitter is too easy an example which is why I'm spelling it out here: that's because the 140 character limit previously on twitter was because it was envisioned as a way of initially bridging cellphones to contribute to the web. People would "log into twitter" by texting a special number and that text === tweet. Laughable to think about now, but it was the original design and simplicity that was possible via constraint based design.</p>
+<p></p>
 <h2>Now it's your turn</h2>
 <p></p>
  ]]>
