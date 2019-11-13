@@ -9,18 +9,6 @@
   </author>
   <id>/feed</id>
   <entry>
-    <title>Lab 12 - Accessible Design</title>
-    <id>/labs/blank</id>
-    <updated>2019-11-12T19:06:16-05:00</updated>
-    <published>2019-11-12T19:06:16-05:00</published>
-    <summary></summary>
-    <link href="/labs/blank"/>
-    
-    <content type="html">
-      <![CDATA[  ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Accessible Design</title>
     <id>/topics/accessible-design</id>
     <updated>2019-11-12T19:06:16-05:00</updated>
@@ -49,24 +37,6 @@
     <content type="html">
       <![CDATA[ <p>Here are some examples of past student work to check out!</p>
 <lrn-table title="IST 402 Links to past topics" csv-file="files/courselinks.csv" description="For class we had to create our own HAxcms micro-sites and do video overviews talking about the experience with this advanced CMS technology." resource="#4f4f810b-b3fe-c40c-028c" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org "></lrn-table>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Accessibility</title>
-    <id>/topics/accessibility-1</id>
-    <updated>2019-11-12T19:06:16-05:00</updated>
-    <published>2019-10-30T17:21:25-04:00</published>
-    <summary>My slides from class. Sonya Wood's accessibility talk in class.We'll have a guest speaker. Sonya Woods will be here to talk about Accessibility.</summary>
-    <link href="/topics/accessibility-1"/>
-    
-    <content type="html">
-      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/lecture11-accessibility">My slides from class</a>
-. <a href="https://www.slideshare.net/btopro/ist-402-presentation-by-sonya">Sonya Wood's accessibility talk</a>
- in class.</p>
-<p>We'll have a guest speaker. <a href="https://www.linkedin.com/in/sonyawoods1/">Sonya Woods</a>
- will be here to talk about Accessibility.</p>
-<a11y-gif-player src="https://media1.giphy.com/media/26u4eMlvKoTn7DfvG/giphy.gif" src-without-animation="https://media3.giphy.com/media/26u4eMlvKoTn7DfvG/480w_s.jpg" alt="Wheel chair user slowly being lowered by kegs down a ramp" schema-resource-id="#bc676c7d-31ce-58d0-f485" resource="#bc676c7d-31ce-58d0-f485" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 75%; margin: 0px auto; display: block;"></a11y-gif-player>
  ]]>
     </content>
   </entry>
@@ -132,6 +102,24 @@ to understand issues and see what real reports look and feel like</p>
 </p>
 <p>Post link to page in HAXcms site with the video included in<b> #lab11-accessibility</b>
 </p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Accessibility</title>
+    <id>/topics/accessibility-1</id>
+    <updated>2019-11-12T19:06:16-05:00</updated>
+    <published>2019-10-30T17:21:25-04:00</published>
+    <summary>My slides from class. Sonya Wood's accessibility talk in class.We'll have a guest speaker. Sonya Woods will be here to talk about Accessibility.</summary>
+    <link href="/topics/accessibility-1"/>
+    
+    <content type="html">
+      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/lecture11-accessibility">My slides from class</a>
+. <a href="https://www.slideshare.net/btopro/ist-402-presentation-by-sonya">Sonya Wood's accessibility talk</a>
+ in class.</p>
+<p>We'll have a guest speaker. <a href="https://www.linkedin.com/in/sonyawoods1/">Sonya Woods</a>
+ will be here to talk about Accessibility.</p>
+<a11y-gif-player src="https://media1.giphy.com/media/26u4eMlvKoTn7DfvG/giphy.gif" src-without-animation="https://media3.giphy.com/media/26u4eMlvKoTn7DfvG/480w_s.jpg" alt="Wheel chair user slowly being lowered by kegs down a ramp" schema-resource-id="#bc676c7d-31ce-58d0-f485" resource="#bc676c7d-31ce-58d0-f485" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 75%; margin: 0px auto; display: block;"></a11y-gif-player>
  ]]>
     </content>
   </entry>
@@ -755,22 +743,6 @@ complexity and learning curve</span></li>
     </content>
   </entry>
   <entry>
-    <title>Mid-term review</title>
-    <id>/mid-term-review</id>
-    <updated>2019-11-12T19:06:16-05:00</updated>
-    <published>2019-10-01T14:02:52-04:00</published>
-    <summary>See slides from topic 7 on Drupal. There are several examples with answers in the front of the slide deck you can use to review the types of questions you'll be asked.This is an "open web" review. T</summary>
-    <link href="/mid-term-review"/>
-    
-    <content type="html">
-      <![CDATA[ <p>See slides from <a href="topics/drupal">topic 7 on Drupal</a>
-. There are several examples with answers in the front of the slide deck you can use to review the types of questions you'll be asked.</p>
-<p>This is an "open web" review. The real world you can google things if you get stuck and this is no different. Now, you can't take credit for other people's work in my class or IRL, so the TA will be proctoring this exam and ensuring that everyone's responsible for their own work.</p>
-<p>After the exam please answer the course survey questions to give us feedback on how class has done so far and where to go.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>ClassicPress / WordPress</title>
     <id>/topics/wordpress</id>
     <updated>2019-11-12T19:06:16-05:00</updated>
@@ -790,6 +762,22 @@ complexity and learning curve</span></li>
 <p>With parallels to Drupal and it's popular fork Backdrop (topic for next lab) we'll see that it's not always code that leads to inflection points in groups but the process by which that code is formed, agreed upon, and ultimately pushed into the main project everyone's aligned with.</p>
 <p>WordPress is a great resume builder both in terms of the platform as well as putting on your resume that you have experience with it, so let's dig in and check it out in <a href="https://reclaimhosting.com/">ReclaimHosting</a>
  once more!</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Mid-term review</title>
+    <id>/mid-term-review</id>
+    <updated>2019-11-12T19:06:16-05:00</updated>
+    <published>2019-10-01T14:02:52-04:00</published>
+    <summary>See slides from topic 7 on Drupal. There are several examples with answers in the front of the slide deck you can use to review the types of questions you'll be asked.This is an "open web" review. T</summary>
+    <link href="/mid-term-review"/>
+    
+    <content type="html">
+      <![CDATA[ <p>See slides from <a href="topics/drupal">topic 7 on Drupal</a>
+. There are several examples with answers in the front of the slide deck you can use to review the types of questions you'll be asked.</p>
+<p>This is an "open web" review. The real world you can google things if you get stuck and this is no different. Now, you can't take credit for other people's work in my class or IRL, so the TA will be proctoring this exam and ensuring that everyone's responsible for their own work.</p>
+<p>After the exam please answer the course survey questions to give us feedback on how class has done so far and where to go.</p>
  ]]>
     </content>
   </entry>
@@ -1053,6 +1041,22 @@ of your </span><span style="font-variant-numeric: normal; font-variant-east-asia
     </content>
   </entry>
   <entry>
+    <title>Webcomponents</title>
+    <id>/topics/webcomponents</id>
+    <updated>2019-11-12T19:06:16-05:00</updated>
+    <published>2019-09-18T14:38:01-04:00</published>
+    <summary>Slides - Web components & Package managersWeb components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a </summary>
+    <link href="/topics/webcomponents"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Slides - <a href="https://www.slideshare.net/btopro/web-components-and-package-managers">Web components & Package managers</a>
+</p>
+<p>Web components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a sustainable, secure and accessible manner.</p>
+<p>This week is mostly in slide form as a result of the many talks that btopro gives on these topics. This course is built out of web components and increasingly everything from signs at fast food restaurants to websites you use ever day (like YouTube) will be built out of web components.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Lab 4 - Webcomponents</title>
     <id>/labs/webcomponents-1</id>
     <updated>2019-11-12T19:06:16-05:00</updated>
@@ -1303,18 +1307,56 @@ to frame your writing and video response:
     </content>
   </entry>
   <entry>
-    <title>Webcomponents</title>
-    <id>/topics/webcomponents</id>
+    <title>Lab 3 - HTML / CSS / JS Web basics</title>
+    <id>/labs/html-css-js-web-basics</id>
     <updated>2019-11-12T19:06:16-05:00</updated>
-    <published>2019-09-18T14:38:01-04:00</published>
-    <summary>Slides - Web components & Package managersWeb components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a </summary>
-    <link href="/topics/webcomponents"/>
+    <published>2019-09-09T16:53:00-04:00</published>
+    <summary>September 11th, 2019For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in </summary>
+    <link href="/labs/html-css-js-web-basics"/>
     
     <content type="html">
-      <![CDATA[ <p>Slides - <a href="https://www.slideshare.net/btopro/web-components-and-package-managers">Web components & Package managers</a>
-</p>
-<p>Web components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a sustainable, secure and accessible manner.</p>
-<p>This week is mostly in slide form as a result of the many talks that btopro gives on these topics. This course is built out of web components and increasingly everything from signs at fast food restaurants to websites you use ever day (like YouTube) will be built out of web components.</p>
+      <![CDATA[ <h3 class="hax-active">September 11th, 2019</h3>
+<p>For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in the future so we'll keep the JS brief for this one.</p>
+<p><a href="https://codepen.io/btopro/pen/zYOWqKZ">Exercise Pen</a>
+
+: <span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text);">Fork this Pen and we can follow along together in class.</span></p>
+<h2>Lab Pen</h2>
+<p>For this lab, I want you to modify <b>one of these</b>
+
+ <b>pens</b>
+
+ in order to make the resume reflect your own information. There's a <i>beginner Pen</i>
+
+ and a more <i>advanced pen</i>
+
+.</p>
+<p><a href="https://codepen.io/btopro/pen/GRKQVBx?editors=1000">Beginner Pen</a>
+
+: Personal Resume which contains hints and directions inside</p>
+<p><a href="https://codepen.io/btopro/pen/GRKxKgX?editors=1000">Advanced Pen</a>
+
+: no instructions and a slightly more advanced design. Use this to challenge yourself or if you've previously written HTML to make something more useful.</p>
+<h3 class="hax-active">Reflection Pen</h3>
+<p><a href="https://codepen.io/btopro/pen/KKPozvd">FORK THIS PEN</a>
+
+: For reflection this week I want you to fork this pen and write your response using HTML. For the topic this week pick one of the following:</p>
+<ul><li>Explaining how to apply styling to an element in <b>CSS</b>
+
+</li>
+
+<li>Explain how to use JavaScript and <b>getElementById</b>
+
+ to add a <i>click event to</i>
+
+ an element in an existing codepen that generates an alert saying <b>Hello</b>
+
+</li>
+
+<li><i>Value of CodePen as a platform</i>
+
+ to learn coding by finding an inspiring pen and explain what's going on.</li>
+
+</ul>
  ]]>
     </content>
   </entry>
@@ -1372,60 +1414,6 @@ to frame your writing and video response:
 </li>
 
 
-
-</ul>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Lab 3 - HTML / CSS / JS Web basics</title>
-    <id>/labs/html-css-js-web-basics</id>
-    <updated>2019-11-12T19:06:16-05:00</updated>
-    <published>2019-09-09T16:53:00-04:00</published>
-    <summary>September 11th, 2019For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in </summary>
-    <link href="/labs/html-css-js-web-basics"/>
-    
-    <content type="html">
-      <![CDATA[ <h3 class="hax-active">September 11th, 2019</h3>
-<p>For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in the future so we'll keep the JS brief for this one.</p>
-<p><a href="https://codepen.io/btopro/pen/zYOWqKZ">Exercise Pen</a>
-
-: <span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text);">Fork this Pen and we can follow along together in class.</span></p>
-<h2>Lab Pen</h2>
-<p>For this lab, I want you to modify <b>one of these</b>
-
- <b>pens</b>
-
- in order to make the resume reflect your own information. There's a <i>beginner Pen</i>
-
- and a more <i>advanced pen</i>
-
-.</p>
-<p><a href="https://codepen.io/btopro/pen/GRKQVBx?editors=1000">Beginner Pen</a>
-
-: Personal Resume which contains hints and directions inside</p>
-<p><a href="https://codepen.io/btopro/pen/GRKxKgX?editors=1000">Advanced Pen</a>
-
-: no instructions and a slightly more advanced design. Use this to challenge yourself or if you've previously written HTML to make something more useful.</p>
-<h3 class="hax-active">Reflection Pen</h3>
-<p><a href="https://codepen.io/btopro/pen/KKPozvd">FORK THIS PEN</a>
-
-: For reflection this week I want you to fork this pen and write your response using HTML. For the topic this week pick one of the following:</p>
-<ul><li>Explaining how to apply styling to an element in <b>CSS</b>
-
-</li>
-
-<li>Explain how to use JavaScript and <b>getElementById</b>
-
- to add a <i>click event to</i>
-
- an element in an existing codepen that generates an alert saying <b>Hello</b>
-
-</li>
-
-<li><i>Value of CodePen as a platform</i>
-
- to learn coding by finding an inspiring pen and explain what's going on.</li>
 
 </ul>
  ]]>
@@ -1786,6 +1774,49 @@ I did an <i>assignment once</i>
 <p>There are $5/month plans on Digital Ocean and domain names can typically be purchased for $12.99/year though can run as low as $5 when on sale. After class is over it's up to you if you want to keep paying for hosting / keep your domain name active but expect to spend between <b>$25 and $50</b>
  depending on service you sign up for and domain name cost.</p>
 <p>Paying more will get you access to faster server resources but are not required for what we're going to execute on the machine. <span style="font-size: var(--haxcms-base-styles-p-font-size, 24px); letter-spacing: var(--haxcms-base-styles-p-letter-spacing, 0.5px); caret-color: var(--hax-color-text);">We will be setting up the server and talking about how to wire things up most likely as part of our 4th lab session of the semester.</span></p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Screencasting</title>
+    <id>/resources/screencasting</id>
+    <updated>2019-11-12T19:06:16-05:00</updated>
+    <published>2019-08-26T14:27:20-04:00</published>
+    <summary>ChecklistBefore recording always make sure...You've got the links you want to view open in tabs in a browser windowYou've got headphones / some kind of microphone to record your voiceYou can use i</summary>
+    <link href="/resources/screencasting"/>
+    
+    <content type="html">
+      <![CDATA[ <h3 class="hax-active">Checklist</h3>
+<p>Before recording always make sure...</p>
+<ul><li>You've got the links you want to view open in tabs in a browser window</li>
+<li>You've got headphones / some kind of microphone to record your voice</li>
+<ul><li>You can use internal microphones but the quality on them is pretty bad so try to use a headset / earbuds if you have them</li>
+</ul>
+
+<li>You've authorized whatever it is to record your voice and test that audio is working!</li>
+<ul><li>I fell victim to this many times early on</li>
+</ul>
+</ul>
+<p>Next you'll need to pick a screen casting tool to do the recording. I recommend one of the following.</p>
+<h3>Zoom (Free)</h3>
+<p><b>Link</b>
+: <a href="https://cmm.psu.edu/zoom/">https://cmm.psu.edu/zoom/</a>
+</p>
+<p>Penn state labs come with zoom installed. You can also install this on your personal device and should be able to do recordings from it. I recommend finding a quite place that you can bring headphones since you'll have to do voice over describing what's on screen and explaining it to others.</p>
+<h3>Screencastify (Free, ad based with paid option)</h3>
+<p><b>Link</b>
+: <a href="https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn?hl=en">https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn?hl=en</a>
+</p>
+<p>I just found this recently, it's a browser plugin for Chrome. If <i>you're O.K. with the permissions that it requires</i>
+, it's a very easy to use way of generating a screencast.</p>
+<h3 class="hax-active">Snagit (Paid)</h3>
+<p><b>Link</b>
+: 
+<a href="https://www.techsmith.com/snagit-pricing.html">https://www.techsmith.com/snagit-pricing.html</a>
+</p>
+<p>I use Snagit personally for all of my screen casting that I do. It is $30 but comes with some basic ways of doing quick editing and image mock up as well. It's not required that you use Snagit by any means, just saying what I've had positive experiences with previously.</p>
+<p>Others</p>
+<p>If you find others that you like feel free to share them with the class. The purpose of this class is not to get into high end video editing so beware that it is expected you'll generate videos each week. The content of the video is what matters, not fancy intros or well cut jumps or anything like that. Being able to fluidly communicate about a technical concept and teach others about how to use it and what it is.</p>
  ]]>
     </content>
   </entry>

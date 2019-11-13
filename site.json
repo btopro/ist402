@@ -1142,19 +1142,6 @@
             }
         },
         {
-            "id": "item-61c467ba-13b5-4304-b425-700f89c92cb9",
-            "indent": "1",
-            "location": "pages\/labs\/blank\/index.html",
-            "order": "11",
-            "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
-            "title": "Lab 12 -\u00a0Accessible Design",
-            "description": "",
-            "metadata": {
-                "created": 1573603576,
-                "updated": 1573603576
-            }
-        },
-        {
             "id": "item-571620e6-6a27-49c5-8e8b-69fc0f59c879",
             "indent": 0,
             "location": "pages\/feedback\/index.html",
