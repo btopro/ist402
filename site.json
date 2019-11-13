@@ -160,6 +160,75 @@
             }
         },
         {
+            "id": "item-dad56398-4e61-4705-8b8a-55186055c2b5",
+            "indent": "1",
+            "location": "pages\/resources\/screencasting\/index.html",
+            "order": "0",
+            "parent": "item-cabad7a7-8b29-4e70-8786-1c60e33a7b90",
+            "title": "Screencasting",
+            "description": "ChecklistBefore recording always make sure...You've got the links you want to view open in tabs in a browser windowYou've got headphones \/ some kind of microphone to record your voiceYou can use i",
+            "metadata": {
+                "created": 1566844040,
+                "updated": 1573603576,
+                "readtime": 2,
+                "contentDetails": {
+                    "headings": 4,
+                    "paragraphs": 10,
+                    "schema": [],
+                    "tags": {
+                        "h3": 4,
+                        "p": 10,
+                        "ul": 1
+                    },
+                    "elements": 15
+                }
+            }
+        },
+        {
+            "id": "item-45766690-94ee-40a9-b989-45aa6d64f87d",
+            "indent": 0,
+            "location": "pages\/labs\/lab-12-accessible-design\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Lab 12 - Accessible Design",
+            "description": "",
+            "metadata": {
+                "created": 1573603624,
+                "updated": 1573603624
+            }
+        },
+        {
+            "id": "item-1ec5980a-48cc-40d9-9646-91b9ee438858",
+            "indent": "1",
+            "location": "pages\/topics\/building-your-digital-identity\/index.html",
+            "order": "0",
+            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
+            "title": "Building your digital identity",
+            "description": "Slides from the talk in classNo one knows who you are if you're not effectively communicating. I recall a colleague several years ago getting pissed that I was invited to speak some place. \"It's li",
+            "metadata": {
+                "created": 1565902902,
+                "updated": 1573603576,
+                "readtime": 2,
+                "contentDetails": {
+                    "headings": 1,
+                    "paragraphs": 7,
+                    "schema": [
+                        {
+                            "resource": "#d7c9f858-a9be-b117-7795",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "p": 7,
+                        "ul": 1,
+                        "h3": 1,
+                        "a11y-gif-player": 1
+                    },
+                    "elements": 10
+                }
+            }
+        },
+        {
             "id": "item-71734ca0-b7cd-4ee4-842d-7a2ef440cd3d",
             "indent": "1",
             "location": "pages\/labs\/building-your-digital-identity\/index.html",
@@ -211,62 +280,6 @@
                         "ul": 3
                     },
                     "elements": 6
-                }
-            }
-        },
-        {
-            "id": "item-1ec5980a-48cc-40d9-9646-91b9ee438858",
-            "indent": "1",
-            "location": "pages\/topics\/building-your-digital-identity\/index.html",
-            "order": "0",
-            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
-            "title": "Building your digital identity",
-            "description": "Slides from the talk in classNo one knows who you are if you're not effectively communicating. I recall a colleague several years ago getting pissed that I was invited to speak some place. \"It's li",
-            "metadata": {
-                "created": 1565902902,
-                "updated": 1573603576,
-                "readtime": 2,
-                "contentDetails": {
-                    "headings": 1,
-                    "paragraphs": 7,
-                    "schema": [
-                        {
-                            "resource": "#d7c9f858-a9be-b117-7795",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "p": 7,
-                        "ul": 1,
-                        "h3": 1,
-                        "a11y-gif-player": 1
-                    },
-                    "elements": 10
-                }
-            }
-        },
-        {
-            "id": "item-dad56398-4e61-4705-8b8a-55186055c2b5",
-            "indent": "1",
-            "location": "pages\/resources\/screencasting\/index.html",
-            "order": "0",
-            "parent": "item-cabad7a7-8b29-4e70-8786-1c60e33a7b90",
-            "title": "Screencasting",
-            "description": "ChecklistBefore recording always make sure...You've got the links you want to view open in tabs in a browser windowYou've got headphones \/ some kind of microphone to record your voiceYou can use i",
-            "metadata": {
-                "created": 1566844040,
-                "updated": 1573603576,
-                "readtime": 2,
-                "contentDetails": {
-                    "headings": 4,
-                    "paragraphs": 10,
-                    "schema": [],
-                    "tags": {
-                        "h3": 4,
-                        "p": 10,
-                        "ul": 1
-                    },
-                    "elements": 15
                 }
             }
         },
@@ -631,24 +644,25 @@
             }
         },
         {
-            "id": "item-5dc2393a-00d8-41e5-be61-c74c99be841b",
+            "id": "item-361be4ee-2219-44f8-8183-fc02d60f9fdd",
             "indent": "1",
-            "location": "pages\/labs\/lab-5-gravcms\/index.html",
+            "location": "pages\/topics\/gravcms\/index.html",
             "order": "4",
-            "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
-            "title": "Lab 5 - GravCMS",
-            "description": "Lab scenarioYouare a project manager in a design firmYour team is 1 developer, 1 sitebuilder,\u00a01 designer and you report to theCEOYou think GravCMS might be a great way\u00a0to deliver 10-",
+            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
+            "title": "GravCMS",
+            "description": "Slides about CPanel & GravCMS from classThis week kicks off Reclaim hosting and our Content Management System section of the course. We're going to be covering four different content management sys",
             "metadata": {
                 "created": 1569423610,
                 "updated": 1573603576,
                 "readtime": 2,
                 "contentDetails": {
-                    "headings": 4,
-                    "paragraphs": 0,
+                    "headings": 1,
+                    "paragraphs": 6,
                     "schema": [],
                     "tags": {
-                        "h2": 4,
-                        "ul": 4
+                        "p": 6,
+                        "h2": 1,
+                        "ul": 1
                     },
                     "elements": 8
                 }
@@ -679,25 +693,24 @@
             }
         },
         {
-            "id": "item-361be4ee-2219-44f8-8183-fc02d60f9fdd",
+            "id": "item-5dc2393a-00d8-41e5-be61-c74c99be841b",
             "indent": "1",
-            "location": "pages\/topics\/gravcms\/index.html",
+            "location": "pages\/labs\/lab-5-gravcms\/index.html",
             "order": "4",
-            "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
-            "title": "GravCMS",
-            "description": "Slides about CPanel & GravCMS from classThis week kicks off Reclaim hosting and our Content Management System section of the course. We're going to be covering four different content management sys",
+            "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
+            "title": "Lab 5 - GravCMS",
+            "description": "Lab scenarioYouare a project manager in a design firmYour team is 1 developer, 1 sitebuilder,\u00a01 designer and you report to theCEOYou think GravCMS might be a great way\u00a0to deliver 10-",
             "metadata": {
                 "created": 1569423610,
                 "updated": 1573603576,
                 "readtime": 2,
                 "contentDetails": {
-                    "headings": 1,
-                    "paragraphs": 6,
+                    "headings": 4,
+                    "paragraphs": 0,
                     "schema": [],
                     "tags": {
-                        "p": 6,
-                        "h2": 1,
-                        "ul": 1
+                        "h2": 4,
+                        "ul": 4
                     },
                     "elements": 8
                 }
@@ -1035,6 +1048,29 @@
             }
         },
         {
+            "id": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
+            "indent": 0,
+            "location": "pages\/labs\/index.html",
+            "order": "8",
+            "parent": null,
+            "title": "Labs",
+            "description": "We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.Remember t",
+            "metadata": {
+                "created": 1566568358,
+                "updated": 1573603576,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 3,
+                    "schema": [],
+                    "tags": {
+                        "p": 3
+                    },
+                    "elements": 3
+                }
+            }
+        },
+        {
             "id": "item-5c8eaa16-ba14-48f5-8d06-9ea7f22e2b47",
             "indent": "1",
             "location": "pages\/labs\/lab-9-drupal-again\/index.html",
@@ -1056,29 +1092,6 @@
                         "ul": 1
                     },
                     "elements": 25
-                }
-            }
-        },
-        {
-            "id": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
-            "indent": 0,
-            "location": "pages\/labs\/index.html",
-            "order": "8",
-            "parent": null,
-            "title": "Labs",
-            "description": "We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.Remember t",
-            "metadata": {
-                "created": 1566568358,
-                "updated": 1573603576,
-                "readtime": 1,
-                "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 3,
-                    "schema": [],
-                    "tags": {
-                        "p": 3
-                    },
-                    "elements": 3
                 }
             }
         },
