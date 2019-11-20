@@ -48,6 +48,14 @@
 <h2>Submission</h2>
 <p>Add your video to the <b>#lab13-docker</b>
  slack channel.</p>
+<h2>Evaluation rubric</h2>
+<ul><li>Did you demonstrate installing either application in Play with Docker? <b>(5pts)</b>
+</li>
+<li>Did you explain the difference between Containers and Virtual Machines or what Functions as a Service is with examples? <b>(4pts)</b>
+</li>
+<li>Did you submit your video to the channel? <b>(1pt)</b>
+</li>
+</ul>
  ]]>
       </description>
       <category></category>

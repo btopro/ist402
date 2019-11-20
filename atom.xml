@@ -30,7 +30,7 @@
   <entry>
     <title>Lab 13 - Docker</title>
     <id>/labs/lab-13-docker</id>
-    <updated>2019-11-19T23:36:59-05:00</updated>
+    <updated>2019-11-19T23:45:01-05:00</updated>
     <published>2019-11-19T22:56:24-05:00</published>
     <summary>For lab this week, we'll use directions our guest has put together to deploy different services via docker to better understand Functions as a Service technology as well as a bit of how docker infrast</summary>
     <link href="/labs/lab-13-docker"/>
@@ -55,6 +55,14 @@
 <h2>Submission</h2>
 <p>Add your video to the <b>#lab13-docker</b>
  slack channel.</p>
+<h2>Evaluation rubric</h2>
+<ul><li>Did you demonstrate installing either application in Play with Docker? <b>(5pts)</b>
+</li>
+<li>Did you explain the difference between Containers and Virtual Machines or what Functions as a Service is with examples? <b>(4pts)</b>
+</li>
+<li>Did you submit your video to the channel? <b>(1pt)</b>
+</li>
+</ul>
  ]]>
     </content>
   </entry>
