@@ -1203,10 +1203,22 @@
             "order": "12",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "Lab 13 - Docker",
-            "description": "",
+            "description": "For lab this week, we'll use directions our guest has put together to deploy different services via docker to better understand Functions as a Service technology as well as a bit of how docker infrast",
             "metadata": {
                 "created": 1574222184,
-                "updated": 1574222204
+                "updated": 1574224619,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 5,
+                    "paragraphs": 6,
+                    "schema": [],
+                    "tags": {
+                        "p": 6,
+                        "h2": 5,
+                        "ul": 1
+                    },
+                    "elements": 12
+                }
             }
         },
         {
