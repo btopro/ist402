@@ -140,11 +140,11 @@
             "description": "This is the approved, boring version of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.My name is Bryan Ollendyke and I've been living working ",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1574222204,
+                "updated": 1575497292,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 8,
+                    "paragraphs": 9,
                     "schema": [
                         {
                             "resource": "#0e8a5bdc-121d-e719-bbe6",
@@ -152,10 +152,10 @@
                         }
                     ],
                     "tags": {
-                        "p": 8,
+                        "p": 9,
                         "a11y-gif-player": 1
                     },
-                    "elements": 9
+                    "elements": 10
                 },
                 "files": [
                     {
