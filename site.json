@@ -1279,16 +1279,18 @@
             "description": "The last week of the semester there will be a slightly longer lab that I'm calling a project. You'll have to put together a pitch for one of multiple problem spaces but it's a technical pitch. You'll ",
             "metadata": {
                 "created": 1565968185,
-                "updated": 1574222204,
-                "readtime": 1,
+                "updated": 1575492312,
+                "readtime": 2,
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 2,
+                    "headings": 6,
+                    "paragraphs": 21,
                     "schema": [],
                     "tags": {
-                        "p": 2
+                        "p": 21,
+                        "h2": 6,
+                        "ul": 1
                     },
-                    "elements": 2
+                    "elements": 28
                 }
             }
         },
