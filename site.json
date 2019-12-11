@@ -2,7 +2,7 @@
     "id": "0e28ad66-e00f-4033-ae3e-4692f6f5a73e",
     "title": "ist402",
     "author": "",
-    "description": "IST 402 course content space",
+    "description": "Emerging Web Technologies and activism",
     "license": "by-sa",
     "metadata": {
         "author": {
@@ -14,7 +14,7 @@
         "site": {
             "name": "ist402",
             "created": 1565898366,
-            "updated": 1574222204,
+            "updated": 1576093114,
             "git": {
                 "autoPush": false,
                 "branch": "master",
@@ -23,7 +23,7 @@
                 "publicRepoUrl": "https:\/\/github.com\/btopro\/ist402\/blob\/master\/",
                 "url": "git@github.com:btopro\/ist402.git"
             },
-            "version": "0.12.2",
+            "version": "0.12.3",
             "domain": "",
             "logo": "files\/IMG_20190823_102434 2.jpg",
             "static": {
