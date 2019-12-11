@@ -44,15 +44,7 @@ var precacheConfig = [
     ],
     [
         "pages\/welcome\/welcome\/about-the-instructor\/index.html",
-        "IoHvAz6PNVOI3Zt4EOX4sA"
-    ],
-    [
-        "pages\/resources\/screencasting\/index.html",
-        "P5kOlxbSn3jXlfzBcYEPA"
-    ],
-    [
-        "pages\/topics\/building-your-digital-identity\/index.html",
-        "x6eY3zU0MCYDxffHW9aYQ"
+        "QxhdVzzeC1aicNidHvRNQ"
     ],
     [
         "pages\/labs\/building-your-digital-identity\/index.html",
@@ -63,12 +55,20 @@ var precacheConfig = [
         "oSO1wLHPY5YJXnnuGSO8A"
     ],
     [
-        "pages\/syllabus\/index.html",
-        "e1scIo9JuTJosBTwTpr1zA"
+        "pages\/topics\/building-your-digital-identity\/index.html",
+        "x6eY3zU0MCYDxffHW9aYQ"
+    ],
+    [
+        "pages\/resources\/screencasting\/index.html",
+        "P5kOlxbSn3jXlfzBcYEPA"
     ],
     [
         "pages\/labs\/lab-6-wordpress\/scenario-2\/index.html",
         "xJnbxu0fn0N0aDiHsaqA"
+    ],
+    [
+        "pages\/syllabus\/index.html",
+        "e1scIo9JuTJosBTwTpr1zA"
     ],
     [
         "pages\/labs\/git\/index.html",
@@ -79,8 +79,20 @@ var precacheConfig = [
         "FbC4YGenH2Y8f0F6nqsw"
     ],
     [
+        "pages\/resources\/past-student-work\/index.html",
+        "KBXJBAlZdWw2BbMAksiguQ"
+    ],
+    [
         "pages\/question-driven-teaching\/index.html",
         "8LGj6KFqiZqmP5gN4yAipA"
+    ],
+    [
+        "pages\/materials\/index.html",
+        "V5z3PULRHzhQns8xXgL9w"
+    ],
+    [
+        "pages\/labs\/html-css-js-web-basics\/index.html",
+        "TZbceAYfdtufOrWO3ySdzQ"
     ],
     [
         "pages\/topics\/html-css-js-web-basics\/index.html",
@@ -89,14 +101,6 @@ var precacheConfig = [
     [
         "pages\/labs\/lab-6-wordpress\/submitting-the-lab\/index.html",
         "gRT6cagqucIOh9mt8DihGQ"
-    ],
-    [
-        "pages\/labs\/html-css-js-web-basics\/index.html",
-        "TZbceAYfdtufOrWO3ySdzQ"
-    ],
-    [
-        "pages\/materials\/index.html",
-        "V5z3PULRHzhQns8xXgL9w"
     ],
     [
         "pages\/topics\/webcomponents\/index.html",
@@ -111,16 +115,20 @@ var precacheConfig = [
         "eMo2lI1u0JeCTdZYVyXA"
     ],
     [
+        "pages\/topics\/gravcms\/index.html",
+        "Lz897JCc3vYkuVtO3Ibg"
+    ],
+    [
         "pages\/class-time-together\/index.html",
         "2UsfxtmRfE4cCEGSUqDVBw"
     ],
     [
-        "pages\/topics\/gravcms\/index.html",
-        "Q4iTsrlijB68PH3Z16WrYw"
-    ],
-    [
         "pages\/labs\/lab-5-gravcms\/index.html",
         "5l5zwNzeWbiSe8L4owiEhA"
+    ],
+    [
+        "pages\/topics\/wordpress\/index.html",
+        "MkTB23EinjgR0DroRdw"
     ],
     [
         "pages\/after-class-reflection\/index.html",
@@ -131,20 +139,64 @@ var precacheConfig = [
         "5ZhQXqDoAuyEvEjegxw3tQ"
     ],
     [
-        "pages\/topics\/wordpress\/index.html",
-        "oR5ZuwXuJmvgNvuhNtG2qA"
-    ],
-    [
         "pages\/technologies-we-explore\/index.html",
         "cmqfd8jaG10H8thH9CaQ"
     ],
     [
+        "pages\/topics\/drupal\/index.html",
+        "qmHrkKcetLcA4XYxBL2BvQ"
+    ],
+    [
+        "pages\/labs\/lab-7-drupal\/index.html",
+        "FkYeN1cXk4fdSB1dnzZg"
+    ],
+    [
+        "pages\/labs\/lab-8-midterm-no-lab\/index.html",
+        "mW0w2IHwXF4OXzA4nliIA"
+    ],
+    [
+        "pages\/topics\/haxtheweb\/index.html",
+        "QlX5KYwS0nM8qeNrt8IEg"
+    ],
+    [
         "pages\/topics\/index.html",
-        "BqyFjrP8MrvrOufR7RMw4g"
+        "xRxPa7r10Eu4QZ7siv7ww"
+    ],
+    [
+        "pages\/topics\/accessibility-1\/index.html",
+        "WF4CGfRjrVMk286KkFiw"
+    ],
+    [
+        "pages\/topics\/accessible-design\/index.html",
+        "8tPoaqm4VRhoSfWfGhnJXA"
+    ],
+    [
+        "pages\/topics\/container\/index.html",
+        "eRLBfPNoZi7sg4i4bknWg"
     ],
     [
         "pages\/labs\/index.html",
         "aQKNQ6jZVg7OBSvi4xbeRw"
+    ],
+    [
+        "pages\/labs\/lab-9-drupal-again\/index.html",
+        "qB96nXVFwSPQy1GbdDh7g"
+    ],
+    [
+        "pages\/labs\/labs\/lab-10-haxtheweb\/index.html",
+        "wNRy7QKU0SyKdtIzWbQ"
+    ],
+    [
+        "pages\/labs\/lab-11-accessibility\/index.html",
+        "RUQYU4YtOK4b0OIu6ZP28Q"
+    ],
+    [
+        "pages\/labs\/lab-12-accessible-design\/index.html",
+        "ancBDkKt3cj1hnPCnts4Vw"
+    ],
+    [
+        "pages\/labs\/lab-13-docker\/index.html",
+        "bOo16oV73il4XivvjV4Uw"
     ],
     [
         "pages\/feedback\/index.html",
@@ -152,11 +204,11 @@ var precacheConfig = [
     ],
     [
         "pages\/mid-term-review\/index.html",
-        "Z6lKyvqX9SUcpR6Jjxni1g"
+        "T16Z0XKLbsxpoXd4vbTWKg"
     ],
     [
         "pages\/project\/index.html",
-        "KeDtGEUVlw0f9ZSDdVKfHw"
+        "JaCupUkzysqPPhiCNdfySQ"
     ],
     [
         "pages\/resources\/index.html",
@@ -164,7 +216,7 @@ var precacheConfig = [
     ],
     [
         "index.html",
-        "tI74TTDVG5vUuIuhDt5Wjw"
+        "TIPfmGXbXA9aLrH48CD3sA"
     ],
     [
         "files\/haxcms-managed\/512x512-IMG_20190823_102434 2.jpg",
@@ -216,11 +268,11 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "4RD9fHy6zoOdNAOUpxx0Bw"
+        "z6vnfdfn3pVIb1nCB5wAvg"
     ],
     [
         "404.html",
-        "dSqOj2FfwLtvzh03W3Gyg"
+        "QEzLbAYRfRrqwxyIGIpfNQ"
     ],
     [
         "files\/giphy.gif",
@@ -229,6 +281,10 @@ var precacheConfig = [
     [
         "files\/ECrfY0IXUAA4qsQ.jpeg",
         "V5eA5Y3sQYGZuNDwfYH67Q"
+    ],
+    [
+        "files\/IMG_20191017_155041.jpg",
+        "5SzrIYI0JNkQyqvRpmoQ"
     ],
     [
         "files\/headshot63573.249999994005.jpg",
@@ -241,6 +297,14 @@ var precacheConfig = [
     [
         "files\/IMG_20190823_102434 2.jpg",
         "78cjrqsJ4FniDgCxzAsQ"
+    ],
+    [
+        "files\/courselinks.csv",
+        "jtdJk0jfp7UiJLt9HalpWA"
+    ],
+    [
+        "files\/Untitled Diagram (1).jpg",
+        "6KKngDHrAMcpdYCtOmT5A"
     ],
     [
         "files\/2019-08-24_15-21-52.png",

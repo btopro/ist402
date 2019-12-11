@@ -7,15 +7,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <?php print $site->getSiteMetadata($page); ?>
-  <link rel="preload" href="./build/es6/dist/build.js" as="script" crossorigin="anonymous">
-  <link rel="preload" href="./custom/build/custom.es6.js" as="script" crossorigin="anonymous">
-  <link rel="preload" href="./build/es6/node_modules/@lrnwebcomponents/haxcms-elements/lib/core/haxcms-site-builder.js"
-    as="script" crossorigin="anonymous">
-  <link rel="preload" href="./build/es6/dist/my-custom-elements.js" as="script" crossorigin="anonymous">
-  <link rel="preload" href="./build/es6/node_modules/@lrnwebcomponents/haxcms-elements/lib/base.css" as="style">
-  <link rel="preload" href="./theme/theme.css" as="style">
   <?php print $site->getBaseTag(); ?>
+  <?php print $site->getSiteMetadata($page); ?>
   <?php print $site->getServiceWorkerScript(null, FALSE, $site->getServiceWorkerStatus()); ?>
   <style>
     body {
@@ -23,7 +16,6 @@
       min-height: 100vh;
     }
     haxcms-site-builder {
-      transition: all 1s linear;
       display: block;
     }
     haxcms-site-builder:not(:defined) div.loading {
@@ -133,6 +125,12 @@
       if (path) {
         document.getElementById('content').src = 'pages/' + path + '/index.html';
       }
+    }
+    if (!old) {
+      // kill fallback methods if we aren't old
+      document.body.removeChild(
+        document.getElementById("haxcmsoutdatedfallback")
+      );
     }
     var link = document.createElement('link');
     link.rel = 'stylesheet';
