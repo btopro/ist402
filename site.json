@@ -137,14 +137,14 @@
             "order": "0",
             "parent": "item-5453b40a-ddd9-4381-a856-e70a7a2ef4d0",
             "title": "About the instructor (boring)",
-            "description": "This is the approved,           BLUUUUEEE BOOOOOKof who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.My name is Bryan Ollendyke and I've be",
+            "description": "This is the approved, boring version of this course.My name is Bryan Ollendyke and I've been living working at Penn State since 2007. I did my undergrad in IST and was able to get a job working in ",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1576093324,
+                "updated": 1576093434,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 10,
+                    "paragraphs": 9,
                     "schema": [
                         {
                             "resource": "#0e8a5bdc-121d-e719-bbe6",
@@ -152,11 +152,10 @@
                         }
                     ],
                     "tags": {
-                        "p": 10,
-                        "ul": 1,
+                        "p": 9,
                         "a11y-gif-player": 1
                     },
-                    "elements": 12
+                    "elements": 10
                 },
                 "files": [
                     {
