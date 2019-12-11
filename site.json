@@ -475,20 +475,25 @@
             "order": "2",
             "parent": null,
             "title": "Materials",
-            "description": "There are no required course materials in the textbook form but there are digital services you'll need to purchase for one of our Labs which will have usage in multiple labs in the future. These servi",
+            "description": "There are no required course materials in the textbook form but there are digital services you'll need to purchase for one of our Labs which will have usage in multiple labs in the future.We use Recl",
             "metadata": {
                 "created": 1566846015,
-                "updated": 1576098530,
+                "updated": 1576098812,
                 "readtime": 1,
                 "contentDetails": {
-                    "headings": 1,
-                    "paragraphs": 5,
-                    "schema": [],
+                    "headings": 0,
+                    "paragraphs": 3,
+                    "schema": [
+                        {
+                            "resource": "#a33f64d8-a221-cca3-dfd1",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
                     "tags": {
-                        "p": 5,
-                        "h3": 1
+                        "p": 3,
+                        "self-check": 1
                     },
-                    "elements": 6
+                    "elements": 4
                 },
                 "files": [
                     {
