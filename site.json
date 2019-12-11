@@ -478,17 +478,17 @@
             "description": "There are no required course materials in the textbook form but there are digital services you'll need to purchase for one of our Labs which will have usage in multiple labs in the future. These servi",
             "metadata": {
                 "created": 1566846015,
-                "updated": 1574222204,
+                "updated": 1576098530,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 1,
-                    "paragraphs": 6,
+                    "paragraphs": 5,
                     "schema": [],
                     "tags": {
-                        "p": 6,
+                        "p": 5,
                         "h3": 1
                     },
-                    "elements": 7
+                    "elements": 6
                 }
             }
         },
