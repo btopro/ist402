@@ -137,14 +137,14 @@
             "order": "0",
             "parent": "item-5453b40a-ddd9-4381-a856-e70a7a2ef4d0",
             "title": "About the instructor (boring)",
-            "description": "This is the approved,   of who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.My name is Bryan Ollendyke and I've been living working at Penn St",
+            "description": "This is the approved,           BLUUUUEEE BOOOOOKof who I am. If you found this page, bring it up in class and you'll be rewarded with a crisp high five.My name is Bryan Ollendyke and I've be",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1576093267,
+                "updated": 1576093324,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 9,
+                    "paragraphs": 10,
                     "schema": [
                         {
                             "resource": "#0e8a5bdc-121d-e719-bbe6",
@@ -152,10 +152,11 @@
                         }
                     ],
                     "tags": {
-                        "p": 9,
+                        "p": 10,
+                        "ul": 1,
                         "a11y-gif-player": 1
                     },
-                    "elements": 10
+                    "elements": 12
                 },
                 "files": [
                     {
