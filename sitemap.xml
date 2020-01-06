@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- generator-class="Icamys\SitemapGenerator\SitemapGenerator" -->
 <!-- generator-version="1.1.0" -->
-<!-- generated-on="2020-01-06T12:25:44-05:00" -->
+<!-- generated-on="2020-01-06T12:25:56-05:00" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>/welcome</loc>
@@ -113,7 +113,7 @@
   </url>
   <url>
     <loc>/labs/webcomponents-1</loc>
-    <lastmod>2019-11-19T22:56:44-05:00</lastmod>
+    <lastmod>2020-01-06T12:25:56-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
