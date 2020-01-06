@@ -1326,19 +1326,19 @@
             "order": "12",
             "parent": null,
             "title": "Resources",
-            "description": "This list will keep growingGithub - Popular code sharing spaceSlack - Popular productivity hub \/ collaboration locationDigital Ocean - Easy to use server environmentHover \/ Google Domains",
+            "description": "Github - Popular code sharing spaceSlack - Popular productivity hub \/ collaboration locationReclaim Hosting - Reclaim hosting, very easy to use hosting provider to experimentCodePen - Great pla",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1574222204,
+                "updated": 1578331148,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 7,
+                    "paragraphs": 6,
                     "schema": [],
                     "tags": {
-                        "p": 7
+                        "p": 6
                     },
-                    "elements": 7
+                    "elements": 6
                 }
             }
         }
