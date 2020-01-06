@@ -1014,14 +1014,14 @@
             "order": "8",
             "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
             "title": "Accessibility",
-            "description": "My slides from class. Sonya Wood's accessibility talk in class.We'll have a guest speaker. Sonya Woods will be here to talk about Accessibility.",
+            "description": "My slides from class. Sonya Wood's accessibility talk in class.",
             "metadata": {
                 "created": 1572470485,
-                "updated": 1574222204,
+                "updated": 1578331303,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 2,
+                    "paragraphs": 1,
                     "schema": [
                         {
                             "resource": "#bc676c7d-31ce-58d0-f485",
@@ -1029,10 +1029,10 @@
                         }
                     ],
                     "tags": {
-                        "p": 2,
+                        "p": 1,
                         "a11y-gif-player": 1
                     },
-                    "elements": 3
+                    "elements": 2
                 }
             }
         },
