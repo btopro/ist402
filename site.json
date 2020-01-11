@@ -2,7 +2,7 @@
     "id": "0e28ad66-e00f-4033-ae3e-4692f6f5a73e",
     "title": "ist402",
     "author": "",
-    "description": "Emerging Web Technologies and activism",
+    "description": "Web Technologies and Activism",
     "license": "by-sa",
     "metadata": {
         "author": {
@@ -14,7 +14,7 @@
         "site": {
             "name": "ist402",
             "created": 1565898366,
-            "updated": 1576093114,
+            "updated": 1578705785,
             "git": {
                 "autoPush": false,
                 "branch": "master",
