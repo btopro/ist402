@@ -40,15 +40,15 @@
 var precacheConfig = [
     [
         "pages\/welcome\/index.html",
-        "OKQ4JQnilVDzrGMvvm17w"
+        "P5DOkEss3bofDpVpIdzAFg"
     ],
     [
         "pages\/welcome\/welcome\/about-the-instructor\/index.html",
-        "QxhdVzzeC1aicNidHvRNQ"
+        "zMNdTPJZx6tW26D5uqpErQ"
     ],
     [
         "pages\/labs\/building-your-digital-identity\/index.html",
-        "Tw2fIiyqAY7d9pQACmg2Q"
+        "qzOPMvWg1pzZbdfcTQS3Aw"
     ],
     [
         "pages\/labs\/lab-6-wordpress\/scenario-1\/index.html",
@@ -60,7 +60,7 @@ var precacheConfig = [
     ],
     [
         "pages\/resources\/screencasting\/index.html",
-        "P5kOlxbSn3jXlfzBcYEPA"
+        "B0z49v8pyfKVkjy3gUaGdA"
     ],
     [
         "pages\/labs\/lab-6-wordpress\/scenario-2\/index.html",
@@ -68,11 +68,11 @@ var precacheConfig = [
     ],
     [
         "pages\/syllabus\/index.html",
-        "e1scIo9JuTJosBTwTpr1zA"
+        "Ww76FygK9cLNzGyYWM8Lvg"
     ],
     [
         "pages\/labs\/git\/index.html",
-        "fJYbvu9nkMCpLbP7N7UKbg"
+        "WCBdWn38JJ2kSfajdjTwg"
     ],
     [
         "pages\/topics\/git\/index.html",
@@ -88,11 +88,11 @@ var precacheConfig = [
     ],
     [
         "pages\/materials\/index.html",
-        "V5z3PULRHzhQns8xXgL9w"
+        "mdQtLka1tcOrr7tRU0OA0w"
     ],
     [
         "pages\/labs\/html-css-js-web-basics\/index.html",
-        "TZbceAYfdtufOrWO3ySdzQ"
+        "TgDJfsyn4vJ02clI8j2sZg"
     ],
     [
         "pages\/topics\/html-css-js-web-basics\/index.html",
@@ -112,7 +112,7 @@ var precacheConfig = [
     ],
     [
         "pages\/labs\/webcomponents-1\/index.html",
-        "eMo2lI1u0JeCTdZYVyXA"
+        "v4nLd1Bxxwyby1sGNEuwg"
     ],
     [
         "pages\/topics\/gravcms\/index.html",
@@ -160,11 +160,11 @@ var precacheConfig = [
     ],
     [
         "pages\/topics\/index.html",
-        "xRxPa7r10Eu4QZ7siv7ww"
+        "NcR8bYpDWppcnRSqrZ46cg"
     ],
     [
         "pages\/topics\/accessibility-1\/index.html",
-        "WF4CGfRjrVMk286KkFiw"
+        "TW2SscAdklrJztKZLUG5Zg"
     ],
     [
         "pages\/topics\/accessible-design\/index.html",
@@ -184,7 +184,7 @@ var precacheConfig = [
     ],
     [
         "pages\/labs\/labs\/lab-10-haxtheweb\/index.html",
-        "wNRy7QKU0SyKdtIzWbQ"
+        "kkLpHqHJrDGbhND0HHEWQ"
     ],
     [
         "pages\/labs\/lab-11-accessibility\/index.html",
@@ -208,11 +208,11 @@ var precacheConfig = [
     ],
     [
         "pages\/project\/index.html",
-        "JaCupUkzysqPPhiCNdfySQ"
+        "VIXF9XpUub59ESGRWYLYYg"
     ],
     [
         "pages\/resources\/index.html",
-        "xeFmXcv8K33OWqwMU5LdJw"
+        "daSh1lLvunsQFqD9KFLVzw"
     ],
     [
         "index.html",
@@ -268,7 +268,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "z6vnfdfn3pVIb1nCB5wAvg"
+        "0aGfyE4k3zGnaQRRT4cS0A"
     ],
     [
         "404.html",
@@ -289,6 +289,10 @@ var precacheConfig = [
     [
         "files\/headshot63573.249999994005.jpg",
         "PFCaIImGUxgZQdbPRnc1fg"
+    ],
+    [
+        "files\/RH-VHS-Logo-Blue-with-Orange-620x394-nqnrgrvruqaafj3kts3ak8jyhc9fgbvks86drh3eek-1.png",
+        "RkM8wN4a4REWkKRJ0UZQ"
     ],
     [
         "files\/headshot.jpg",
