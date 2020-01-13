@@ -1097,7 +1097,7 @@ of your </span><span style="font-variant-numeric: normal; font-variant-east-asia
       <pubDate>Wed, 25 Sep 2019 11:00:10 -0400</pubDate>
     </item>
     <item>
-      <title>Lab 4 - Webcomponents</title>
+      <title>W12 Webcomponents</title>
       <link>/labs/webcomponents-1</link>
       <description>
           <![CDATA[ <p>For this lab we're going to look at a few different services that are like codepen but allow for more advanced use-cases and development to support web components (and other front end languages).</p>
