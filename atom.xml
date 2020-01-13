@@ -3,7 +3,7 @@
   <title>ist402</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>Web Technologies and Activism</subtitle>
-  <updated>2020-01-13T12:41:58-05:00</updated>
+  <updated>2020-01-13T12:43:13-05:00</updated>
   <author>
       <name></name>
   </author>
@@ -141,11 +141,27 @@
     </content>
   </entry>
   <entry>
-    <title>Lab 11 - Accessibility</title>
-    <id>/labs/lab-11-accessibility</id>
+    <title>Accessibility</title>
+    <id>/topics/accessibility-1</id>
     <updated>2020-01-13T12:43:13-05:00</updated>
     <published>2019-10-30T17:21:25-04:00</published>
-    <summary>Web accessibility is just one piece of the accessibility pie but we're attuned to its importance. The next thing though is how do we use tools to help build more accessible things and remediate what w</summary>
+    <summary>My slides from class. Sonya Wood's accessibility talk in class.</summary>
+    <link href="/topics/accessibility-1"/>
+    
+    <content type="html">
+      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/lecture11-accessibility">My slides from class</a>
+. <a href="https://www.slideshare.net/btopro/ist-402-presentation-by-sonya">Sonya Wood's accessibility talk</a>
+ in class.</p>
+<a11y-gif-player src="https://media1.giphy.com/media/26u4eMlvKoTn7DfvG/giphy.gif" src-without-animation="https://media3.giphy.com/media/26u4eMlvKoTn7DfvG/480w_s.jpg" alt="Wheel chair user slowly being lowered by kegs down a ramp" schema-resource-id="#bc676c7d-31ce-58d0-f485" resource="#bc676c7d-31ce-58d0-f485" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 75%; margin: 0px auto; display: block;" tooltip="Toggle animation"></a11y-gif-player>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Accessibility</title>
+    <id>/labs/lab-11-accessibility</id>
+    <updated>2020-01-13T12:43:25-05:00</updated>
+    <published>2019-10-30T17:21:25-04:00</published>
+    <summary>Web accessibility is just one piece of the accessibility pie but we&#39;re attuned to its importance. The next thing though is how do we use tools to help build more accessible things and remediate what w</summary>
     <link href="/labs/lab-11-accessibility"/>
     
     <content type="html">
@@ -202,35 +218,6 @@ to understand issues and see what real reports look and feel like</p>
 </p>
 <p>Post link to page in HAXcms site with the video included in<b> #lab11-accessibility</b>
 </p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Accessibility</title>
-    <id>/topics/accessibility-1</id>
-    <updated>2020-01-13T12:43:13-05:00</updated>
-    <published>2019-10-30T17:21:25-04:00</published>
-    <summary>My slides from class. Sonya Wood's accessibility talk in class.</summary>
-    <link href="/topics/accessibility-1"/>
-    
-    <content type="html">
-      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/lecture11-accessibility">My slides from class</a>
-. <a href="https://www.slideshare.net/btopro/ist-402-presentation-by-sonya">Sonya Wood's accessibility talk</a>
- in class.</p>
-<a11y-gif-player src="https://media1.giphy.com/media/26u4eMlvKoTn7DfvG/giphy.gif" src-without-animation="https://media3.giphy.com/media/26u4eMlvKoTn7DfvG/480w_s.jpg" alt="Wheel chair user slowly being lowered by kegs down a ramp" schema-resource-id="#bc676c7d-31ce-58d0-f485" resource="#bc676c7d-31ce-58d0-f485" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 75%; margin: 0px auto; display: block;" tooltip="Toggle animation"></a11y-gif-player>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Exam</title>
-    <id>/labs/lab-8-midterm-no-lab</id>
-    <updated>2020-01-13T12:43:13-05:00</updated>
-    <published>2019-10-23T14:38:05-04:00</published>
-    <summary>Midterm was during Lab 8 and as a result there was no lab, enjoy the week catching up on past labs as needed.</summary>
-    <link href="/labs/lab-8-midterm-no-lab"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Midterm was during Lab 8 and as a result there was no lab, enjoy the week catching up on past labs as needed.</p>
  ]]>
     </content>
   </entry>
@@ -302,6 +289,19 @@ correctly of the organization and has poor permission support within those roles
 </h2>
 <p><font face="Space Mono">Post in the #lab9-drupal-again channel with a link to your site for me to test. On the homepage of your site include a link / embed your video about the topic of the week</font>
 </p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Exam</title>
+    <id>/labs/lab-8-midterm-no-lab</id>
+    <updated>2020-01-13T12:43:13-05:00</updated>
+    <published>2019-10-23T14:38:05-04:00</published>
+    <summary>Midterm was during Lab 8 and as a result there was no lab, enjoy the week catching up on past labs as needed.</summary>
+    <link href="/labs/lab-8-midterm-no-lab"/>
+    
+    <content type="html">
+      <![CDATA[ <p>Midterm was during Lab 8 and as a result there was no lab, enjoy the week catching up on past labs as needed.</p>
  ]]>
     </content>
   </entry>
@@ -897,6 +897,22 @@ complexity and learning curve</span></li>
     </content>
   </entry>
   <entry>
+    <title>Exam review</title>
+    <id>/mid-term-review</id>
+    <updated>2020-01-13T12:43:13-05:00</updated>
+    <published>2019-10-01T14:02:52-04:00</published>
+    <summary>See slides from topic 7 on Drupal. There are several examples with answers in the front of the slide deck you can use to review the types of questions you&#39;ll be asked.This is an &#34;open web&#34; review. T</summary>
+    <link href="/mid-term-review"/>
+    
+    <content type="html">
+      <![CDATA[ <p>See slides from <a href="topics/drupal">topic 7 on Drupal</a>
+. There are several examples with answers in the front of the slide deck you can use to review the types of questions you'll be asked.</p>
+<p>This is an "open web" review. The real world you can google things if you get stuck and this is no different. Now, you can't take credit for other people's work in my class or IRL, so the TA will be proctoring this exam and ensuring that everyone's responsible for their own work.</p>
+<p>After the exam please answer the course survey questions to give us feedback on how class has done so far and where to go.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>ClassicPress / WordPress</title>
     <id>/topics/wordpress</id>
     <updated>2020-01-13T12:43:13-05:00</updated>
@@ -920,18 +936,33 @@ complexity and learning curve</span></li>
     </content>
   </entry>
   <entry>
-    <title>Exam review</title>
-    <id>/mid-term-review</id>
+    <title>GravCMS</title>
+    <id>/topics/gravcms</id>
     <updated>2020-01-13T12:43:13-05:00</updated>
-    <published>2019-10-01T14:02:52-04:00</published>
-    <summary>See slides from topic 7 on Drupal. There are several examples with answers in the front of the slide deck you can use to review the types of questions you&#39;ll be asked.This is an &#34;open web&#34; review. T</summary>
-    <link href="/mid-term-review"/>
+    <published>2019-09-25T11:00:10-04:00</published>
+    <summary>Slides about CPanel & GravCMS from classThis week kicks off Reclaim hosting and our Content Management System section of the course. We're going to be covering four different content management sys</summary>
+    <link href="/topics/gravcms"/>
     
     <content type="html">
-      <![CDATA[ <p>See slides from <a href="topics/drupal">topic 7 on Drupal</a>
-. There are several examples with answers in the front of the slide deck you can use to review the types of questions you'll be asked.</p>
-<p>This is an "open web" review. The real world you can google things if you get stuck and this is no different. Now, you can't take credit for other people's work in my class or IRL, so the TA will be proctoring this exam and ensuring that everyone's responsible for their own work.</p>
-<p>After the exam please answer the course survey questions to give us feedback on how class has done so far and where to go.</p>
+      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/grav-cms">Slides about CPanel & GravCMS from class</a>
+</p>
+<p>This week kicks off <a href="https://reclaimhosting.com/">Reclaim hosting</a>
+ and our Content Management System section of the course. We're going to be covering four different content management systems in this section of the course leveraging <a href="https://reclaimhosting.com/">Reclaim hosting</a>
+ to skip a lot of the tediousness of setting up and playing with a CMS.</p>
+<p>We'll talk about CPanel in the high level as far as what function it provides and navigate some of the parts of it a bit, though it won't be the focus. CPanel has been around forever (in web terms) and is still a powerful way to abstract away the complexity of managing servers and get you access to installing apps via a nice UI and mild technical knowledge.</p>
+<p>Listing CMS "Site building" skills on a resume is a sure fire way to get noticed by certain companies looking for people who can hit the ground running with their internal systems. It demonstrates that you know how to navigate technical systems and can be taught out to administer them (potentially).</p>
+<p>It's also a bit crazy as CMSs really are just big storage houses of information with text editors and other UIs that help streamline getting large groups of media and content on the web. The crazy part is, this really isn't that hard to do (as we'll demonstrate through these units) but a lot of people are so afraid of them that they won't touch them.</p>
+<p>Master any one of these popular CMSs coming up (especially Drupal coming up) and you'll stand out in any organization that manages web projects or interfaces regularly with the web properties of the company directly.</p>
+<h2>Links and resources for working with GravCMS</h2>
+<ul><li><a href="https://learn.getgrav.org/16/basics/basic-tutorial">GravCMS documentation</a>
+ (Basic tutorial of working with it)</li>
+<li><a href="https://getgrav.org/">GravCMS homepage</a>
+</li>
+<li><a href="https://getgrav.org/downloads/plugins">GravCMS plugin listing</a>
+</li>
+<li><a href="https://github.com/getgrav">Grav community on Github</a>
+</li>
+</ul>
  ]]>
     </content>
   </entry>
@@ -1108,37 +1139,6 @@ of your </span><span style="font-variant-numeric: normal; font-variant-east-asia
     </content>
   </entry>
   <entry>
-    <title>GravCMS</title>
-    <id>/topics/gravcms</id>
-    <updated>2020-01-13T12:43:13-05:00</updated>
-    <published>2019-09-25T11:00:10-04:00</published>
-    <summary>Slides about CPanel & GravCMS from classThis week kicks off Reclaim hosting and our Content Management System section of the course. We're going to be covering four different content management sys</summary>
-    <link href="/topics/gravcms"/>
-    
-    <content type="html">
-      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/grav-cms">Slides about CPanel & GravCMS from class</a>
-</p>
-<p>This week kicks off <a href="https://reclaimhosting.com/">Reclaim hosting</a>
- and our Content Management System section of the course. We're going to be covering four different content management systems in this section of the course leveraging <a href="https://reclaimhosting.com/">Reclaim hosting</a>
- to skip a lot of the tediousness of setting up and playing with a CMS.</p>
-<p>We'll talk about CPanel in the high level as far as what function it provides and navigate some of the parts of it a bit, though it won't be the focus. CPanel has been around forever (in web terms) and is still a powerful way to abstract away the complexity of managing servers and get you access to installing apps via a nice UI and mild technical knowledge.</p>
-<p>Listing CMS "Site building" skills on a resume is a sure fire way to get noticed by certain companies looking for people who can hit the ground running with their internal systems. It demonstrates that you know how to navigate technical systems and can be taught out to administer them (potentially).</p>
-<p>It's also a bit crazy as CMSs really are just big storage houses of information with text editors and other UIs that help streamline getting large groups of media and content on the web. The crazy part is, this really isn't that hard to do (as we'll demonstrate through these units) but a lot of people are so afraid of them that they won't touch them.</p>
-<p>Master any one of these popular CMSs coming up (especially Drupal coming up) and you'll stand out in any organization that manages web projects or interfaces regularly with the web properties of the company directly.</p>
-<h2>Links and resources for working with GravCMS</h2>
-<ul><li><a href="https://learn.getgrav.org/16/basics/basic-tutorial">GravCMS documentation</a>
- (Basic tutorial of working with it)</li>
-<li><a href="https://getgrav.org/">GravCMS homepage</a>
-</li>
-<li><a href="https://getgrav.org/downloads/plugins">GravCMS plugin listing</a>
-</li>
-<li><a href="https://github.com/getgrav">Grav community on Github</a>
-</li>
-</ul>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Lab 4 - Webcomponents</title>
     <id>/labs/webcomponents-1</id>
     <updated>2020-01-13T12:43:13-05:00</updated>
@@ -1230,44 +1230,6 @@ to frame your writing and video response:
     </content>
   </entry>
   <entry>
-    <title>Lab 3 - HTML / CSS / JS Web basics</title>
-    <id>/labs/html-css-js-web-basics</id>
-    <updated>2020-01-13T12:43:13-05:00</updated>
-    <published>2019-09-09T16:53:00-04:00</published>
-    <summary>Lab 3For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in the future so w</summary>
-    <link href="/labs/html-css-js-web-basics"/>
-    
-    <content type="html">
-      <![CDATA[ <h3>Lab 3</h3>
-<p>For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in the future so we'll keep the JS brief for this one.</p>
-<p><a href="https://codepen.io/btopro/pen/zYOWqKZ">Exercise Pen</a>
-: <span>Fork this Pen and we can follow along together in class.</span></p>
-<h2>Lab Pen</h2>
-<p>For this lab, I want you to modify <b>one of these</b>
- <b>pens</b>
- in order to make the resume reflect your own information. There's a <i>beginner Pen</i>
- and a more <i>advanced pen</i>
-.</p>
-<p><a href="https://codepen.io/btopro/pen/GRKQVBx?editors=1000">Beginner Pen</a>
-: Personal Resume which contains hints and directions inside</p>
-<p><a href="https://codepen.io/btopro/pen/GRKxKgX?editors=1000">Advanced Pen</a>
-: no instructions and a slightly more advanced design. Use this to challenge yourself or if you've previously written HTML to make something more useful.</p>
-<h3>Reflection Pen</h3>
-<p><a href="https://codepen.io/btopro/pen/KKPozvd">FORK THIS PEN</a>
-: For reflection this week I want you to fork this pen and write your response using HTML. For the topic this week pick one of the following:</p>
-<ul><li>Explaining how to apply styling to an element in <b>CSS</b>
-</li>
-<li>Explain how to use JavaScript and <b>getElementById</b>
- to add a <i>click event to</i>
- an element in an existing codepen that generates an alert saying <b>Hello</b>
-</li>
-<li><i>Value of CodePen as a platform</i>
- to learn coding by finding an inspiring pen and explain what's going on.</li>
-</ul>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>HTML / CSS / JS Web basics</title>
     <id>/topics/html-css-js-web-basics</id>
     <updated>2020-01-13T12:43:13-05:00</updated>
@@ -1322,6 +1284,44 @@ to frame your writing and video response:
 
 
 
+</ul>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Lab 3 - HTML / CSS / JS Web basics</title>
+    <id>/labs/html-css-js-web-basics</id>
+    <updated>2020-01-13T12:43:13-05:00</updated>
+    <published>2019-09-09T16:53:00-04:00</published>
+    <summary>Lab 3For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in the future so w</summary>
+    <link href="/labs/html-css-js-web-basics"/>
+    
+    <content type="html">
+      <![CDATA[ <h3>Lab 3</h3>
+<p>For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in the future so we'll keep the JS brief for this one.</p>
+<p><a href="https://codepen.io/btopro/pen/zYOWqKZ">Exercise Pen</a>
+: <span>Fork this Pen and we can follow along together in class.</span></p>
+<h2>Lab Pen</h2>
+<p>For this lab, I want you to modify <b>one of these</b>
+ <b>pens</b>
+ in order to make the resume reflect your own information. There's a <i>beginner Pen</i>
+ and a more <i>advanced pen</i>
+.</p>
+<p><a href="https://codepen.io/btopro/pen/GRKQVBx?editors=1000">Beginner Pen</a>
+: Personal Resume which contains hints and directions inside</p>
+<p><a href="https://codepen.io/btopro/pen/GRKxKgX?editors=1000">Advanced Pen</a>
+: no instructions and a slightly more advanced design. Use this to challenge yourself or if you've previously written HTML to make something more useful.</p>
+<h3>Reflection Pen</h3>
+<p><a href="https://codepen.io/btopro/pen/KKPozvd">FORK THIS PEN</a>
+: For reflection this week I want you to fork this pen and write your response using HTML. For the topic this week pick one of the following:</p>
+<ul><li>Explaining how to apply styling to an element in <b>CSS</b>
+</li>
+<li>Explain how to use JavaScript and <b>getElementById</b>
+ to add a <i>click event to</i>
+ an element in an existing codepen that generates an alert saying <b>Hello</b>
+</li>
+<li><i>Value of CodePen as a platform</i>
+ to learn coding by finding an inspiring pen and explain what's going on.</li>
 </ul>
  ]]>
     </content>

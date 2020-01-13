@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- generator-class="Icamys\SitemapGenerator\SitemapGenerator" -->
 <!-- generator-version="1.1.0" -->
-<!-- generated-on="2020-01-13T12:43:13-05:00" -->
+<!-- generated-on="2020-01-13T12:43:25-05:00" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>/welcome</loc>
@@ -16,16 +16,16 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/topics/building-your-digital-identity</loc>
+    <loc>/labs/building-your-digital-identity</loc>
     <lastmod>2020-01-13T12:43:13-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/resources/screencasting</loc>
-    <lastmod>2020-01-13T12:43:13-05:00</lastmod>
+    <loc>/labs/lab-11-accessibility</loc>
+    <lastmod>2020-01-13T12:43:25-05:00</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>/labs/lab-6-wordpress/scenario-1</loc>
@@ -34,7 +34,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/labs/building-your-digital-identity</loc>
+    <loc>/resources/screencasting</loc>
+    <lastmod>2020-01-13T12:43:13-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/topics/building-your-digital-identity</loc>
     <lastmod>2020-01-13T12:43:13-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -70,16 +76,10 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/labs/lab-6-wordpress/submitting-the-lab</loc>
+    <loc>/materials</loc>
     <lastmod>2020-01-13T12:43:13-05:00</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>/topics/html-css-js-web-basics</loc>
-    <lastmod>2020-01-13T12:43:13-05:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>/labs/html-css-js-web-basics</loc>
@@ -94,10 +94,16 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/materials</loc>
+    <loc>/topics/html-css-js-web-basics</loc>
     <lastmod>2020-01-13T12:43:13-05:00</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/labs/lab-6-wordpress/submitting-the-lab</loc>
+    <lastmod>2020-01-13T12:43:13-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>/topics/webcomponents</loc>
@@ -142,16 +148,16 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/topics/wordpress</loc>
-    <lastmod>2020-01-13T12:43:13-05:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>/after-class-reflection</loc>
     <lastmod>2020-01-13T12:43:13-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>/topics/wordpress</loc>
+    <lastmod>2020-01-13T12:43:13-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>/technologies-we-explore</loc>
@@ -208,28 +214,22 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/labs/lab-13-docker</loc>
-    <lastmod>2020-01-13T12:43:13-05:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>/labs</loc>
     <lastmod>2020-01-13T12:43:13-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>/labs/webcomponents-1</loc>
+    <loc>/labs/lab-13-docker</loc>
     <lastmod>2020-01-13T12:43:13-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/labs/lab-11-accessibility</loc>
+    <loc>/labs/webcomponents-1</loc>
     <lastmod>2020-01-13T12:43:13-05:00</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.7</priority>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>/labs/lab-12-accessible-design</loc>

@@ -206,11 +206,11 @@
             "location": "pages\/labs\/lab-11-accessibility\/index.html",
             "order": "0",
             "parent": "item-45766690-94ee-40a9-b989-45aa6d64f87d",
-            "title": "Lab 11 - Accessibility",
-            "description": "Web accessibility is just one piece of the accessibility pie but we're attuned to its importance. The next thing though is how do we use tools to help build more accessible things and remediate what w",
+            "title": "Accessibility",
+            "description": "Web accessibility is just one piece of the accessibility pie but we&#39;re attuned to its importance. The next thing though is how do we use tools to help build more accessible things and remediate what w",
             "metadata": {
                 "created": 1572470485,
-                "updated": 1578937393,
+                "updated": 1578937405,
                 "readtime": 3,
                 "contentDetails": {
                     "headings": 5,
@@ -229,7 +229,8 @@
                         "a11y-gif-player": 1
                     },
                     "elements": 23
-                }
+                },
+                "published": true
             }
         },
         {
