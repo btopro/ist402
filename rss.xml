@@ -27,7 +27,7 @@
       <pubDate>Tue, 19 Nov 2019 22:56:44 -0500</pubDate>
     </item>
     <item>
-      <title>Lab 13 - Docker</title>
+      <title>W11 Docker</title>
       <link>/labs/lab-13-docker</link>
       <description>
           <![CDATA[ <p>For lab this week, we'll use directions our guest has put together to deploy different services via docker to better understand Functions as a Service technology as well as a bit of how docker infrastructure works.</p>

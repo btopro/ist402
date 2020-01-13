@@ -29,11 +29,11 @@
     </content>
   </entry>
   <entry>
-    <title>Lab 13 - Docker</title>
+    <title>W11 Docker</title>
     <id>/labs/lab-13-docker</id>
-    <updated>2020-01-13T12:43:13-05:00</updated>
+    <updated>2020-01-13T12:44:16-05:00</updated>
     <published>2019-11-19T22:56:24-05:00</published>
-    <summary>For lab this week, we'll use directions our guest has put together to deploy different services via docker to better understand Functions as a Service technology as well as a bit of how docker infrast</summary>
+    <summary>For lab this week, we&#39;ll use directions our guest has put together to deploy different services via docker to better understand Functions as a Service technology as well as a bit of how docker infrast</summary>
     <link href="/labs/lab-13-docker"/>
     
     <content type="html">
