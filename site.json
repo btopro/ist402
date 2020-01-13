@@ -552,15 +552,15 @@
             "description": "This week we're going to improve upon our brand by through critique and self reflection. We want to get our brands in as good a shape as possible prior to all the hands on labs and topics we'll be eng",
             "metadata": {
                 "created": 1578937771,
-                "updated": 1578938371,
+                "updated": 1578938385,
                 "readtime": 2,
                 "contentDetails": {
-                    "headings": 3,
-                    "paragraphs": 9,
+                    "headings": 4,
+                    "paragraphs": 8,
                     "schema": [],
                     "tags": {
-                        "p": 9,
-                        "h2": 3,
+                        "p": 8,
+                        "h2": 4,
                         "ul": 1
                     },
                     "elements": 13
