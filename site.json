@@ -401,11 +401,11 @@
             "location": "pages\/labs\/git\/index.html",
             "order": "1",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
-            "title": "Lab 2 - Git \/ Github \/ Contribution",
-            "description": "Lab 2We've talked about git for version control and explored Github a bit and how teams work together using the platform. Now let's dig in!Basic example \/ Getting startedCreate a GitHub account",
+            "title": "W2 Git \/ Github \/ Contribution",
+            "description": "Lab 2We&#39;ve talked about git for version control and explored Github a bit and how teams work together using the platform. Now let&#39;s dig in!Basic example \/ Getting startedCreate a GitHub account",
             "metadata": {
                 "created": 1566673990,
-                "updated": 1578937555,
+                "updated": 1578937735,
                 "readtime": 3,
                 "contentDetails": {
                     "headings": 5,
@@ -419,7 +419,8 @@
                         "ul": 1
                     },
                     "elements": 17
-                }
+                },
+                "published": true
             }
         },
         {
