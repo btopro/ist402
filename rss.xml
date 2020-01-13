@@ -45,8 +45,7 @@ channel and pick <b>three brands by your classmates</b>
       <link>/labs/w9-spring-break</link>
       <description>
           <![CDATA[ <p>Catch up on past labs or sleep. Big fan of sleep myself so I know what I'll be doing.</p>
-<grid-plate layout="1-1-1" responsive-size="md" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" column-widths="[&quot;33.3333333%&quot;,&quot;33.3333333%&quot;,&quot;33.3333333%&quot;]"><a11y-gif-player alt="I'm on a boat and, it's going fast and..." src="https://media0.giphy.com/media/yidUzuMf6DH8cz09zO/giphy.gif" src-without-animation="https://media0.giphy.com/media/yidUzuMf6DH8cz09zO/480w_s.jpg" tooltip="Toggle animation" srcwithoutanimation="https://media0.giphy.com/media/yidUzuMf6DH8cz09zO/480w_s.jpg" style="width: 100%;" slot="col-2"></a11y-gif-player>
-</grid-plate>
+<a11y-gif-player alt="I'm on a boat and, it's going fast and..." src="https://media0.giphy.com/media/yidUzuMf6DH8cz09zO/giphy.gif" src-without-animation="https://media0.giphy.com/media/yidUzuMf6DH8cz09zO/480w_s.jpg" tooltip="Toggle animation" srcwithoutanimation="https://media0.giphy.com/media/yidUzuMf6DH8cz09zO/480w_s.jpg" style="width: 50%; margin: 0px auto; display: block;"></a11y-gif-player>
  ]]>
       </description>
       <category></category>
