@@ -549,10 +549,22 @@
             "order": "2",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "Improving your digital identity",
-            "description": "",
+            "description": "This week we're going to improve upon our brand by through critique and self reflection. We want to get our brands in as good a shape as possible prior to all the hands on labs and topics we'll be eng",
             "metadata": {
                 "created": 1578937771,
-                "updated": 1578937771
+                "updated": 1578938371,
+                "readtime": 2,
+                "contentDetails": {
+                    "headings": 3,
+                    "paragraphs": 9,
+                    "schema": [],
+                    "tags": {
+                        "p": 9,
+                        "h2": 3,
+                        "ul": 1
+                    },
+                    "elements": 13
+                }
             }
         },
         {
