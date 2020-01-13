@@ -1229,11 +1229,11 @@
             "location": "pages\/labs\/lab-8-midterm-no-lab\/index.html",
             "order": "12",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
-            "title": "Lab 8 - Midterm, no lab",
+            "title": "Exam",
             "description": "Midterm was during Lab 8 and as a result there was no lab, enjoy the week catching up on past labs as needed.",
             "metadata": {
                 "created": 1571855885,
-                "updated": 1578937318,
+                "updated": 1578937367,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -1243,7 +1243,8 @@
                         "p": 1
                     },
                     "elements": 1
-                }
+                },
+                "published": true
             }
         },
         {

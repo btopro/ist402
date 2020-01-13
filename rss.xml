@@ -6,7 +6,7 @@
     <description>Web Technologies and Activism</description>
     <copyright>Copyright (C) 2020 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jan 2020 20:23:05 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2020 12:41:58 -0500</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Containers</title>
@@ -208,6 +208,17 @@ to understand issues and see what real reports look and feel like</p>
       <pubDate>Wed, 30 Oct 2019 17:21:25 -0400</pubDate>
     </item>
     <item>
+      <title>Exam</title>
+      <link>/labs/lab-8-midterm-no-lab</link>
+      <description>
+          <![CDATA[ <p>Midterm was during Lab 8 and as a result there was no lab, enjoy the week catching up on past labs as needed.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/labs/lab-8-midterm-no-lab</guid>
+      <pubDate>Wed, 23 Oct 2019 14:38:05 -0400</pubDate>
+    </item>
+    <item>
       <title>Lab 9 - Drupal again</title>
       <link>/labs/lab-9-drupal-again</link>
       <description>
@@ -274,17 +285,6 @@ correctly of the organization and has poor permission support within those roles
       </description>
       <category></category>
       <guid>/labs/lab-9-drupal-again</guid>
-      <pubDate>Wed, 23 Oct 2019 14:38:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>Lab 8 - Midterm, no lab</title>
-      <link>/labs/lab-8-midterm-no-lab</link>
-      <description>
-          <![CDATA[ <p>Midterm was during Lab 8 and as a result there was no lab, enjoy the week catching up on past labs as needed.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/labs/lab-8-midterm-no-lab</guid>
       <pubDate>Wed, 23 Oct 2019 14:38:05 -0400</pubDate>
     </item>
     <item>
@@ -365,6 +365,21 @@ What didn't work or what you ran into issues using the platform are critical to 
       <category></category>
       <guid>/topics/haxtheweb</guid>
       <pubDate>Thu, 10 Oct 2019 15:41:56 -0400</pubDate>
+    </item>
+    <item>
+      <title>Drupal</title>
+      <link>/topics/drupal</link>
+      <description>
+          <![CDATA[ <p><a href="https://www.slideshare.net/btopro/drupal-180769121">Slides for this topic</a>
+</p>
+<p>Drupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll use Drupal to model those relationships in the website.</p>
+<p>We'll learn about Content Types and fields to model data. Then we'll use Views in order to visualize that data and work with content entry to make sense of it all.</p>
+<p>Drupal is daunting at first but once you learn the concepts and experience them they form a repeatable pattern of development and site building that leads you into a large community with lots of financial opportunities.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/topics/drupal</guid>
+      <pubDate>Thu, 03 Oct 2019 20:07:06 -0400</pubDate>
     </item>
     <item>
       <title>Lab 7 - Drupal</title>
@@ -453,21 +468,6 @@ What didn't work or what you ran into issues using the platform are critical to 
       </description>
       <category></category>
       <guid>/labs/lab-7-drupal</guid>
-      <pubDate>Thu, 03 Oct 2019 20:07:06 -0400</pubDate>
-    </item>
-    <item>
-      <title>Drupal</title>
-      <link>/topics/drupal</link>
-      <description>
-          <![CDATA[ <p><a href="https://www.slideshare.net/btopro/drupal-180769121">Slides for this topic</a>
-</p>
-<p>Drupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll use Drupal to model those relationships in the website.</p>
-<p>We'll learn about Content Types and fields to model data. Then we'll use Views in order to visualize that data and work with content entry to make sense of it all.</p>
-<p>Drupal is daunting at first but once you learn the concepts and experience them they form a repeatable pattern of development and site building that leads you into a large community with lots of financial opportunities.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/topics/drupal</guid>
       <pubDate>Thu, 03 Oct 2019 20:07:06 -0400</pubDate>
     </item>
     <item>
@@ -898,35 +898,6 @@ complexity and learning curve</span></li>
       <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
     </item>
     <item>
-      <title>GravCMS</title>
-      <link>/topics/gravcms</link>
-      <description>
-          <![CDATA[ <p><a href="https://www.slideshare.net/btopro/grav-cms">Slides about CPanel & GravCMS from class</a>
-</p>
-<p>This week kicks off <a href="https://reclaimhosting.com/">Reclaim hosting</a>
- and our Content Management System section of the course. We're going to be covering four different content management systems in this section of the course leveraging <a href="https://reclaimhosting.com/">Reclaim hosting</a>
- to skip a lot of the tediousness of setting up and playing with a CMS.</p>
-<p>We'll talk about CPanel in the high level as far as what function it provides and navigate some of the parts of it a bit, though it won't be the focus. CPanel has been around forever (in web terms) and is still a powerful way to abstract away the complexity of managing servers and get you access to installing apps via a nice UI and mild technical knowledge.</p>
-<p>Listing CMS "Site building" skills on a resume is a sure fire way to get noticed by certain companies looking for people who can hit the ground running with their internal systems. It demonstrates that you know how to navigate technical systems and can be taught out to administer them (potentially).</p>
-<p>It's also a bit crazy as CMSs really are just big storage houses of information with text editors and other UIs that help streamline getting large groups of media and content on the web. The crazy part is, this really isn't that hard to do (as we'll demonstrate through these units) but a lot of people are so afraid of them that they won't touch them.</p>
-<p>Master any one of these popular CMSs coming up (especially Drupal coming up) and you'll stand out in any organization that manages web projects or interfaces regularly with the web properties of the company directly.</p>
-<h2>Links and resources for working with GravCMS</h2>
-<ul><li><a href="https://learn.getgrav.org/16/basics/basic-tutorial">GravCMS documentation</a>
- (Basic tutorial of working with it)</li>
-<li><a href="https://getgrav.org/">GravCMS homepage</a>
-</li>
-<li><a href="https://getgrav.org/downloads/plugins">GravCMS plugin listing</a>
-</li>
-<li><a href="https://github.com/getgrav">Grav community on Github</a>
-</li>
-</ul>
- ]]>
-      </description>
-      <category></category>
-      <guid>/topics/gravcms</guid>
-      <pubDate>Wed, 25 Sep 2019 11:00:10 -0400</pubDate>
-    </item>
-    <item>
       <title>Lab 5 - GravCMS</title>
       <link>/labs/lab-5-gravcms</link>
       <description>
@@ -1097,18 +1068,33 @@ of your </span><span style="font-variant-numeric: normal; font-variant-east-asia
       <pubDate>Wed, 25 Sep 2019 11:00:10 -0400</pubDate>
     </item>
     <item>
-      <title>Webcomponents</title>
-      <link>/topics/webcomponents</link>
+      <title>GravCMS</title>
+      <link>/topics/gravcms</link>
       <description>
-          <![CDATA[ <p>Slides - <a href="https://www.slideshare.net/btopro/web-components-and-package-managers">Web components & Package managers</a>
+          <![CDATA[ <p><a href="https://www.slideshare.net/btopro/grav-cms">Slides about CPanel & GravCMS from class</a>
 </p>
-<p>Web components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a sustainable, secure and accessible manner.</p>
-<p>This week is mostly in slide form as a result of the many talks that btopro gives on these topics. This course is built out of web components and increasingly everything from signs at fast food restaurants to websites you use ever day (like YouTube) will be built out of web components.</p>
+<p>This week kicks off <a href="https://reclaimhosting.com/">Reclaim hosting</a>
+ and our Content Management System section of the course. We're going to be covering four different content management systems in this section of the course leveraging <a href="https://reclaimhosting.com/">Reclaim hosting</a>
+ to skip a lot of the tediousness of setting up and playing with a CMS.</p>
+<p>We'll talk about CPanel in the high level as far as what function it provides and navigate some of the parts of it a bit, though it won't be the focus. CPanel has been around forever (in web terms) and is still a powerful way to abstract away the complexity of managing servers and get you access to installing apps via a nice UI and mild technical knowledge.</p>
+<p>Listing CMS "Site building" skills on a resume is a sure fire way to get noticed by certain companies looking for people who can hit the ground running with their internal systems. It demonstrates that you know how to navigate technical systems and can be taught out to administer them (potentially).</p>
+<p>It's also a bit crazy as CMSs really are just big storage houses of information with text editors and other UIs that help streamline getting large groups of media and content on the web. The crazy part is, this really isn't that hard to do (as we'll demonstrate through these units) but a lot of people are so afraid of them that they won't touch them.</p>
+<p>Master any one of these popular CMSs coming up (especially Drupal coming up) and you'll stand out in any organization that manages web projects or interfaces regularly with the web properties of the company directly.</p>
+<h2>Links and resources for working with GravCMS</h2>
+<ul><li><a href="https://learn.getgrav.org/16/basics/basic-tutorial">GravCMS documentation</a>
+ (Basic tutorial of working with it)</li>
+<li><a href="https://getgrav.org/">GravCMS homepage</a>
+</li>
+<li><a href="https://getgrav.org/downloads/plugins">GravCMS plugin listing</a>
+</li>
+<li><a href="https://github.com/getgrav">Grav community on Github</a>
+</li>
+</ul>
  ]]>
       </description>
       <category></category>
-      <guid>/topics/webcomponents</guid>
-      <pubDate>Wed, 18 Sep 2019 14:38:01 -0400</pubDate>
+      <guid>/topics/gravcms</guid>
+      <pubDate>Wed, 25 Sep 2019 11:00:10 -0400</pubDate>
     </item>
     <item>
       <title>Lab 4 - Webcomponents</title>
@@ -1184,6 +1170,56 @@ to frame your writing and video response:
       <pubDate>Wed, 18 Sep 2019 14:38:01 -0400</pubDate>
     </item>
     <item>
+      <title>Webcomponents</title>
+      <link>/topics/webcomponents</link>
+      <description>
+          <![CDATA[ <p>Slides - <a href="https://www.slideshare.net/btopro/web-components-and-package-managers">Web components & Package managers</a>
+</p>
+<p>Web components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a sustainable, secure and accessible manner.</p>
+<p>This week is mostly in slide form as a result of the many talks that btopro gives on these topics. This course is built out of web components and increasingly everything from signs at fast food restaurants to websites you use ever day (like YouTube) will be built out of web components.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/topics/webcomponents</guid>
+      <pubDate>Wed, 18 Sep 2019 14:38:01 -0400</pubDate>
+    </item>
+    <item>
+      <title>Lab 3 - HTML / CSS / JS Web basics</title>
+      <link>/labs/html-css-js-web-basics</link>
+      <description>
+          <![CDATA[ <h3>Lab 3</h3>
+<p>For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in the future so we'll keep the JS brief for this one.</p>
+<p><a href="https://codepen.io/btopro/pen/zYOWqKZ">Exercise Pen</a>
+: <span>Fork this Pen and we can follow along together in class.</span></p>
+<h2>Lab Pen</h2>
+<p>For this lab, I want you to modify <b>one of these</b>
+ <b>pens</b>
+ in order to make the resume reflect your own information. There's a <i>beginner Pen</i>
+ and a more <i>advanced pen</i>
+.</p>
+<p><a href="https://codepen.io/btopro/pen/GRKQVBx?editors=1000">Beginner Pen</a>
+: Personal Resume which contains hints and directions inside</p>
+<p><a href="https://codepen.io/btopro/pen/GRKxKgX?editors=1000">Advanced Pen</a>
+: no instructions and a slightly more advanced design. Use this to challenge yourself or if you've previously written HTML to make something more useful.</p>
+<h3>Reflection Pen</h3>
+<p><a href="https://codepen.io/btopro/pen/KKPozvd">FORK THIS PEN</a>
+: For reflection this week I want you to fork this pen and write your response using HTML. For the topic this week pick one of the following:</p>
+<ul><li>Explaining how to apply styling to an element in <b>CSS</b>
+</li>
+<li>Explain how to use JavaScript and <b>getElementById</b>
+ to add a <i>click event to</i>
+ an element in an existing codepen that generates an alert saying <b>Hello</b>
+</li>
+<li><i>Value of CodePen as a platform</i>
+ to learn coding by finding an inspiring pen and explain what's going on.</li>
+</ul>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/labs/html-css-js-web-basics</guid>
+      <pubDate>Mon, 09 Sep 2019 16:53:00 -0400</pubDate>
+    </item>
+    <item>
       <title>HTML / CSS / JS Web basics</title>
       <link>/topics/html-css-js-web-basics</link>
       <description>
@@ -1238,42 +1274,6 @@ to frame your writing and video response:
       </description>
       <category></category>
       <guid>/topics/html-css-js-web-basics</guid>
-      <pubDate>Mon, 09 Sep 2019 16:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Lab 3 - HTML / CSS / JS Web basics</title>
-      <link>/labs/html-css-js-web-basics</link>
-      <description>
-          <![CDATA[ <h3>Lab 3</h3>
-<p>For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML / CSS. JavaScript will come up again in the future so we'll keep the JS brief for this one.</p>
-<p><a href="https://codepen.io/btopro/pen/zYOWqKZ">Exercise Pen</a>
-: <span>Fork this Pen and we can follow along together in class.</span></p>
-<h2>Lab Pen</h2>
-<p>For this lab, I want you to modify <b>one of these</b>
- <b>pens</b>
- in order to make the resume reflect your own information. There's a <i>beginner Pen</i>
- and a more <i>advanced pen</i>
-.</p>
-<p><a href="https://codepen.io/btopro/pen/GRKQVBx?editors=1000">Beginner Pen</a>
-: Personal Resume which contains hints and directions inside</p>
-<p><a href="https://codepen.io/btopro/pen/GRKxKgX?editors=1000">Advanced Pen</a>
-: no instructions and a slightly more advanced design. Use this to challenge yourself or if you've previously written HTML to make something more useful.</p>
-<h3>Reflection Pen</h3>
-<p><a href="https://codepen.io/btopro/pen/KKPozvd">FORK THIS PEN</a>
-: For reflection this week I want you to fork this pen and write your response using HTML. For the topic this week pick one of the following:</p>
-<ul><li>Explaining how to apply styling to an element in <b>CSS</b>
-</li>
-<li>Explain how to use JavaScript and <b>getElementById</b>
- to add a <i>click event to</i>
- an element in an existing codepen that generates an alert saying <b>Hello</b>
-</li>
-<li><i>Value of CodePen as a platform</i>
- to learn coding by finding an inspiring pen and explain what's going on.</li>
-</ul>
- ]]>
-      </description>
-      <category></category>
-      <guid>/labs/html-css-js-web-basics</guid>
       <pubDate>Mon, 09 Sep 2019 16:53:00 -0400</pubDate>
     </item>
   </channel>
