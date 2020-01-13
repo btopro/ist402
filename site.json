@@ -949,11 +949,11 @@
             "location": "pages\/labs\/labs\/lab-10-haxtheweb\/index.html",
             "order": "7",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
-            "title": "Lab 10 - HAXTheWeb",
-            "description": "We'll cover user experience and generating ways of improving the platform by creating issues about any confusion you've run into when using the platform. Open critique is the best way to improve.In c",
+            "title": "W10 HAXTheWeb",
+            "description": "We&#39;ll cover user experience and generating ways of improving the platform by creating issues about any confusion you&#39;ve run into when using the platform. Open critique is the best way to improve.In c",
             "metadata": {
                 "created": 1570736517,
-                "updated": 1578937393,
+                "updated": 1578937462,
                 "readtime": 4,
                 "contentDetails": {
                     "headings": 6,
@@ -967,7 +967,8 @@
                         "ul": 2
                     },
                     "elements": 29
-                }
+                },
+                "published": true
             }
         },
         {
