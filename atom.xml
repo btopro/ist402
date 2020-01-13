@@ -68,11 +68,11 @@
     </content>
   </entry>
   <entry>
-    <title>Lab 12 - Accessible Design</title>
+    <title>Accessible Design</title>
     <id>/labs/lab-12-accessible-design</id>
-    <updated>2020-01-13T12:43:13-05:00</updated>
+    <updated>2020-01-13T12:43:35-05:00</updated>
     <published>2019-11-12T19:07:04-05:00</published>
-    <summary>You live in the world of Stranger Things. I know, it's hard to envision, it's why it's such a good show. Old people like your instructor, actually remember parts of the 80s and what it was like to not</summary>
+    <summary>You live in the world of Stranger Things. I know, it&#39;s hard to envision, it&#39;s why it&#39;s such a good show. Old people like your instructor, actually remember parts of the 80s and what it was like to not</summary>
     <link href="/labs/lab-12-accessible-design"/>
     
     <content type="html">
