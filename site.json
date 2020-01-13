@@ -255,11 +255,11 @@
             "location": "pages\/labs\/building-your-digital-identity\/index.html",
             "order": "0",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
-            "title": "Lab 1 -\u00a0Building your digital identity",
-            "description": "Lab 1 \/ first classThis is a warm up lab that will help set the stage for the platforms we'll use for the rest of the semester.Create a Slack account and join two slack channelsIST 402 - Slack Inv",
+            "title": "W1 Building your digital identity",
+            "description": "Lab 1 \/ first classThis is a warm up lab that will help set the stage for the platforms we&#39;ll use for the rest of the semester.Create a Slack account and join two slack channelsIST 402 - Slack Inv",
             "metadata": {
                 "created": 1566568358,
-                "updated": 1578937555,
+                "updated": 1578937729,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 1,
@@ -277,7 +277,8 @@
                         "a11y-gif-player": 1
                     },
                     "elements": 4
-                }
+                },
+                "published": true
             }
         },
         {
