@@ -548,11 +548,11 @@
             "location": "pages\/labs\/improving-your-digital-identity\/index.html",
             "order": "2",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
-            "title": "Improving your digital identity",
-            "description": "This week we're going to improve upon our brand by through critique and self reflection. We want to get our brands in as good a shape as possible prior to all the hands on labs and topics we'll be eng",
+            "title": "W3 Improving your digital identity",
+            "description": "This week we&#39;re going to improve upon our brand by through critique and self reflection. We want to get our brands in as good a shape as possible prior to all the hands on labs and topics we&#39;ll be eng",
             "metadata": {
                 "created": 1578937771,
-                "updated": 1578938385,
+                "updated": 1578938402,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 4,
@@ -564,7 +564,8 @@
                         "ul": 1
                     },
                     "elements": 13
-                }
+                },
+                "published": true
             }
         },
         {
