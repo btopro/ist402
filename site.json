@@ -430,19 +430,20 @@
             "order": "1",
             "parent": null,
             "title": "Syllabus",
-            "description": "A standard syllabus is a contract between us. You can see past ones as well if interested.IST 402 Spring 2020 Syllabus (PDF)IST 402 Fall 2019 Syllabus (PDF)\u00a0\/ (Docx format)",
+            "description": "A standard syllabus is a contract between us. You can see past ones as well if interested.IST 402 Spring 2020 Syllabus (PDF) \/ (Docx)Past SemestersIST 402 Fall 2019 Syllabus (PDF)\u00a0\/ (Docx\u00a0)",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1578938636,
+                "updated": 1578938762,
                 "readtime": 1,
                 "contentDetails": {
-                    "headings": 0,
+                    "headings": 1,
                     "paragraphs": 3,
                     "schema": [],
                     "tags": {
-                        "p": 3
+                        "p": 3,
+                        "h3": 1
                     },
-                    "elements": 3
+                    "elements": 4
                 },
                 "files": [
                     {
