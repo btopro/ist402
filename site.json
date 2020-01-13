@@ -924,11 +924,11 @@
             "location": "pages\/labs\/lab-9-drupal-again\/index.html",
             "order": "6",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
-            "title": "Lab 9 - Drupal again",
-            "description": "Drupal was both challenging and many wanted to learn more. As it's a much more complex system then the other CMSs we're covering, we're going to dedicate an additional class period JUST to doing more ",
+            "title": "W8 Drupal again",
+            "description": "Drupal was both challenging and many wanted to learn more. As it&#39;s a much more complex system then the other CMSs we&#39;re covering, we&#39;re going to dedicate an additional class period JUST to doing more ",
             "metadata": {
                 "created": 1571855885,
-                "updated": 1578937393,
+                "updated": 1578937477,
                 "readtime": 4,
                 "contentDetails": {
                     "headings": 6,
@@ -940,7 +940,8 @@
                         "ul": 1
                     },
                     "elements": 25
-                }
+                },
+                "published": true
             }
         },
         {
