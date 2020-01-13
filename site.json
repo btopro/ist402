@@ -871,11 +871,11 @@
             "location": "pages\/labs\/lab-7-drupal\/index.html",
             "order": "6",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
-            "title": "Lab 7 - Drupal",
+            "title": "W7 Drupal",
             "description": "Data modelingThis is to be done in class with image posted here for reference but in case you miss the activity that generates it.\u00a0Take 10-15 minutes and figure out the fields and relationships of t",
             "metadata": {
                 "created": 1570147626,
-                "updated": 1578937771,
+                "updated": 1578938440,
                 "readtime": 3,
                 "contentDetails": {
                     "headings": 5,
@@ -899,7 +899,8 @@
                         "name": "Untitled Diagram (1).jpg",
                         "size": 32628
                     }
-                ]
+                ],
+                "published": true
             }
         },
         {
