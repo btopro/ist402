@@ -452,6 +452,14 @@
                         "type": "application\/pdf",
                         "name": "IST402 - Ollendyke.pdf",
                         "size": 215502
+                    },
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/IST402 SP2020 - Ollendyke.pdf",
+                        "fullUrl": "\/bto108\/sites\/ist402\/files\/IST402 SP2020 - Ollendyke.pdf",
+                        "url": "files\/IST402 SP2020 - Ollendyke.pdf",
+                        "type": "application\/pdf",
+                        "name": "IST402 SP2020 - Ollendyke.pdf",
+                        "size": 268386
                     }
                 ]
             }
