@@ -1351,21 +1351,19 @@
             "order": "9",
             "parent": null,
             "title": "Feedback",
-            "description": "Lab 4Web components and \"components\" as in designed pieces of websites are different things (but related). Components could be like a product shown on the Walmart website. A Web component would be ",
+            "description": "ABOB (made up acronym) - Always Be On Brand. Similar account names, same photos, interlink social accounts with writing with postsAlways leave 2-3 seconds on the front and back of a screencastDo a",
             "metadata": {
                 "created": 1567596719,
-                "updated": 1579140443,
-                "readtime": 3,
+                "updated": 1579149090,
+                "readtime": 2,
                 "contentDetails": {
-                    "headings": 4,
-                    "paragraphs": 1,
+                    "headings": 0,
+                    "paragraphs": 0,
                     "schema": [],
                     "tags": {
-                        "h3": 4,
-                        "ul": 4,
-                        "p": 1
+                        "ul": 2
                     },
-                    "elements": 9
+                    "elements": 2
                 }
             }
         },
