@@ -322,10 +322,10 @@
             "order": "1",
             "parent": "item-cabad7a7-8b29-4e70-8786-1c60e33a7b90",
             "title": "Past student work",
-            "description": "Here are some examples of past student work to check out!",
+            "description": "Here are some examples of past student work to check out!Spring 2020Fall 2019",
             "metadata": {
                 "created": 1572974832,
-                "updated": 1579140443,
+                "updated": 1579185090,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/courselinks.csv",
@@ -338,7 +338,7 @@
                 ],
                 "readtime": 1,
                 "contentDetails": {
-                    "headings": 0,
+                    "headings": 2,
                     "paragraphs": 1,
                     "schema": [
                         {
@@ -348,9 +348,11 @@
                     ],
                     "tags": {
                         "p": 1,
+                        "h2": 2,
+                        "md-block": 1,
                         "lrn-table": 1
                     },
-                    "elements": 2
+                    "elements": 5
                 }
             }
         },
