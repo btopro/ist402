@@ -3,7 +3,7 @@
   <title>ist402</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>Web Technologies and Activism</subtitle>
-  <updated>2020-01-13T12:49:31-05:00</updated>
+  <updated>2020-01-15T21:07:23-05:00</updated>
   <author>
       <name></name>
   </author>
@@ -11,13 +11,53 @@
   <entry>
     <title>Links to learn more</title>
     <id>/resources/links-to-learn-more</id>
-    <updated>2020-01-15T21:07:23-05:00</updated>
+    <updated>2020-01-15T21:13:23-05:00</updated>
     <published>2020-01-15T21:07:23-05:00</published>
-    <summary></summary>
+    <summary>Links to learn more about topics. This is an organic list built by me, past students and current students.Web DevelopmentToolsVSCodeGithub /  Github GUIIntro to Web DevelopmentCodePenGli</summary>
     <link href="/resources/links-to-learn-more"/>
     
     <content type="html">
-      <![CDATA[ <p></p> ]]>
+      <![CDATA[ <p>Links to learn more about topics. This is an organic list built by me, past students and current students.</p>
+<h2 id="header-044436f7-f6ab-80e2-9a83-8e4da81fb359">Web Development</h2>
+<p>Tools</p>
+<ul><li><a href="https://code.visualstudio.com/">VSCode</a>
+</li>
+<li><a href="https://github.com/">Github</a>
+ /  <a href="https://desktop.github.com/">Github GUI</a>
+</li>
+</ul>
+<p>Intro to Web Development</p>
+<ul><li><a href="https://codepen.io/">CodePen</a>
+</li>
+<li><a href="https://glitch.com/">Glitch</a>
+</li>
+<li><a href="https://stackblitz.com/">Stackblitz</a>
+</li>
+<li><a href="https://webcomponents.dev/">Webcomponents.dev</a>
+</li>
+</ul>
+<h3 id="header-b83cad4c-9bf4-87ba-b371-4d0dd1bcc8cc">Web components</h3>
+<ul><li><a href="https://www.webcomponents.org">https://www.webcomponents.org</a>
+</li>
+<li><a href="https://lit-element.polymer-project.org/">https://lit-element.polymer-project.org/</a>
+</li>
+</ul>
+<h2 id="header-ff0d355a-592b-0ad1-33fb-6ce366aaf86e">Content management systems</h2>
+<ul><li><a href="https://drupal.org">Drupal</a>
+ / <a href="https://backdropcms.org/">Backdrop</a>
+</li>
+<li><a href="https://wordpress.org">WordPress</a>
+ / <a href="https://www.classicpress.net/">ClassicPress</a>
+</li>
+<li><a href="https://getgrav.org/">GravCMS</a>
+</li>
+<li><a href="https://haxtheweb.org/">HAXcms</a>
+</li>
+<li><a href="https://www.joomla.org/">Joomla</a>
+</li>
+</ul>
+<p></p>
+ ]]>
     </content>
   </entry>
   <entry>
@@ -202,6 +242,22 @@ channel and pick <b>three brands by your classmates</b>
   </entry>
   <entry>
     <title>Accessibility</title>
+    <id>/topics/accessibility-1</id>
+    <updated>2020-01-15T21:07:23-05:00</updated>
+    <published>2019-10-30T17:21:25-04:00</published>
+    <summary>My slides from class. Sonya Wood's accessibility talk in class.</summary>
+    <link href="/topics/accessibility-1"/>
+    
+    <content type="html">
+      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/lecture11-accessibility">My slides from class</a>
+. <a href="https://www.slideshare.net/btopro/ist-402-presentation-by-sonya">Sonya Wood's accessibility talk</a>
+ in class.</p>
+<a11y-gif-player src="https://media1.giphy.com/media/26u4eMlvKoTn7DfvG/giphy.gif" src-without-animation="https://media3.giphy.com/media/26u4eMlvKoTn7DfvG/480w_s.jpg" alt="Wheel chair user slowly being lowered by kegs down a ramp" schema-resource-id="#bc676c7d-31ce-58d0-f485" resource="#bc676c7d-31ce-58d0-f485" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 75%; margin: 0px auto; display: block;" tooltip="Toggle animation"></a11y-gif-player>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Accessibility</title>
     <id>/labs/lab-11-accessibility</id>
     <updated>2020-01-15T21:07:23-05:00</updated>
     <published>2019-10-30T17:21:25-04:00</published>
@@ -266,18 +322,17 @@ to understand issues and see what real reports look and feel like</p>
     </content>
   </entry>
   <entry>
-    <title>Accessibility</title>
-    <id>/topics/accessibility-1</id>
+    <title>W14 Exam</title>
+    <id>/labs/lab-8-midterm-no-lab</id>
     <updated>2020-01-15T21:07:23-05:00</updated>
-    <published>2019-10-30T17:21:25-04:00</published>
-    <summary>My slides from class. Sonya Wood's accessibility talk in class.</summary>
-    <link href="/topics/accessibility-1"/>
+    <published>2019-10-23T14:38:05-04:00</published>
+    <summary>Week 14 we will have an Exam the Tuesday of this week and then start into our Final Projects on the Thursday of this week.This will give you two weeks to work on your Final project prior to finals.T</summary>
+    <link href="/labs/lab-8-midterm-no-lab"/>
     
     <content type="html">
-      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/lecture11-accessibility">My slides from class</a>
-. <a href="https://www.slideshare.net/btopro/ist-402-presentation-by-sonya">Sonya Wood's accessibility talk</a>
- in class.</p>
-<a11y-gif-player src="https://media1.giphy.com/media/26u4eMlvKoTn7DfvG/giphy.gif" src-without-animation="https://media3.giphy.com/media/26u4eMlvKoTn7DfvG/480w_s.jpg" alt="Wheel chair user slowly being lowered by kegs down a ramp" schema-resource-id="#bc676c7d-31ce-58d0-f485" resource="#bc676c7d-31ce-58d0-f485" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 75%; margin: 0px auto; display: block;" tooltip="Toggle animation"></a11y-gif-player>
+      <![CDATA[ <p>Week 14 we will have an Exam the Tuesday of this week and then start into our Final Projects on the Thursday of this week.</p>
+<p>This will give you two weeks to work on your Final project prior to finals.</p>
+<p>The exam is "open internet" and is an overview from the topics this semester.</p>
  ]]>
     </content>
   </entry>
@@ -349,21 +404,6 @@ correctly of the organization and has poor permission support within those roles
 </h2>
 <p><font face="Space Mono">Post in the #lab9-drupal-again channel with a link to your site for me to test. On the homepage of your site include a link / embed your video about the topic of the week</font>
 </p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>W14 Exam</title>
-    <id>/labs/lab-8-midterm-no-lab</id>
-    <updated>2020-01-15T21:07:23-05:00</updated>
-    <published>2019-10-23T14:38:05-04:00</published>
-    <summary>Week 14 we will have an Exam the Tuesday of this week and then start into our Final Projects on the Thursday of this week.This will give you two weeks to work on your Final project prior to finals.T</summary>
-    <link href="/labs/lab-8-midterm-no-lab"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Week 14 we will have an Exam the Tuesday of this week and then start into our Final Projects on the Thursday of this week.</p>
-<p>This will give you two weeks to work on your Final project prior to finals.</p>
-<p>The exam is "open internet" and is an overview from the topics this semester.</p>
  ]]>
     </content>
   </entry>
@@ -903,22 +943,6 @@ desire</span></li>
     </content>
   </entry>
   <entry>
-    <title>Exam review</title>
-    <id>/mid-term-review</id>
-    <updated>2020-01-15T21:07:23-05:00</updated>
-    <published>2019-10-01T14:02:52-04:00</published>
-    <summary>See slides from topic 7 on Drupal. There are several examples with answers in the front of the slide deck you can use to review the types of questions you&#39;ll be asked.This is an &#34;open web&#34; review. T</summary>
-    <link href="/mid-term-review"/>
-    
-    <content type="html">
-      <![CDATA[ <p>See slides from <a href="topics/drupal">topic 7 on Drupal</a>
-. There are several examples with answers in the front of the slide deck you can use to review the types of questions you'll be asked.</p>
-<p>This is an "open web" review. The real world you can google things if you get stuck and this is no different. Now, you can't take credit for other people's work in my class or IRL, so the TA will be proctoring this exam and ensuring that everyone's responsible for their own work.</p>
-<p>After the exam please answer the course survey questions to give us feedback on how class has done so far and where to go.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>W6 WordPress</title>
     <id>/labs/lab-6-wordpress</id>
     <updated>2020-01-15T21:07:23-05:00</updated>
@@ -994,6 +1018,53 @@ desire</span></li>
 <p>With parallels to Drupal and it's popular fork Backdrop (topic for next lab) we'll see that it's not always code that leads to inflection points in groups but the process by which that code is formed, agreed upon, and ultimately pushed into the main project everyone's aligned with.</p>
 <p>WordPress is a great resume builder both in terms of the platform as well as putting on your resume that you have experience with it, so let's dig in and check it out in <a href="https://reclaimhosting.com/">ReclaimHosting</a>
  once more!</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Exam review</title>
+    <id>/mid-term-review</id>
+    <updated>2020-01-15T21:07:23-05:00</updated>
+    <published>2019-10-01T14:02:52-04:00</published>
+    <summary>See slides from topic 7 on Drupal. There are several examples with answers in the front of the slide deck you can use to review the types of questions you&#39;ll be asked.This is an &#34;open web&#34; review. T</summary>
+    <link href="/mid-term-review"/>
+    
+    <content type="html">
+      <![CDATA[ <p>See slides from <a href="topics/drupal">topic 7 on Drupal</a>
+. There are several examples with answers in the front of the slide deck you can use to review the types of questions you'll be asked.</p>
+<p>This is an "open web" review. The real world you can google things if you get stuck and this is no different. Now, you can't take credit for other people's work in my class or IRL, so the TA will be proctoring this exam and ensuring that everyone's responsible for their own work.</p>
+<p>After the exam please answer the course survey questions to give us feedback on how class has done so far and where to go.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>GravCMS</title>
+    <id>/topics/gravcms</id>
+    <updated>2020-01-15T21:07:23-05:00</updated>
+    <published>2019-09-25T11:00:10-04:00</published>
+    <summary>Slides about CPanel & GravCMS from classThis week kicks off Reclaim hosting and our Content Management System section of the course. We're going to be covering four different content management sys</summary>
+    <link href="/topics/gravcms"/>
+    
+    <content type="html">
+      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/grav-cms">Slides about CPanel & GravCMS from class</a>
+</p>
+<p>This week kicks off <a href="https://reclaimhosting.com/">Reclaim hosting</a>
+ and our Content Management System section of the course. We're going to be covering four different content management systems in this section of the course leveraging <a href="https://reclaimhosting.com/">Reclaim hosting</a>
+ to skip a lot of the tediousness of setting up and playing with a CMS.</p>
+<p>We'll talk about CPanel in the high level as far as what function it provides and navigate some of the parts of it a bit, though it won't be the focus. CPanel has been around forever (in web terms) and is still a powerful way to abstract away the complexity of managing servers and get you access to installing apps via a nice UI and mild technical knowledge.</p>
+<p>Listing CMS "Site building" skills on a resume is a sure fire way to get noticed by certain companies looking for people who can hit the ground running with their internal systems. It demonstrates that you know how to navigate technical systems and can be taught out to administer them (potentially).</p>
+<p>It's also a bit crazy as CMSs really are just big storage houses of information with text editors and other UIs that help streamline getting large groups of media and content on the web. The crazy part is, this really isn't that hard to do (as we'll demonstrate through these units) but a lot of people are so afraid of them that they won't touch them.</p>
+<p>Master any one of these popular CMSs coming up (especially Drupal coming up) and you'll stand out in any organization that manages web projects or interfaces regularly with the web properties of the company directly.</p>
+<h2>Links and resources for working with GravCMS</h2>
+<ul><li><a href="https://learn.getgrav.org/16/basics/basic-tutorial">GravCMS documentation</a>
+ (Basic tutorial of working with it)</li>
+<li><a href="https://getgrav.org/">GravCMS homepage</a>
+</li>
+<li><a href="https://getgrav.org/downloads/plugins">GravCMS plugin listing</a>
+</li>
+<li><a href="https://github.com/getgrav">Grav community on Github</a>
+</li>
+</ul>
  ]]>
     </content>
   </entry>
@@ -1170,108 +1241,18 @@ of your </span><span style="font-variant-numeric: normal; font-variant-east-asia
     </content>
   </entry>
   <entry>
-    <title>GravCMS</title>
-    <id>/topics/gravcms</id>
-    <updated>2020-01-15T21:07:23-05:00</updated>
-    <published>2019-09-25T11:00:10-04:00</published>
-    <summary>Slides about CPanel & GravCMS from classThis week kicks off Reclaim hosting and our Content Management System section of the course. We're going to be covering four different content management sys</summary>
-    <link href="/topics/gravcms"/>
-    
-    <content type="html">
-      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/grav-cms">Slides about CPanel & GravCMS from class</a>
-</p>
-<p>This week kicks off <a href="https://reclaimhosting.com/">Reclaim hosting</a>
- and our Content Management System section of the course. We're going to be covering four different content management systems in this section of the course leveraging <a href="https://reclaimhosting.com/">Reclaim hosting</a>
- to skip a lot of the tediousness of setting up and playing with a CMS.</p>
-<p>We'll talk about CPanel in the high level as far as what function it provides and navigate some of the parts of it a bit, though it won't be the focus. CPanel has been around forever (in web terms) and is still a powerful way to abstract away the complexity of managing servers and get you access to installing apps via a nice UI and mild technical knowledge.</p>
-<p>Listing CMS "Site building" skills on a resume is a sure fire way to get noticed by certain companies looking for people who can hit the ground running with their internal systems. It demonstrates that you know how to navigate technical systems and can be taught out to administer them (potentially).</p>
-<p>It's also a bit crazy as CMSs really are just big storage houses of information with text editors and other UIs that help streamline getting large groups of media and content on the web. The crazy part is, this really isn't that hard to do (as we'll demonstrate through these units) but a lot of people are so afraid of them that they won't touch them.</p>
-<p>Master any one of these popular CMSs coming up (especially Drupal coming up) and you'll stand out in any organization that manages web projects or interfaces regularly with the web properties of the company directly.</p>
-<h2>Links and resources for working with GravCMS</h2>
-<ul><li><a href="https://learn.getgrav.org/16/basics/basic-tutorial">GravCMS documentation</a>
- (Basic tutorial of working with it)</li>
-<li><a href="https://getgrav.org/">GravCMS homepage</a>
-</li>
-<li><a href="https://getgrav.org/downloads/plugins">GravCMS plugin listing</a>
-</li>
-<li><a href="https://github.com/getgrav">Grav community on Github</a>
-</li>
-</ul>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>W12 Webcomponents</title>
-    <id>/labs/webcomponents-1</id>
+    <title>Webcomponents</title>
+    <id>/topics/webcomponents</id>
     <updated>2020-01-15T21:07:23-05:00</updated>
     <published>2019-09-18T14:38:01-04:00</published>
-    <summary>For this lab we&#39;re going to look at a few different services that are like codepen but allow for more advanced use-cases and development to support web components (and other front end languages).Exer</summary>
-    <link href="/labs/webcomponents-1"/>
+    <summary>Slides - Web components & Package managersWeb components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a </summary>
+    <link href="/topics/webcomponents"/>
     
     <content type="html">
-      <![CDATA[ <p>For this lab we're going to look at a few different services that are like codepen but allow for more advanced use-cases and development to support web components (and other front end languages).</p>
-<h3>Exercises</h3>
-<p>We're going to look at some different examples in different platforms that are similar to codepen but I also wanted to point out this really slick, business use-case demo from a popular web components company named Vaadin: <a href="https://demo.vaadin.com/customer-crud-app/">https://demo.vaadin.com/customer-crud-app/</a>
+      <![CDATA[ <p>Slides - <a href="https://www.slideshare.net/btopro/web-components-and-package-managers">Web components & Package managers</a>
 </p>
-<p><b>Glitch.com</b>
-
- - A basic example of referencing and leveraging existing web components to do small things and insane things. Buttons, calendars, or... 3d model viewing???</p>
-<ul><li><a href="https://glitch.com/~ui5-webcomponents">https://glitch.com/~ui5-webcomponents</a>
-</li>
-
-<li>
-<a href="https://glitch.com/edit/#!/wcp-model-viewer?path=index.html:27:28">https://glitch.com/edit/#!/wcp-model-viewer?path=index.html:27:28</a>
-<br/></li>
-
-</ul>
-<p><b>Stackblitz.com</b>
-
- - An example of three different web component libraries achieving the same result through similar syntax: 
-<a href="https://stackblitz.com/edit/govsummit">https://stackblitz.com/edit/govsummit</a>
-
-</p>
-<p><b>Webcomponents.dev</b>
-
- - A Headless web application example: 
-<a href="https://webcomponents.dev/edit/nBDd1nHi5clvN1QAdSys">https://webcomponents.dev/edit/nBDd1nHi5clvN1QAdSys</a>
-
-</p>
-<h3>How to submit to lab</h3>
-<p>Similar to last week, we're going to fork and modify something but then we have a specific type of topic prompt for the response:</p>
-<ol>
-  <li><a href="https://webcomponents.dev/edit/KaQ3RE2hDjqwG48OPrnL">Fork this repo just like we did last week</a>
-</li>
-  <li>Update the details in <b>example-app</b>
- to relate to you</li>
-  <li>Copy the <b>example-app</b>
- code and fill it out differently, demonstrating stacking / time savings</li>
-  <li>update the CSS code to <b>remove the yellow background </b>
-and<b> change the border color</b>
- of the css, impacting all copies (again, scale)</li>
-  <li>Do your written response where it says "<i>Here's where you should fill in your response</i>
-"</li>
-<li>Pick <b>one of these </b>
-to frame your writing and video response:	
-    <ul>
-    	<li>Make the <i>business</i>
-, <i>security</i>
-, <i>accessibility,</i>
- OR <i>design</i>
- case for using web components, leveraging links to support your case or through demonstration in one of the repos we've stepped through.</li>
-      	<li><i>Code / Developer route</i>
-: Run through <a href="https://lit-element.polymer-project.org/try">Try LitElement</a>
- and do a video explaining the value of LitElement, with supporting links.</li>
-<li><i>Package manager / tooling pro</i>
-: Setup NPM / node and create an element using Open-WC, the tooling the pros use <a href="https://open-wc.org/guide/">https://open-wc.org/guide/</a>
- and do a video on that process / making a hello-world element in it.</li>
-    </ul>
-  </li>
-  <li>Record your video and link to it from your fork of the repo next to the writing area</li>
-<li>Post in <b>#lab-4-webcomponents</b>
- in our slack group</li>
-<li><a href="https://reclaimhosting.com">Purchase a domain / account on Reclaim hosting to prepare for next week</a>
-</li>
-</ol>
+<p>Web components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a sustainable, secure and accessible manner.</p>
+<p>This week is mostly in slide form as a result of the many talks that btopro gives on these topics. This course is built out of web components and increasingly everything from signs at fast food restaurants to websites you use ever day (like YouTube) will be built out of web components.</p>
  ]]>
     </content>
   </entry>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- generator-class="Icamys\SitemapGenerator\SitemapGenerator" -->
 <!-- generator-version="1.1.0" -->
-<!-- generated-on="2020-01-15T21:07:23-05:00" -->
+<!-- generated-on="2020-01-15T21:13:23-05:00" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>/welcome</loc>
@@ -76,16 +76,16 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/labs/lab-6-wordpress/submitting-the-lab</loc>
+    <loc>/topics/html-css-js-web-basics</loc>
     <lastmod>2020-01-15T21:07:23-05:00</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.7</priority>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>/materials</loc>
-    <lastmod>2020-01-15T21:07:23-05:00</lastmod>
+    <loc>/resources/links-to-learn-more</loc>
+    <lastmod>2020-01-15T21:13:23-05:00</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>/labs/improving-your-digital-identity</loc>
@@ -94,10 +94,16 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/topics/html-css-js-web-basics</loc>
+    <loc>/materials</loc>
     <lastmod>2020-01-15T21:07:23-05:00</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>/labs/lab-6-wordpress/submitting-the-lab</loc>
+    <lastmod>2020-01-15T21:07:23-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>/question-driven-teaching</loc>
@@ -148,19 +154,13 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>/labs/lab-6-wordpress</loc>
-    <lastmod>2020-01-15T21:07:23-05:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>/topics/drupal</loc>
     <lastmod>2020-01-15T21:07:23-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/labs/lab-7-drupal</loc>
+    <loc>/labs/lab-6-wordpress</loc>
     <lastmod>2020-01-15T21:07:23-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -178,7 +178,7 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>/labs/lab-9-drupal-again</loc>
+    <loc>/labs/lab-7-drupal</loc>
     <lastmod>2020-01-15T21:07:23-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -209,6 +209,12 @@
   </url>
   <url>
     <loc>/topics/accessibility-1</loc>
+    <lastmod>2020-01-15T21:07:23-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/labs/lab-9-drupal-again</loc>
     <lastmod>2020-01-15T21:07:23-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -278,11 +284,5 @@
     <lastmod>2020-01-15T21:07:23-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>/resources/links-to-learn-more</loc>
-    <lastmod>2020-01-15T21:07:23-05:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

@@ -521,10 +521,23 @@
             "order": "2",
             "parent": "item-cabad7a7-8b29-4e70-8786-1c60e33a7b90",
             "title": "Links to learn more",
-            "description": "",
+            "description": "Links to learn more about topics. This is an organic list built by me, past students and current students.Web DevelopmentToolsVSCodeGithub\u00a0\/\u00a0 Github GUIIntro to Web DevelopmentCodePenGli",
             "metadata": {
                 "created": 1579140443,
-                "updated": 1579140443
+                "updated": 1579140803,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 3,
+                    "paragraphs": 4,
+                    "schema": [],
+                    "tags": {
+                        "p": 4,
+                        "h2": 2,
+                        "ul": 4,
+                        "h3": 1
+                    },
+                    "elements": 11
+                }
             }
         },
         {
