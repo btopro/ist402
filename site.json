@@ -674,7 +674,17 @@
             "description": "",
             "metadata": {
                 "created": 1579534093,
-                "updated": 1579534093
+                "updated": 1579534093,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/sites\/ist402\/files\/glossary.md",
+                        "fullUrl": "\/sites\/ist402\/files\/glossary.md",
+                        "url": "files\/glossary.md",
+                        "type": "text\/plain",
+                        "name": "glossary.md",
+                        "size": 1951
+                    }
+                ]
             }
         },
         {

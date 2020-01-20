@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- generator-class="Icamys\SitemapGenerator\SitemapGenerator" -->
 <!-- generator-version="1.1.0" -->
-<!-- generated-on="2020-01-20T15:28:13+00:00" -->
+<!-- generated-on="2020-01-20T15:55:49+00:00" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>/welcome</loc>
@@ -16,24 +16,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/resources/screencasting</loc>
-    <lastmod>2020-01-20T15:28:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>/topics/building-your-digital-identity</loc>
-    <lastmod>2020-01-20T15:28:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>/labs/lab-6-wordpress/scenario-1</loc>
-    <lastmod>2020-01-20T15:28:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>/labs/building-your-digital-identity</loc>
     <lastmod>2020-01-20T15:28:13+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -46,6 +28,24 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>/labs/lab-6-wordpress/scenario-1</loc>
+    <lastmod>2020-01-20T15:28:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/topics/building-your-digital-identity</loc>
+    <lastmod>2020-01-20T15:28:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/resources/screencasting</loc>
+    <lastmod>2020-01-20T15:28:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>/resources/past-student-work</loc>
     <lastmod>2020-01-20T15:28:13+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -53,12 +53,6 @@
   </url>
   <url>
     <loc>/topics/git</loc>
-    <lastmod>2020-01-20T15:28:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>/labs/git</loc>
     <lastmod>2020-01-20T15:28:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -74,6 +68,12 @@
     <lastmod>2020-01-20T15:28:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/labs/git</loc>
+    <lastmod>2020-01-20T15:28:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>/topics/html-css-js-web-basics</loc>
@@ -106,13 +106,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/question-driven-teaching</loc>
+    <loc>/goals-for-you-</loc>
     <lastmod>2020-01-20T15:28:13+00:00</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <priority>1.0</priority>
   </url>
   <url>
-    <loc>/labs/html-css-js-web-basics</loc>
+    <loc>/resources/glossary</loc>
     <lastmod>2020-01-20T15:28:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -124,10 +124,10 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/goals-for-you-</loc>
+    <loc>/labs/html-css-js-web-basics</loc>
     <lastmod>2020-01-20T15:28:13+00:00</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>/labs/lab-5-gravcms</loc>
@@ -148,16 +148,16 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>/question-driven-teaching</loc>
+    <lastmod>2020-01-20T15:28:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>/after-class-reflection</loc>
     <lastmod>2020-01-20T15:28:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>/topics/drupal</loc>
-    <lastmod>2020-01-20T15:28:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>/labs/lab-6-wordpress</loc>
@@ -166,7 +166,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/topics/haxtheweb</loc>
+    <loc>/topics/drupal</loc>
     <lastmod>2020-01-20T15:28:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -179,6 +179,18 @@
   </url>
   <url>
     <loc>/labs/lab-7-drupal</loc>
+    <lastmod>2020-01-20T15:28:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/topics/haxtheweb</loc>
+    <lastmod>2020-01-20T15:28:13+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/labs/lab-9-drupal-again</loc>
     <lastmod>2020-01-20T15:28:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -209,12 +221,6 @@
   </url>
   <url>
     <loc>/topics/accessibility-1</loc>
-    <lastmod>2020-01-20T15:28:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>/labs/lab-9-drupal-again</loc>
     <lastmod>2020-01-20T15:28:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -284,11 +290,5 @@
     <lastmod>2020-01-20T15:28:13+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>/resources/glossary</loc>
-    <lastmod>2020-01-20T15:28:13+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
