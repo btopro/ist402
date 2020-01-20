@@ -6,7 +6,7 @@
     <description>Web Technologies and Activism</description>
     <copyright>Copyright (C) 2020 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2020 21:07:23 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 02:07:23 +0000</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Links to learn more</title>
@@ -56,7 +56,7 @@
       </description>
       <category></category>
       <guid>/resources/links-to-learn-more</guid>
-      <pubDate>Wed, 15 Jan 2020 21:07:23 -0500</pubDate>
+      <pubDate>Thu, 16 Jan 2020 02:07:23 +0000</pubDate>
     </item>
     <item>
       <title>W3 Improving your digital identity</title>
@@ -88,7 +88,7 @@ channel and pick <b>three brands by your classmates</b>
       </description>
       <category></category>
       <guid>/labs/improving-your-digital-identity</guid>
-      <pubDate>Mon, 13 Jan 2020 12:49:31 -0500</pubDate>
+      <pubDate>Mon, 13 Jan 2020 17:49:31 +0000</pubDate>
     </item>
     <item>
       <title>W9 Spring Break</title>
@@ -100,7 +100,7 @@ channel and pick <b>three brands by your classmates</b>
       </description>
       <category></category>
       <guid>/labs/w9-spring-break</guid>
-      <pubDate>Mon, 13 Jan 2020 12:45:55 -0500</pubDate>
+      <pubDate>Mon, 13 Jan 2020 17:45:55 +0000</pubDate>
     </item>
     <item>
       <title>Containers</title>
@@ -118,7 +118,7 @@ channel and pick <b>three brands by your classmates</b>
       </description>
       <category></category>
       <guid>/topics/container</guid>
-      <pubDate>Tue, 19 Nov 2019 22:56:44 -0500</pubDate>
+      <pubDate>Wed, 20 Nov 2019 03:56:44 +0000</pubDate>
     </item>
     <item>
       <title>W11 Docker</title>
@@ -155,7 +155,7 @@ channel and pick <b>three brands by your classmates</b>
       </description>
       <category></category>
       <guid>/labs/lab-13-docker</guid>
-      <pubDate>Tue, 19 Nov 2019 22:56:24 -0500</pubDate>
+      <pubDate>Wed, 20 Nov 2019 03:56:24 +0000</pubDate>
     </item>
     <item>
       <title>W13 Accessible Design</title>
@@ -193,7 +193,7 @@ channel and pick <b>three brands by your classmates</b>
       </description>
       <category></category>
       <guid>/labs/lab-12-accessible-design</guid>
-      <pubDate>Tue, 12 Nov 2019 19:07:04 -0500</pubDate>
+      <pubDate>Wed, 13 Nov 2019 00:07:04 +0000</pubDate>
     </item>
     <item>
       <title>Accessible Design</title>
@@ -210,7 +210,7 @@ channel and pick <b>three brands by your classmates</b>
       </description>
       <category></category>
       <guid>/topics/accessible-design</guid>
-      <pubDate>Tue, 12 Nov 2019 18:50:27 -0500</pubDate>
+      <pubDate>Tue, 12 Nov 2019 23:50:27 +0000</pubDate>
     </item>
     <item>
       <title>Past student work</title>
@@ -226,7 +226,7 @@ channel and pick <b>three brands by your classmates</b>
       </description>
       <category></category>
       <guid>/resources/past-student-work</guid>
-      <pubDate>Tue, 05 Nov 2019 12:27:12 -0500</pubDate>
+      <pubDate>Tue, 05 Nov 2019 17:27:12 +0000</pubDate>
     </item>
     <item>
       <title>Accessibility</title>
@@ -240,7 +240,7 @@ channel and pick <b>three brands by your classmates</b>
       </description>
       <category></category>
       <guid>/topics/accessibility-1</guid>
-      <pubDate>Wed, 30 Oct 2019 17:21:25 -0400</pubDate>
+      <pubDate>Wed, 30 Oct 2019 21:21:25 +0000</pubDate>
     </item>
     <item>
       <title>Accessibility</title>
@@ -303,7 +303,7 @@ to understand issues and see what real reports look and feel like</p>
       </description>
       <category></category>
       <guid>/labs/lab-11-accessibility</guid>
-      <pubDate>Wed, 30 Oct 2019 17:21:25 -0400</pubDate>
+      <pubDate>Wed, 30 Oct 2019 21:21:25 +0000</pubDate>
     </item>
     <item>
       <title>W14 Exam</title>
@@ -316,7 +316,7 @@ to understand issues and see what real reports look and feel like</p>
       </description>
       <category></category>
       <guid>/labs/lab-8-midterm-no-lab</guid>
-      <pubDate>Wed, 23 Oct 2019 14:38:05 -0400</pubDate>
+      <pubDate>Wed, 23 Oct 2019 18:38:05 +0000</pubDate>
     </item>
     <item>
       <title>W8 Drupal again</title>
@@ -385,7 +385,7 @@ correctly of the organization and has poor permission support within those roles
       </description>
       <category></category>
       <guid>/labs/lab-9-drupal-again</guid>
-      <pubDate>Wed, 23 Oct 2019 14:38:05 -0400</pubDate>
+      <pubDate>Wed, 23 Oct 2019 18:38:05 +0000</pubDate>
     </item>
     <item>
       <title>W10 HAXTheWeb</title>
@@ -450,7 +450,7 @@ What didn't work or what you ran into issues using the platform are critical to 
       </description>
       <category></category>
       <guid>/labs/labs/lab-10-haxtheweb</guid>
-      <pubDate>Thu, 10 Oct 2019 15:41:57 -0400</pubDate>
+      <pubDate>Thu, 10 Oct 2019 19:41:57 +0000</pubDate>
     </item>
     <item>
       <title>HAXTheWeb</title>
@@ -464,7 +464,7 @@ What didn't work or what you ran into issues using the platform are critical to 
       </description>
       <category></category>
       <guid>/topics/haxtheweb</guid>
-      <pubDate>Thu, 10 Oct 2019 15:41:56 -0400</pubDate>
+      <pubDate>Thu, 10 Oct 2019 19:41:56 +0000</pubDate>
     </item>
     <item>
       <title>W7 Drupal</title>
@@ -553,7 +553,7 @@ What didn't work or what you ran into issues using the platform are critical to 
       </description>
       <category></category>
       <guid>/labs/lab-7-drupal</guid>
-      <pubDate>Thu, 03 Oct 2019 20:07:06 -0400</pubDate>
+      <pubDate>Fri, 04 Oct 2019 00:07:06 +0000</pubDate>
     </item>
     <item>
       <title>Drupal</title>
@@ -568,7 +568,7 @@ What didn't work or what you ran into issues using the platform are critical to 
       </description>
       <category></category>
       <guid>/topics/drupal</guid>
-      <pubDate>Thu, 03 Oct 2019 20:07:06 -0400</pubDate>
+      <pubDate>Fri, 04 Oct 2019 00:07:06 +0000</pubDate>
     </item>
     <item>
       <title>Submitting the lab</title>
@@ -602,7 +602,7 @@ your </span><span style="font-variant-numeric: normal; font-variant-east-asian: 
       </description>
       <category></category>
       <guid>/labs/lab-6-wordpress/submitting-the-lab</guid>
-      <pubDate>Tue, 01 Oct 2019 20:43:14 -0400</pubDate>
+      <pubDate>Wed, 02 Oct 2019 00:43:14 +0000</pubDate>
     </item>
     <item>
       <title>Scenario 1</title>
@@ -742,7 +742,7 @@ complexity and learning curve</span></li>
       </description>
       <category></category>
       <guid>/labs/lab-6-wordpress/scenario-1</guid>
-      <pubDate>Tue, 01 Oct 2019 19:40:19 -0400</pubDate>
+      <pubDate>Tue, 01 Oct 2019 23:40:19 +0000</pubDate>
     </item>
     <item>
       <title>Scenario 2</title>
@@ -906,7 +906,7 @@ desire</span></li>
       </description>
       <category></category>
       <guid>/labs/lab-6-wordpress/scenario-2</guid>
-      <pubDate>Tue, 01 Oct 2019 19:40:19 -0400</pubDate>
+      <pubDate>Tue, 01 Oct 2019 23:40:19 +0000</pubDate>
     </item>
     <item>
       <title>W6 WordPress</title>
@@ -960,7 +960,7 @@ desire</span></li>
       </description>
       <category></category>
       <guid>/labs/lab-6-wordpress</guid>
-      <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
+      <pubDate>Tue, 01 Oct 2019 18:02:52 +0000</pubDate>
     </item>
     <item>
       <title>ClassicPress / WordPress</title>
@@ -981,7 +981,7 @@ desire</span></li>
       </description>
       <category></category>
       <guid>/topics/wordpress</guid>
-      <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
+      <pubDate>Tue, 01 Oct 2019 18:02:52 +0000</pubDate>
     </item>
     <item>
       <title>Exam review</title>
@@ -995,7 +995,7 @@ desire</span></li>
       </description>
       <category></category>
       <guid>/mid-term-review</guid>
-      <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
+      <pubDate>Tue, 01 Oct 2019 18:02:52 +0000</pubDate>
     </item>
     <item>
       <title>GravCMS</title>
@@ -1024,7 +1024,7 @@ desire</span></li>
       </description>
       <category></category>
       <guid>/topics/gravcms</guid>
-      <pubDate>Wed, 25 Sep 2019 11:00:10 -0400</pubDate>
+      <pubDate>Wed, 25 Sep 2019 15:00:10 +0000</pubDate>
     </item>
     <item>
       <title>W5 GravCMS</title>
@@ -1194,7 +1194,7 @@ of your </span><span style="font-variant-numeric: normal; font-variant-east-asia
       </description>
       <category></category>
       <guid>/labs/lab-5-gravcms</guid>
-      <pubDate>Wed, 25 Sep 2019 11:00:10 -0400</pubDate>
+      <pubDate>Wed, 25 Sep 2019 15:00:10 +0000</pubDate>
     </item>
     <item>
       <title>Webcomponents</title>
@@ -1208,7 +1208,7 @@ of your </span><span style="font-variant-numeric: normal; font-variant-east-asia
       </description>
       <category></category>
       <guid>/topics/webcomponents</guid>
-      <pubDate>Wed, 18 Sep 2019 14:38:01 -0400</pubDate>
+      <pubDate>Wed, 18 Sep 2019 18:38:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

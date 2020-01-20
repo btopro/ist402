@@ -334,6 +334,14 @@
                         "type": "text\/plain",
                         "name": "courselinks.csv",
                         "size": 1410
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/ist402\/files\/spring2020.md",
+                        "fullUrl": "\/sites\/ist402\/files\/spring2020.md",
+                        "url": "files\/spring2020.md",
+                        "type": "text\/plain",
+                        "name": "spring2020.md",
+                        "size": 176
                     }
                 ],
                 "readtime": 1,
