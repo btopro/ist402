@@ -671,10 +671,10 @@
             "order": "3",
             "parent": "item-cabad7a7-8b29-4e70-8786-1c60e33a7b90",
             "title": "Glossary",
-            "description": "",
+            "description": "This is a living glossary of terms from students who have taken the course (with some help from me in assembly)",
             "metadata": {
                 "created": 1579534093,
-                "updated": 1579534093,
+                "updated": 1579535764,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/sites\/ist402\/files\/glossary.md",
@@ -684,7 +684,18 @@
                         "name": "glossary.md",
                         "size": 1951
                     }
-                ]
+                ],
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 1,
+                    "schema": [],
+                    "tags": {
+                        "p": 1,
+                        "md-block": 1
+                    },
+                    "elements": 2
+                }
             }
         },
         {

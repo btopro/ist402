@@ -11,13 +11,15 @@
   <entry>
     <title>Glossary</title>
     <id>/resources/glossary</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
+    <updated>2020-01-20T15:56:04+00:00</updated>
     <published>2020-01-20T15:28:13+00:00</published>
-    <summary></summary>
+    <summary>This is a living glossary of terms from students who have taken the course (with some help from me in assembly)</summary>
     <link href="/resources/glossary"/>
     
     <content type="html">
-      <![CDATA[ <p></p> ]]>
+      <![CDATA[ <p>This is a living glossary of terms from students who have taken the course (with some help from me in assembly)</p>
+<md-block source="files/glossary.md"></md-block>
+ ]]>
     </content>
   </entry>
   <entry>
