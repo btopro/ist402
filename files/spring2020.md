@@ -1,5 +1,5 @@
 ## Spring 2020
-- [bmcTechGuy(https://www.youtube.com/channel/UCabL6Ewd04q3h5Xc5PlrvFQ?view_as=subscriber)
+- [bmcTechGuy](https://www.youtube.com/channel/UCabL6Ewd04q3h5Xc5PlrvFQ?view_as=subscriber)
 - [EdTechJoker Playlist](https://www.youtube.com/playlist?list=PLJQupiji7J5e8t_dL8T1iVq-bMPElKTI2)
 - [bridgebits Playlist](https://www.youtube.com/channel/UCCZqye8rNHguz3KrkScOYKQ/playlists)
 - [SimpleTech Playlist](https://www.youtube.com/channel/UCm28UVuliqM8RsSlVa0NBHA?view_as=subscriber)
@@ -11,6 +11,7 @@
 - [btopro](https://btopro.com/)
 - [busitech](https://www.youtube.com/channel/UCKfg5JQqBSkpqI0xmZfYOyQ?view_as=subscriber)
 - [dreamingfelicia](https://www.youtube.com/channel/UCQPw1ozw-l4zlE-xx8dEF5A/featured)
+- [cyngularity](https://www.youtube.com/channel/UCdJgCivMb5aErPfopu5XumA?view_as=subscriber)
 - [vidsforvictory](https://www.youtube.com/channel/UCBQ_FijiVP24YqQxKjrnJGA?guided_help_flow=3)
 - [Magic&IT](https://www.youtube.com/channel/UCr3h6u8W8h1iVp9zwvPeI0A?view_as=subscriber)
 - [Hank_Lee329](https://www.youtube.com/channel/UCGl5x3LHGvuWdcZ4DNSKS0A?view_as=subscriber)
