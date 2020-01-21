@@ -1,6 +1,7 @@
 ## Spring 2020
 
 - [EdTechJoker Playlist](https://www.youtube.com/playlist?list=PLJQupiji7J5e8t_dL8T1iVq-bMPElKTI2)
+- [SimpleTech Playlist](https://www.youtube.com/channel/UCm28UVuliqM8RsSlVa0NBHA?view_as=subscriber)
 - [brendan6illeece](https://www.youtube.com/playlist?list=PLRpj-B9YL19M8iRq7VlY9zLrCHKD4JEvp)
 - <a href="https://www.youtube.com/channel/UCmTsz3Z6GxzTxfwGTz7nKkg?view_as=subscriber"> Collins Code </a>
 - [BoominTech](https://www.youtube.com/channel/UCEYT7XbvvLknkqorLHdrSJQ/?guided_help_flow=5)
