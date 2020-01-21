@@ -12,6 +12,7 @@
 - [BLACKinTECH](https://www.youtube.com/channel/UCkjR9RZpsNaEFvbmYP2uZ4A/featured)
 - [busitech](https://www.youtube.com/channel/UCKfg5JQqBSkpqI0xmZfYOyQ?view_as=subscriber)
 - [dreamingfelicia](https://www.youtube.com/channel/UCQPw1ozw-l4zlE-xx8dEF5A/featured)
+- [HystrixTech](https://www.youtube.com/channel/UCyNfRb-PoAeR8YKVY0IYy0A?view_as=subscriber)
 - [DreamCoder905 Playlist] (https://www.youtube.com/channel/UCiuXwRj_qGwfqapYSx4jGlQ)
 - [Tech4Beginners](https://www.youtube.com/channel/UClVYOOgYdWjC9OxvkoPO5NQ?view_as=subscriber)
 - [cyngularity](https://www.youtube.com/channel/UCdJgCivMb5aErPfopu5XumA?view_as=subscriber)
