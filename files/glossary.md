@@ -58,7 +58,7 @@ A front end developer works on "front end" code in an application, commonly mean
 ## Syntactically Awesome Style Sheets (Sass)
 
 
-## Polymer
+## Polymer Project
 
 
 ## Web Components
@@ -177,3 +177,11 @@ A front end developer works on "front end" code in an application, commonly mean
 
 ## Webpack
 
+
+## OpenFaaS
+
+
+## PaaS
+
+
+## SaaS
