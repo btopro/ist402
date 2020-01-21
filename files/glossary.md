@@ -122,12 +122,9 @@ Vue.js (pronounced the same as ‘view’) is a progressive Javascript framework
 Vue is similar to React in purpose, but each have different pros and cons. Ease of integration is a common praise for Vue and a less strict learning curve is also a relevant bonus. Vue was created by one man named Evan You and has always been open-source, relying heavily on community support. He created Vue to combine features from already popular frameworks like React and Angular. 
 
 Read the articles below to learn more: 
-
-[Vue.js: Introduction](https://vuejs.org/v2/guide/)
-
-[W3schools: What is Vue.js](https://www.w3schools.com/whatis/whatis_vue.asp)
-
-[Monterail: Vue.js vs React](https://www.monterail.com/blog/vue-vs-react-2019)
+- [Vue.js: Introduction](https://vuejs.org/v2/guide/)
+- [W3schools: What is Vue.js](https://www.w3schools.com/whatis/whatis_vue.asp)
+- [Monterail: Vue.js vs React](https://www.monterail.com/blog/vue-vs-react-2019)
 
 
 ## Golang
