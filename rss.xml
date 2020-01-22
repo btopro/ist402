@@ -12,11 +12,13 @@
       <title>OERSchema</title>
       <link>/topics/oerschema-1</link>
       <description>
-          <![CDATA[ <grid-plate layout="1-1" responsive-size="md" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" column-widths="[&quot;50%&quot;,&quot;50%&quot;]"><p class="grid-plate-active-item" slot="col-1">This week we'll have a guest speaker. Michael Collins is the Lead faculty member of the DMD program. An innovative online undergrad program in the College of Arts & Architecture that is a mesh of topics from the Arts, Communications, and IST programs.</p>
-<img src="files/collins-mug.jpg" alt="Michael Collins, lead faculty of the DMD program at Penn State." slot="col-2"="false"/></grid-plate>
+          <![CDATA[ <grid-plate layout="1-1" responsive-size="md" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" column-widths="[&quot;50%&quot;,&quot;50%&quot;]"><p slot="col-1">This week we'll have a guest speaker. Michael Collins is the Lead faculty member of the DMD program. An innovative online undergrad program in the College of Arts & Architecture that is a mesh of topics from the Arts, Communications, and IST programs.</p>
+<img src="files/collins-mug.jpg" alt="Michael Collins, lead faculty of the DMD program at Penn State." slot="col-2" ="false"=""="false"/></grid-plate>
 <p>Michael is the creator of a standard called <a href="https://oerschema.org/">OERSchema</a>
  which extends <a href="https://schema.org/">Schema.org ontologies</a>
  in order to inform our machine overlords about educational concepts. OERSchema is an ontology that we leverage behind the scenes in many projects our group works on and the HAX editor (which we'll cover later in the semester) is able to write content that has OERSchema baked into it automatically.</p>
+<p>I'll be presenting at two conferences this week so I will be traveling during class. Our TAs are available for answering questions about how to complete this lab assignment and please ask questions of Michael about OERSchema.</p>
+<p>Next unit we'll start diving into some HTML/CSS/Javascript fundamentals mostly through a platform called codepen.</p>
  ]]>
       </description>
       <category></category>
