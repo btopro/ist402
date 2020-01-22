@@ -3,16 +3,28 @@
   <title>ist402</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>Web Technologies and Activism</subtitle>
-  <updated>2020-01-20T15:28:13+00:00</updated>
+  <updated>2020-01-20T10:28:13-05:00</updated>
   <author>
       <name></name>
   </author>
   <id>/feed</id>
   <entry>
+    <title>OERSchema</title>
+    <id>/topics/oerschema-1</id>
+    <updated>2020-01-22T16:54:55-05:00</updated>
+    <published>2020-01-22T16:54:55-05:00</published>
+    <summary></summary>
+    <link href="/topics/oerschema-1"/>
+    
+    <content type="html">
+      <![CDATA[ <p></p> ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Glossary</title>
     <id>/resources/glossary</id>
-    <updated>2020-01-20T15:56:04+00:00</updated>
-    <published>2020-01-20T15:28:13+00:00</published>
+    <updated>2020-01-22T16:54:56-05:00</updated>
+    <published>2020-01-20T10:28:13-05:00</published>
     <summary>This is a living glossary of terms from students who have taken the course (with some help from me in assembly)</summary>
     <link href="/resources/glossary"/>
     
@@ -25,8 +37,8 @@
   <entry>
     <title>Links to learn more</title>
     <id>/resources/links-to-learn-more</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2020-01-16T02:07:23+00:00</published>
+    <updated>2020-01-22T16:54:56-05:00</updated>
+    <published>2020-01-15T21:07:23-05:00</published>
     <summary>Links to learn more about topics. This is an organic list built by me, past students and current students.Web DevelopmentToolsVSCodeGithub /  Github GUIIntro to Web DevelopmentCodePenGli</summary>
     <link href="/resources/links-to-learn-more"/>
     
@@ -77,42 +89,47 @@
   <entry>
     <title>W3 Improving your digital identity</title>
     <id>/labs/improving-your-digital-identity</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2020-01-13T17:49:31+00:00</published>
+    <updated>2020-01-22T16:54:55-05:00</updated>
+    <published>2020-01-13T12:49:31-05:00</published>
     <summary>This week we&#39;re going to improve upon our brand by through critique and self reflection. We want to get our brands in as good a shape as possible prior to all the hands on labs and topics we&#39;ll be eng</summary>
     <link href="/labs/improving-your-digital-identity"/>
     
     <content type="html">
       <![CDATA[ <p>This week we're going to improve upon our brand by through critique and self reflection. We want to get our brands in as good a shape as possible prior to all the hands on labs and topics we'll be engaging in this semester.</p>
-<h2>Critique</h2>
-<p>Look back through the <b>#lab-1-brand </b>
+<h2 id="header-269a6260-4d70-a51e-cc8a-d6dffd873f11">Critique</h2>
+<p>Look to the people around you in class (say hi, scary, I know). Ask what their brand is (ask three people), find it on the <b>#lab-1-brand </b>
 Slack<b> </b>
-channel and pick <b>three brands by your classmates</b>
- at random (or friends, which ever). Watch their video and how they present themselves as well as take note of any images, naming, or social media complements they've made to their brand.</p>
-<h2>Writing</h2>
-<p>I want you to produce <b>three recommendations for each of the three brands</b>
- you selected on how they can improve their brand (these can be bullet points). Things they could do to more effectively communicate either verbally or in their social media presence.</p>
-<p>Then I want you to reflect on your own brand and come up with <b>three ways you could improve your brand</b>
- based on the ones you saw.</p>
-<h2>Video Reflection</h2>
-<p>For your video reflection I want you to produce a video explaining the phrase SEO. SEO stands for Search Engine Optimization, and it's something we're actively engaging in through this course. By generating lots of content on different platforms with similar names, we're training SEO / Google-bot web crawlers to index and make our brands send our content higher in search results.</p>
-<p>Make a video explaining SEO, how you can improve it, and then how you plan on improving your brand in order to enhance your SEO.</p>
-<h2>Rubric</h2>
-<ul><li>Did you review three other brands and provide 3 pieces of feedback on each? (4 pts)</li>
-<li>Did you reflect on your own brand and come up with real areas for improvement? (2 pts)</li>
-<li>Did you communicate effectively about the importance of SEO? (4 pts)</li>
+channel to find them on YouTube. Watch their video for the git submission last week. Take note of the following and offer them suggestions on where they can improve:</p>
+<ul><li>Brand name / recognition</li>
+<li>Style in video / audio quality / space used to record</li>
+<li>Usage of social media (if any)</li>
+<li>Images in headers and icon form on YouTube/Github/Social Media</li>
+<li>Video descriptions, links in the description area</li>
 </ul>
-<p>When complete, submit to the <b>#lab-3-brand-review</b>
- channel on slack by Sunday.</p>
-<p></p>
+<h2 id="header-be5954b0-84ee-1912-656f-567e8eb0c229">Writing</h2>
+<p>I want you to produce <b>recommendations for each of the three brands</b>
+ you selected on how they can improve their brand (these can be bullet points / short sentences on each of the points above). And make sure you use @ on slack to notify them of your feedback (so write down their name / brand when exchanging links).</p>
+<h2 id="header-a3d87fca-be82-b07c-e3bf-fc517040d429">Video Reflection</h2>
+<p>For your video reflection I want you to produce a video explaining one of the topics related to our guest speaker. I've included a list of potential questions to answer throughout your explainer video on the subject.</p>
+<ul><li><b>SEO</b>
+ - Search engine optimization. How SEO influences you showing up in search engine results? What can you do to improve your SEO? What are some things you can do this semester to ensure you have high SEO when we're done? Finding links that explain the subject either from technical (HTML structure / metadata) or from a marketer perspective.</li>
+<li><a href="https://oerschema.org">OERSchema</a>
+ - What a schema is, what OER Schema is trying to achieve, and showing an example from the documentation and explaining it. This can be anything related to micro-data, how it interplay with SEO and search indexing, or even privacy concerns associated with being able to associate public data a bit too accurately.</li>
+</ul>
+<h2 id="header-2e9caccb-cc0e-c954-3176-61f57c6455ea">Rubric</h2>
+<ul><li>Did you review three other brands and provide feedback on each? (5 pts)</li>
+<li>Did you communicate effectively about the importance of SEO / OERSchema? (5 pts)</li>
+</ul>
+<p>When complete, submit a word doc to the <b>#lab-3-brand-review</b>
+ channel on slack by Sunday which includes your review of your classmates brands as well as link to your video submission.</p>
  ]]>
     </content>
   </entry>
   <entry>
     <title>W9 Spring Break</title>
     <id>/labs/w9-spring-break</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2020-01-13T17:45:55+00:00</published>
+    <updated>2020-01-22T16:54:55-05:00</updated>
+    <published>2020-01-13T12:45:55-05:00</published>
     <summary>Catch up on past labs or sleep. Big fan of sleep myself so I know what I'll be doing.</summary>
     <link href="/labs/w9-spring-break"/>
     
@@ -125,8 +142,8 @@ channel and pick <b>three brands by your classmates</b>
   <entry>
     <title>Containers</title>
     <id>/topics/container</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2019-11-20T03:56:44+00:00</published>
+    <updated>2020-01-22T16:54:55-05:00</updated>
+    <published>2019-11-19T22:56:44-05:00</published>
     <summary>Slides on containers by me and @hey__mp.Containers are transforming the landscape of the web and what's possible in application development at scale. Companies like Google, Netflix, Uber, Canvas and</summary>
     <link href="/topics/container"/>
     
@@ -145,8 +162,8 @@ channel and pick <b>three brands by your classmates</b>
   <entry>
     <title>W11 Docker</title>
     <id>/labs/lab-13-docker</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2019-11-20T03:56:24+00:00</published>
+    <updated>2020-01-22T16:54:56-05:00</updated>
+    <published>2019-11-19T22:56:24-05:00</published>
     <summary>For lab this week, we&#39;ll use directions our guest has put together to deploy different services via docker to better understand Functions as a Service technology as well as a bit of how docker infrast</summary>
     <link href="/labs/lab-13-docker"/>
     
@@ -184,8 +201,8 @@ channel and pick <b>three brands by your classmates</b>
   <entry>
     <title>W13 Accessible Design</title>
     <id>/labs/lab-12-accessible-design</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2019-11-13T00:07:04+00:00</published>
+    <updated>2020-01-22T16:54:56-05:00</updated>
+    <published>2019-11-12T19:07:04-05:00</published>
     <summary>You live in the world of Stranger Things. I know, it&#39;s hard to envision, it&#39;s why it&#39;s such a good show. Old people like your instructor, actually remember parts of the 80s and what it was like to not</summary>
     <link href="/labs/lab-12-accessible-design"/>
     
@@ -224,8 +241,8 @@ channel and pick <b>three brands by your classmates</b>
   <entry>
     <title>Accessible Design</title>
     <id>/topics/accessible-design</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2019-11-12T23:50:27+00:00</published>
+    <updated>2020-01-22T16:54:55-05:00</updated>
+    <published>2019-11-12T18:50:27-05:00</published>
     <summary>Slides for class from Nikki's lectureToday we're going to have a guest lecture by Nikki Massaro-Kauffman (@NikkiMK, LinkedIn), User Experience and Accessibility lead on all things HAXTheWeb. Nikki</summary>
     <link href="/topics/accessible-design"/>
     
@@ -243,8 +260,8 @@ channel and pick <b>three brands by your classmates</b>
   <entry>
     <title>Past student work</title>
     <id>/resources/past-student-work</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2019-11-05T17:27:12+00:00</published>
+    <updated>2020-01-22T16:54:56-05:00</updated>
+    <published>2019-11-05T12:27:12-05:00</published>
     <summary>Here are some examples of past student work to check out!Fall 2019</summary>
     <link href="/resources/past-student-work"/>
     
@@ -258,9 +275,25 @@ channel and pick <b>three brands by your classmates</b>
   </entry>
   <entry>
     <title>Accessibility</title>
+    <id>/topics/accessibility-1</id>
+    <updated>2020-01-22T16:54:55-05:00</updated>
+    <published>2019-10-30T17:21:25-04:00</published>
+    <summary>My slides from class. Sonya Wood's accessibility talk in class.</summary>
+    <link href="/topics/accessibility-1"/>
+    
+    <content type="html">
+      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/lecture11-accessibility">My slides from class</a>
+. <a href="https://www.slideshare.net/btopro/ist-402-presentation-by-sonya">Sonya Wood's accessibility talk</a>
+ in class.</p>
+<a11y-gif-player src="https://media1.giphy.com/media/26u4eMlvKoTn7DfvG/giphy.gif" src-without-animation="https://media3.giphy.com/media/26u4eMlvKoTn7DfvG/480w_s.jpg" alt="Wheel chair user slowly being lowered by kegs down a ramp" schema-resource-id="#bc676c7d-31ce-58d0-f485" resource="#bc676c7d-31ce-58d0-f485" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 75%; margin: 0px auto; display: block;" tooltip="Toggle animation"></a11y-gif-player>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Accessibility</title>
     <id>/labs/lab-11-accessibility</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2019-10-30T21:21:25+00:00</published>
+    <updated>2020-01-22T16:54:56-05:00</updated>
+    <published>2019-10-30T17:21:25-04:00</published>
     <summary>Web accessibility is just one piece of the accessibility pie but we&#39;re attuned to its importance. The next thing though is how do we use tools to help build more accessible things and remediate what w</summary>
     <link href="/labs/lab-11-accessibility"/>
     
@@ -322,26 +355,25 @@ to understand issues and see what real reports look and feel like</p>
     </content>
   </entry>
   <entry>
-    <title>Accessibility</title>
-    <id>/topics/accessibility-1</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2019-10-30T21:21:25+00:00</published>
-    <summary>My slides from class. Sonya Wood's accessibility talk in class.</summary>
-    <link href="/topics/accessibility-1"/>
+    <title>W14 Exam</title>
+    <id>/labs/lab-8-midterm-no-lab</id>
+    <updated>2020-01-22T16:54:56-05:00</updated>
+    <published>2019-10-23T14:38:05-04:00</published>
+    <summary>Week 14 we will have an Exam the Tuesday of this week and then start into our Final Projects on the Thursday of this week.This will give you two weeks to work on your Final project prior to finals.T</summary>
+    <link href="/labs/lab-8-midterm-no-lab"/>
     
     <content type="html">
-      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/lecture11-accessibility">My slides from class</a>
-. <a href="https://www.slideshare.net/btopro/ist-402-presentation-by-sonya">Sonya Wood's accessibility talk</a>
- in class.</p>
-<a11y-gif-player src="https://media1.giphy.com/media/26u4eMlvKoTn7DfvG/giphy.gif" src-without-animation="https://media3.giphy.com/media/26u4eMlvKoTn7DfvG/480w_s.jpg" alt="Wheel chair user slowly being lowered by kegs down a ramp" schema-resource-id="#bc676c7d-31ce-58d0-f485" resource="#bc676c7d-31ce-58d0-f485" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 75%; margin: 0px auto; display: block;" tooltip="Toggle animation"></a11y-gif-player>
+      <![CDATA[ <p>Week 14 we will have an Exam the Tuesday of this week and then start into our Final Projects on the Thursday of this week.</p>
+<p>This will give you two weeks to work on your Final project prior to finals.</p>
+<p>The exam is "open internet" and is an overview from the topics this semester.</p>
  ]]>
     </content>
   </entry>
   <entry>
     <title>W8 Drupal again</title>
     <id>/labs/lab-9-drupal-again</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2019-10-23T18:38:05+00:00</published>
+    <updated>2020-01-22T16:54:55-05:00</updated>
+    <published>2019-10-23T14:38:05-04:00</published>
     <summary>Drupal was both challenging and many wanted to learn more. As it&#39;s a much more complex system then the other CMSs we&#39;re covering, we&#39;re going to dedicate an additional class period JUST to doing more </summary>
     <link href="/labs/lab-9-drupal-again"/>
     
@@ -409,25 +441,10 @@ correctly of the organization and has poor permission support within those roles
     </content>
   </entry>
   <entry>
-    <title>W14 Exam</title>
-    <id>/labs/lab-8-midterm-no-lab</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2019-10-23T18:38:05+00:00</published>
-    <summary>Week 14 we will have an Exam the Tuesday of this week and then start into our Final Projects on the Thursday of this week.This will give you two weeks to work on your Final project prior to finals.T</summary>
-    <link href="/labs/lab-8-midterm-no-lab"/>
-    
-    <content type="html">
-      <![CDATA[ <p>Week 14 we will have an Exam the Tuesday of this week and then start into our Final Projects on the Thursday of this week.</p>
-<p>This will give you two weeks to work on your Final project prior to finals.</p>
-<p>The exam is "open internet" and is an overview from the topics this semester.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>W10 HAXTheWeb</title>
     <id>/labs/labs/lab-10-haxtheweb</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2019-10-10T19:41:57+00:00</published>
+    <updated>2020-01-22T16:54:56-05:00</updated>
+    <published>2019-10-10T15:41:57-04:00</published>
     <summary>We&#39;ll cover user experience and generating ways of improving the platform by creating issues about any confusion you&#39;ve run into when using the platform. Open critique is the best way to improve.In c</summary>
     <link href="/labs/labs/lab-10-haxtheweb"/>
     
@@ -493,8 +510,8 @@ What didn't work or what you ran into issues using the platform are critical to 
   <entry>
     <title>HAXTheWeb</title>
     <id>/topics/haxtheweb</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2019-10-10T19:41:56+00:00</published>
+    <updated>2020-01-22T16:54:55-05:00</updated>
+    <published>2019-10-10T15:41:56-04:00</published>
     <summary>Slides for this weekThis is the platform that's powering THIS website you are reading through for class currently. HAXTheWeb is a series of platforms and web components to transform web publishing. </summary>
     <link href="/topics/haxtheweb"/>
     
@@ -509,8 +526,8 @@ What didn't work or what you ran into issues using the platform are critical to 
   <entry>
     <title>W7 Drupal</title>
     <id>/labs/lab-7-drupal</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2019-10-04T00:07:06+00:00</published>
+    <updated>2020-01-22T16:54:55-05:00</updated>
+    <published>2019-10-03T20:07:06-04:00</published>
     <summary>Data modelingThis is to be done in class with image posted here for reference but in case you miss the activity that generates it. Take 10-15 minutes and figure out the fields and relationships of t</summary>
     <link href="/labs/lab-7-drupal"/>
     
@@ -600,8 +617,8 @@ What didn't work or what you ran into issues using the platform are critical to 
   <entry>
     <title>Drupal</title>
     <id>/topics/drupal</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2019-10-04T00:07:06+00:00</published>
+    <updated>2020-01-22T16:54:55-05:00</updated>
+    <published>2019-10-03T20:07:06-04:00</published>
     <summary>Slides for this topicDrupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll</summary>
     <link href="/topics/drupal"/>
     
@@ -617,8 +634,8 @@ What didn't work or what you ran into issues using the platform are critical to 
   <entry>
     <title>Submitting the lab</title>
     <id>/labs/lab-6-wordpress/submitting-the-lab</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2019-10-02T00:43:14+00:00</published>
+    <updated>2020-01-22T16:54:55-05:00</updated>
+    <published>2019-10-01T20:43:14-04:00</published>
     <summary>Create your WordPresssite withthe scenario you want to cover and the solution you want to proposeRecord a video makingthe case either way basedon the scenario selected and solutionselectedP</summary>
     <link href="/labs/lab-6-wordpress/submitting-the-lab"/>
     
@@ -653,8 +670,8 @@ your </span><span style="font-variant-numeric: normal; font-variant-east-asian: 
   <entry>
     <title>Scenario 2</title>
     <id>/labs/lab-6-wordpress/scenario-2</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2019-10-01T23:40:19+00:00</published>
+    <updated>2020-01-22T16:54:55-05:00</updated>
+    <published>2019-10-01T19:40:19-04:00</published>
     <summary>Lab Scenario 2 - Scope to nowhereYouwon a contract from the Alaska state government to build a website to market:Alaska’s ”Bridgeto nowhere” (look it up)This site was originallybuilt in</summary>
     <link href="/labs/lab-6-wordpress/scenario-2"/>
     
@@ -819,8 +836,8 @@ desire</span></li>
   <entry>
     <title>Scenario 1</title>
     <id>/labs/lab-6-wordpress/scenario-1</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2019-10-01T23:40:19+00:00</published>
+    <updated>2020-01-22T16:54:55-05:00</updated>
+    <published>2019-10-01T19:40:19-04:00</published>
     <summary>LabScenario 1 – Soaps R Us ContextMom’n’Pop store “Soaps R Us” wants to sell their famous soap online. They need anattractive website with high SEOthat has a shopping cart and a s</summary>
     <link href="/labs/lab-6-wordpress/scenario-1"/>
     
@@ -959,10 +976,49 @@ complexity and learning curve</span></li>
     </content>
   </entry>
   <entry>
+    <title>Exam review</title>
+    <id>/mid-term-review</id>
+    <updated>2020-01-22T16:54:56-05:00</updated>
+    <published>2019-10-01T14:02:52-04:00</published>
+    <summary>See slides from topic 7 on Drupal. There are several examples with answers in the front of the slide deck you can use to review the types of questions you&#39;ll be asked.This is an &#34;open web&#34; review. T</summary>
+    <link href="/mid-term-review"/>
+    
+    <content type="html">
+      <![CDATA[ <p>See slides from <a href="topics/drupal">topic 7 on Drupal</a>
+. There are several examples with answers in the front of the slide deck you can use to review the types of questions you'll be asked.</p>
+<p>This is an "open web" review. The real world you can google things if you get stuck and this is no different. Now, you can't take credit for other people's work in my class or IRL, so the TA will be proctoring this exam and ensuring that everyone's responsible for their own work.</p>
+<p>After the exam please answer the course survey questions to give us feedback on how class has done so far and where to go.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>ClassicPress / WordPress</title>
+    <id>/topics/wordpress</id>
+    <updated>2020-01-22T16:54:55-05:00</updated>
+    <published>2019-10-01T14:02:52-04:00</published>
+    <summary>Lecture slides from this weekThis week we&#39;ll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It&#39;s why </summary>
+    <link href="/topics/wordpress"/>
+    
+    <content type="html">
+      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/classicpress-wordpress-180769120">Lecture slides from this week</a>
+</p>
+<p>This week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why it powers (estimates, numbers differ by source) 33% to as much as 50% of sites on the internet.</p>
+<p>These sites could be everything from the Whitehouse down to every individual blog / new acount on wordpress.com (SaaS solution version) which is why people take some of that number with a grain of salt.</p>
+<p>It's a great platform to start your own website on but it's run into some recent controversies which are worth exploring - namely the battle for the heart of the community around a text editor. It's weird to think about, but when a CMS lives and dies by the ease of content entry, you can understand why the <b>new core mandatory</b>
+ text editor called<b> Gutenberg</b>
+ would attract positive and negative attention.</p>
+<p>With plans to phase out the "Classic Editor" in 2020 many people in the community are at a cross-roads: Continue to trust the same core community that "took away" their beloved simple HTML editor, or forge a new path. We'll look briefly at the concept of community forks through the context of ClassicPress, a popular WordPress alternative that's gaining traction as the more community centric CMS.</p>
+<p>With parallels to Drupal and it's popular fork Backdrop (topic for next lab) we'll see that it's not always code that leads to inflection points in groups but the process by which that code is formed, agreed upon, and ultimately pushed into the main project everyone's aligned with.</p>
+<p>WordPress is a great resume builder both in terms of the platform as well as putting on your resume that you have experience with it, so let's dig in and check it out in <a href="https://reclaimhosting.com/">ReclaimHosting</a>
+ once more!</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>W6 WordPress</title>
     <id>/labs/lab-6-wordpress</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2019-10-01T18:02:52+00:00</published>
+    <updated>2020-01-22T16:54:55-05:00</updated>
+    <published>2019-10-01T14:02:52-04:00</published>
     <summary>Lab ContextYou are the project manager that sold your team and CEO on using GravGrav is going great, but there are rumblings from some clients recently and team members used to WordPress are a</summary>
     <link href="/labs/lab-6-wordpress"/>
     
@@ -1015,49 +1071,10 @@ complexity and learning curve</span></li>
     </content>
   </entry>
   <entry>
-    <title>ClassicPress / WordPress</title>
-    <id>/topics/wordpress</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2019-10-01T18:02:52+00:00</published>
-    <summary>Lecture slides from this weekThis week we&#39;ll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It&#39;s why </summary>
-    <link href="/topics/wordpress"/>
-    
-    <content type="html">
-      <![CDATA[ <p><a href="https://www.slideshare.net/btopro/classicpress-wordpress-180769120">Lecture slides from this week</a>
-</p>
-<p>This week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why it powers (estimates, numbers differ by source) 33% to as much as 50% of sites on the internet.</p>
-<p>These sites could be everything from the Whitehouse down to every individual blog / new acount on wordpress.com (SaaS solution version) which is why people take some of that number with a grain of salt.</p>
-<p>It's a great platform to start your own website on but it's run into some recent controversies which are worth exploring - namely the battle for the heart of the community around a text editor. It's weird to think about, but when a CMS lives and dies by the ease of content entry, you can understand why the <b>new core mandatory</b>
- text editor called<b> Gutenberg</b>
- would attract positive and negative attention.</p>
-<p>With plans to phase out the "Classic Editor" in 2020 many people in the community are at a cross-roads: Continue to trust the same core community that "took away" their beloved simple HTML editor, or forge a new path. We'll look briefly at the concept of community forks through the context of ClassicPress, a popular WordPress alternative that's gaining traction as the more community centric CMS.</p>
-<p>With parallels to Drupal and it's popular fork Backdrop (topic for next lab) we'll see that it's not always code that leads to inflection points in groups but the process by which that code is formed, agreed upon, and ultimately pushed into the main project everyone's aligned with.</p>
-<p>WordPress is a great resume builder both in terms of the platform as well as putting on your resume that you have experience with it, so let's dig in and check it out in <a href="https://reclaimhosting.com/">ReclaimHosting</a>
- once more!</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Exam review</title>
-    <id>/mid-term-review</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2019-10-01T18:02:52+00:00</published>
-    <summary>See slides from topic 7 on Drupal. There are several examples with answers in the front of the slide deck you can use to review the types of questions you&#39;ll be asked.This is an &#34;open web&#34; review. T</summary>
-    <link href="/mid-term-review"/>
-    
-    <content type="html">
-      <![CDATA[ <p>See slides from <a href="topics/drupal">topic 7 on Drupal</a>
-. There are several examples with answers in the front of the slide deck you can use to review the types of questions you'll be asked.</p>
-<p>This is an "open web" review. The real world you can google things if you get stuck and this is no different. Now, you can't take credit for other people's work in my class or IRL, so the TA will be proctoring this exam and ensuring that everyone's responsible for their own work.</p>
-<p>After the exam please answer the course survey questions to give us feedback on how class has done so far and where to go.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>GravCMS</title>
     <id>/topics/gravcms</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2019-09-25T15:00:10+00:00</published>
+    <updated>2020-01-22T16:54:55-05:00</updated>
+    <published>2019-09-25T11:00:10-04:00</published>
     <summary>Slides about CPanel & GravCMS from classThis week kicks off Reclaim hosting and our Content Management System section of the course. We're going to be covering four different content management sys</summary>
     <link href="/topics/gravcms"/>
     
@@ -1080,178 +1097,6 @@ complexity and learning curve</span></li>
 </li>
 <li><a href="https://github.com/getgrav">Grav community on Github</a>
 </li>
-</ul>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>W5 GravCMS</title>
-    <id>/labs/lab-5-gravcms</id>
-    <updated>2020-01-20T15:28:13+00:00</updated>
-    <published>2019-09-25T15:00:10+00:00</published>
-    <summary>Lab scenarioYouare a project manager in a design firmYour team is 1 developer, 1 sitebuilder, 1 designer and you report to theCEOYou think GravCMS might be a great way to deliver 10-</summary>
-    <link href="/labs/lab-5-gravcms"/>
-    
-    <content type="html">
-      <![CDATA[ <h2><span style=""><span style="">Lab scenario</span><font face="Space Mono"><br/></font>
-</span>
-
-
-</h2>
-<ul><li><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">You
-are a project manager in a design firm</span></li>
-
-
-
-<li>Your team is 1 <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">developer</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">, 1 </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">site
-builder</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">, </span>1 <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">designer</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> and you report to </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">the</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">
-</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">CEO</span></li>
-
-
-
-<li>You think <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">GravCMS</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> might be a great way </span>to deliver 10-20 page marketing
-websites faster to small clients</li>
-
-
-
-
-<li>SEO is critical to rank high on Google or mom ‘n pop clients will close!!<span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">😲
-😲</span></li>
-
-
-
-
-<li>Your team <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">isn’t
-convinced on any CMS </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">as </span>they always build everything <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">from scratch</span></li>
-
-
-
-</ul>
-<h2><span style=""><span style="">Lab deliverable</span><font face="Space Mono"><br/></font>
-</span>
-
-
-</h2>
-<ul><li><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Sell the team on </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">by
-<a href="https://reclaimhosting.com/">building a site on ReclaimHosting</a>
-!</span></li>
-
-
-
-
-<li>Page 1: Management - How <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> will save money on
-projects?</span></li>
-
-
-
-
-<li>Page 2: Developer buy-in - How does <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> improve security?</span></li>
-
-
-
-
-<li>Page 3: Designer buy-in - How <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> can promote design / brand
-quality</span></li>
-
-
-
-
-<li>Page 4: Site builder buy-in - What does authoring feel like? How
-will <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">improve</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">their
-day to day interfacing with clients wanting content changes?</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"></span></li>
-
-
-
-
-<li>Page 5: Additional Resources - Link to 3 resources
-
-
- for the team to get
-more info</li>
-
-
-
-</ul>
-<h2><span style=""><span style="letter-spacing: -0.48px;">Submitting the Lab deliverable</span><br/></span></h2>
-<ul><li><span style=""><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Create your </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">GravCMS</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> site</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">
-with the 5 pages </span></span>meeting the objectives of each
-audience</li>
-
-
-
-<li>Record a video <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">demonstrating</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> 1 of the
-following:</span></li>
-
-
-
-
-<ul><li>How to add a new page and author in <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">GravCMS and </span>record yourself adding or modifying
-some of the pages in the
-deliverable</li>
-
-
-
-<li>How to add plugins, specifically the
-SEO plugin and demonstrate what it enables on
-social media by showing you sharing one of your
-pages on twitter, <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">F</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">acebook
-or </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">L</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">inkedin</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">.</span></li>
-
-
-
-</ul>
-
-
-
-
-<li>Embed a link to your YouTube video in the Additional
-Resources
-
-
-<span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> page
-of your </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> Site</span></li>
-
-
-
-<li>Post your link to your site in <span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: bold;">#lab5-gravcms</span></li>
-
-
-
-</ul>
-<h2><span style="">Grading the Lab deliverable</span></h2>
-<ul><li><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Did you create a </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">GravCMS</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> site in Reclaim and post </span>your link to the channel </li>
-
-
-<ul><li><b>2pts</b>
-
-</li>
-
-
-</ul>
-
-
-
-<li>Did you create the 5 pages and effectively convey why <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> is useful to different groups?</span></li>
-
-
-<ul><li><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"><b>4pts</b>
-
-</span></li>
-
-
-</ul>
-
-
-<li>Did you record a video demonstrating one of the two concepts in <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">GravCMS</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;" class="hax-active">? </span></li>
-
-
-<ul><li><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"><b>4pts</b>
-
-</span></li>
-
-</ul>
-
-
 </ul>
  ]]>
     </content>
