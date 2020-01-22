@@ -627,7 +627,17 @@
                     },
                     "elements": 13
                 },
-                "published": true
+                "published": true,
+                "files": [
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/Screenshot from 2020-01-22 17-07-35.png",
+                        "fullUrl": "\/bto108\/sites\/ist402\/files\/Screenshot from 2020-01-22 17-07-35.png",
+                        "url": "files\/Screenshot from 2020-01-22 17-07-35.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2020-01-22 17-07-35.png",
+                        "size": 188552
+                    }
+                ]
             }
         },
         {
