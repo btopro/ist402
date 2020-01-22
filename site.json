@@ -581,6 +581,14 @@
                         "type": "image\/png",
                         "name": "collins-image-3_1_1.png",
                         "size": 238375
+                    },
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/collins-mug.jpg",
+                        "fullUrl": "\/bto108\/sites\/ist402\/files\/collins-mug.jpg",
+                        "url": "files\/collins-mug.jpg",
+                        "type": "image\/jpeg",
+                        "name": "collins-mug.jpg",
+                        "size": 114955
                     }
                 ]
             }
