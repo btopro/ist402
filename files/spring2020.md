@@ -18,5 +18,6 @@
 - [vidsforvictory](https://www.youtube.com/channel/UCBQ_FijiVP24YqQxKjrnJGA?guided_help_flow=3)
 - [Magic&IT](https://www.youtube.com/channel/UCr3h6u8W8h1iVp9zwvPeI0A?view_as=subscriber)
 - [Hank_Lee329](https://www.youtube.com/channel/UCGl5x3LHGvuWdcZ4DNSKS0A?view_as=subscriber)
-- 
+- [TheTechnicalWoman] (https://https://www.youtube.com/channel/UCTyYGG1Y5FXnvG36_PWjmaQ?view_as=subscriber)
+-
 - Add yours above here with a title, link and a new bullet
