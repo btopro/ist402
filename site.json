@@ -569,10 +569,10 @@
             "order": "2",
             "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
             "title": "OERSchema",
-            "description": "",
+            "description": "This week we'll have a guest speaker. Michael Collins is the Lead faculty member of the DMD program. An innovative online undergrad program in the College of Arts & Architecture that is a mesh of topi",
             "metadata": {
                 "created": 1579730095,
-                "updated": 1579730095,
+                "updated": 1579730640,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/collins-image-3_1_1.png",
@@ -590,7 +590,18 @@
                         "name": "collins-mug.jpg",
                         "size": 114955
                     }
-                ]
+                ],
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 1,
+                    "schema": [],
+                    "tags": {
+                        "grid-plate": 1,
+                        "p": 1
+                    },
+                    "elements": 2
+                }
             }
         },
         {
