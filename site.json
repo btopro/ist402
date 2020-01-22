@@ -611,19 +611,20 @@
             "order": "2",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "W3 Improving your digital identity",
-            "description": "This week we&#39;re going to improve upon our brand by through critique and self reflection. We want to get our brands in as good a shape as possible prior to all the hands on labs and topics we&#39;ll be eng",
+            "description": "This week we're going to improve upon our brand through critique and self reflection. We want to get our brands in as good a shape as possible prior to all the hands on labs and topics we'll be engagi",
             "metadata": {
                 "created": 1578937771,
-                "updated": 1579730095,
+                "updated": 1579730953,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 4,
-                    "paragraphs": 8,
+                    "paragraphs": 5,
                     "schema": [],
                     "tags": {
-                        "p": 8,
+                        "p": 5,
                         "h2": 4,
-                        "ul": 1
+                        "ul": 3,
+                        "img": 1
                     },
                     "elements": 13
                 },
