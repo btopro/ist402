@@ -8,11 +8,6 @@ A front end developer works on "front end" code in an application, commonly mean
 - [Blog post: What is the future of front end development?](https://scale3c.com/blog/what-is-the-future-of-front-end-development-in-2020/)
 
 ## HTML
-When creating a website, HTML is a good language used on web pages. HTML elements is a type of code that made up of different sets of characters. They can also be called as tag. They usually defined as a starting tag which also has an ending tag at the end of the code, and the code between at is the main component of creating the website. HTML elements can have attributes and content, which can be headings, paragraphs, links, lists, embedded media, or any other format.
-	HTML elements can placed into two different groups: block level and inline level. The former makes up the document's structure, while the latter dress up the contents of a block. In addition, Block elements occupy 100% of the available width and have a newline character before and after. Inline elements will only take up the space needed.
-- [Basic HTML Elements](https://www.w3schools.com/html/html_elements.asp)
-- [List of HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-- [HTML Element Syntax](https://www.tutorialrepublic.com/html-tutorial/html-elements.php)
 
 
 ## CSS
@@ -56,9 +51,10 @@ When creating a website, HTML is a good language used on web pages. HTML element
 
 ## IDE
 IDE stands for Integrated Development Environment. This software is used to debug, compile, and run the code. It is a software that can build applications that combines common developer tools into a single graphical user interface. IDE’s can support one or multiple languages of code. IDLE is an IDE that only supports python code. Visual studios, once downloaded the correct language, can support multiple languages. 
-[Redhat, What is an IDE?](https://www.redhat.com/en/topics/middleware/what-is-ide)
-[Wiki, Intergrated Development Environment](https://en.wikipedia.org/wiki/Integrated_development_environment)
-[Jabrils, What is an IDE](https://www.youtube.com/watch?v=vUn5akOlFXQ)
+https://www.redhat.com/en/topics/middleware/what-is-ide
+https://en.wikipedia.org/wiki/Integrated_development_environment
+https://www.youtube.com/watch?v=vUn5akOlFXQ
+
 
 ## VSCode
 
@@ -115,28 +111,20 @@ IDE stands for Integrated Development Environment. This software is used to debu
 
 
 ## Bootstrap (design library)
+Bootstrap is a free open-source CSS framework for developing with HTML, CSS, and JS. This front-end component library allows users to utilize prebuilt components in a responsive mobile-first environment. In other words, mobile-first means it prioritizes mobile users needs before desktop users and adjusts intuitively to different device dimensions. This library contains typography, buttons, navigation, etc. 
 
+Bootstrap is one of the most collaborated repositories on GitHub. It's the sixth highest starred repository with over 138,000 stars. It has excellent documentation which allows developers to explore its latest updates and features. Bootstrap is known for its ease of use while providing great results. Many companies chose to use Bootstrap for their front-end components such as Twitter, Spotify, and Udemy.
+
+Additional Resources:
+- [Bootstrap: Documentation](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+- [Mobile-First: Introduction](https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/)
+- [W3Schools: Bootstrap Tutorial](https://www.w3schools.com/bootstrap4/default.asp)
+- [GitHub: Installation](https://github.com/twbs/bootstrap)
 
 ## Angular
-[Angular](https://angular.io/) is a popular TypeScript framework that is used to create web applications. It started out being used to make single paged applications but after the rapid growth in popularity of other JS frameworks such as React.js, it received many additional features to make it better suited for a variety of different application types. One of the things that Angular users particularly like is that Angular is based in TypeScript. A common criticism of JavaScript is the lack of type restrictions. In JavaScript a variable could be any type and a function could return any type but in TypeScript, these types must be predefined which helps provide clarity and assurance that the return data type of a function will always be the one desired.	
 
-Another thing about angular that makes it appealing is that it is backed by Google which helps developers be more confident that Angular will be maintained for longer and receive more support throughout its lifetime. Angular is also an extremely popular framework and with popularity comes lots of contributions from other developers. Angular has thousands of different components that developers made and share which makes it very easy to get complex web components running on your own page just by bringing in the one the other developer made.	
-
-Additional Resources:	
-* [Yalantis](https://yalantis.com/blog/when-to-use-angular/)	
-* [Angular's Github](https://github.com/angular)	
-* [Angular Tutorial](https://www.w3schools.com/angular/)
 
 ## React
-
-React is a JavaScript library that is most prominently used for building interactive user interfaces for websites and applications. React was created in 2011 by Jordan Walker, a software engineer at Facebook, and the library was implemented into the company’s newsfeed the same year and Instagram’s the subsequent year. Facebook didn’t release React as we know it to the public until May of 2013, but ever since then it has been an open source software maintained by thousands of individuals.
-
-Prior to the creation of React, developers had to essentially create user interfaces from scratch. This system was inefficient and it increased the risk of coding errors. Code within the React library is reusable and accessible to all, which effectively decreases development time and risk of programmer error. One of the major features of React is that developers can make large changes to their user interface components without reloading entire pages worth of content. This is most helpful when creating dynamic websites, where user interaction with the page is prominent. For some cool examples of sites that were built atop React, check out Netflix, Reddit, Dropbox, Facebook, and many more!
-
-To learn more about React visit:
-- [Introduction](https://www.computerhope.com/jargon/r/react.htm)
-- [How it works](https://skillcrush.com/2019/05/14/what-is-react-js/)
-- [Tutorials](https://reactjs.org/tutorial/tutorial.html)
 
 
 ## Vue.js
