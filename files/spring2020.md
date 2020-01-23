@@ -18,6 +18,7 @@
 - [vidsforvictory](https://www.youtube.com/channel/UCBQ_FijiVP24YqQxKjrnJGA?guided_help_flow=3)
 - [Magic&IT](https://www.youtube.com/channel/UCr3h6u8W8h1iVp9zwvPeI0A?view_as=subscriber)
 - [Hank_Lee329](https://www.youtube.com/channel/UCGl5x3LHGvuWdcZ4DNSKS0A?view_as=subscriber)
+- [GreekKid](https://www.youtube.com/channel/UCSqEVsSOYKhv7cavwiFQ2-Q?view_as=subscriber)
 - [Chris Codes](https://www.youtube.com/playlist?list=PLv0G-4yxlHr5zxWgPf_i4ZGNX3oz088FZ)
 - [Nelcave](https://www.youtube.com/channel/UC9gZtNuaRX6TI15EY7N04Og)
 - [TechnoloTea](https://www.youtube.com/channel/UCQNvvonckptuUz_o4GqsxZA/videos)
@@ -29,4 +30,5 @@
 - [CodingClarity](https://www.youtube.com/channel/UCWpZEZ7Dq7O1MIEBqxN3oqA?view_as=subscriber)
 - [JYSmartTech](https://www.youtube.com/channel/UCR5p3Cy0f2d876LF7nFWSUg?view_as=subscriber)
 - [TechMeta402](https://www.youtube.com/channel/UCFZ5YH4iLeDicLEeLuTBgGA?view_as=subscriber)
+- 
 - Add yours above here with a title, link and a new bullet
