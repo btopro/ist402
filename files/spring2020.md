@@ -25,5 +25,5 @@
 - [SlynnTech](https://www.youtube.com/channel/UCAkM3XHiUd5gH1nM3j8qdsg?view_as=subscriber)
 - [kandosa](https://www.youtube.com/channel/UCn6BSdDikabuyA6Hvo_lfLA?view_as=subscriber)
 - [CodingClarity](https://www.youtube.com/channel/UCWpZEZ7Dq7O1MIEBqxN3oqA?view_as=subscriber)
-- 
+- [JYSmartTech](https://www.youtube.com/channel/UCR5p3Cy0f2d876LF7nFWSUg?view_as=subscriber)
 - Add yours above here with a title, link and a new bullet
