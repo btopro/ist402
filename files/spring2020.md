@@ -23,5 +23,7 @@
 - [YeungAaron](https://www.youtube.com/channel/UChlcPExKF-t_qkygSvfBw0Q?view_as=subscriber)
 - [Tech W Hughes](https://www.youtube.com/channel/UC0COnNOix2sJLEyvEuz6HSA?view_as=subscriber)
 - [SlynnTech](https://www.youtube.com/channel/UCAkM3XHiUd5gH1nM3j8qdsg?view_as=subscriber)
+- [kandosa](https://www.youtube.com/channel/UCn6BSdDikabuyA6Hvo_lfLA?view_as=subscriber)
 - [CodingClarity](https://www.youtube.com/channel/UCWpZEZ7Dq7O1MIEBqxN3oqA?view_as=subscriber)
+- 
 - Add yours above here with a title, link and a new bullet
