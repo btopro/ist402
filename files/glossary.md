@@ -14,6 +14,14 @@ When creating a website, HTML is a good language used on web pages. HTML element
 - [List of HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [HTML Element Syntax](https://www.tutorialrepublic.com/html-tutorial/html-elements.php)
 
+HTML, also known as Hypertext Markup Language, is a popular coding language that communicates directly with a web browser to display text, images, and other multimedia to a webpage. HTML works on all major web browsers, as well as mobile web browsers. In order to tell a browser how to format and organize content, HTML tags can be used. These tags contain attributes enclosed within brackets, which can be further explained in the links below. 
+
+When using HTML, it is somewhat difficult to convey an aesthetically-pleasing design. For this reason, many programmers will also incorporate CSS, known as cascading stylesheet. This language can assist HTML in making cleaner, more easy-to-understand designs. One common argument regarding HTML is the usability of this programming language. When designing simple websites, HTML is quite useful and can perform most tasks with relative ease. However, on a larger scale with more complex designs, the incorporation of CSS is somewhat needed. I feel that most programmers need some common knowledge of HTML, but when it comes to designing large projects HTML can become quite tedious to code. 
+
+- [Some common html tags](https://www.dummies.com/web-design-development/site-development/common-html-tags/)
+- [Further explanation of what html is:](https://www.theserverside.com/definition/HTML-Hypertext-Markup-Language)
+- [A fun tutorial I found that also teaches about html and how to do some simple designing! Worth checking out:](https://medium.com/frontendshortcut/how-to-make-a-burger-in-html-a-beginner-tutorial-dca7b4b0a179)
+
 
 ## CSS
 
