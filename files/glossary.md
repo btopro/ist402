@@ -212,7 +212,12 @@ Using a desired GUI the server, then, fulfills the request as long as both clien
 
 
 ## WebAssembly
+WebAssembly is an open standard that defines a portable binary code format for executable programs, and a corresponding textual assembly language, as well as interfaces for facilitating interactions between such programs and their host environment. The main goal of WebAssembly is to enable high performance applications on web pages, but the format is designed to be executed and integrated in other environments as well.
+WebAssembly, or WASM for short. WebAssembly is a small, fast binary format that promises near-native performance for web applications. Plus, WebAssembly is designed to be a compilation target for any language, JavaScript being just one of them.
 
+- [Wikepeida](https://en.wikipedia.org/wiki/WebAssembly)
+- [InfoWorld](https://www.infoworld.com/article/3291780/what-is-webassembly-the-next-generation-web-platform-explained.html)
+- [WebAssembly](https://webassembly.org/)
 
 ## Python
 
