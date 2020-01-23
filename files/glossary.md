@@ -126,6 +126,15 @@ Additional Resources:
 
 ## React
 
+React is a JavaScript library that is most prominently used for building interactive user interfaces for websites and applications. React was created in 2011 by Jordan Walker, a software engineer at Facebook, and the library was implemented into the company’s newsfeed the same year and Instagram’s the subsequent year. Facebook didn’t release React as we know it to the public until May of 2013, but ever since then it has been an open source software maintained by thousands of individuals.
+
+Prior to the creation of React, developers had to essentially create user interfaces from scratch. This system was inefficient and it increased the risk of coding errors. Code within the React library is reusable and accessible to all, which effectively decreases development time and risk of programmer error. One of the major features of React is that developers can make large changes to their user interface components without reloading entire pages worth of content. This is most helpful when creating dynamic websites, where user interaction with the page is prominent. For some cool examples of sites that were built atop React, check out Netflix, Reddit, Dropbox, Facebook, and many more!
+
+To learn more about React visit:
+- [Introduction](https://www.computerhope.com/jargon/r/react.htm)
+- [How it works](https://skillcrush.com/2019/05/14/what-is-react-js/)
+- [Tutorials](https://reactjs.org/tutorial/tutorial.html)
+
 
 ## Vue.js
 
