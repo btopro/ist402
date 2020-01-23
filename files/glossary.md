@@ -8,6 +8,19 @@ A front end developer works on "front end" code in an application, commonly mean
 - [Blog post: What is the future of front end development?](https://scale3c.com/blog/what-is-the-future-of-front-end-development-in-2020/)
 
 ## HTML
+When creating a website, HTML is a good language used on web pages. HTML elements is a type of code that made up of different sets of characters. They can also be called as tag. They usually defined as a starting tag which also has an ending tag at the end of the code, and the code between at is the main component of creating the website. HTML elements can have attributes and content, which can be headings, paragraphs, links, lists, embedded media, or any other format.
+	HTML elements can placed into two different groups: block level and inline level. The former makes up the document's structure, while the latter dress up the contents of a block. In addition, Block elements occupy 100% of the available width and have a newline character before and after. Inline elements will only take up the space needed.
+- [Basic HTML Elements](https://www.w3schools.com/html/html_elements.asp)
+- [List of HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [HTML Element Syntax](https://www.tutorialrepublic.com/html-tutorial/html-elements.php)
+
+HTML, also known as Hypertext Markup Language, is a popular coding language that communicates directly with a web browser to display text, images, and other multimedia to a webpage. HTML works on all major web browsers, as well as mobile web browsers. In order to tell a browser how to format and organize content, HTML tags can be used. These tags contain attributes enclosed within brackets, which can be further explained in the links below. 
+
+When using HTML, it is somewhat difficult to convey an aesthetically-pleasing design. For this reason, many programmers will also incorporate CSS, known as cascading stylesheet. This language can assist HTML in making cleaner, more easy-to-understand designs. One common argument regarding HTML is the usability of this programming language. When designing simple websites, HTML is quite useful and can perform most tasks with relative ease. However, on a larger scale with more complex designs, the incorporation of CSS is somewhat needed. I feel that most programmers need some common knowledge of HTML, but when it comes to designing large projects HTML can become quite tedious to code. 
+
+- [Some common html tags](https://www.dummies.com/web-design-development/site-development/common-html-tags/)
+- [Further explanation of what html is:](https://www.theserverside.com/definition/HTML-Hypertext-Markup-Language)
+- [A fun tutorial I found that also teaches about html and how to do some simple designing! Worth checking out:](https://medium.com/frontendshortcut/how-to-make-a-burger-in-html-a-beginner-tutorial-dca7b4b0a179)
 
 
 ## CSS
@@ -26,6 +39,13 @@ A front end developer works on "front end" code in an application, commonly mean
 
 
 ## Markdown
+Markdown is a lightweight markup language with plain text formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.[9] Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+
+Using Markdown is different than using a WYSIWYG editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.
+More Information/Practice:
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [What is Markdown?](https://kirkstrobeck.github.io/whatismarkdown.com/)
+- [Markdown Guide](https://www.markdownguide.org/)
 
 
 ## Git
@@ -51,13 +71,19 @@ A front end developer works on "front end" code in an application, commonly mean
 
 ## IDE
 IDE stands for Integrated Development Environment. This software is used to debug, compile, and run the code. It is a software that can build applications that combines common developer tools into a single graphical user interface. IDE’s can support one or multiple languages of code. IDLE is an IDE that only supports python code. Visual studios, once downloaded the correct language, can support multiple languages. 
-https://www.redhat.com/en/topics/middleware/what-is-ide
-https://en.wikipedia.org/wiki/Integrated_development_environment
-https://www.youtube.com/watch?v=vUn5akOlFXQ
-
+[Redhat, What is an IDE?](https://www.redhat.com/en/topics/middleware/what-is-ide)
+[Wiki, Intergrated Development Environment](https://en.wikipedia.org/wiki/Integrated_development_environment)
+[Jabrils, What is an IDE](https://www.youtube.com/watch?v=vUn5akOlFXQ)
 
 ## VSCode
+VS Code, or Visual Studio Code, is a cross-platform (uniform environment) source-code editor, released in April 2015 by Microsoft. It is free for both commercial and private use, and is available for Windows, Mac and Linux. It’s source code is open source. It is based on the Electron framework (developed by GitHub).The editor is Microsoft’s Monaco. It is praised for being “lean, customizable, and fast.” It is a very popular editor, having [2.6 million monthly active](https://code.visualstudio.com/blogs/2017/11/16/connect) users in 2017.
 
+It supports many common languages such as JavaScript and CSS. Even more languages can be found through extensions (Through the VSCode marketplace). These extensions range in functionality from adding a new theme to sharing code in real-time (Live Code extension). VSCode is extremely customizable in this way. The program also features built-in git (commit from the editor) as well as IntelliSense and debugging (Node.js). Other features include syntax highlighting, code refactoring, and bracket matching.
+
+Here are some links to learn more:
+- [VSCode Website](https://code.visualstudio.com/)
+- [VSCode GitHub](https://github.com/microsoft/vscode)
+- [Getting Started](https://code.visualstudio.com/docs/getstarted/introvideos)
 
 ## Syntactically Awesome Style Sheets (Sass)
 
@@ -108,15 +134,36 @@ https://www.youtube.com/watch?v=vUn5akOlFXQ
 
 
 ## Express.js
+Express is the most popular Node web framework. Express.js is a web application framework that helps organize a web application into a MVC (Model, View, Controller) architecture on the server side of the application. To go even further, a developer can use MongoDB with Mongoose (for modeling) to provide a backend for the application. Express.js helps manage everything, from routes, to handling requests and views. Express also provides methods to specify what function is called for a particular HTTP request (GET, POST) and methods to specify what template ("view") engine is used. 
 
+Click the following links to learn more:
+- [Express.js: Hello World Demo](https://expressjs.com/en/starter/hello-world.html)
+- [StackOverflow: What is Express.js?](https://stackoverflow.com/questions/12616153/what-is-express-js)
+- [MDN web docs: Express/Node Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
 
 ## Bootstrap (design library)
 
 
 ## Angular
+[Angular](https://angular.io/) is a popular TypeScript framework that is used to create web applications. It started out being used to make single paged applications but after the rapid growth in popularity of other JS frameworks such as React.js, it received many additional features to make it better suited for a variety of different application types. One of the things that Angular users particularly like is that Angular is based in TypeScript. A common criticism of JavaScript is the lack of type restrictions. In JavaScript a variable could be any type and a function could return any type but in TypeScript, these types must be predefined which helps provide clarity and assurance that the return data type of a function will always be the one desired.	
 
+Another thing about angular that makes it appealing is that it is backed by Google which helps developers be more confident that Angular will be maintained for longer and receive more support throughout its lifetime. Angular is also an extremely popular framework and with popularity comes lots of contributions from other developers. Angular has thousands of different components that developers made and share which makes it very easy to get complex web components running on your own page just by bringing in the one the other developer made.	
+
+Additional Resources:	
+* [Yalantis](https://yalantis.com/blog/when-to-use-angular/)	
+* [Angular's Github](https://github.com/angular)	
+* [Angular Tutorial](https://www.w3schools.com/angular/)
 
 ## React
+
+React is a JavaScript library that is most prominently used for building interactive user interfaces for websites and applications. React was created in 2011 by Jordan Walker, a software engineer at Facebook, and the library was implemented into the company’s newsfeed the same year and Instagram’s the subsequent year. Facebook didn’t release React as we know it to the public until May of 2013, but ever since then it has been an open source software maintained by thousands of individuals.
+
+Prior to the creation of React, developers had to essentially create user interfaces from scratch. This system was inefficient and it increased the risk of coding errors. Code within the React library is reusable and accessible to all, which effectively decreases development time and risk of programmer error. One of the major features of React is that developers can make large changes to their user interface components without reloading entire pages worth of content. This is most helpful when creating dynamic websites, where user interaction with the page is prominent. For some cool examples of sites that were built atop React, check out Netflix, Reddit, Dropbox, Facebook, and many more!
+
+To learn more about React visit:
+- [Introduction](https://www.computerhope.com/jargon/r/react.htm)
+- [How it works](https://skillcrush.com/2019/05/14/what-is-react-js/)
+- [Tutorials](https://reactjs.org/tutorial/tutorial.html)
 
 
 ## Vue.js
@@ -139,6 +186,13 @@ Read the articles below to learn more:
 
 ## MySQL
 
+MySQL is an open source relational database management system (RDBMS) with a client-server model. RDBMS is a software or service used to create and manage databases based on a relational model. MySQL allow clients to connect to a server through a network. The client can make requests to the server using a graphical user interface (GUI). There are a lot of GUIs that support MySQL. Some of the most popular GUIs are MySQL WorkBench, SequelPro, DBVisualizer, and the Navicat DB Admin Tool.
+
+Using a desired GUI the server, then, fulfills the request as long as both client-server understand the instruction. In simplified terms, MySQL  creates a database for storing and manipulating data then allows clients to use SQL statements to make requests allowing the server to provide the required information. The simplicity of MySQL makes it easy to use while offering high performance as it is able to tore wide array of data. In addition, MySQL has a high security level making it attractive to larger companies. The final link below gives an idea of some of the companies that use MySQL.
+-	[Simple definition](https://www.hostinger.com/tutorials/what-is-mysql)
+-	[Popularity](https://www.geekboots.com/story/why-mysql-so-popular-in-web)
+-	[List of companies](https://www.mysql.com/customers/industry/)
+
 
 ## WebAssembly
 
@@ -147,6 +201,10 @@ Read the articles below to learn more:
 
 
 ## Docker
+Docker is a basic tool that allows you to control the application’s operating system by using containers. A container isolates or contains the code and operating systems of the applications. They keep everything organized as you can choose how to isolate the different apps. This enables you to run all of the containers on the same host, which makes it easy to run your software no matter where you are. A software called Kubernetes, made by Google, can help you manage all of your containers. Businesses use Docker to reduce inoperability of their systems and make it easier to move to different clouds when working with multiple vendors.
+- [Docker Overview](https://docs.docker.com/engine/docker-overview/)
+- [Docker Tutorial](https://stackify.com/docker-tutorial/)
+- [Docker](https://github.com/docker)
 
 
 ## Vagrant
@@ -154,6 +212,13 @@ Read the articles below to learn more:
 
 ## VirtualBox
 
+Virtualbox or also known as Oracle VM Virtualbox is a free and open-source software for x86 and AMD64/Intel64 computing architecture virtualization. Virtualbox is a powerful product that is made for enterprise use as well as home use. Virtualbox can create a virtual machine by acting as a hypervisor and allows the user to run any operating system. Virtualbox provides a high level of features and performance for the customer of the enterprise available as Open Source Software.
+
+Virtualbox runs on several operating systems such as Windows, Linux, Macintosh, and Solaris by hosting/supporting several amounts of the guest operating system. Overall, Virtualbox is a software that allows users to use an operating system on their own computer and get the experience of using it like it is actually on the real hardware system. 
+
+- [VirtualBox](https://www.virtualbox.org/)
+- [ComputerHope](https://www.computerhope.com/jargon/v/virtualbox.htm)
+- [Make Use Of](https://www.makeuseof.com/tag/how-to-use-virtualbox/)
 
 ## Composer
 
@@ -171,7 +236,18 @@ Read the articles below to learn more:
 
 
 ## Open Educational Resources (OER)
+Open Educational Resources (OER) are a free library of open licensed resources that can be used for teaching, learning, or research. These resources are typically used in higher education. Users of OER are able to engage in any of the 5R activities. These include:
 
+Retain - the right to make, own, and control a copy of the resource (e.g., download and keep your own copy)
+Revise - the right to edit, adapt, and modify your copy of the resource (e.g., translate into another language)
+Remix - the right to combine your original or revised copy of the resource with other existing material to create something new (e.g., make a mashup)
+Reuse - the right to use your original, revised, or remixed copy of the resource publicly (e.g., on a website, in a presentation, in a class)
+Redistribute - the right to share copies of your original, revised, or remixed copy of the resource with others (e.g., post a copy online or give one to a friend)
+
+The sites listed below contain more information on OER:
+- [OER Commons](https://www.oercommons.org/)
+- [Library of OER Sites](https://library.educause.edu/topics/teaching-and-learning/open-educational-resources-oer)
+- [Hewlett Foundation OER](https://hewlett.org/strategy/open-educational-resources/)
 
 ## Nginx
 
