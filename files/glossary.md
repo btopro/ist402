@@ -61,7 +61,14 @@ IDE stands for Integrated Development Environment. This software is used to debu
 [Jabrils, What is an IDE](https://www.youtube.com/watch?v=vUn5akOlFXQ)
 
 ## VSCode
+VS Code, or Visual Studio Code, is a cross-platform (uniform environment) source-code editor, released in April 2015 by Microsoft. It is free for both commercial and private use, and is available for Windows, Mac and Linux. It’s source code is open source. It is based on the Electron framework (developed by GitHub).The editor is Microsoft’s Monaco. It is praised for being “lean, customizable, and fast.” It is a very popular editor, having [2.6 million monthly active](https://code.visualstudio.com/blogs/2017/11/16/connect) users in 2017.
 
+It supports many common languages such as JavaScript and CSS. Even more languages can be found through extensions (Through the VSCode marketplace). These extensions range in functionality from adding a new theme to sharing code in real-time (Live Code extension). VSCode is extremely customizable in this way. The program also features built-in git (commit from the editor) as well as IntelliSense and debugging (Node.js). Other features include syntax highlighting, code refactoring, and bracket matching.
+
+Here are some links to learn more:
+- [VSCode Website](https://code.visualstudio.com/)
+- [VSCode GitHub](https://github.com/microsoft/vscode)
+- [Getting Started](https://code.visualstudio.com/docs/getstarted/introvideos)
 
 ## Syntactically Awesome Style Sheets (Sass)
 
