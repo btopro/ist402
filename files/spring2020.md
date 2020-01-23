@@ -20,5 +20,5 @@
 - [Hank_Lee329](https://www.youtube.com/channel/UCGl5x3LHGvuWdcZ4DNSKS0A?view_as=subscriber)
 - [TheTechnicalWoman] (https://https://www.youtube.com/channel/UCTyYGG1Y5FXnvG36_PWjmaQ?view_as=subscriber)
 - [YeungAaron] (https://www.youtube.com/channel/UChlcPExKF-t_qkygSvfBw0Q?view_as=subscriber)
-- [Chris Codes] (https://www.youtube.com/playlist?list=PLv0G-4yxlHr5zxWgPf_i4ZGNX3oz088FZ)
+- [Chris Codes](https://www.youtube.com/playlist?list=PLv0G-4yxlHr5zxWgPf_i4ZGNX3oz088FZ)
 - Add yours above here with a title, link and a new bullet
