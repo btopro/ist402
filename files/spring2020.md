@@ -18,7 +18,15 @@
 - [vidsforvictory](https://www.youtube.com/channel/UCBQ_FijiVP24YqQxKjrnJGA?guided_help_flow=3)
 - [Magic&IT](https://www.youtube.com/channel/UCr3h6u8W8h1iVp9zwvPeI0A?view_as=subscriber)
 - [Hank_Lee329](https://www.youtube.com/channel/UCGl5x3LHGvuWdcZ4DNSKS0A?view_as=subscriber)
-- [TheTechnicalWoman] (https://https://www.youtube.com/channel/UCTyYGG1Y5FXnvG36_PWjmaQ?view_as=subscriber)
-- [YeungAaron] (https://www.youtube.com/channel/UChlcPExKF-t_qkygSvfBw0Q?view_as=subscriber)
 - [Chris Codes](https://www.youtube.com/playlist?list=PLv0G-4yxlHr5zxWgPf_i4ZGNX3oz088FZ)
+- [Nelcave](https://www.youtube.com/channel/UC9gZtNuaRX6TI15EY7N04Og)
+- [TechnoloTea](https://www.youtube.com/channel/UCQNvvonckptuUz_o4GqsxZA/videos)
+- [TheTechnicalWoman](https://https://www.youtube.com/channel/UCTyYGG1Y5FXnvG36_PWjmaQ?view_as=subscriber)
+- [YeungAaron](https://www.youtube.com/channel/UChlcPExKF-t_qkygSvfBw0Q?view_as=subscriber)
+- [Tech W Hughes](https://www.youtube.com/channel/UC0COnNOix2sJLEyvEuz6HSA?view_as=subscriber)
+- [SlynnTech](https://www.youtube.com/channel/UCAkM3XHiUd5gH1nM3j8qdsg?view_as=subscriber)
+- [kandosa](https://www.youtube.com/channel/UCn6BSdDikabuyA6Hvo_lfLA?view_as=subscriber)
+- [CodingClarity](https://www.youtube.com/channel/UCWpZEZ7Dq7O1MIEBqxN3oqA?view_as=subscriber)
+- [JYSmartTech](https://www.youtube.com/channel/UCR5p3Cy0f2d876LF7nFWSUg?view_as=subscriber)
+- 
 - Add yours above here with a title, link and a new bullet

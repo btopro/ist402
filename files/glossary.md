@@ -50,7 +50,10 @@ A front end developer works on "front end" code in an application, commonly mean
 
 
 ## IDE
-
+IDE stands for Integrated Development Environment. This software is used to debug, compile, and run the code. It is a software that can build applications that combines common developer tools into a single graphical user interface. IDE’s can support one or multiple languages of code. IDLE is an IDE that only supports python code. Visual studios, once downloaded the correct language, can support multiple languages. 
+[Redhat, What is an IDE?](https://www.redhat.com/en/topics/middleware/what-is-ide)
+[Wiki, Intergrated Development Environment](https://en.wikipedia.org/wiki/Integrated_development_environment)
+[Jabrils, What is an IDE](https://www.youtube.com/watch?v=vUn5akOlFXQ)
 
 ## VSCode
 
