@@ -191,7 +191,18 @@ Read the articles below to learn more:
 
 
 ## Open Educational Resources (OER)
+Open Educational Resources (OER) are a free library of open licensed resources that can be used for teaching, learning, or research. These resources are typically used in higher education. Users of OER are able to engage in any of the 5R activities. These include:
 
+Retain - the right to make, own, and control a copy of the resource (e.g., download and keep your own copy)
+Revise - the right to edit, adapt, and modify your copy of the resource (e.g., translate into another language)
+Remix - the right to combine your original or revised copy of the resource with other existing material to create something new (e.g., make a mashup)
+Reuse - the right to use your original, revised, or remixed copy of the resource publicly (e.g., on a website, in a presentation, in a class)
+Redistribute - the right to share copies of your original, revised, or remixed copy of the resource with others (e.g., post a copy online or give one to a friend)
+
+The sites listed below contain more information on OER:
+- [OER Commons](https://www.oercommons.org/)
+- [Library of OER Sites](https://library.educause.edu/topics/teaching-and-learning/open-educational-resources-oer)
+- [Hewlett Foundation OER](https://hewlett.org/strategy/open-educational-resources/)
 
 ## Nginx
 
