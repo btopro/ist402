@@ -10,18 +10,17 @@ A front end developer works on "front end" code in an application, commonly mean
 ## HTML
 When creating a website, HTML is a good language used on web pages. HTML elements is a type of code that made up of different sets of characters. They can also be called as tag. They usually defined as a starting tag which also has an ending tag at the end of the code, and the code between at is the main component of creating the website. HTML elements can have attributes and content, which can be headings, paragraphs, links, lists, embedded media, or any other format.
 	HTML elements can placed into two different groups: block level and inline level. The former makes up the document's structure, while the latter dress up the contents of a block. In addition, Block elements occupy 100% of the available width and have a newline character before and after. Inline elements will only take up the space needed.
-- [Basic HTML Elements](https://www.w3schools.com/html/html_elements.asp)
-- [List of HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-- [HTML Element Syntax](https://www.tutorialrepublic.com/html-tutorial/html-elements.php)
 
 HTML, also known as Hypertext Markup Language, is a popular coding language that communicates directly with a web browser to display text, images, and other multimedia to a webpage. HTML works on all major web browsers, as well as mobile web browsers. In order to tell a browser how to format and organize content, HTML tags can be used. These tags contain attributes enclosed within brackets, which can be further explained in the links below. 
 
-When using HTML, it is somewhat difficult to convey an aesthetically-pleasing design. For this reason, many programmers will also incorporate CSS, known as cascading stylesheet. This language can assist HTML in making cleaner, more easy-to-understand designs. One common argument regarding HTML is the usability of this programming language. When designing simple websites, HTML is quite useful and can perform most tasks with relative ease. However, on a larger scale with more complex designs, the incorporation of CSS is somewhat needed. I feel that most programmers need some common knowledge of HTML, but when it comes to designing large projects HTML can become quite tedious to code. 
+When using HTML, it is somewhat difficult to convey an aesthetically-pleasing design. For this reason, many programmers will also incorporate CSS, known as cascading stylesheet. This language can assist HTML in making cleaner, more easy-to-understand designs. One common argument regarding HTML is the usability of this programming language. When designing simple websites, HTML is quite useful and can perform most tasks with relative ease. However, on a larger scale with more complex designs, the incorporation of CSS is somewhat needed. I feel that most programmers need some common knowledge of HTML, but when it comes to designing large projects HTML can become quite tedious to code.
 
 - [Some common html tags](https://www.dummies.com/web-design-development/site-development/common-html-tags/)
 - [Further explanation of what html is:](https://www.theserverside.com/definition/HTML-Hypertext-Markup-Language)
 - [A fun tutorial I found that also teaches about html and how to do some simple designing! Worth checking out:](https://medium.com/frontendshortcut/how-to-make-a-burger-in-html-a-beginner-tutorial-dca7b4b0a179)
-
+- [Basic HTML Elements](https://www.w3schools.com/html/html_elements.asp)
+- [List of HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [HTML Element Syntax](https://www.tutorialrepublic.com/html-tutorial/html-elements.php)
 
 ## CSS
 
@@ -64,6 +63,7 @@ The level of customization is what makes the platform so sucessful. Users can de
 - [Using WordPress as an Enterprise CMS](https://www.coredna.com/blogs/using-wordpress-as-enterprise-cms)
 - [24 Must Have WordPress Plugins](https://www.wpbeginner.com/showcase/24-must-have-wordpress-plugins-for-business-websites/)
 - [What is WordPress](https://www.wp101.com/tutorial/what-is-wordpress/)
+
 ## Backdrop CMS
 
 
@@ -132,7 +132,7 @@ Here are some links to learn more:
 
 
 ## SEO
-[SEO](https://support.google.com/webmasters/answer/7451184?hl=en)SEO stands for “search engine optimization.” It is the primary way to get traffic from the “free,” “organic,” “editorial” or “natural” search results on search engines. Google ranks webpages and websites that will be listed first on search results, by the meta tags that are listed on indivudual webpages. Companies put relevant name tags on their webpages that searchers may be interested in.
+[SEO](https://support.google.com/webmasters/answer/7451184?hl=en) stands for “search engine optimization.” It is the primary way to get traffic from the “free,” “organic,” “editorial” or “natural” search results on search engines. Google ranks webpages and websites that will be listed first on search results, by the meta tags that are listed on indivudual webpages. Companies put relevant name tags on their webpages that searchers may be interested in.
 
 SEO is the magic you have to work on your article in order to make Google very likely to list your post as one of the top search results whenever someone searches for that keyword. Some marketing experts often specialize in SEO because it is vital for businesses to have proper meta tags on their webpages, in order to be on the top of the google results, which usually brings in more traffic, which ultimately helps the business grow. 
 
@@ -166,7 +166,7 @@ Click the following links to learn more:
 
 Another thing about angular that makes it appealing is that it is backed by Google which helps developers be more confident that Angular will be maintained for longer and receive more support throughout its lifetime. Angular is also an extremely popular framework and with popularity comes lots of contributions from other developers. Angular has thousands of different components that developers made and share which makes it very easy to get complex web components running on your own page just by bringing in the one the other developer made.	
 
-Additional Resources:	
+### Additional Resources:	
 * [Yalantis](https://yalantis.com/blog/when-to-use-angular/)	
 * [Angular's Github](https://github.com/angular)	
 * [Angular Tutorial](https://www.w3schools.com/angular/)
@@ -181,7 +181,6 @@ To learn more about React visit:
 - [Introduction](https://www.computerhope.com/jargon/r/react.htm)
 - [How it works](https://skillcrush.com/2019/05/14/what-is-react-js/)
 - [Tutorials](https://reactjs.org/tutorial/tutorial.html)
-
 
 ## Vue.js
 
@@ -206,10 +205,9 @@ Read the articles below to learn more:
 MySQL is an open source relational database management system (RDBMS) with a client-server model. RDBMS is a software or service used to create and manage databases based on a relational model. MySQL allow clients to connect to a server through a network. The client can make requests to the server using a graphical user interface (GUI). There are a lot of GUIs that support MySQL. Some of the most popular GUIs are MySQL WorkBench, SequelPro, DBVisualizer, and the Navicat DB Admin Tool.
 
 Using a desired GUI the server, then, fulfills the request as long as both client-server understand the instruction. In simplified terms, MySQL  creates a database for storing and manipulating data then allows clients to use SQL statements to make requests allowing the server to provide the required information. The simplicity of MySQL makes it easy to use while offering high performance as it is able to tore wide array of data. In addition, MySQL has a high security level making it attractive to larger companies. The final link below gives an idea of some of the companies that use MySQL.
--	[Simple definition](https://www.hostinger.com/tutorials/what-is-mysql)
--	[Popularity](https://www.geekboots.com/story/why-mysql-so-popular-in-web)
--	[List of companies](https://www.mysql.com/customers/industry/)
-
+- [Simple definition](https://www.hostinger.com/tutorials/what-is-mysql)
+- [Popularity](https://www.geekboots.com/story/why-mysql-so-popular-in-web)
+- [List of companies](https://www.mysql.com/customers/industry/)
 
 ## WebAssembly
 WebAssembly is an open standard that defines a portable binary code format for executable programs, and a corresponding textual assembly language, as well as interfaces for facilitating interactions between such programs and their host environment. The main goal of WebAssembly is to enable high performance applications on web pages, but the format is designed to be executed and integrated in other environments as well.
@@ -228,7 +226,6 @@ Docker is a basic tool that allows you to control the application’s operating 
 - [Docker Tutorial](https://stackify.com/docker-tutorial/)
 - [Docker](https://github.com/docker)
 
-
 ## Vagrant
 
 
@@ -246,24 +243,25 @@ Virtualbox runs on several operating systems such as Windows, Linux, Macintosh, 
 
 
 ## Kubernetes / K8s
- -[Kubernetes.io](kubernetes.io)
- -[RedHat](https://www.redhat.com/en/topics/containers/what-is-kubernetes)
- -[NewRelic](https://blog.newrelic.com/engineering/what-is-kubernetes/)
-    Kubernetes(K8s) is a container management PaaS(Platform as a Service). K8s uses what's called clusters which are
-    made up of virtual machines (VMs) that each do specific tasks as either a master or a node. These nodes is a host
-    for one or more containers. These containers contain applications and the master VM communicates with the nodes on
-    whether to create or destroy nodes or to reroute traffic between nodes. 
+Kubernetes(K8s) is a container management PaaS(Platform as a Service). K8s uses what's called clusters which are
+made up of virtual machines (VMs) that each do specific tasks as either a master or a node. These nodes is a host
+for one or more containers. These containers contain applications and the master VM communicates with the nodes on
+whether to create or destroy nodes or to reroute traffic between nodes. 
 
-    The reason to use Kubernetes is because it's faster than other methods, cheaper than other methods, 
-    and much more efficient than other methods. Kubernetes offers virtually infinite scalability and access anywhere
-    as either an on-premise, hybrid, or public cloud infrastructure. The downside to K8s is that is requires other
-    projects to function at full efficiency. In order to take advantage of everything Kubernetes has to offer it needs:
-    Registry
-    Networking
-    Telemetry
-    Security
-    Automation
-    and other services dependant on the task at hand.
+The reason to use Kubernetes is because it's faster than other methods, cheaper than other methods, 
+and much more efficient than other methods. Kubernetes offers virtually infinite scalability and access anywhere
+as either an on-premise, hybrid, or public cloud infrastructure. The downside to K8s is that is requires other
+projects to function at full efficiency. In order to take advantage of everything Kubernetes has to offer it needs:
+- Registry
+- Networking
+- Telemetry
+- Security
+- Automation
+- and other services dependant on the task at hand.
+
+ - [Kubernetes.io](kubernetes.io)
+ - [RedHat](https://www.redhat.com/en/topics/containers/what-is-kubernetes)
+ - [NewRelic](https://blog.newrelic.com/engineering/what-is-kubernetes/)
 
 ## Accessibility / A11y
 
@@ -276,11 +274,9 @@ User Experience refers to the design process. Usability plays a key role in impr
 
 Usability is a measurable indicator for IT systems and products. This refers to the degree of effectiveness, ease of use, and efficiency for the consumers. Usability includes effectiveness, efficiency, learnability, memorability, and error prevention. Usability is a more narrowed and focused aspect of UX. Usability is an important role in making a good UX; the easier and more effective an IT product or system is, the more pleasant experience a user will have, thus a higher UX.
 
-[Difference and Relationship](https://usabilitygeek.com/the-difference-between-usability-and-user-experience/)
-
-[Four Elements of UX](https://www.uxmatters.com/mt/archives/2012/04/more-than-usability-the-four-elements-of-user-experience-part-i.php)
-
-[What is Usability?](https://www.interaction-design.org/literature/topics/usability)
+- [Difference and Relationship](https://usabilitygeek.com/the-difference-between-usability-and-user-experience/)
+- [Four Elements of UX](https://www.uxmatters.com/mt/archives/2012/04/more-than-usability-the-four-elements-of-user-experience-part-i.php)
+- [What is Usability?](https://www.interaction-design.org/literature/topics/usability)
 
 ## Open Educational Resources (OER)
 Open Educational Resources (OER) are a free library of open licensed resources that can be used for teaching, learning, or research. These resources are typically used in higher education. Users of OER are able to engage in any of the 5R activities. These include:
