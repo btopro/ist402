@@ -174,6 +174,13 @@ Read the articles below to learn more:
 
 ## VirtualBox
 
+Virtualbox or also known as Oracle VM Virtualbox is a free and open-source software for x86 and AMD64/Intel64 computing architecture virtualization. Virtualbox is a powerful product that is made for enterprise use as well as home use. Virtualbox can create a virtual machine by acting as a hypervisor and allows the user to run any operating system. Virtualbox provides a high level of features and performance for the customer of the enterprise available as Open Source Software.
+
+Virtualbox runs on several operating systems such as Windows, Linux, Macintosh, and Solaris by hosting/supporting several amounts of the guest operating system. Overall, Virtualbox is a software that allows users to use an operating system on their own computer and get the experience of using it like it is actually on the real hardware system. 
+
+- [VirtualBox](https://www.virtualbox.org/)
+- [ComputerHope](https://www.computerhope.com/jargon/v/virtualbox.htm)
+- [Make Use Of](https://www.makeuseof.com/tag/how-to-use-virtualbox/)
 
 ## Composer
 
