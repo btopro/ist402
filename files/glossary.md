@@ -132,7 +132,20 @@ Here are some links to learn more:
 
 
 ## SEO
+[SEO](https://support.google.com/webmasters/answer/7451184?hl=en)SEO stands for “search engine optimization.” It is the primary way to get traffic from the “free,” “organic,” “editorial” or “natural” search results on search engines. Google ranks webpages and websites that will be listed first on search results, by the meta tags that are listed on indivudual webpages. Companies put relevant name tags on their webpages that searchers may be interested in.
 
+SEO is the magic you have to work on your article in order to make Google very likely to list your post as one of the top search results whenever someone searches for that keyword. Some marketing experts often specialize in SEO because it is vital for businesses to have proper meta tags on their webpages, in order to be on the top of the google results, which usually brings in more traffic, which ultimately helps the business grow. 
+
+### Reasons companies pour so much money into SEO and understanding SEO:
+- To get new people directed to their site
+- Helps company make money
+- Builds brand recognition
+- Keeps company relevant amongst competitors
+
+### Learn More:
+ - [SEO Explanation](https://searchengineland.com/guide/what-is-seo)
+ - [How to improve SEO](https://www.lyfemarketing.com/blog/increase-search-engine-optimization/)
+ - [Big SEO Event on the East Coast](https://marketinglandevents.com/smx/east/)
 
 ## PHP
 
