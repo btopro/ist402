@@ -114,6 +114,15 @@ IDE stands for Integrated Development Environment. This software is used to debu
 
 ## Angular
 
+[Angular](https://angular.io/) is a popular TypeScript framework that is used to create web applications. It started out being used to make single paged applications but after the rapid growth in popularity of other JS frameworks such as React.js, it received many additional features to make it better suited for a variety of different application types. One of the things that Angular users particularly like is that Angular is based in TypeScript. A common criticism of JavaScript is the lack of type restrictions. In JavaScript a variable could be any type and a function could return any type but in TypeScript, these types must be predefined which helps provide clarity and assurance that the return data type of a function will always be the one desired.
+
+Another thing about angular that makes it appealing is that it is backed by Google which helps developers be more confident that Angular will be maintained for longer and receive more support throughout its lifetime. Angular is also an extremely popular framework and with popularity comes lots of contributions from other developers. Angular has thousands of different components that developers made and share which makes it very easy to get complex web components running on your own page just by bringing in the one the other developer made.
+
+Additional Resources:
+* [Yalantis](https://yalantis.com/blog/when-to-use-angular/)
+* [Angular's Github](https://github.com/angular)
+* [Angular Tutorial](https://www.w3schools.com/angular/)
+
 
 ## React
 
