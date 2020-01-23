@@ -171,6 +171,13 @@ Read the articles below to learn more:
 
 ## MySQL
 
+MySQL is an open source relational database management system (RDBMS) with a client-server model. RDBMS is a software or service used to create and manage databases based on a relational model. MySQL allow clients to connect to a server through a network. The client can make requests to the server using a graphical user interface (GUI). There are a lot of GUIs that support MySQL. Some of the most popular GUIs are MySQL WorkBench, SequelPro, DBVisualizer, and the Navicat DB Admin Tool.
+
+Using a desired GUI the server, then, fulfills the request as long as both client-server understand the instruction. In simplified terms, MySQL  creates a database for storing and manipulating data then allows clients to use SQL statements to make requests allowing the server to provide the required information. The simplicity of MySQL makes it easy to use while offering high performance as it is able to tore wide array of data. In addition, MySQL has a high security level making it attractive to larger companies. The final link below gives an idea of some of the companies that use MySQL.
+-	[Simple definition](https://www.hostinger.com/tutorials/what-is-mysql)
+-	[Popularity](https://www.geekboots.com/story/why-mysql-so-popular-in-web)
+-	[List of companies](https://www.mysql.com/customers/industry/)
+
 
 ## WebAssembly
 
