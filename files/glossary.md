@@ -58,8 +58,12 @@ More Information/Practice:
 
 
 ## WordPress CMS
+A Content Management System (CMS) is a type of software that helps users in managing and creating digital content. WordPress is an open-source CMS-based system that allows users to create customized blogs and websites. Being an open-source platform, WordPress has a multitude of developers that constantly update and add new features for free. Sites can be hosted on the WordPress server, or can be downloaded onto personal web hosts. 
 
-
+The level of customization is what makes the platform so sucessful. Users can design a site using preinstalled themes and templates (no programming experience required), or create a site from scratch using PHP on a Linux or Windows OS. A vast amount of plugins can be installed into a WordPress site, such as SEO tools, security features, eCommerce solutions, among many others.  
+- [Using WordPress as an Enterprise CMS](https://www.coredna.com/blogs/using-wordpress-as-enterprise-cms)
+- [24 Must Have WordPress Plugins](https://www.wpbeginner.com/showcase/24-must-have-wordpress-plugins-for-business-websites/)
+- [What is WordPress](https://www.wp101.com/tutorial/what-is-wordpress/)
 ## Backdrop CMS
 
 
@@ -70,10 +74,10 @@ More Information/Practice:
 
 
 ## IDE
-IDE stands for Integrated Development Environment. This software is used to debug, compile, and run the code. It is a software that can build applications that combines common developer tools into a single graphical user interface. IDE’s can support one or multiple languages of code. IDLE is an IDE that only supports python code. Visual studios, once downloaded the correct language, can support multiple languages. 
-[Redhat, What is an IDE?](https://www.redhat.com/en/topics/middleware/what-is-ide)
-[Wiki, Intergrated Development Environment](https://en.wikipedia.org/wiki/Integrated_development_environment)
-[Jabrils, What is an IDE](https://www.youtube.com/watch?v=vUn5akOlFXQ)
+IDE stands for Integrated Development Environment. This software is used to debug, compile, and run the code. It is a software that can build applications that combines common developer tools into a single graphical user interface. IDE’s can support one or multiple languages of code. IDLE is an IDE that only supports python code. Visual studios, once downloaded the correct language, can support multiple languages.
+- [Redhat, What is an IDE?](https://www.redhat.com/en/topics/middleware/what-is-ide)	
+- [Wiki, Intergrated Development Environment](https://en.wikipedia.org/wiki/Integrated_development_environment)	
+- [Jabrils, What is an IDE](https://www.youtube.com/watch?v=vUn5akOlFXQ)
 
 ## VSCode
 VS Code, or Visual Studio Code, is a cross-platform (uniform environment) source-code editor, released in April 2015 by Microsoft. It is free for both commercial and private use, and is available for Windows, Mac and Linux. It’s source code is open source. It is based on the Electron framework (developed by GitHub).The editor is Microsoft’s Monaco. It is praised for being “lean, customizable, and fast.” It is a very popular editor, having [2.6 million monthly active](https://code.visualstudio.com/blogs/2017/11/16/connect) users in 2017.
