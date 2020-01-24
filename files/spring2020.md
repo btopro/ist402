@@ -30,5 +30,5 @@
 - [CodingClarity](https://www.youtube.com/channel/UCWpZEZ7Dq7O1MIEBqxN3oqA?view_as=subscriber)
 - [JYSmartTech](https://www.youtube.com/channel/UCR5p3Cy0f2d876LF7nFWSUg?view_as=subscriber)
 - [TechMeta402](https://www.youtube.com/channel/UCFZ5YH4iLeDicLEeLuTBgGA?view_as=subscriber)
-- 
+- [NanamiTech](https://www.youtube.com/channel/UC8Y_TVczg1k5kfj4SbiMkAw?view_as=subscriber)
 - Add yours above here with a title, link and a new bullet
