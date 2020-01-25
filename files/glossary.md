@@ -126,7 +126,19 @@ Here are some links to learn more:
 
 
 ## TravisCI
+Travis CI is service used to build and test software projects that are hosted on Github. The <b> CI </b> in TravisCI stands for continious integeration, the practicce of merging developers code to share a main codebase together. Travis CI has provided a testing base for over 900,000 open source projects. The following list is large software companies that trust Travis CI's work;
+* Zendesk
+* Engine Yard
+* Heroku
+* BitTorrent
+* Moz
 
+The software pipeline that Travis CI follows is the following; <i> push code to github --> Travis CI is triggered by Github to start a build of the project --> Travis will run the project through a series of tests --> If the build passes, Travis CI will deploy the application to Heroku --> Travis CI will then automatically send out a message to infom the software team that the build was successful. </i>
+
+Here are some resources you can use to learn more about Travis CI:
+* <a href="https://travis-ci.org/"> Travis CI Official Website </a>
+* <a href="https://en.wikipedia.org/wiki/Travis_CI"> Travis CI Wikipedia Page </a>
+* <a href="https://xebialabs.com/technology/travis-ci/"> Xebia Labs </a>
 
 ## Bash (sh)
 
@@ -293,7 +305,14 @@ The sites listed below contain more information on OER:
 - [Hewlett Foundation OER](https://hewlett.org/strategy/open-educational-resources/)
 
 ## Nginx
+NGINX is a new emerging web server that is becoming the most popular web server in the world. NGINX is a high performance web server, it outperforms apache when loading static web pages. It can be used as load balanceer, mail proxy, HTTP cache, web server, and a reverse proxy. NGINX was created as an open source project in 2004. NGINX is build on a programming language called C. Igor Sysoev was the original creator of NGINX, he wrote it to solve the C10K problem, this is a problem that still exists today, this problem is when web servers have trouble handling large numbers of concurrent users.
 
+The main goal of NGINX was to create the fastest web server around and using this as the central goal of the project. NGINX is typically used as a load bolancer as well, which means NGINX can manage high volumes of traffic and distribute this traffic to optimize webserver clusters performance levels. It also is typically used as a reverse proxy, you can think of this as a proxy for servers, not clients. 
+
+Here are some helpful websites that can provide furthur details and infomation about NGINX. <br /> 
+* <a href="https://www.nginx.com/resources/glossary/nginx/"> NGINX Glossery</a>
+* <a href="https://github.com/nginx/nginx"> Official Github Repository </a>
+* <a href="https://en.wikipedia.org/wiki/Nginx"> NGINX Wikipedia Page </a>
 
 ## Apache Web server
 
