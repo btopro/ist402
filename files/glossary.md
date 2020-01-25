@@ -314,7 +314,6 @@ Here are some helpful websites that can provide furthur details and infomation a
 * <a href="https://github.com/nginx/nginx"> Official Github Repository </a>
 * <a href="https://en.wikipedia.org/wiki/Nginx"> NGINX Wikipedia Page </a>
 
-
 ## Apache Web server
 
 
