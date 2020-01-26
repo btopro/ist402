@@ -324,7 +324,15 @@ Here are some helpful websites that can provide furthur details and infomation a
 
 
 ## Varnish
+Varnish is a web HTTP accelerator that was created for websites that have are very content heavy. A web accelerator is a proxy server that reduces web access times. This means that more people are able to access things on the web at a higher rate and a faster speed. Unlike other web accelerators, Varnish does this by reducing contention between threads to a minimum. Being heavily threaded, Varish can create new threads when prior ones are overworked to continue giving a heavily-accessed content more access without users experiencing interruptions. Varnish is completely linked to HTTP and can only be used on that specific protocol. 5% of the top 10,000 websites use Varnish. Some of those websites are Facebook, Twitter, The New York Times and Wikipedia. 
 
+Varnish was a project that was created by the Norweigan newspaper “Verdens Gang” and was led by architect Poul-Henning Kamp. It began developing under the company of Linpro but quickly grew large enough to turn into its own company, Varnish Software. 
+
+Here are some more sources to help better understand Varnish and how it works.
+
+- [Introduction to Varnish](https://varnish-cache.org/intro/)
+- [What is Varnish Cache?](https://www.youtube.com/watch?v=fGD14ChpcL4)
+- [Varnish Software Delivers Blazing-Fast Web Performance with the Introduction of Varnish Cache 3.0](https://www.businesswire.com/news/home/20110615006326/en/Varnish-Software-Delivers-Blazing-Fast-Web-Performance-Introduction)
 
 ## Traefik (Golang)
 
