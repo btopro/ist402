@@ -322,6 +322,14 @@ Here are some helpful websites that can provide furthur details and infomation a
 
 ## Apache Web server
 
+Apache is a popular open-source web server, also known as the most popular web server in the modern world. It is run by Apache Software Foundation. The Apache web server basically can let everyone to collaborate and the developers can create their modules to support the function that they want to have and make the core feature much better.  
+
+The job of the Apache web server is allowing clients to ask the requites and the server would accept and respond to it. Moreover, Apache has different kind of modules which can have more function than other web servers. For example, multi-processing modes, SSL, and PHP. Therefore, the main goal of the Apache is to communicate over networks from the client to the server using TCP/IP protocol, such as HTTP/S.
+
+-[What Is Apache Web Server](https://kinsta.com/knowledgebase/what-is-apache/)
+-[sumologic blog post](https://www.sumologic.com/blog/apache-web-server-introduction/)
+-[apache.org](https://httpd.apache.org/)
+
 
 ## Varnish
 
