@@ -252,7 +252,13 @@ Virtualbox runs on several operating systems such as Windows, Linux, Macintosh, 
 - [Make Use Of](https://www.makeuseof.com/tag/how-to-use-virtualbox/)
 
 ## Composer
+Composer is a dependency management tool for PHP 5.3 and above. It allows you to declare the code libraries on which your project depends, and it will install them for you in your project. Composer is not a package manager. Yes, it involves "packages" and "libraries", but it is managed on a per-project basis and installed in a directory of your project (such as vendor). It does not install anything globally by default. So this is just a dependency management.
 
+Suppose you are creating a project, you need a library that outputs logs, and you decide to use the monolog library. In order to add the monolog library to your project, just create a composer.json file, the contents of this file describe the project's dependencies. Examples are: {"require": {"monolog / monolog": "1.2. *"}}
+Here are three links:
+- [Composer](https://getcomposer.org/)
+- [GitHub](https://github.com/composer/composer)
+- [Wikipedia(https://en.wikipedia.org/wiki/Composer_(software))
 
 ## Kubernetes / K8s
 Kubernetes(K8s) is a container management PaaS(Platform as a Service). K8s uses what's called clusters which are
