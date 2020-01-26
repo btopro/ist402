@@ -276,7 +276,13 @@ projects to function at full efficiency. In order to take advantage of everythin
  - [NewRelic](https://blog.newrelic.com/engineering/what-is-kubernetes/)
 
 ## Accessibility / A11y
+A general definition of accessibility, or “A11y”, is a product or service that is obtainable easily. The term “A11y” was coined by The A11y Project to promote accessibility across websites. As technology expands, accessibility is very important because users need to have convenient access to things like websites, apps, etc. 
 
+Another function of accessibility is the focus on treating people equally. Accessibility accommodates people with disabilities to have the same experience as everyone else. As a result, accessibility improves usability, avoids discrimination and legal complications, builds positive public relations, and creates a better search engine optimization (SEO). 
+
+- [A11y Project](https://a11yproject.com/about/)
+- [Benefits of Accessibility](https://www.interactiveaccessibility.com/benefits-accessibility)
+- [What is Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
 
 ## Internationalization / i18n
 
