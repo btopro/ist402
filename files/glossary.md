@@ -218,7 +218,7 @@ MySQL is an open source relational database management system (RDBMS) with a cli
 
 Using a desired GUI the server, then, fulfills the request as long as both client-server understand the instruction. In simplified terms, MySQL  creates a database for storing and manipulating data then allows clients to use SQL statements to make requests allowing the server to provide the required information. The simplicity of MySQL makes it easy to use while offering high performance as it is able to tore wide array of data. In addition, MySQL has a high security level making it attractive to larger companies. The final link below gives an idea of some of the companies that use MySQL.
 - [Simple definition](https://www.hostinger.com/tutorials/what-is-mysql)
-- [Popularity](https://www.geekboots.com/story/why-mysql-so-popular-in-web)
+- [Why is it so popular?](https://www.geekboots.com/story/why-mysql-so-popular-in-web)
 - [List of companies](https://www.mysql.com/customers/industry/)
 
 ## WebAssembly
