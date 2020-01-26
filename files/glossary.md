@@ -23,7 +23,11 @@ When using HTML, it is somewhat difficult to convey an aesthetically-pleasing de
 - [HTML Element Syntax](https://www.tutorialrepublic.com/html-tutorial/html-elements.php)
 
 ## CSS
+Cascading Style Sheets are used when designing interesting webpages. By using CSS, the style of HTML elements can be changed, altering the design, structure and layout of the webpage. A web designer can use CSS to create a font, add color, change the positioning, edit pictures and create a whole new style on the page. Instead of writing the same inline styling for each element in HTML, a developer can link a CSS stylesheet which enables the entire website to be rendered the same way, with the same design. This also allows for creating a responsive design where the webpage changes based on the screen size. This is important when designing for PC vs mobile viewing. 
 
+- [CSS Zen Garden](http://www.csszengarden.com/)
+- [CSS Tips and Tricks](https://css-tricks.com/)
+- [w3schools Tutorial about CSS](https://www.w3schools.com/css/)
 
 ## JavaScript
 
