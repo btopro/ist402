@@ -160,7 +160,12 @@ SEO is the magic you have to work on your article in order to make Google very l
  - [Big SEO Event on the East Coast](https://marketinglandevents.com/smx/east/)
 
 ## PHP
+PHP or Hypertext Preprocessor is a server-side scripting language that runs in the background and acts as a middle-man between the website that is displayed to the end-user and the information stored in the database that runs the website.  PHP can be enmbedded into HTML and can be utilzed to display text, image, and video content to a website from a database.  
 
+### Useful Resources
+- [PHP Documentation](https://www.php.net/manual/en/intro-whatis.php)
+- [PHP Introduction](https://www.w3schools.com/php/php_intro.asp)
+- [PHP Tutorial](https://www.geeksforgeeks.org/php/)
 
 ## Express.js
 Express is the most popular Node web framework. Express.js is a web application framework that helps organize a web application into a MVC (Model, View, Controller) architecture on the server side of the application. To go even further, a developer can use MongoDB with Mongoose (for modeling) to provide a backend for the application. Express.js helps manage everything, from routes, to handling requests and views. Express also provides methods to specify what function is called for a particular HTTP request (GET, POST) and methods to specify what template ("view") engine is used. 
