@@ -47,6 +47,15 @@ A front end developer works on "front end" code in an application, commonly mean
 
 
 ## Gulp.js
+Gulp.js is a toolkit available for JavaScript that helps to streamline the building process and allows the automation of menial tasks often found within repetitive front-end development. It works by using Node.js streams to pass data through connected plugins.
+
+Typically much of the time dedicated to front-end development ends up being used for repeated processes like removing small statements or needing to adjust a word for each line of code. Solutions would involve having your own build process that will do the boring work for you, or utilizing a task runner. That’s where gulp comes in, being a plugin that will act as that task runner, and allowing users to easily get past the busy work and move onto the bigger projects with their time.
+
+- [Concepts of Gulp](https://gulpjs.com/docs/en/api/concepts)
+
+- [Gulp Website](https://gulpjs.com/)
+
+- [Intro Information](https://www.sitepoint.com/introduction-gulp-js/) 
 
 
 ## IDE
