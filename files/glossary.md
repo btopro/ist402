@@ -333,6 +333,11 @@ Here are some helpful websites that can provide furthur details and infomation a
 
 
 ## Webpack
+It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding loaders are included. Webpack takes modules with dependencies and generates static assets representing those modules. Webpack can take care of bundling alongside a separate task runner. However, the line between bundler and task runner has become blurred thanks to community-developed webpack plugins.
+
+- [SurviveJS Definition](https://survivejs.com/webpack/what-is-webpack/)
+- [Webpack Concepts](https://webpack.js.org/concepts/)
+- [Andrew Ray webpack Blog](https://blog.andrewray.me/webpack-when-to-use-and-why/)
 
 
 ## OpenFaaS
