@@ -123,6 +123,14 @@ Here are some links to learn more:
 
 
 ## Apereo Foundation
+In 2012, Jasig and Sakai Foundation merged together to establish Apereo Foundation. Apereo Foundation is a non-profit United States organization with an objective of making open source computer programs for use in advanced education conditions. Originally known as Jasig, it was founded by a group of IT personnel in 1999. Jasig is an acronym for "Java in administration special interest group". The programs are mostly written in Java and utilizes a community model. There are several institutions, affiliates, and partners associated with Apereo Foundation. 
+
+Apereo Foundation carries an array of projects within many communites. For example, Apereo OAE is a new project which supports multipile institutions at the same time. 
+
+Here are some links providing more information about Apereo Foundation:
+-[Apereo Foundation](https://www.apereo.org/?gclid=CjwKCAiAjrXxBRAPEiwAiM3DQj1JQasAWRNO3f62CE6oKPMh-aFKL4uJPMvg6jGAiZNq4Ild8pJKEBoCgNIQAvD_BwE)
+-[Jasig](https://en.wikipedia.org/wiki/Jasig)
+-[Digital developments](https://www.news.uct.ac.za/article/-2019-04-18-digital-developments-at-sa-universities)
 
 
 ## TravisCI
