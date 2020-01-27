@@ -14,6 +14,13 @@ A front end developer works on "front end" code in an application, commonly mean
 
 
 ## JavaScript
+JavaScript is a commonly used, object-oriented scripting language which allows a user to input complex features onto a webpage. It is written onto an html page and can help your webpage include interactive maps and displays, animated graphics, timely content updates and many more things. Javascript responds and reacts to mouse clicks and keyboard inputs and has access to the Document Object Model, which gives Javascript the capability to read and change text, images and other attributes of a webpage.
+
+Like Java, Javascript also falls from C and C++ and shares some syntax similarities to Java, however, they are two different languages. Javascript allows for immediate feedback for users as a user does not have to refresh to see updates and also allows for increased user interactivity. Some disadvantages of Javascript include not having any multi-threading or multi-processor capabilities. Other disadvantages include client-side Javascript does not allow the reading of files and networking applications cannot use this language.
+
+- [What Javascript does](https://www.techwalla.com/articles/what-does-javascript-do)
+- [What is Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+- [Pros and Cons of Javascript](https://data-flair.training/blogs/advantages-disadvantages-javascript/) 
 
 
 ## Yarn
