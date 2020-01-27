@@ -35,6 +35,17 @@ When using HTML, it is somewhat difficult to convey an aesthetically-pleasing de
 
 
 ## Package Manager
+A package manager, or package management system(PMS), is a set of software tools that automate the process of installing, upgrading, configuring, and removing computer programs from a computer operating system in a consistent manner. It mainly deals with packages and are often connected to Unix environment like Linux. Some examples of package managers could be Red Hat Package Manager(RPM), Yellowdog Updater(YUP) , and Modified(YUM). 
+
+RPM: Red Hat Package Manager. Red Hat used it and its primary use is to install RPMs, which you have locally, not to search software repositories. The package manager named up2date was created to inform users of updates to packages and enable them to search remote repositories and easily install dependencies. However, some community members felt that up2date has some major drawbacks. 
+
+YUP and YUM: Yellowdog Updater and Yellowdog Updated, Modified. YUP was created by folks at Terra Soft Solutions in 1999-2001, and then Duck University improved upon it by creating YUM which was popular now.    
+
+Here are some resources you can use to learn more about package manager:
+-[What is Package Manager?](https://searchmobilecomputing.techtarget.com/definition/package-manager-or-package-management-system-PMS)
+-[The evolution of package managers](https://opensource.com/article/18/7/evolution-package-managers)
+-[Why should you use Package Manager?](https://blog.idrsolutions.com/2018/07/what-is-a-package-manager-and-why-should-you-use-one/)
+
 
 
 ## Markdown
