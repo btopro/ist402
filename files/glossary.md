@@ -288,7 +288,7 @@ Another function of accessibility is the focus on treating people equally. Acces
 
 
 ## User Experience / Usability
-User Experience refers to the design process. Usability plays a key role in improving UX. User Experience refers to a person’s feelings about using a particular product including functionality, branding, and comparisons to the psychological expectations. UX is based off of satisfaction, enjoyment, pleasure, and value it brings to a user. This is a broad and holistic view of a IT product or system.
+User Experience refers to the design process of a technology or system. Usability plays a key role in improving UX. User Experience refers to a person’s feelings about using a particular product including functionality, branding, and comparisons to the psychological expectations. UX is based off of satisfaction, enjoyment, pleasure, and value it brings to a user. This is a broad and holistic view of a IT product or system.
 
 Usability is a measurable indicator for IT systems and products. This refers to the degree of effectiveness, ease of use, and efficiency for the consumers. Usability includes effectiveness, efficiency, learnability, memorability, and error prevention. Usability is a more narrowed and focused aspect of UX. Usability is an important role in making a good UX; the easier and more effective an IT product or system is, the more pleasant experience a user will have, thus a higher UX.
 
