@@ -285,6 +285,13 @@ Another function of accessibility is the focus on treating people equally. Acces
 - [What is Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
 
 ## Internationalization / i18n
+Internationalization is a design process that allows a product to be very flexible and diverse by designing it so I can be used across multiple countries or designing them so they can be easily modified when they arrive in different places. Internationalization allows for users across the world to be able to use products that are unchanged across countries. 
+
+Making products that can be consumed across various countries require conforming to different countries technical needs. By doing this there will be a large amount of opportunities that will open up. It will allow for some gaps in cultures and countries to bridge. Even though it will be used in many different countries and places the source code will remain the same, which definitely saves a lot of headaches. 
+
+•	Gala
+•	Wikipedia
+•	http://whatis.com/
 
 
 ## User Experience / Usability
