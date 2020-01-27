@@ -51,6 +51,13 @@ More Information/Practice:
 
 
 ## Content Management System
+A Content Management System (CMS) allows for the creation and management of content on website without the need to be a developer. This allows other people in a company such as a marketing team to post content to the website without having to know how to write HTML and without the risk of changing the layout of the site. A CMS also allows permissions to be given so multiple people who need to access the site for different reasons don’t always have access to the same content.
+
+Some of the most used CMS’s are Drupal and WordPress as they have built a reputation for being very reliable and feature rich. Overall a CMS can make running a website a lot simpler than just using HTML and CSS from scratch and it allows for easy editing of content.
+Some helpful links:
+-[What is a CMS](https://www.optimizely.com/optimization-glossary/content-management-system/)
+-[Top 10 CMS'](https://www.impactbnd.com/blog/top-10-cms-platforms-for-digital-marketing) 
+-(CMS Quick Guide Video](https://www.youtube.com/watch?v=-C7lSOVLhQs)
 
 
 ## Drupal CMS
