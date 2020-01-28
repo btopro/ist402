@@ -48,7 +48,14 @@ More Information/Practice:
 
 
 ## Git
+Git is a version-control system (VCS) that's used for tracking changes to a source code or to any changes in a set of files during software development. This tool allows for better coordination among programmers, such that projects with various types of source code can be distributed speedily, accurately and consistently. In relation with GitHub, Git serves as the foundation for this service, and Git can even be used without this service. 
 
+While using Git, a user can even use the command line to do various actions. Every Git command starts with the use of the code 'git'. From there, users can clone a project, push a branch, merge a branch and delete a branch. Of course, there are even more commands we can use, and the development of this tool is increasingly strong given the fact that it is open-sourced.
+
+More Details on Git & its commands:
+- [Info. on Git](https://www.atlassian.com/git/tutorials/what-is-git)
+- [Git Commands](https://git-scm.com/docs/git)
+- [Some cool tips & tricks](https://www.pluralsight.com/guides/tips-and-cool-tricks-to-use-in-git)
 
 ## Content Management System
 
