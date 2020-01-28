@@ -96,7 +96,14 @@ Here are some links to learn more:
 
 
 ## Web Components
+Web components are a set of features that provide a standard component model for the Web allowing encapsulation and interopability of individual HTML elements. This allows for for the expansion of HTML elements essentially. The purpose of this is to create your own elements using a web platform set of API's or Application Programming Interface. This makes it much easier for people to create a website. 
 
+Resources that make it easier to build websites include: 1. HTML imports which makes it easier to import HTML documents into other documents, 2. HTML Templates which allow you to create sections of the DOM(Document Object Model), 3. Shadow DOM which encapsulates Javascript and CSS so it can be separate from the rest of DOM, and 4. Custom Elements which are API's to build your customized HTML elements.
+
+Here are some helpful links:
+- [An Introduction to Web Components](https://www.upwork.com/hiring/development/web-components/)
+- [What are Web Components?](https://www.techopedia.com/definition/24353/web-components)
+- [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 
 ## LitElement
 
