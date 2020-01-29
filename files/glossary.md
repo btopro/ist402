@@ -224,12 +224,17 @@ Click the following links to learn more:
 - [MDN web docs: Express/Node Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
 
 ## Bootstrap (design library)
+Bootstrap is a free open-source CSS framework for developing with HTML, CSS, and JS. This front-end component library allows users to utilize prebuilt components in a responsive mobile-first environment. In other words, mobile-first means it prioritizes mobile users needs before desktop users and adjusts intuitively to different device dimensions. This library contains typography, buttons, navigation, etc. 
 
+Bootstrap is one of the most collaborated repositories on GitHub. It's the sixth highest starred repository with over 138,000 stars. It has excellent documentation which allows developers to explore its latest updates and features. Bootstrap is known for its ease of use while providing great results. Many companies chose to use Bootstrap for their front-end components such as Twitter, Spotify, and Udemy.
+
+Additional Resources:
+- [Bootstrap: Documentation](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+- [Mobile-First: Introduction](https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/)
+- [W3Schools: Bootstrap Tutorial](https://www.w3schools.com/bootstrap4/default.asp)
+- [GitHub: Installation](https://github.com/twbs/bootstrap)
 
 ## Angular
-[Angular](https://angular.io/) is a popular TypeScript framework that is used to create web applications. It started out being used to make single paged applications but after the rapid growth in popularity of other JS frameworks such as React.js, it received many additional features to make it better suited for a variety of different application types. One of the things that Angular users particularly like is that Angular is based in TypeScript. A common criticism of JavaScript is the lack of type restrictions. In JavaScript a variable could be any type and a function could return any type but in TypeScript, these types must be predefined which helps provide clarity and assurance that the return data type of a function will always be the one desired.	
-
-Another thing about angular that makes it appealing is that it is backed by Google which helps developers be more confident that Angular will be maintained for longer and receive more support throughout its lifetime. Angular is also an extremely popular framework and with popularity comes lots of contributions from other developers. Angular has thousands of different components that developers made and share which makes it very easy to get complex web components running on your own page just by bringing in the one the other developer made.	
 
 ### Additional Resources:	
 * [Yalantis](https://yalantis.com/blog/when-to-use-angular/)	
