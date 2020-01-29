@@ -241,6 +241,13 @@ Read the articles below to learn more:
 
 ## SQL
 
+SQL Is known as Structured Query Language. The main purpose of utilizing SQL is the idea of  communicating with a database. SQL is known as the standardized programming language for relational databases. The primary funtions of SQL are selecting, inserting, updating, creating and dropping data within the database set. SQL also functions as a data retrieval tool that can take subsets of data in the database for transactions, processing, analytics and optimizing applications databases.
+
+Read the articles below to learn more: 
+- [Guide to NoSQL databases](https://searchsqlserver.techtarget.com/definition/SQL)
+- [SQL Tutorial](https://www.w3schools.com/sql/)
+- [What is SQL? The first language of data analysis](https://www.infoworld.com/article/3219795/what-is-sql-the-first-language-of-data-analysis.html)
+
 
 ## MySQL
 
