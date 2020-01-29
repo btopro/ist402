@@ -132,6 +132,16 @@ Here are some helpful links:
 
 
 ## lit-html
+lit-html is an efficient, expressive, and extensible HTML template library for JavaScript. It provides all the features of JavaScript, a functional programming model, and contains whatever you need. lit-html is highly customizable and extensible, and it is very fast because it has a fast platform feature with local cloning, and lit-html updates only the parts of the template that need to be changed, not the entire view. lit-html is like your own template building kit.
+
+lit-html does not rely on any component model, it only focuses on creating and updating the DOM. lit-html allows you to write HTML templates in JavaScript using template text with embedded JavaScript expressions.
+
+
+
+Here are some resources for you to learn more about lit-html:
+- [Introduction](https://lit-html.polymer-project.org/guide#what-is-lit-html)
+- [Getting Started](https://lit-html.polymer-project.org/guide/getting-started)
+- [Template syntax reference](https://lit-html.polymer-project.org/guide/template-reference)
 
 
 ## HAXcms
