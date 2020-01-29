@@ -135,9 +135,10 @@ Here are some helpful links:
 
 ## Open Source Software
 Open Source Software is a type of computer software in which the source code is released under a license that the copyright holder contains the rights to study, change, and distribute the software openly. The reason that open source code is different that it will not hold the user to signing a licensing agreement. The authors of open source software make the source code availalbe to users that wish to code, copy, learn, alter, or share the original source code. The diverse opinions that open source software can provide has proven to benefit companies. In a 2008 report by the Standish Group, it states that the adoption of open source software models has resulted in the savings of about 60 billion per year for consumers. LibreOffice and the GNU Image Manipulation Program are examples of open source software. 
-[What is open source?](https://opensource.com/resources/what-open-source)
-[The WIRED Guide to Open Source Software](https://www.wired.com/story/wired-guide-open-source-software)
-[How Open Source Software Works](https://www.thebalancecareers.com/what-is-open-source-software-2071941)
+- [What is open source?](https://opensource.com/resources/what-open-source)
+- [The WIRED Guide to Open Source Software](https://www.wired.com/story/wired-guide-open-source-software)
+- [How Open Source Software Works](https://www.thebalancecareers.com/what-is-open-source-software-2071941)
+
 ## Apereo Foundation
 
 
