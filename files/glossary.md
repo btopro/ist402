@@ -74,7 +74,10 @@ Some helpful links:
 
 
 ## Drupal CMS
-
+Drupal is a free, open-source content management system (CMS) written in PHP and released under the GNU General Public License. It is free to download and users around the world can monitor underlying code for compliance and security issues, as well as fix them easily and quickly. It's used by millions of people and organizations around the globe to build and maintain their websites, for example: Tesla, The Economist, Harvard, etc.
+- [Introduction to Drupal](https://drupalize.me/guide/introduction-drupal)
+- [Browse Repository](https://git.drupalcode.org/project/drupal)
+- [Who uses Drupal?](https://www.drupal.com/showcases)
 
 ## WordPress CMS
 A Content Management System (CMS) is a type of software that helps users in managing and creating digital content. WordPress is an open-source CMS-based system that allows users to create customized blogs and websites. Being an open-source platform, WordPress has a multitude of developers that constantly update and add new features for free. Sites can be hosted on the WordPress server, or can be downloaded onto personal web hosts. 
