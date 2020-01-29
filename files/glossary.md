@@ -32,9 +32,25 @@ When using HTML, it is somewhat difficult to convey an aesthetically-pleasing de
 
 
 ## NPM
+NPM or Node Package Manager consists of three distinct components. The first is the website, which is used to discover packages, set up profiles, and manage other ascepts of npm. The second is the Command Line Interface or the CLI, which is also called npm, and can be used to download and install software.
 
+Lastly, it is the world's largest software registry. As a software registry, it contains over 800,000 code packages that open-source developers use to share software. It is also a software package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js. 
 
+Additional Information/Resources:
+- [Quick NPM Tutorial]https://www.youtube.com/watch?v=ZNbFagCBlwo
+- [About NPM]https://docs.npmjs.com/about-npm/
+- [What is NPM?]https://www.w3schools.com/whatis/whatis_npm.asp
 ## Package Manager
+A package manager, or package management system(PMS), is a set of software tools that automate the process of installing, upgrading, configuring, and removing computer programs from a computer operating system in a consistent manner. It mainly deals with packages and are often connected to Unix environment like Linux. Some examples of package managers could be Red Hat Package Manager(RPM), Yellowdog Updater(YUP) , and Modified(YUM). 
+
+RPM: Red Hat Package Manager. Red Hat used it and its primary use is to install RPMs, which you have locally, not to search software repositories. The package manager named up2date was created to inform users of updates to packages and enable them to search remote repositories and easily install dependencies. However, some community members felt that up2date has some major drawbacks. 
+
+YUP and YUM: Yellowdog Updater and Yellowdog Updated, Modified. YUP was created by folks at Terra Soft Solutions in 1999-2001, and then Duck University improved upon it by creating YUM which was popular now.    
+
+Here are some resources you can use to learn more about package manager:
+-[What is Package Manager?](https://searchmobilecomputing.techtarget.com/definition/package-manager-or-package-management-system-PMS)
+-[The evolution of package managers](https://opensource.com/article/18/7/evolution-package-managers)
+-[Why should you use Package Manager?](https://blog.idrsolutions.com/2018/07/what-is-a-package-manager-and-why-should-you-use-one/)
 
 
 ## Markdown
@@ -48,13 +64,30 @@ More Information/Practice:
 
 
 ## Git
+Git is a version-control system (VCS) that's used for tracking changes to a source code or to any changes in a set of files during software development. This tool allows for better coordination among programmers, such that projects with various types of source code can be distributed speedily, accurately and consistently. In relation with GitHub, Git serves as the foundation for this service, and Git can even be used without this service. 
 
+While using Git, a user can even use the command line to do various actions. Every Git command starts with the use of the code 'git'. From there, users can clone a project, push a branch, merge a branch and delete a branch. Of course, there are even more commands we can use, and the development of this tool is increasingly strong given the fact that it is open-sourced.
+
+More Details on Git & its commands:
+- [Info. on Git](https://www.atlassian.com/git/tutorials/what-is-git)
+- [Git Commands](https://git-scm.com/docs/git)
+- [Some cool tips & tricks](https://www.pluralsight.com/guides/tips-and-cool-tricks-to-use-in-git)
 
 ## Content Management System
+A Content Management System (CMS) allows for the creation and management of content on website without the need to be a developer. This allows other people in a company such as a marketing team to post content to the website without having to know how to write HTML and without the risk of changing the layout of the site. A CMS also allows permissions to be given so multiple people who need to access the site for different reasons don’t always have access to the same content.
+
+Some of the most used CMS’s are Drupal and WordPress as they have built a reputation for being very reliable and feature rich. Overall a CMS can make running a website a lot simpler than just using HTML and CSS from scratch and it allows for easy editing of content.
+Some helpful links:
+-[What is a CMS](https://www.optimizely.com/optimization-glossary/content-management-system/)
+-[Top 10 CMS'](https://www.impactbnd.com/blog/top-10-cms-platforms-for-digital-marketing) 
+-(CMS Quick Guide Video](https://www.youtube.com/watch?v=-C7lSOVLhQs)
 
 
 ## Drupal CMS
-
+Drupal is a free, open-source content management system (CMS) written in PHP and released under the GNU General Public License. It is free to download and users around the world can monitor underlying code for compliance and security issues, as well as fix them easily and quickly. It's used by millions of people and organizations around the globe to build and maintain their websites, for example: Tesla, The Economist, Harvard, etc.
+- [Introduction to Drupal](https://drupalize.me/guide/introduction-drupal)
+- [Browse Repository](https://git.drupalcode.org/project/drupal)
+- [Who uses Drupal?](https://www.drupal.com/showcases)
 
 ## WordPress CMS
 A Content Management System (CMS) is a type of software that helps users in managing and creating digital content. WordPress is an open-source CMS-based system that allows users to create customized blogs and websites. Being an open-source platform, WordPress has a multitude of developers that constantly update and add new features for free. Sites can be hosted on the WordPress server, or can be downloaded onto personal web hosts. 
@@ -96,12 +129,29 @@ Here are some links to learn more:
 
 
 ## Web Components
+Web components are a set of features that provide a standard component model for the Web allowing encapsulation and interopability of individual HTML elements. This allows for for the expansion of HTML elements essentially. The purpose of this is to create your own elements using a web platform set of API's or Application Programming Interface. This makes it much easier for people to create a website. 
 
+Resources that make it easier to build websites include: 1. HTML imports which makes it easier to import HTML documents into other documents, 2. HTML Templates which allow you to create sections of the DOM(Document Object Model), 3. Shadow DOM which encapsulates Javascript and CSS so it can be separate from the rest of DOM, and 4. Custom Elements which are API's to build your customized HTML elements.
+
+Here are some helpful links:
+- [An Introduction to Web Components](https://www.upwork.com/hiring/development/web-components/)
+- [What are Web Components?](https://www.techopedia.com/definition/24353/web-components)
+- [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 
 ## LitElement
 
 
 ## lit-html
+lit-html is an efficient, expressive, and extensible HTML template library for JavaScript. It provides all the features of JavaScript, a functional programming model, and contains whatever you need. lit-html is highly customizable and extensible, and it is very fast because it has a fast platform feature with local cloning, and lit-html updates only the parts of the template that need to be changed, not the entire view. lit-html is like your own template building kit.
+
+lit-html does not rely on any component model, it only focuses on creating and updating the DOM. lit-html allows you to write HTML templates in JavaScript using template text with embedded JavaScript expressions.
+
+
+
+Here are some resources for you to learn more about lit-html:
+- [Introduction](https://lit-html.polymer-project.org/guide#what-is-lit-html)
+- [Getting Started](https://lit-html.polymer-project.org/guide/getting-started)
+- [Template syntax reference](https://lit-html.polymer-project.org/guide/template-reference)
 
 
 ## HAXcms
@@ -121,9 +171,9 @@ Here are some links to learn more:
 
 ## Open Source Software
 Open Source Software is a type of computer software in which the source code is released under a license that the copyright holder contains the rights to study, change, and distribute the software openly. The reason that open source code is different that it will not hold the user to signing a licensing agreement. The authors of open source software make the source code availalbe to users that wish to code, copy, learn, alter, or share the original source code. The diverse opinions that open source software can provide has proven to benefit companies. In a 2008 report by the Standish Group, it states that the adoption of open source software models has resulted in the savings of about 60 billion per year for consumers. LibreOffice and the GNU Image Manipulation Program are examples of open source software. 
-[What is open source?](https://opensource.com/resources/what-open-source)
-[The WIRED Guide to Open Source Software](https://www.wired.com/story/wired-guide-open-source-software)
-[How Open Source Software Works](https://www.thebalancecareers.com/what-is-open-source-software-2071941)
+- [What is open source?](https://opensource.com/resources/what-open-source)
+- [The WIRED Guide to Open Source Software](https://www.wired.com/story/wired-guide-open-source-software)
+- [How Open Source Software Works](https://www.thebalancecareers.com/what-is-open-source-software-2071941)
 
 ## Apereo Foundation
 
@@ -214,6 +264,13 @@ Read the articles below to learn more:
 
 ## SQL
 
+SQL Is known as Structured Query Language. The main purpose of utilizing SQL is the idea of  communicating with a database. SQL is known as the standardized programming language for relational databases. The primary funtions of SQL are selecting, inserting, updating, creating and dropping data within the database set. SQL also functions as a data retrieval tool that can take subsets of data in the database for transactions, processing, analytics and optimizing applications databases.
+
+Read the articles below to learn more: 
+- [Guide to NoSQL databases](https://searchsqlserver.techtarget.com/definition/SQL)
+- [SQL Tutorial](https://www.w3schools.com/sql/)
+- [What is SQL? The first language of data analysis](https://www.infoworld.com/article/3219795/what-is-sql-the-first-language-of-data-analysis.html)
+
 
 ## MySQL
 
@@ -233,7 +290,13 @@ WebAssembly, or WASM for short. WebAssembly is a small, fast binary format that 
 - [WebAssembly](https://webassembly.org/)
 
 ## Python
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
 
+Python is a rising star in the programming world for two main reasons: the big range of tasks it can handle, combined with the fact that it’s actually a very beginner-friendly language. Python code syntax uses English keywords, and that makes it easy for anyone to understand and get started with the language.
+
+- [Python](https://www.python.org/doc/essays/blurb/)
+- [Python for beginners](https://www.pythonforbeginners.com/learn-python/what-is-python/)
+- [SkillCrush](https://skillcrush.com/2019/06/21/what-is-python/)
 
 ## Docker
 Docker is a basic tool that allows you to control the application’s operating system by using containers. A container isolates or contains the code and operating systems of the applications. They keep everything organized as you can choose how to isolate the different apps. This enables you to run all of the containers on the same host, which makes it easy to run your software no matter where you are. A software called Kubernetes, made by Google, can help you manage all of your containers. Businesses use Docker to reduce inoperability of their systems and make it easier to move to different clouds when working with multiple vendors.
@@ -288,6 +351,13 @@ Another function of accessibility is the focus on treating people equally. Acces
 - [What is Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
 
 ## Internationalization / i18n
+Internationalization is a design process that allows a product to be very flexible and diverse by designing it so I can be used across multiple countries or designing them so they can be easily modified when they arrive in different places. Internationalization allows for users across the world to be able to use products that are unchanged across countries. 
+
+Making products that can be consumed across various countries require conforming to different countries technical needs. By doing this there will be a large amount of opportunities that will open up. It will allow for some gaps in cultures and countries to bridge. Even though it will be used in many different countries and places the source code will remain the same, which definitely saves a lot of headaches. 
+
+•	Gala
+•	Wikipedia
+•	http://whatis.com/
 
 
 ## User Experience / Usability
@@ -336,6 +406,11 @@ Here are some helpful websites that can provide furthur details and infomation a
 
 
 ## Webpack
+It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding loaders are included. Webpack takes modules with dependencies and generates static assets representing those modules. Webpack can take care of bundling alongside a separate task runner. However, the line between bundler and task runner has become blurred thanks to community-developed webpack plugins.
+
+- [SurviveJS Definition](https://survivejs.com/webpack/what-is-webpack/)
+- [Webpack Concepts](https://webpack.js.org/concepts/)
+- [Andrew Ray webpack Blog](https://blog.andrewray.me/webpack-when-to-use-and-why/)
 
 
 ## OpenFaaS
