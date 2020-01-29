@@ -290,7 +290,13 @@ WebAssembly, or WASM for short. WebAssembly is a small, fast binary format that 
 - [WebAssembly](https://webassembly.org/)
 
 ## Python
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
 
+Python is a rising star in the programming world for two main reasons: the big range of tasks it can handle, combined with the fact that it’s actually a very beginner-friendly language. Python code syntax uses English keywords, and that makes it easy for anyone to understand and get started with the language.
+
+- [Python](https://www.python.org/doc/essays/blurb/)
+- [Python for beginners](https://www.pythonforbeginners.com/learn-python/what-is-python/)
+- [SkillCrush](https://skillcrush.com/2019/06/21/what-is-python/)
 
 ## Docker
 Docker is a basic tool that allows you to control the application’s operating system by using containers. A container isolates or contains the code and operating systems of the applications. They keep everything organized as you can choose how to isolate the different apps. This enables you to run all of the containers on the same host, which makes it easy to run your software no matter where you are. A software called Kubernetes, made by Google, can help you manage all of your containers. Businesses use Docker to reduce inoperability of their systems and make it easier to move to different clouds when working with multiple vendors.
