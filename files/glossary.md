@@ -276,6 +276,12 @@ Read the articles below to learn more:
 
 
 ## Golang
+Go also known as "Golang" is a statically typed, compiled programming language designed at Google. Go is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP style concurrency. There are two major implementations to Golang. Google’s self hosting compiler tool chain targeting multiple operating systems, mobile devices, and web assembly. A third party transpiler, GopherJS, compiles Go to Java Script for front-end web development. 
+
+Go was designed at google in 2007 to improve programming productivity in an era of multicore, networked machines and large codebases.   
+-[Golang.org]( https://golang.org/)
+-[guru99.com](https://www.guru99.com/google-go-tutorial.html)
+-[gobyexample.com]( https://gobyexample.com/)
 
 
 ## SQL
