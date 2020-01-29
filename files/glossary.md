@@ -32,8 +32,14 @@ When using HTML, it is somewhat difficult to convey an aesthetically-pleasing de
 
 
 ## NPM
+NPM or Node Package Manager consists of three distinct components. The first is the website, which is used to discover packages, set up profiles, and manage other ascepts of npm. The second is the Command Line Interface or the CLI, which is also called npm, and can be used to download and install software.
 
+Lastly, it is the world's largest software registry. As a software registry, it contains over 800,000 code packages that open-source developers use to share software. It is also a software package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js. 
 
+Additional Information/Resources:
+- [Quick NPM Tutorial]https://www.youtube.com/watch?v=ZNbFagCBlwo
+- [About NPM]https://docs.npmjs.com/about-npm/
+- [What is NPM?]https://www.w3schools.com/whatis/whatis_npm.asp
 ## Package Manager
 
 
