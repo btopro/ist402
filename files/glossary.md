@@ -336,7 +336,10 @@ Docker is a basic tool that allows you to control the application’s operating 
 - [Docker](https://github.com/docker)
 
 ## Vagrant
-
+Vagrant is an open source software for building and maintaining portable virtual software environments. It can be used with VirtualBox, KVM, Hyper-V, Docker containers VWware, and Amazon Web Services (AWS). It simplifies the software configuration management of virtualization in order to increase development productivity. It is written in Ruby but it supports development in a few different languages. It can be download for free on HashiCorp’s website.Vagrant was first started as a personal side-project by Mitchell Hashimoto in January of 2010. 
+-[VagrantInfo](vagrantup.com/intro/index.html)
+-[VagrantWiki](https://en.wikipedia.org/wiki/Vagrant_(software))
+-[WhatIsVagrant?](https://opensource.com/resources/vagrant)
 
 ## VirtualBox
 
