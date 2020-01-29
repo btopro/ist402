@@ -23,18 +23,45 @@ When using HTML, it is somewhat difficult to convey an aesthetically-pleasing de
 - [HTML Element Syntax](https://www.tutorialrepublic.com/html-tutorial/html-elements.php)
 
 ## CSS
+Cascading Style Sheets are used when designing interesting webpages. By using CSS, the style of HTML elements can be changed, altering the design, structure and layout of the webpage. A web designer can use CSS to create a font, add color, change the positioning, edit pictures and create a whole new style on the page. Instead of writing the same inline styling for each element in HTML, a developer can link a CSS stylesheet which enables the entire website to be rendered the same way, with the same design. This also allows for creating a responsive design where the webpage changes based on the screen size. This is important when designing for PC vs mobile viewing. 
 
+- [CSS Zen Garden](http://www.csszengarden.com/)
+- [CSS Tips and Tricks](https://css-tricks.com/)
+- [w3schools Tutorial about CSS](https://www.w3schools.com/css/)
 
 ## JavaScript
+JavaScript is a commonly used, object-oriented scripting language which allows a user to input complex features onto a webpage. It is written onto an html page and can help your webpage include interactive maps and displays, animated graphics, timely content updates and many more things. Javascript responds and reacts to mouse clicks and keyboard inputs and has access to the Document Object Model, which gives Javascript the capability to read and change text, images and other attributes of a webpage.
+
+Like Java, Javascript also falls from C and C++ and shares some syntax similarities to Java, however, they are two different languages. Javascript allows for immediate feedback for users as a user does not have to refresh to see updates and also allows for increased user interactivity. Some disadvantages of Javascript include not having any multi-threading or multi-processor capabilities. Other disadvantages include client-side Javascript does not allow the reading of files and networking applications cannot use this language.
+
+- [What Javascript does](https://www.techwalla.com/articles/what-does-javascript-do)
+- [What is Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+- [Pros and Cons of Javascript](https://data-flair.training/blogs/advantages-disadvantages-javascript/) 
 
 
 ## Yarn
 
 
 ## NPM
+NPM or Node Package Manager consists of three distinct components. The first is the website, which is used to discover packages, set up profiles, and manage other ascepts of npm. The second is the Command Line Interface or the CLI, which is also called npm, and can be used to download and install software.
 
+Lastly, it is the world's largest software registry. As a software registry, it contains over 800,000 code packages that open-source developers use to share software. It is also a software package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js. 
 
+Additional Information/Resources:
+- [Quick NPM Tutorial]https://www.youtube.com/watch?v=ZNbFagCBlwo
+- [About NPM]https://docs.npmjs.com/about-npm/
+- [What is NPM?]https://www.w3schools.com/whatis/whatis_npm.asp
 ## Package Manager
+A package manager, or package management system(PMS), is a set of software tools that automate the process of installing, upgrading, configuring, and removing computer programs from a computer operating system in a consistent manner. It mainly deals with packages and are often connected to Unix environment like Linux. Some examples of package managers could be Red Hat Package Manager(RPM), Yellowdog Updater(YUP) , and Modified(YUM). 
+
+RPM: Red Hat Package Manager. Red Hat used it and its primary use is to install RPMs, which you have locally, not to search software repositories. The package manager named up2date was created to inform users of updates to packages and enable them to search remote repositories and easily install dependencies. However, some community members felt that up2date has some major drawbacks. 
+
+YUP and YUM: Yellowdog Updater and Yellowdog Updated, Modified. YUP was created by folks at Terra Soft Solutions in 1999-2001, and then Duck University improved upon it by creating YUM which was popular now.    
+
+Here are some resources you can use to learn more about package manager:
+-[What is Package Manager?](https://searchmobilecomputing.techtarget.com/definition/package-manager-or-package-management-system-PMS)
+-[The evolution of package managers](https://opensource.com/article/18/7/evolution-package-managers)
+-[Why should you use Package Manager?](https://blog.idrsolutions.com/2018/07/what-is-a-package-manager-and-why-should-you-use-one/)
 
 
 ## Markdown
@@ -48,13 +75,30 @@ More Information/Practice:
 
 
 ## Git
+Git is a version-control system (VCS) that's used for tracking changes to a source code or to any changes in a set of files during software development. This tool allows for better coordination among programmers, such that projects with various types of source code can be distributed speedily, accurately and consistently. In relation with GitHub, Git serves as the foundation for this service, and Git can even be used without this service. 
 
+While using Git, a user can even use the command line to do various actions. Every Git command starts with the use of the code 'git'. From there, users can clone a project, push a branch, merge a branch and delete a branch. Of course, there are even more commands we can use, and the development of this tool is increasingly strong given the fact that it is open-sourced.
+
+More Details on Git & its commands:
+- [Info. on Git](https://www.atlassian.com/git/tutorials/what-is-git)
+- [Git Commands](https://git-scm.com/docs/git)
+- [Some cool tips & tricks](https://www.pluralsight.com/guides/tips-and-cool-tricks-to-use-in-git)
 
 ## Content Management System
+A Content Management System (CMS) allows for the creation and management of content on website without the need to be a developer. This allows other people in a company such as a marketing team to post content to the website without having to know how to write HTML and without the risk of changing the layout of the site. A CMS also allows permissions to be given so multiple people who need to access the site for different reasons don’t always have access to the same content.
+
+Some of the most used CMS’s are Drupal and WordPress as they have built a reputation for being very reliable and feature rich. Overall a CMS can make running a website a lot simpler than just using HTML and CSS from scratch and it allows for easy editing of content.
+Some helpful links:
+-[What is a CMS](https://www.optimizely.com/optimization-glossary/content-management-system/)
+-[Top 10 CMS'](https://www.impactbnd.com/blog/top-10-cms-platforms-for-digital-marketing) 
+-(CMS Quick Guide Video](https://www.youtube.com/watch?v=-C7lSOVLhQs)
 
 
 ## Drupal CMS
-
+Drupal is a free, open-source content management system (CMS) written in PHP and released under the GNU General Public License. It is free to download and users around the world can monitor underlying code for compliance and security issues, as well as fix them easily and quickly. It's used by millions of people and organizations around the globe to build and maintain their websites, for example: Tesla, The Economist, Harvard, etc.
+- [Introduction to Drupal](https://drupalize.me/guide/introduction-drupal)
+- [Browse Repository](https://git.drupalcode.org/project/drupal)
+- [Who uses Drupal?](https://www.drupal.com/showcases)
 
 ## WordPress CMS
 A Content Management System (CMS) is a type of software that helps users in managing and creating digital content. WordPress is an open-source CMS-based system that allows users to create customized blogs and websites. Being an open-source platform, WordPress has a multitude of developers that constantly update and add new features for free. Sites can be hosted on the WordPress server, or can be downloaded onto personal web hosts. 
@@ -96,12 +140,29 @@ Here are some links to learn more:
 
 
 ## Web Components
+Web components are a set of features that provide a standard component model for the Web allowing encapsulation and interopability of individual HTML elements. This allows for for the expansion of HTML elements essentially. The purpose of this is to create your own elements using a web platform set of API's or Application Programming Interface. This makes it much easier for people to create a website. 
 
+Resources that make it easier to build websites include: 1. HTML imports which makes it easier to import HTML documents into other documents, 2. HTML Templates which allow you to create sections of the DOM(Document Object Model), 3. Shadow DOM which encapsulates Javascript and CSS so it can be separate from the rest of DOM, and 4. Custom Elements which are API's to build your customized HTML elements.
+
+Here are some helpful links:
+- [An Introduction to Web Components](https://www.upwork.com/hiring/development/web-components/)
+- [What are Web Components?](https://www.techopedia.com/definition/24353/web-components)
+- [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 
 ## LitElement
 
 
 ## lit-html
+lit-html is an efficient, expressive, and extensible HTML template library for JavaScript. It provides all the features of JavaScript, a functional programming model, and contains whatever you need. lit-html is highly customizable and extensible, and it is very fast because it has a fast platform feature with local cloning, and lit-html updates only the parts of the template that need to be changed, not the entire view. lit-html is like your own template building kit.
+
+lit-html does not rely on any component model, it only focuses on creating and updating the DOM. lit-html allows you to write HTML templates in JavaScript using template text with embedded JavaScript expressions.
+
+
+
+Here are some resources for you to learn more about lit-html:
+- [Introduction](https://lit-html.polymer-project.org/guide#what-is-lit-html)
+- [Getting Started](https://lit-html.polymer-project.org/guide/getting-started)
+- [Template syntax reference](https://lit-html.polymer-project.org/guide/template-reference)
 
 
 ## HAXcms
@@ -120,7 +181,10 @@ Here are some links to learn more:
 
 
 ## Open Source Software
-
+Open Source Software is a type of computer software in which the source code is released under a license that the copyright holder contains the rights to study, change, and distribute the software openly. The reason that open source code is different that it will not hold the user to signing a licensing agreement. The authors of open source software make the source code availalbe to users that wish to code, copy, learn, alter, or share the original source code. The diverse opinions that open source software can provide has proven to benefit companies. In a 2008 report by the Standish Group, it states that the adoption of open source software models has resulted in the savings of about 60 billion per year for consumers. LibreOffice and the GNU Image Manipulation Program are examples of open source software. 
+- [What is open source?](https://opensource.com/resources/what-open-source)
+- [The WIRED Guide to Open Source Software](https://www.wired.com/story/wired-guide-open-source-software)
+- [How Open Source Software Works](https://www.thebalancecareers.com/what-is-open-source-software-2071941)
 
 ## Apereo Foundation
 
@@ -171,12 +235,17 @@ Click the following links to learn more:
 - [MDN web docs: Express/Node Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
 
 ## Bootstrap (design library)
+Bootstrap is a free open-source CSS framework for developing with HTML, CSS, and JS. This front-end component library allows users to utilize prebuilt components in a responsive mobile-first environment. In other words, mobile-first means it prioritizes mobile users needs before desktop users and adjusts intuitively to different device dimensions. This library contains typography, buttons, navigation, etc. 
 
+Bootstrap is one of the most collaborated repositories on GitHub. It's the sixth highest starred repository with over 138,000 stars. It has excellent documentation which allows developers to explore its latest updates and features. Bootstrap is known for its ease of use while providing great results. Many companies chose to use Bootstrap for their front-end components such as Twitter, Spotify, and Udemy.
+
+Additional Resources:
+- [Bootstrap: Documentation](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+- [Mobile-First: Introduction](https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/)
+- [W3Schools: Bootstrap Tutorial](https://www.w3schools.com/bootstrap4/default.asp)
+- [GitHub: Installation](https://github.com/twbs/bootstrap)
 
 ## Angular
-[Angular](https://angular.io/) is a popular TypeScript framework that is used to create web applications. It started out being used to make single paged applications but after the rapid growth in popularity of other JS frameworks such as React.js, it received many additional features to make it better suited for a variety of different application types. One of the things that Angular users particularly like is that Angular is based in TypeScript. A common criticism of JavaScript is the lack of type restrictions. In JavaScript a variable could be any type and a function could return any type but in TypeScript, these types must be predefined which helps provide clarity and assurance that the return data type of a function will always be the one desired.	
-
-Another thing about angular that makes it appealing is that it is backed by Google which helps developers be more confident that Angular will be maintained for longer and receive more support throughout its lifetime. Angular is also an extremely popular framework and with popularity comes lots of contributions from other developers. Angular has thousands of different components that developers made and share which makes it very easy to get complex web components running on your own page just by bringing in the one the other developer made.	
 
 ### Additional Resources:	
 * [Yalantis](https://yalantis.com/blog/when-to-use-angular/)	
@@ -207,9 +276,22 @@ Read the articles below to learn more:
 
 
 ## Golang
+Go also known as "Golang" is a statically typed, compiled programming language designed at Google. Go is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP style concurrency. There are two major implementations to Golang. Google’s self hosting compiler tool chain targeting multiple operating systems, mobile devices, and web assembly. A third party transpiler, GopherJS, compiles Go to Java Script for front-end web development. 
+
+Go was designed at google in 2007 to improve programming productivity in an era of multicore, networked machines and large codebases.   
+-[Golang.org]( https://golang.org/)
+-[guru99.com](https://www.guru99.com/google-go-tutorial.html)
+-[gobyexample.com]( https://gobyexample.com/)
 
 
 ## SQL
+
+SQL Is known as Structured Query Language. The main purpose of utilizing SQL is the idea of  communicating with a database. SQL is known as the standardized programming language for relational databases. The primary funtions of SQL are selecting, inserting, updating, creating and dropping data within the database set. SQL also functions as a data retrieval tool that can take subsets of data in the database for transactions, processing, analytics and optimizing applications databases.
+
+Read the articles below to learn more: 
+- [Guide to NoSQL databases](https://searchsqlserver.techtarget.com/definition/SQL)
+- [SQL Tutorial](https://www.w3schools.com/sql/)
+- [What is SQL? The first language of data analysis](https://www.infoworld.com/article/3219795/what-is-sql-the-first-language-of-data-analysis.html)
 
 
 ## MySQL
@@ -218,7 +300,7 @@ MySQL is an open source relational database management system (RDBMS) with a cli
 
 Using a desired GUI the server, then, fulfills the request as long as both client-server understand the instruction. In simplified terms, MySQL  creates a database for storing and manipulating data then allows clients to use SQL statements to make requests allowing the server to provide the required information. The simplicity of MySQL makes it easy to use while offering high performance as it is able to tore wide array of data. In addition, MySQL has a high security level making it attractive to larger companies. The final link below gives an idea of some of the companies that use MySQL.
 - [Simple definition](https://www.hostinger.com/tutorials/what-is-mysql)
-- [Popularity](https://www.geekboots.com/story/why-mysql-so-popular-in-web)
+- [Why is it so popular?](https://www.geekboots.com/story/why-mysql-so-popular-in-web)
 - [List of companies](https://www.mysql.com/customers/industry/)
 
 ## WebAssembly
@@ -230,7 +312,13 @@ WebAssembly, or WASM for short. WebAssembly is a small, fast binary format that 
 - [WebAssembly](https://webassembly.org/)
 
 ## Python
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
 
+Python is a rising star in the programming world for two main reasons: the big range of tasks it can handle, combined with the fact that it’s actually a very beginner-friendly language. Python code syntax uses English keywords, and that makes it easy for anyone to understand and get started with the language.
+
+- [Python](https://www.python.org/doc/essays/blurb/)
+- [Python for beginners](https://www.pythonforbeginners.com/learn-python/what-is-python/)
+- [SkillCrush](https://skillcrush.com/2019/06/21/what-is-python/)
 
 ## Docker
 Docker is a basic tool that allows you to control the application’s operating system by using containers. A container isolates or contains the code and operating systems of the applications. They keep everything organized as you can choose how to isolate the different apps. This enables you to run all of the containers on the same host, which makes it easy to run your software no matter where you are. A software called Kubernetes, made by Google, can help you manage all of your containers. Businesses use Docker to reduce inoperability of their systems and make it easier to move to different clouds when working with multiple vendors.
@@ -249,10 +337,17 @@ Virtualbox runs on several operating systems such as Windows, Linux, Macintosh, 
 
 - [VirtualBox](https://www.virtualbox.org/)
 - [ComputerHope](https://www.computerhope.com/jargon/v/virtualbox.htm)
-- [Make Use Of](https://www.makeuseof.com/tag/how-to-use-virtualbox/)
+- [How to use VirtualBox](https://www.makeuseof.com/tag/how-to-use-virtualbox/)
 
 ## Composer
+Composer is a dependency management tool for PHP 5.3 and above. It allows you to declare the code libraries on which your project depends, and it will install them for you in your project. Composer is not a package manager. Yes, it involves "packages" and "libraries", but it is managed on a per-project basis and installed in a directory of your project (such as vendor). It does not install anything globally by default. So this is just a dependency management.
 
+Suppose you are creating a project, you need a library that outputs logs, and you decide to use the monolog library. In order to add the monolog library to your project, just create a composer.json file, the contents of this file describe the project's dependencies. Examples are: {"require": {"monolog / monolog": "1.2. *"}}
+
+Here are three links:
+- [Composer](https://getcomposer.org/)
+- [GitHub](https://github.com/composer/composer)
+- [Wikipedia(https://en.wikipedia.org/wiki/Composer_(software))
 
 ## Kubernetes / K8s
 Kubernetes(K8s) is a container management PaaS(Platform as a Service). K8s uses what's called clusters which are
@@ -285,6 +380,13 @@ Another function of accessibility is the focus on treating people equally. Acces
 - [What is Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
 
 ## Internationalization / i18n
+Internationalization is a design process that allows a product to be very flexible and diverse by designing it so I can be used across multiple countries or designing them so they can be easily modified when they arrive in different places. Internationalization allows for users across the world to be able to use products that are unchanged across countries. 
+
+Making products that can be consumed across various countries require conforming to different countries technical needs. By doing this there will be a large amount of opportunities that will open up. It will allow for some gaps in cultures and countries to bridge. Even though it will be used in many different countries and places the source code will remain the same, which definitely saves a lot of headaches. 
+
+•	Gala
+•	Wikipedia
+•	http://whatis.com/
 
 
 ## User Experience / Usability
@@ -322,9 +424,25 @@ Here are some helpful websites that can provide furthur details and infomation a
 
 ## Apache Web server
 
+Apache is a popular open-source web server, also known as the most popular web server in the modern world. It is run by Apache Software Foundation. The Apache web server basically can let everyone to collaborate and the developers can create their modules to support the function that they want to have and make the core feature much better.  
+
+The job of the Apache web server is allowing clients to ask the requites and the server would accept and respond to it. Moreover, Apache has different kind of modules which can have more function than other web servers. For example, multi-processing modes, SSL, and PHP. Therefore, the main goal of the Apache is to communicate over networks from the client to the server using TCP/IP protocol, such as HTTP/S.
+
+-[What Is Apache Web Server](https://kinsta.com/knowledgebase/what-is-apache/)
+-[sumologic blog post](https://www.sumologic.com/blog/apache-web-server-introduction/)
+-[apache.org](https://httpd.apache.org/)
+
 
 ## Varnish
+Varnish is a web HTTP accelerator that was created for websites that have are very content heavy. A web accelerator is a proxy server that reduces web access times. This means that more people are able to access things on the web at a higher rate and a faster speed. Unlike other web accelerators, Varnish does this by reducing contention between threads to a minimum. Being heavily threaded, Varish can create new threads when prior ones are overworked to continue giving a heavily-accessed content more access without users experiencing interruptions. Varnish is completely linked to HTTP and can only be used on that specific protocol. 5% of the top 10,000 websites use Varnish. Some of those websites are Facebook, Twitter, The New York Times and Wikipedia. 
 
+Varnish was a project that was created by the Norweigan newspaper “Verdens Gang” and was led by architect Poul-Henning Kamp. It began developing under the company of Linpro but quickly grew large enough to turn into its own company, Varnish Software. 
+
+Here are some more sources to help better understand Varnish and how it works.
+
+- [Introduction to Varnish](https://varnish-cache.org/intro/)
+- [What is Varnish Cache?](https://www.youtube.com/watch?v=fGD14ChpcL4)
+- [Varnish Software Delivers Blazing-Fast Web Performance with the Introduction of Varnish Cache 3.0](https://www.businesswire.com/news/home/20110615006326/en/Varnish-Software-Delivers-Blazing-Fast-Web-Performance-Introduction)
 
 ## Traefik (Golang)
 
@@ -333,10 +451,22 @@ Here are some helpful websites that can provide furthur details and infomation a
 
 
 ## Webpack
+It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding loaders are included. Webpack takes modules with dependencies and generates static assets representing those modules. Webpack can take care of bundling alongside a separate task runner. However, the line between bundler and task runner has become blurred thanks to community-developed webpack plugins.
+
+- [SurviveJS Definition](https://survivejs.com/webpack/what-is-webpack/)
+- [Webpack Concepts](https://webpack.js.org/concepts/)
+- [Andrew Ray webpack Blog](https://blog.andrewray.me/webpack-when-to-use-and-why/)
 
 
 ## OpenFaaS
+OpenFaas is designed to assist developers deploy event-driven functions and microservices to Kubernetes, an open source system for automating deployment, scaling, and management of containerized applications. Function as a service is a category of cloud computing services that provides a platform for customers to develop, run, and manage application functionalities. 
 
+Any process can be packaged as a function enabling developers to consume a range of web events without repetitive boiler-plate coding. OpenFaas can be run anywhere using a public or private cloud, build both microservices and functions in any language, and auto-scale for demand or to zero when idle. The main concept of OpenFaas is that anything can be packaged into a serverless function. 
+
+The sites listed below contain more information on OpenFaas:
+- [OpenFaas on Github](https://github.com/openfaas/faas)
+- [OpenFaas Main Site](https://www.openfaas.com)
+- [OpenFaas Article](https://www.contino.io/insights/what-is-openfaas-and-why-is-it-an-alternative-to-aws-lambda-an-interview-with-creator-alex-ellis)
 
 ## PaaS
 
