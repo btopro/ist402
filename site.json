@@ -934,19 +934,18 @@
             "description": "All assignments are setup as labs and you'll be starting into them at the end of class. Once finished with the lab, you'll demonstrate you've done the work by reflecting on it in the form of a written",
             "metadata": {
                 "created": 1566414674,
-                "updated": 1580259494,
+                "updated": 1580279867,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 2,
-                    "paragraphs": 6,
+                    "paragraphs": 8,
                     "schema": [],
                     "tags": {
-                        "grid-plate": 1,
+                        "p": 8,
                         "h3": 2,
-                        "p": 6,
                         "ul": 2
                     },
-                    "elements": 11
+                    "elements": 12
                 },
                 "files": [
                     {
