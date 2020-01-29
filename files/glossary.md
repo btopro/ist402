@@ -315,7 +315,7 @@ Virtualbox runs on several operating systems such as Windows, Linux, Macintosh, 
 
 - [VirtualBox](https://www.virtualbox.org/)
 - [ComputerHope](https://www.computerhope.com/jargon/v/virtualbox.htm)
-- [Make Use Of](https://www.makeuseof.com/tag/how-to-use-virtualbox/)
+- [How to use VirtualBox](https://www.makeuseof.com/tag/how-to-use-virtualbox/)
 
 ## Composer
 
