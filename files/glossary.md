@@ -407,6 +407,14 @@ Here are some helpful websites that can provide furthur details and infomation a
 
 ## Apache Web server
 
+Apache is a popular open-source web server, also known as the most popular web server in the modern world. It is run by Apache Software Foundation. The Apache web server basically can let everyone to collaborate and the developers can create their modules to support the function that they want to have and make the core feature much better.  
+
+The job of the Apache web server is allowing clients to ask the requites and the server would accept and respond to it. Moreover, Apache has different kind of modules which can have more function than other web servers. For example, multi-processing modes, SSL, and PHP. Therefore, the main goal of the Apache is to communicate over networks from the client to the server using TCP/IP protocol, such as HTTP/S.
+
+-[What Is Apache Web Server](https://kinsta.com/knowledgebase/what-is-apache/)
+-[sumologic blog post](https://www.sumologic.com/blog/apache-web-server-introduction/)
+-[apache.org](https://httpd.apache.org/)
+
 
 ## Varnish
 Varnish is a web HTTP accelerator that was created for websites that have are very content heavy. A web accelerator is a proxy server that reduces web access times. This means that more people are able to access things on the web at a higher rate and a faster speed. Unlike other web accelerators, Varnish does this by reducing contention between threads to a minimum. Being heavily threaded, Varish can create new threads when prior ones are overworked to continue giving a heavily-accessed content more access without users experiencing interruptions. Varnish is completely linked to HTTP and can only be used on that specific protocol. 5% of the top 10,000 websites use Varnish. Some of those websites are Facebook, Twitter, The New York Times and Wikipedia. 
