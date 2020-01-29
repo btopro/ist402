@@ -32,4 +32,6 @@
 - [TechMeta402](https://www.youtube.com/channel/UCFZ5YH4iLeDicLEeLuTBgGA?view_as=subscriber)
 - [NanamiTech](https://www.youtube.com/channel/UC8Y_TVczg1k5kfj4SbiMkAw?view_as=subscriber)
 - [KlearlyKyle](https://www.youtube.com/channel/UCnyYfY_9gi7VIqiKLkZvrgA?view_as=subscriber)
+- [PWGTech](https://www.youtube.com/channel/UCPE7pQbVtkFqC70kk5yNbaA?view_as=subscriber)
+- 
 - Add yours above here with a title, link and a new bullet
