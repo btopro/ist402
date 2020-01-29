@@ -414,7 +414,14 @@ It is a module bundler primarily for JavaScript, but it can transform front-end 
 
 
 ## OpenFaaS
+OpenFaas is designed to assist developers deploy event-driven functions and microservices to Kubernetes, an open source system for automating deployment, scaling, and management of containerized applications. Function as a service is a category of cloud computing services that provides a platform for customers to develop, run, and manage application functionalities. 
 
+Any process can be packaged as a function enabling developers to consume a range of web events without repetitive boiler-plate coding. OpenFaas can be run anywhere using a public or private cloud, build both microservices and functions in any language, and auto-scale for demand or to zero when idle. The main concept of OpenFaas is that anything can be packaged into a serverless function. 
+
+The sites listed below contain more information on OpenFaas:
+- [OpenFaas on Github](https://github.com/openfaas/faas)
+- [OpenFaas Main Site](https://www.openfaas.com)
+- [OpenFaas Article](https://www.contino.io/insights/what-is-openfaas-and-why-is-it-an-alternative-to-aws-lambda-an-interview-with-creator-alex-ellis)
 
 ## PaaS
 
