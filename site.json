@@ -947,7 +947,17 @@
                         "ul": 2
                     },
                     "elements": 11
-                }
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/TRY1UF54J-USAQWR4GY-57ce9ad62766-512.jpeg",
+                        "fullUrl": "\/bto108\/sites\/ist402\/files\/TRY1UF54J-USAQWR4GY-57ce9ad62766-512.jpeg",
+                        "url": "files\/TRY1UF54J-USAQWR4GY-57ce9ad62766-512.jpeg",
+                        "type": "image\/jpeg",
+                        "name": "TRY1UF54J-USAQWR4GY-57ce9ad62766-512.jpeg",
+                        "size": 134419
+                    }
+                ]
             }
         },
         {
