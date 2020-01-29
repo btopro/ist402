@@ -31,6 +31,7 @@
 - [JYSmartTech](https://www.youtube.com/channel/UCR5p3Cy0f2d876LF7nFWSUg?view_as=subscriber)
 - [TechMeta402](https://www.youtube.com/channel/UCFZ5YH4iLeDicLEeLuTBgGA?view_as=subscriber)
 - [NanamiTech](https://www.youtube.com/channel/UC8Y_TVczg1k5kfj4SbiMkAw?view_as=subscriber)
+- [TechContigo](https://www.youtube.com/channel/UCAuYXm-vmbrT13N6PuSdBaA?view_as=subscriber)
 - [wzy5092](https://www.youtube.com/channel/UC2XuP6l1gEI_bzEVAirrSaQ/featured)
 - [Dreamscape](https://www.youtube.com/channel/UCHGPlJ46Jvsg13If1vHBSsA?view_as=subscriber)
 - [SimpleTech](https://www.youtube.com/channel/UCkS0lhi6AuAH97li2NmeZGg?view_as=subscriber)
