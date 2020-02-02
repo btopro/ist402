@@ -733,22 +733,22 @@
             "order": "3",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "W4 HTML \/ CSS \/ JS Web basics",
-            "description": "Lab 3For this lab we&#39;re going to be modifying three CodePens. The first one we&#39;ll do together in class for practice and getting a feel for HTML \/ CSS. JavaScript will come up again in the future so w",
+            "description": "For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML \/ CSS. JavaScript will come up again in the future so we'll k",
             "metadata": {
                 "created": 1568062380,
-                "updated": 1579730095,
+                "updated": 1580676778,
                 "readtime": 1,
                 "contentDetails": {
-                    "headings": 3,
+                    "headings": 2,
                     "paragraphs": 6,
                     "schema": [],
                     "tags": {
-                        "h3": 2,
                         "p": 6,
                         "h2": 1,
+                        "h3": 1,
                         "ul": 1
                     },
-                    "elements": 10
+                    "elements": 9
                 },
                 "published": true
             }
