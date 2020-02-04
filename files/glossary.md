@@ -159,7 +159,13 @@ Here are some helpful links:
 - [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 
 ## LitElement
+ The word that I decided to research is LitElement. LitElement is used for making new web components and sharing the UI with your organization. It uses lit HTML which only re-renders the dynamics of a UI and hence the DOM updates are very quick. The good part about lit element is that it works with any standards you desire to implement because it follows the standards of the web components. Lit element will add API for managing the attributes and properties.
 
+https://lit-element.polymer-project.org/
+
+https://medium.com/@cu_tech/what-is-litelement-lithtml-39ec3eae985e
+
+https://www.webcomponents.org/element/@polymer/lit-element
 
 ## lit-html
 lit-html is an efficient, expressive, and extensible HTML template library for JavaScript. It provides all the features of JavaScript, a functional programming model, and contains whatever you need. lit-html is highly customizable and extensible, and it is very fast because it has a fast platform feature with local cloning, and lit-html updates only the parts of the template that need to be changed, not the entire view. lit-html is like your own template building kit.
