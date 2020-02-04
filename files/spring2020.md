@@ -38,4 +38,5 @@
 - [KlearlyKyle](https://www.youtube.com/channel/UCnyYfY_9gi7VIqiKLkZvrgA?view_as=subscriber)
 - [PWGTech](https://www.youtube.com/channel/UCPE7pQbVtkFqC70kk5yNbaA?view_as=subscriber)
 - [ChowTech](https://www.youtube.com/channel/UC0JNiuMMgHMOw63BxqsMEgA?view_as=subscriber)
+- [EmergenTech](https://www.youtube.com/channel/UC3NAfgHYk2qn1Wm4Am_TQgA?view_as=subscriber)
 - Add yours above here with a title, link and a new bullet
