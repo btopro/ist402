@@ -736,19 +736,19 @@
             "description": "For this lab we're going to be modifying three CodePens. The first one we'll do together in class for practice and getting a feel for HTML \/ CSS. JavaScript will come up again in the future so we'll k",
             "metadata": {
                 "created": 1568062380,
-                "updated": 1581009902,
+                "updated": 1581010931,
                 "readtime": 2,
                 "contentDetails": {
-                    "headings": 4,
-                    "paragraphs": 10,
+                    "headings": 5,
+                    "paragraphs": 11,
                     "schema": [],
                     "tags": {
-                        "p": 10,
-                        "h2": 1,
+                        "p": 11,
+                        "h2": 2,
                         "h3": 3,
                         "ul": 3
                     },
-                    "elements": 17
+                    "elements": 19
                 },
                 "published": true
             }
