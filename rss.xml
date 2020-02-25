@@ -536,7 +536,7 @@ What didn't work or what you ran into issues using the platform are critical to 
 <ul><li>Create a Drupal site that accurately represents the data model that we’ve   agreed on in class (on website / slack)</li>
 <li>Model these entities:</li>
 <ul><li>Course</li>
-<li>Faculty</li>
+<li>Instructor</li>
 <li>Room</li>
 </ul>
 <li><span>Create 5 courses on the site</span></li>

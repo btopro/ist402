@@ -536,7 +536,7 @@ What didn't work or what you ran into issues using the platform are critical to 
   <entry>
     <title>W7 Drupal</title>
     <id>/labs/lab-7-drupal</id>
-    <updated>2020-02-25T11:18:15-05:00</updated>
+    <updated>2020-02-25T13:37:00-05:00</updated>
     <published>2019-10-03T20:07:06-04:00</published>
     <summary>Data modelingThis is to be done in class with image posted here for reference but in case you miss the activity that generates it. Take 10 minutes and figure out the fields and relationships of this</summary>
     <link href="/labs/lab-7-drupal"/>
@@ -573,7 +573,7 @@ What didn't work or what you ran into issues using the platform are critical to 
 <ul><li>Create a Drupal site that accurately represents the data model that we’ve   agreed on in class (on website / slack)</li>
 <li>Model these entities:</li>
 <ul><li>Course</li>
-<li>Faculty</li>
+<li>Instructor</li>
 <li>Room</li>
 </ul>
 <li><span>Create 5 courses on the site</span></li>
