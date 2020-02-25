@@ -536,14 +536,16 @@ What didn't work or what you ran into issues using the platform are critical to 
   <entry>
     <title>W7 Drupal</title>
     <id>/labs/lab-7-drupal</id>
-    <updated>2020-02-25T13:37:00-05:00</updated>
+    <updated>2020-02-25T13:43:54-05:00</updated>
     <published>2019-10-03T20:07:06-04:00</published>
-    <summary>Data modelingThis is to be done in class with image posted here for reference but in case you miss the activity that generates it. Take 10 minutes and figure out the fields and relationships of this</summary>
+    <summary>Data modelingClick here to download the fileThis is to be done in class with image posted here for reference but in case you miss the activity that generates it. Take 10 minutes and figure out the</summary>
     <link href="/labs/lab-7-drupal"/>
     
     <content type="html">
       <![CDATA[ <h3 id="header-2330a5dc-8f60-db5f-fc74-669c80b47f5e">Data modeling</h3>
-<p>This is to be done in class with image posted here for reference but in case you miss the activity that generates it. <span>Take 10 minutes and figure out the fields and relationships of this data:</span></p>
+<p><a href="files/Drupal2020.jpg">Click here to download the file</a>
+</p>
+<img src="files/Drupal2020.jpg" alt="Data model we built in class, Spring 2020." style="width: 85%;"/><p>This is to be done in class with image posted here for reference but in case you miss the activity that generates it. <span>Take 10 minutes and figure out the fields and relationships of this data:</span></p>
 <ul><li><b>Courses</b>
 </li>
 <ul><li>{come up with the relationships}</li>
@@ -580,7 +582,8 @@ What didn't work or what you ran into issues using the platform are critical to 
 <ul><li><span>either your own or make them up whatever</span></li>
 </ul>
 <li><span>Create rooms and faculty and associate them with these courses so all courses have faculty and a room</span><br/></li>
-<li>Create a View that shows the list of courses</li>
+<li>Create a <b>View</b>
+ that shows the list of courses</li>
 <ul><li>Title this schedule</li>
 <li>Make sure it shows up in the menu bar</li>
 <li>Make it display as a table</li>
@@ -591,8 +594,8 @@ What didn't work or what you ran into issues using the platform are critical to 
 <ul><li><span>Title this Our Faculty</span></li>
 <li><span>Make sure it shows up in the menu bar</span></li>
 <li><span>Make it display as a grid / list</span></li>
-<li><span>Add fields for photo, name</span></li>
-<li><span>Use a “Relationship” in the view in order to show the courses that faculty members are teaching and make this the focus of your video</span></li>
+<li><span>Add a field for photo to the instructor type</span></li>
+<li><span>Use a “Relationship” in the view in order to show the courses faculty members are teaching as well as their name and photo</span></li>
 </ul>
 </ul>
 <h2 id="header-bdf83f14-e317-db5e-245f-1b01d61cab97">Submitting the Lab</h2>
@@ -602,10 +605,14 @@ What didn't work or what you ran into issues using the platform are critical to 
 <li>Links to 3 resources backing this claim</li>
 <li>A link to your YouTube video</li>
 </ul>
-<li><span>Record the video explaining Drupal’s use-case / context and   then show one of the following techniques (or both if u like)</span><br/></li>
-<ul><li><span> How to create a content type and add fields<br/><br/><b>OR</b>
-</span></li>
-<li><span>How to create views, adding filters and sorting to the view</span></li>
+<li><span>Record the video demonstrating the following techniques (or both if you like)</span><br/></li>
+<ul><li> How to create a <b>Content Type</b>
+ and <b>Add Fields</b>
+ then <b>Create Content</b>
+ of that type and connect the concepts for viewers of your video<br/><br/><b>OR</b>
+</li>
+<li>How to create views, adding filters and sorting to the view then showing the view in use with data present in the site and explain what the <b>View</b>
+ is doing that makes it so impressive</li>
 </ul>
 <li><span>Post your link to your site in: <b>#lab7-drupal</b>
 </span></li>
@@ -613,9 +620,10 @@ What didn't work or what you ran into issues using the platform are critical to 
 <h2 id="header-4c56d837-b810-e096-c2c3-b1990cb7a96d">Grading the deliverable</h2>
 <ul><li>Did you create a Drupal site in Reclaim and post your link to the channel (1pts)</li>
 <li>Did you create content types that match our data model? (3pts)</li>
-<li>Did you create the 2 views that match the requested data to display? (3pts)</li>
+<li>Did you create the <b>View</b>
+ that matches the requested data to display? (3pts)</li>
 <li>Did you record a video that demonstrates site building technique (3pts)</li>
-<li>BONUS 2PTS: Use a “Relationship” in the view in order to show the courses that faculty members are teaching and make it part of your video</li>
+<li>BONUS 2PTS: Did you build the more complex view to sort faculty members with (trolly or real) photos included</li>
 </ul>
 <p><b>10 points total with 2 possible bonus points</b>
 </p>
