@@ -1064,6 +1064,14 @@
                         "type": "image\/jpeg",
                         "name": "Untitled Diagram (1).jpg",
                         "size": 32628
+                    },
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/Drupal2020.jpg",
+                        "fullUrl": "\/bto108\/sites\/ist402\/files\/Drupal2020.jpg",
+                        "url": "files\/Drupal2020.jpg",
+                        "type": "image\/jpeg",
+                        "name": "Drupal2020.jpg",
+                        "size": 82199
                     }
                 ],
                 "published": true
