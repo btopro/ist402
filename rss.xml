@@ -506,7 +506,7 @@ What didn't work or what you ran into issues using the platform are critical to 
       <link>/labs/lab-7-drupal</link>
       <description>
           <![CDATA[ <h3 id="header-2330a5dc-8f60-db5f-fc74-669c80b47f5e">Data modeling</h3>
-<p><a href="https://iam.hax.psu.edu/bto108/sites/ist402/files/Drupal2020.jpg">Click here to download the file</a>
+<p><a target="_blank" href="https://iam.hax.psu.edu/bto108/sites/ist402/files/Drupal2020.jpg">Click here to download the file</a>
 </p>
 <img src="files/Drupal2020.jpg" alt="Data model we built in class, Spring 2020." style="width: 85%;"/><p>This is to be done in class with image posted here for reference but in case you miss the activity that generates it. <span>Take 10 minutes and figure out the fields and relationships of this data:</span></p>
 <ul><li><b>Courses</b>
