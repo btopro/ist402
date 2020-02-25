@@ -1042,20 +1042,19 @@
             "description": "Data modelingThis is to be done in class with image posted here for reference but in case you miss the activity that generates it.\u00a0Take 10-15 minutes and figure out the fields and relationships of t",
             "metadata": {
                 "created": 1570147626,
-                "updated": 1579730095,
+                "updated": 1582647486,
                 "readtime": 3,
                 "contentDetails": {
                     "headings": 5,
-                    "paragraphs": 3,
+                    "paragraphs": 2,
                     "schema": [],
                     "tags": {
                         "h3": 1,
-                        "p": 3,
-                        "img": 1,
+                        "p": 2,
                         "ul": 5,
                         "h2": 4
                     },
-                    "elements": 14
+                    "elements": 12
                 },
                 "files": [
                     {
