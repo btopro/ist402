@@ -1,7 +1,7 @@
 <p>Drupal was both challenging and many wanted to learn more. As it's a much more complex system then the other CMSs we're covering, we're going to dedicate an additional class period JUST to doing more with Drupal.</p>
 <p>For this lab we're going for technique and comprehension of what's happening with Drupal and in a use-case that's treating our website like an API.</p>
 <p>We're going to build on the last lab where we started making a course schedule. Let's imagine that we're building a course scheduling system that is actually usable by humans (stretching your imagination, I know but stick with me, it's possible).</p>
-<h2>Lab Context <span>(purely hypothetical, NEVER happened before)</span></h2>
+<h2 id="header-2e167e6c-ac9b-0050-aa97-b32395bcadec">Lab Context <span>(purely hypothetical, NEVER happened before)</span></h2>
 <p>In an alternative universe, you are the <b>site builder</b>
  that convinced the team <b>they COULD do</b>
  projects with Drupal. Even though you work for a marketing firm, your CEO enjoys money and hears higher education clients have a lot of it. Now that they <b><i>know</i>
@@ -13,12 +13,10 @@ correctly of the organization and has poor permission support within those roles
 <p>They are looking for a solution that is cost effective given the multiple-millions of dollars spent on "PionLath" and the relative dislike of it by uhh... everyone. (again, totally hypothetical, this really isn't a problem that's ever happened at a <b>large land grant institution</b>
 )</p>
 <p>You easily win the bid because you've got a fantastic proposal writer, a cool sounding company and use words in marketing like "leader" and "synergy" and now you're ready to dig your claws into..err... help empower this large land grant institution.</p>
-<h2>Synergistically doing more Leader'ing with Drupal</h2>
+<h2 id="header-0317d0fb-0f0b-098c-8ef3-0498019da4bd">Synergistically doing more Leader'ing with Drupal</h2>
 <p>Here's what we need to do this week and will walk through together in class. We need to:</p>
 <ul><li>Create roles for Instructor, Parent, Student, Administrator</li>
 <li>Change permissions for Instructors to be able to create new courses</li>
-<li>Create an entity reference field between the course and the room and the instructor correctly</li>
-<li>Fix any relationship data between courses, rooms and instructors now that we have a "reference" field that can help us relate the data together!</li>
 <li>Add an image field to our <b>course</b>
  to better market it</li>
 <li>Enable these modules: Update Manager, HTTP Basic Authentication, JSON:API, RESTful Web Services, Serialization</li>
@@ -33,7 +31,7 @@ correctly of the organization and has poor permission support within those roles
 </li>
 </ul>
 <p><span>Your site will now work with Web services! Now let's dig in and test the info some:</span><br/></p>
-<h2><span>Get the tools to start digging into this and implementing the API</span></h2>
+<h2 id="header-c9950566-7e3d-f9cd-bce9-8e2271072038"><span>Get the tools to start digging into this and implementing the API</span></h2>
 <p><span><a href="https://www.getpostman.com/">https://www.getpostman.com</a>
  - Really clean API viewer and manipulation tool</span></p>
 <p><span><a href="https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa">https://chrome.google.com/webstore/detail/json-formatter/</a>
@@ -41,19 +39,19 @@ correctly of the organization and has poor permission support within those roles
  - </span><span>JSON Formatter chrome plugin</span><br/></p>
 <p><span><a href="https://codepen.io/btopro/pen/eYYvbZm?editors=1000">https://codepen.io/btopro/pen/eYYvbZm?editors=1000</a>
  - Fork this pen and we'll check it out in class<br/></span></p>
-<h2><font face="Space Mono">Site deliverable</font>
+<h2 id="header-3b19889a-47cc-fb7c-fcf2-e7fc9a885207"><font face="Space Mono">Site deliverable</font>
 </h2>
 <p><font face="Space Mono">No writing this week, only technique.</font>
 </p>
 <p><font face="Space Mono">Add the roles in question above and enable the correct modules so that if I go to YOURSITENAME.COM/DRUPALWHATEVER/jsonapi that it shows me the correct output.</font>
 </p>
-<h2><span><span>Video based deliverable (one of these or a related method)</span></span></h2>
+<h2 id="header-80bc4adf-8478-c304-596d-30a4ce37510a"><span><span>Video based deliverable (one of these or a related method)</span></span></h2>
 <p><span><span>Do a video explaining how this little API example is working by interacting with it in the video and explaining how the code pen and the website are communicating either using Postman to visualize or the data in the pen itself. Change the data / add records in the Drupal site in order to demonstrate that when you reload the pen they show up.</span></span></p>
 <p><span><span>Do a video explaining the value of "headless" and API driven example using this and any articles you find as examples. Why are API driven applications better than monolithic designed systems?
 </span></span></p>
 <p><font face="Space Mono">Do a video about CORS and the security implications of headless based development methods. What is CORS? Why is it important? When does it get triggered?</font>
 </p>
-<h2><font face="Space Mono">Method of delivery</font>
+<h2 id="header-1449ba7d-347a-c3fc-9f26-96e443520c43"><font face="Space Mono">Method of delivery</font>
 </h2>
 <p><font face="Space Mono">Post in the #lab9-drupal-again channel with a link to your site for me to test. On the homepage of your site include a link / embed your video about the topic of the week</font>
 </p>
