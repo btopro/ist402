@@ -1116,18 +1116,20 @@
             "description": "Drupal was both challenging and many wanted to learn more. As it's a much more complex system then the other CMSs we're covering, we're going to dedicate an additional class period JUST to doing more ",
             "metadata": {
                 "created": 1571855885,
-                "updated": 1583253522,
+                "updated": 1583254439,
                 "readtime": 4,
                 "contentDetails": {
-                    "headings": 6,
+                    "headings": 10,
                     "paragraphs": 18,
                     "schema": [],
                     "tags": {
                         "p": 18,
                         "h2": 6,
-                        "ul": 1
+                        "ul": 1,
+                        "h4": 3,
+                        "h5": 1
                     },
-                    "elements": 25
+                    "elements": 29
                 },
                 "published": true
             }
