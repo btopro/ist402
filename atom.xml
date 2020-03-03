@@ -367,7 +367,7 @@ to understand issues and see what real reports look and feel like</p>
   <entry>
     <title>W8 Drupal again</title>
     <id>/labs/lab-9-drupal-again</id>
-    <updated>2020-03-03T11:34:30-05:00</updated>
+    <updated>2020-03-03T11:38:42-05:00</updated>
     <published>2019-10-23T14:38:05-04:00</published>
     <summary>Drupal was both challenging and many wanted to learn more. As it's a much more complex system then the other CMSs we're covering, we're going to dedicate an additional class period JUST to doing more </summary>
     <link href="/labs/lab-9-drupal-again"/>
@@ -395,7 +395,7 @@ correctly of the organization and has poor permission support within those roles
 <li>Add an image field to our <b>course</b>
  to better market it</li>
 <li>Enable these modules: Update Manager, HTTP Basic Authentication, JSON:API, RESTful Web Services, Serialization</li>
-<li>Click "Install new Module" or go to the path <b>admin/modules/install</b>
+<li>Go to Reports ->Available Updates (admin/reports/updates) and hit<b> + Install new module or theme</b>
 </li>
 <li>Install the <a href="https://www.drupal.org/project/cors">CORS module for Drupal</a>
  - by copy and pasting this https://ftp.drupal.org/files/projects/cors-8.x-1.0.tar.gz</li>
