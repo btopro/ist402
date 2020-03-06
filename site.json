@@ -1,6 +1,6 @@
 {
     "id": "0e28ad66-e00f-4033-ae3e-4692f6f5a73e",
-    "title": "ist402",
+    "title": "IST 402",
     "author": "",
     "description": "Web Technologies and Activism",
     "license": "by-sa",
@@ -14,7 +14,7 @@
         "site": {
             "name": "ist402",
             "created": 1565898366,
-            "updated": 1579730096,
+            "updated": 1583528793,
             "git": {
                 "autoPush": false,
                 "branch": "master",
@@ -23,7 +23,7 @@
                 "publicRepoUrl": "https:\/\/github.com\/btopro\/ist402\/blob\/master\/",
                 "url": "git@github.com:btopro\/ist402.git"
             },
-            "version": "0.12.3",
+            "version": "1.1.1",
             "domain": "",
             "logo": "files\/IMG_20190823_102434 2.jpg",
             "static": {
