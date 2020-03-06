@@ -1,6 +1,6 @@
 {
   "name": "ist402",
-  "version": "0.12.3",
+  "version": "1.1.1",
   "description": "Web Technologies and Activism",
   "main": "index.html",
   "repository": {
@@ -123,7 +123,8 @@
     "@prettier/plugin-php": "^0.11.0",
     "prettier": "^1.16.4",
     "gulp": "^4.0.2",
-    "gulp-terser": "^1.2.0"
+    "gulp-terser": "^1.2.0",
+    "rollup-plugin-terser": "5.2.0"
   },
   "scripts": {
     "lint": "prettier --check 'system/**/*.php' '*.{html,js,php,yml}'",

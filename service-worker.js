@@ -40,15 +40,19 @@
 var precacheConfig = [
     [
         "pages\/welcome\/index.html",
-        "P5DOkEss3bofDpVpIdzAFg"
+        "UfMo2zh5JKOoUVo7OGrLYw"
     ],
     [
         "pages\/welcome\/welcome\/about-the-instructor\/index.html",
-        "zMNdTPJZx6tW26D5uqpErQ"
+        "j40WSpbCtJxlmtYB4lU4eA"
     ],
     [
         "pages\/labs\/building-your-digital-identity\/index.html",
-        "qzOPMvWg1pzZbdfcTQS3Aw"
+        "xRgqsrUg961a5xJxe36iJQ"
+    ],
+    [
+        "pages\/labs\/lab-11-accessibility\/index.html",
+        "RUQYU4YtOK4b0OIu6ZP28Q"
     ],
     [
         "pages\/labs\/lab-6-wordpress\/scenario-1\/index.html",
@@ -60,71 +64,79 @@ var precacheConfig = [
     ],
     [
         "pages\/resources\/screencasting\/index.html",
-        "B0z49v8pyfKVkjy3gUaGdA"
+        "PnI1wcBC1tkSiiQI91wOJA"
+    ],
+    [
+        "pages\/resources\/past-student-work\/index.html",
+        "TdlNqCvduxajp1afRaI6PQ"
+    ],
+    [
+        "pages\/topics\/git\/index.html",
+        "4dPA5Mkn7qVU1eaF0pnA"
+    ],
+    [
+        "pages\/syllabus\/index.html",
+        "HcBvwTTPTo6hXVcH50Qrg"
     ],
     [
         "pages\/labs\/lab-6-wordpress\/scenario-2\/index.html",
         "xJnbxu0fn0N0aDiHsaqA"
     ],
     [
-        "pages\/syllabus\/index.html",
-        "Ww76FygK9cLNzGyYWM8Lvg"
-    ],
-    [
         "pages\/labs\/git\/index.html",
-        "WCBdWn38JJ2kSfajdjTwg"
-    ],
-    [
-        "pages\/topics\/git\/index.html",
-        "FbC4YGenH2Y8f0F6nqsw"
-    ],
-    [
-        "pages\/resources\/past-student-work\/index.html",
-        "KBXJBAlZdWw2BbMAksiguQ"
-    ],
-    [
-        "pages\/question-driven-teaching\/index.html",
-        "8LGj6KFqiZqmP5gN4yAipA"
+        "jnUOofP2TSOhgxQ7X8mgyQ"
     ],
     [
         "pages\/materials\/index.html",
         "mdQtLka1tcOrr7tRU0OA0w"
     ],
     [
-        "pages\/labs\/html-css-js-web-basics\/index.html",
-        "TgDJfsyn4vJ02clI8j2sZg"
-    ],
-    [
-        "pages\/topics\/html-css-js-web-basics\/index.html",
-        "Salui53dXin5EmSnOGBYw"
-    ],
-    [
         "pages\/labs\/lab-6-wordpress\/submitting-the-lab\/index.html",
         "gRT6cagqucIOh9mt8DihGQ"
     ],
     [
-        "pages\/topics\/webcomponents\/index.html",
-        "U0E4Fog6fN9iJdkZc4oUw"
+        "pages\/topics\/oerschema-1\/index.html",
+        "Z5N1p9bLlJ5kdUYNoIthVQ"
+    ],
+    [
+        "pages\/labs\/improving-your-digital-identity\/index.html",
+        "4aPVeIPxmDP3IXishlT0A"
+    ],
+    [
+        "pages\/resources\/links-to-learn-more\/index.html",
+        "e9tw6CTKDKHpWtUAiAEXSA"
     ],
     [
         "pages\/goals-for-you-\/index.html",
         "J3jy0pfTCivBKrHulpBPQ"
     ],
     [
-        "pages\/labs\/webcomponents-1\/index.html",
-        "v4nLd1Bxxwyby1sGNEuwg"
+        "pages\/resources\/glossary\/index.html",
+        "sISA924D2VKLAKOvB9I2g"
     ],
     [
-        "pages\/topics\/gravcms\/index.html",
-        "Lz897JCc3vYkuVtO3Ibg"
+        "pages\/labs\/html-css-js-web-basics\/index.html",
+        "VtgwXVCJT5yNpN6PNa6RSA"
+    ],
+    [
+        "pages\/topics\/html-css-js-web-basics\/index.html",
+        "AuNYze2ZDbx0qbEV4Y0RDA"
     ],
     [
         "pages\/class-time-together\/index.html",
-        "2UsfxtmRfE4cCEGSUqDVBw"
+        "IfETYMcRQjCB7DkiHZ1aQ"
+    ],
+    [
+        "pages\/question-driven-teaching\/index.html",
+        "8LGj6KFqiZqmP5gN4yAipA"
     ],
     [
         "pages\/labs\/lab-5-gravcms\/index.html",
         "5l5zwNzeWbiSe8L4owiEhA"
+    ],
+    [
+        "pages\/topics\/gravcms\/index.html",
+        "Lz897JCc3vYkuVtO3Ibg"
     ],
     [
         "pages\/topics\/wordpress\/index.html",
@@ -132,75 +144,83 @@ var precacheConfig = [
     ],
     [
         "pages\/after-class-reflection\/index.html",
-        "0RvKyGOldNovCbyaKclEw"
+        "TZNUBvN92tTEbSOlbTKCeg"
     ],
     [
         "pages\/labs\/lab-6-wordpress\/index.html",
         "5ZhQXqDoAuyEvEjegxw3tQ"
     ],
     [
-        "pages\/technologies-we-explore\/index.html",
-        "cmqfd8jaG10H8thH9CaQ"
-    ],
-    [
         "pages\/topics\/drupal\/index.html",
         "qmHrkKcetLcA4XYxBL2BvQ"
     ],
     [
-        "pages\/labs\/lab-7-drupal\/index.html",
-        "FkYeN1cXk4fdSB1dnzZg"
+        "pages\/technologies-we-explore\/index.html",
+        "cmqfd8jaG10H8thH9CaQ"
     ],
     [
-        "pages\/labs\/lab-8-midterm-no-lab\/index.html",
-        "mW0w2IHwXF4OXzA4nliIA"
+        "pages\/labs\/lab-7-drupal\/index.html",
+        "aNehAYvrtHGVtIGptHOew"
     ],
     [
         "pages\/topics\/haxtheweb\/index.html",
         "QlX5KYwS0nM8qeNrt8IEg"
     ],
     [
+        "pages\/labs\/lab-9-drupal-again\/index.html",
+        "5twsec2wsoYIm2AKjZHf6A"
+    ],
+    [
         "pages\/topics\/index.html",
-        "NcR8bYpDWppcnRSqrZ46cg"
-    ],
-    [
-        "pages\/topics\/accessibility-1\/index.html",
-        "TW2SscAdklrJztKZLUG5Zg"
-    ],
-    [
-        "pages\/topics\/accessible-design\/index.html",
-        "8tPoaqm4VRhoSfWfGhnJXA"
+        "y6hlenBzkWd3HyPnYxhYVw"
     ],
     [
         "pages\/topics\/container\/index.html",
         "eRLBfPNoZi7sg4i4bknWg"
     ],
     [
-        "pages\/labs\/index.html",
-        "aQKNQ6jZVg7OBSvi4xbeRw"
+        "pages\/topics\/webcomponents\/index.html",
+        "U0E4Fog6fN9iJdkZc4oUw"
     ],
     [
-        "pages\/labs\/lab-9-drupal-again\/index.html",
-        "qB96nXVFwSPQy1GbdDh7g"
+        "pages\/topics\/accessible-design\/index.html",
+        "8tPoaqm4VRhoSfWfGhnJXA"
+    ],
+    [
+        "pages\/topics\/accessibility-1\/index.html",
+        "TW2SscAdklrJztKZLUG5Zg"
+    ],
+    [
+        "pages\/labs\/w9-spring-break\/index.html",
+        "5S70V3ralDAMyxieyuEW0Q"
+    ],
+    [
+        "pages\/labs\/index.html",
+        "aQKNQ6jZVg7OBSvi4xbeRw"
     ],
     [
         "pages\/labs\/labs\/lab-10-haxtheweb\/index.html",
         "kkLpHqHJrDGbhND0HHEWQ"
     ],
     [
-        "pages\/labs\/lab-11-accessibility\/index.html",
-        "RUQYU4YtOK4b0OIu6ZP28Q"
+        "pages\/labs\/lab-13-docker\/index.html",
+        "bOo16oV73il4XivvjV4Uw"
+    ],
+    [
+        "pages\/labs\/webcomponents-1\/index.html",
+        "v4nLd1Bxxwyby1sGNEuwg"
     ],
     [
         "pages\/labs\/lab-12-accessible-design\/index.html",
         "ancBDkKt3cj1hnPCnts4Vw"
     ],
     [
-        "pages\/labs\/lab-13-docker\/index.html",
-        "bOo16oV73il4XivvjV4Uw"
+        "pages\/labs\/lab-8-midterm-no-lab\/index.html",
+        "v5TYWguyOIyQrNr9dbtQ"
     ],
     [
         "pages\/feedback\/index.html",
-        "Etb9SwooxMNhJ8CoQ2moQ"
+        "FSkTDVcHau3hbvbJ7R8BPQ"
     ],
     [
         "pages\/mid-term-review\/index.html",
@@ -216,7 +236,7 @@ var precacheConfig = [
     ],
     [
         "index.html",
-        "TIPfmGXbXA9aLrH48CD3sA"
+        "WGa3vji4VdX4pB29a5rsbQ"
     ],
     [
         "files\/haxcms-managed\/512x512-IMG_20190823_102434 2.jpg",
@@ -268,7 +288,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "0aGfyE4k3zGnaQRRT4cS0A"
+        "l1bwWGQgDDkT1r6a0K1iw"
     ],
     [
         "404.html",
@@ -287,12 +307,40 @@ var precacheConfig = [
         "5SzrIYI0JNkQyqvRpmoQ"
     ],
     [
+        "files\/markdown-cheatsheet.pdf",
+        "tWwmUTHXSGTSt90by9Sfw"
+    ],
+    [
+        "files\/git-cheat-sheet-education.pdf",
+        "Rn1qTcrcPhqWH4p6BoZaJQ"
+    ],
+    [
+        "files\/TRY1UF54J-USAQWR4GY-57ce9ad62766-512.jpeg",
+        "ik0zhwR6GwRBZSleT0ctQA"
+    ],
+    [
+        "files\/Screenshot from 2020-01-22 17-07-35.png",
+        "MNmluPPrbR9XQaU78soog"
+    ],
+    [
         "files\/headshot63573.249999994005.jpg",
         "PFCaIImGUxgZQdbPRnc1fg"
     ],
     [
+        "files\/github-flow-cheatsheet.pdf",
+        "IQky5nv52blp5v69f6Tw"
+    ],
+    [
         "files\/RH-VHS-Logo-Blue-with-Orange-620x394-nqnrgrvruqaafj3kts3ak8jyhc9fgbvks86drh3eek-1.png",
         "RkM8wN4a4REWkKRJ0UZQ"
+    ],
+    [
+        "files\/spring2020.md",
+        "FjAOSGCJErT5wPOdACWcRA"
+    ],
+    [
+        "files\/IST402 SP2020 - Ollendyke.pdf",
+        "rorcFAwJBlE1DiVQ0SOYg"
     ],
     [
         "files\/headshot.jpg",
@@ -301,6 +349,10 @@ var precacheConfig = [
     [
         "files\/IMG_20190823_102434 2.jpg",
         "78cjrqsJ4FniDgCxzAsQ"
+    ],
+    [
+        "files\/Drupal2020.jpg",
+        "TgUHYvKFJ9kjSB04EtxTeg"
     ],
     [
         "files\/courselinks.csv",
@@ -315,8 +367,20 @@ var precacheConfig = [
         "eqPGwJMfeGB6hRdL5hIAoQ"
     ],
     [
+        "files\/collins-mug.jpg",
+        "QskczReyQWdSAyFcbb5xBA"
+    ],
+    [
         "files\/IMG_20190307_142259.jpg",
         "8OkItQreBhhbFEFKJJf2A"
+    ],
+    [
+        "files\/collins-image-3_1_1.png",
+        "zjsM83RWBc0NEHQtYGIbw"
+    ],
+    [
+        "files\/glossary.md",
+        "2CJHDAtcnuiBdaqht9Npog"
     ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
