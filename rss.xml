@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>ist402</title>
+    <title>IST 402</title>
     <link>/rss.xml</link>
     <description>Web Technologies and Activism</description>
     <copyright>Copyright (C) 2020 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jan 2020 16:54:56 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2020 16:06:33 -0500</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>OERSchema</title>
@@ -428,61 +428,70 @@ correctly of the organization and has poor permission support within those roles
       <title>W10 HAXTheWeb</title>
       <link>/labs/labs/lab-10-haxtheweb</link>
       <description>
-          <![CDATA[ <p>We'll cover user experience and generating ways of improving the platform by creating issues about any confusion you've run into when using the platform. Open critique is the best way to improve.</p>
-<p>In class portion to be done using <a href="https://hax.psu.edu/login">https://hax.psu.edu/login</a>
+          <![CDATA[ <p style="width: 100%;">We'll cover user experience and generating ways of improving the platform by creating issues about any confusion you've run into when using the platform. <i>Open critique is the best way to improve! </i>
+This is also practicing a technique called User Story Elicitation / Generation, common in the testing and development of any product.</p>
+<p style="width: 100%;">In class portion to be done using <a href="https://hax.psu.edu/login">https://hax.psu.edu/login</a>
 </p>
-<p><a href="https://github.com/elmsln/HAXcms/issues/457">User 1 directions</a>
+<p><a href="https://github.com/elmsln/HAXcms/issues/563" style="width: 100%;">User 1 directions</a>
 </p>
-<p><a href="https://github.com/elmsln/HAXcms/issues/458">User 2 directions</a>
+<p><a href="https://github.com/elmsln/HAXcms/issues/562" style="width: 100%;">User 2 directions</a>
 </p>
-<h2>Lab scenario driven submissions and videos</h2>
-<meme-maker alt="high school GIF" image-url="https://media2.giphy.com/media/8RczH5vL2k7Ju/giphy.gif" top-text="LETS ALL GO TO HAXCMS" imageurl="https://media2.giphy.com/media/8RczH5vL2k7Ju/giphy.gif" toptext="high school GIF" style="width: 50%; margin: 0px auto; display: block;"></meme-maker>
-<p><i>You may complete this either using <a href="https://hax.psu.edu/login">hax.psu.edu</a>
- or Reclaim Hosting. Both work.</i>
+<h2 id="header-7fb0780a-e5e8-fe08-1392-de5c5b807ff9">Lab scenario driven submissions and videos</h2>
+<meme-maker alt="high school GIF" image-url="https://media2.giphy.com/media/8RczH5vL2k7Ju/giphy.gif" top-text="LETS ALL GO TO HAXCMS" imageurl="https://media2.giphy.com/media/8RczH5vL2k7Ju/giphy.gif" toptext="high school GIF" style="width: 50%; margin: 0px auto; display: block;">
+    <div>LETS ALL GO TO HAXCMS</div>
+      <img src="https://media2.giphy.com/media/8RczH5vL2k7Ju/giphy.gif" alt="high school GIF" preload="lazy"/>
+    </meme-maker>
+<p style="width: 100%;"><i>You may complete this using <a href="https://hax.psu.edu/login" style="width: 100%;">hax.psu.edu</a>
+. Reclaim hosting is running several versions behind on HAXcms at the moment.</i>
 </p>
-<p>HAXcms is a highly flexible, organic static site solution. Because this is a new breed of authoring experience, it needs explaining and people to utilize the tool in different contexts to fully realize it's potential.</p>
-<p>As HAX and HAXcms are being developed by the university to improve time on task, increase creativity in course design and help students present themselves online, you can complete this through any of the following scenarios.</p>
-<p></p>
-<h2><b>Scenario: "Online course"</b>
+<p style="width: 100%;"><b>HAXcms</b>
+ is a highly flexible, organic static site solution. Because this is a new breed of authoring experience, it needs explaining and people to utilize the tool in different contexts to fully realize it's potential.</p>
+<p style="width: 100%;">As HAX and HAXcms are being developed by the university to improve time on task, increase creativity in course design and help students present themselves online, you can complete this through any of the following scenarios.</p>
+<h2 id="header-2e18814f-97fb-48a9-c6f9-f7c36303cfe0"><b>Scenario: "Online course"</b>
 </h2>
-<p>Instructors don't want to learn new technologies that might get in the way of teaching. They want platforms that are simple to use, recognizable, and that will last. They've seen the ages of LMSs and having to port content to and from wordpress / other CMS solutions in the past. As a result, they need reassurance that HAXcms is easy to use and that it'll be an engaging way for them to teach.</p>
+<p style="width: 100%;">Instructors don't want to learn new technologies that might get in the way of teaching. They want platforms that are simple to use, recognizable, and that will last. They've seen the ages of LMSs and having to port content to and from WordPress / other CMS solutions in the past. As a result, they need reassurance that HAXcms is easy to use and that it'll be an engaging way for them to teach.</p>
 <p>For the purposes of this assignment, we'll take "engaging" to mean funny. So make sure there's lots of memes and fun things in what you're about to develop here. There are a few themes that make sense for presenting an online course but your welcome to use which ever theme you'd like.</p>
-<p>Create a short ~ <b>10-20 page online course</b>
+<p style="width: 100%;">Create a short ~ <b>10-20 page online course</b>
  about anything you want to teach a friend or family member about. It could be one of the topics from our course or something that you know more about than anyone else.</p>
-<h3>Possible topics:</h3>
-<ul><li>One of the CMSs we've covered</li>
-<li>The history of the game of hockey</li>
-<li>Big 10 university mascots</li>
+<h3 id="header-ca04d9de-c518-3c98-ea0b-8b840b2d9439">Possible topics:</h3>
+<ul style="width: 100%;"><li>Entirely fact driven information / research assembled about COVID19</li>
+<li>One of the CMSs we've covered (or 10 different ones as an overview of each)</li>
 <li>Top 10 interesting technologies to you</li>
-<li>Literally anything. Just fill the content with memes, videos, wikipedia articles, anything that makes it more engaging</li>
-<li>Anything personal to you, literally. Just as long as you connect with the material that you want to build into a learning resource for someone else.</li>
+<li><i>Anything</i>
+ personal to you, <b>literally</b>
+. Just as long as you connect with the material that you want to build into a learning resource for someone else.</li>
 </ul>
-<h2>Video submission</h2>
-<p>Your video could be about any of the following in the HAX universe. The point is to generate content that is relevant in "selling" this new technology to a stakeholder group. Any of these are possible submissions</p>
-<ul><li><b>Sustainability</b>
- - that all content is in Web components and lives on beyond any one fad or system. Sell a CIO on the long term cost reduction associated with this platform as well as the ability to be portable in migrating content between systems because its less platform locked.</li>
-<li><b>Multi-CMS</b>
- - HAX can be leveraged in Drupal, WordPress, GravCMS (you could even show how to install it in these..). Demonstrate HAX running in another platform and submit a video about your experience involved in that process. If it makes sense, if you couldn't get it working and what was confusing, are all valid and important outcomes.</li>
+<h2 id="header-83318f78-18bd-c3b6-71e0-fbaa4639cb59">Video submission</h2>
+<p style="width: 100%;">Your video could be about any of the following in the HAX universe. The point is to generate content that is relevant in "selling" this new technology to a stakeholder group. Any of these are possible submissions</p>
+<ul style="width: 100%;"><li><b>Multi-CMS</b>
+<span>
+ - HAX can be leveraged in Drupal, WordPress, GravCMS (you could even show how to install it in these..). Demonstrate HAX running in another platform and submit a video about your experience involved in that process. If it makes sense, if you couldn't get it working and what was confusing, are all valid and important outcomes.</span><br/></li>
 <li><b>Your Experience</b>
- - Describe your frustrations in using HAX and HAXcms. What made sense immediately? What took some time to figure out? What's something that worked really well? What's something that still doesn't make sense to you?</li>
+ - Describe your frustrations in using HAXcms. What made sense immediately? What took some time to figure out? What's something that worked really well? What's something that still doesn't make sense to you? What did you want it to do that it was missing?</li>
 </ul>
-<p>
-What didn't work or what you ran into issues using the platform are critical to our team getting user feedback and improving.<br/></p>
-<h2>Submitting this Lab</h2>
+<p style="width: 100%;"><b><i>
+What didn't work or what you ran into issues using the platform are critical to our team getting user feedback and improving.</i>
+</b>
+<br/></p>
+<h2 id="header-1b9e4123-7b55-af55-39f5-5046be7e2825" style="width: 100%;">Submitting this Lab</h2>
 <p>Embed your YouTube video on the homepage of your HAXcms site.</p>
-<p>Submit a link to your HAXcms site to <b>#lab10-haxtheweb</b>
+<p style="width: 100%;">Submit a link to your HAXcms site to <b>#lab10-haxtheweb</b>
 </p>
-<h2><b>Grading the Lab</b>
+<h2 id="header-32687e69-1d24-97e1-f989-1e0130ec742f"><b>Grading the Lab</b>
 </h2>
-<p>Did you create a site using HAXcms and post your link to the channel<b> (2pts)</b>
+<p style="width: 100%;">Did you create a site using HAXcms and post your link to the channel<b> (1pts)</b>
 </p>
-<p>Did you create a fun site that teaches someone about a topic you are passionate about? <b>(4pts)</b>
+<p style="width: 100%;">Did you create an engaging site that teaches someone about a topic you are passionate about? <b>(4pts)</b>
 </p>
-<p>Did you record a video that makes the case for HAXcms, show how to setup HAX in another platform, or unpack and explain your experience (POSITIVE OR NEGATIVE) in using the platform? <b>(4pts)</b>
+<p style="width: 100%;">Did you record a video that makes the case for HAXcms, show how to setup HAX in another platform, or unpack and explain your experience (POSITIVE OR NEGATIVE) in using the platform? <b>(5pts)</b>
 </p>
-<p><b>Special note</b>
-: You will not be evaluated based on your opinion of the platform. If you have a horrible experience or don't like it or something is difficult, be honest. We grow from critique far more then fake-positive reviews. You are evaluated based on GIVING AN OPINION and backing it up :)</p>
-<meme-maker alt="fake emergency GIF" image-url="https://media2.giphy.com/media/jVpXEm7Pq9mJRCMjnG/giphy.gif" top-text="feedback" bottom-text="i. think. not." imageurl="https://media2.giphy.com/media/jVpXEm7Pq9mJRCMjnG/giphy.gif" toptext="fake emergency GIF" style="width: 75%;"></meme-maker>
+<p style="width: 100%;"><b>Special note</b>
+: You will not be evaluated based on your opinion of the platform. If you have a horrible experience or don't like it or something is difficult, <b>be honest</b>
+. We grow from critique far more then fake-positive reviews. You are evaluated based on GIVING AN OPINION, implementing the solution, utilizing it, and backing up your perspective :)</p>
+<meme-maker alt="fake emergency GIF" image-url="https://media2.giphy.com/media/jVpXEm7Pq9mJRCMjnG/giphy.gif" imageurl="https://media2.giphy.com/media/jVpXEm7Pq9mJRCMjnG/giphy.gif" toptext="fake emergency GIF" style="width: 75%; margin: 0px auto; display: block;" bottom-text="Just a bit..">
+    
+      <img src="https://media2.giphy.com/media/jVpXEm7Pq9mJRCMjnG/giphy.gif" alt="fake emergency GIF" preload="lazy"/>
+    <div>Just a bit..</div></meme-maker>
  ]]>
       </description>
       <category></category>

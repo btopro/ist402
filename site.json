@@ -1330,23 +1330,23 @@
             "order": "9",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "W10 HAXTheWeb",
-            "description": "We&#39;ll cover user experience and generating ways of improving the platform by creating issues about any confusion you&#39;ve run into when using the platform. Open critique is the best way to improve.In c",
+            "description": "We'll cover user experience and generating ways of improving the platform by creating issues about any confusion you've run into when using the platform. Open critique is the best way to improve! Thi",
             "metadata": {
                 "created": 1570736517,
-                "updated": 1579730096,
+                "updated": 1584378217,
                 "readtime": 4,
                 "contentDetails": {
                     "headings": 6,
-                    "paragraphs": 19,
+                    "paragraphs": 18,
                     "schema": [],
                     "tags": {
-                        "p": 19,
+                        "p": 18,
                         "h2": 5,
                         "meme-maker": 2,
                         "h3": 1,
                         "ul": 2
                     },
-                    "elements": 29
+                    "elements": 28
                 },
                 "published": true
             }
