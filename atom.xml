@@ -455,7 +455,7 @@ correctly of the organization and has poor permission support within those roles
   <entry>
     <title>W10 HAXTheWeb</title>
     <id>/labs/labs/lab-10-haxtheweb</id>
-    <updated>2020-03-16T13:03:37-04:00</updated>
+    <updated>2020-03-16T13:16:13-04:00</updated>
     <published>2019-10-10T15:41:57-04:00</published>
     <summary>We'll cover user experience and generating ways of improving the platform by creating issues about any confusion you've run into when using the platform. Open critique is the best way to improve! Thi</summary>
     <link href="/labs/labs/lab-10-haxtheweb"/>
@@ -484,21 +484,21 @@ This is also practicing a technique called User Story Elicitation / Generation, 
 </h2>
 <p style="width: 100%;">Instructors don't want to learn new technologies that might get in the way of teaching. They want platforms that are simple to use, recognizable, and that will last. They've seen the ages of LMSs and having to port content to and from WordPress / other CMS solutions in the past. As a result, they need reassurance that HAXcms is easy to use and that it'll be an engaging way for them to teach.</p>
 <p>For the purposes of this assignment, we'll take "engaging" to mean funny. So make sure there's lots of memes and fun things in what you're about to develop here. There are a few themes that make sense for presenting an online course but your welcome to use which ever theme you'd like.</p>
-<p style="width: 100%;">Create a short ~ <b>10-20 page online course</b>
+<p style="width: 100%;">Create a  ~<b>15-20 page online course</b>
  about anything you want to teach a friend or family member about. It could be one of the topics from our course or something that you know more about than anyone else.</p>
 <h3 id="header-ca04d9de-c518-3c98-ea0b-8b840b2d9439">Possible topics:</h3>
-<ul style="width: 100%;"><li>Entirely fact driven information / research assembled about COVID19</li>
+<ul style="width: 100%;"><li>A fact driven information site assembled about <b>COVID19</b>
+ that could help others get relevant information to make better decisions about community health</li>
 <li>One of the CMSs we've covered (or 10 different ones as an overview of each)</li>
-<li>Top 10 interesting technologies to you</li>
 <li><i>Anything</i>
  personal to you, <b>literally</b>
 . Just as long as you connect with the material that you want to build into a learning resource for someone else.</li>
 </ul>
-<h2 id="header-83318f78-18bd-c3b6-71e0-fbaa4639cb59">Video submission</h2>
+<h2 id="header-83318f78-18bd-c3b6-71e0-fbaa4639cb59" style="width: 100%;">Video submission</h2>
 <p style="width: 100%;">Your video could be about any of the following in the HAX universe. The point is to generate content that is relevant in "selling" this new technology to a stakeholder group. Any of these are possible submissions</p>
 <ul style="width: 100%;"><li><b>Multi-CMS</b>
-<span>
- - HAX can be leveraged in Drupal, WordPress, GravCMS (you could even show how to install it in these..). Demonstrate HAX running in another platform and submit a video about your experience involved in that process. If it makes sense, if you couldn't get it working and what was confusing, are all valid and important outcomes.</span><br/></li>
+ - HAX can be leveraged in Drupal, WordPress (with some manual install work), GravCMS, Backdrop and ClassicPress. <a href="https://haxtheweb.org/integrations" style="width: 100%;">Show how to install HAX in any of these other platforms</a>
+ and submit a video about your experience involved in that process. If it makes sense, if you couldn't get it working and what was confusing, are all valid and important outcomes.<br/></li>
 <li><b>Your Experience</b>
  - Describe your frustrations in using HAXcms. What made sense immediately? What took some time to figure out? What's something that worked really well? What's something that still doesn't make sense to you? What did you want it to do that it was missing?</li>
 </ul>
@@ -508,8 +508,10 @@ What didn't work or what you ran into issues using the platform are critical to 
 <br/></p>
 <h2 id="header-1b9e4123-7b55-af55-39f5-5046be7e2825" style="width: 100%;">Submitting this Lab</h2>
 <p>Embed your YouTube video on the homepage of your HAXcms site.</p>
-<p style="width: 100%;">Submit a link to your HAXcms site to <b>#lab10-haxtheweb</b>
+<p style="width: 100%;">Submit a link to your HAXcms site to <b>#lab9-haxtheweb</b>
 </p>
+<p style="width: 100%;"><b>*If selecting COVID as topic: </b>
+please consider using social media to send out links to your resource after posting and using relevant hashtags. Sunshine is a good disinfectant for the fear that is propagating society right now and creating a factual resource you could send to your friends and relatives has far greater importance then this silly class.</p>
 <h2 id="header-32687e69-1d24-97e1-f989-1e0130ec742f"><b>Grading the Lab</b>
 </h2>
 <p style="width: 100%;">Did you create a site using HAXcms and post your link to the channel<b> (1pts)</b>
