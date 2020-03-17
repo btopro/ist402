@@ -3,7 +3,7 @@
   <title>IST 402</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>Web Technologies and Activism</subtitle>
-  <updated>2020-03-06T16:06:33-05:00</updated>
+  <updated>2020-03-16T20:21:43-04:00</updated>
   <author>
       <name></name>
   </author>
@@ -1015,6 +1015,45 @@ complexity and learning curve</span></li>
     </content>
   </entry>
   <entry>
+    <title>ClassicPress / WordPress</title>
+    <id>/topics/wordpress</id>
+    <updated>2020-03-16T20:21:43-04:00</updated>
+    <published>2019-10-01T14:02:52-04:00</published>
+    <summary>Lecture slides from this week (Spring 2020)This week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of </summary>
+    <link href="/topics/wordpress"/>
+    
+    <content type="html">
+      <![CDATA[ <p style="width: 100%;"><a href="https://www.slideshare.net/BryanOllendyke1/edtechjoker-spring-2020-lecture-6-wordpress" style="width: 100%;">Lecture slides from this week</a>
+ (Spring 2020)</p>
+<p>This week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why it powers (estimates, numbers differ by source) 33% to as much as 50% of sites on the internet.</p>
+<p>These sites could be everything from the Whitehouse down to every individual blog / new acount on wordpress.com (SaaS solution version) which is why people take some of that number with a grain of salt.</p>
+<p>It's a great platform to start your own website on but it's run into some recent controversies which are worth exploring - namely the battle for the heart of the community around a text editor. It's weird to think about, but when a CMS lives and dies by the ease of content entry, you can understand why the <b>new core mandatory</b>
+ text editor called<b> Gutenberg</b>
+ would attract positive and negative attention.</p>
+<p>With plans to phase out the "Classic Editor" in 2020 many people in the community are at a cross-roads: Continue to trust the same core community that "took away" their beloved simple HTML editor, or forge a new path. We'll look briefly at the concept of community forks through the context of ClassicPress, a popular WordPress alternative that's gaining traction as the more community centric CMS.</p>
+<p>With parallels to Drupal and it's popular fork Backdrop (topic for next lab) we'll see that it's not always code that leads to inflection points in groups but the process by which that code is formed, agreed upon, and ultimately pushed into the main project everyone's aligned with.</p>
+<p>WordPress is a great resume builder both in terms of the platform as well as putting on your resume that you have experience with it, so let's dig in and check it out in <a href="https://reclaimhosting.com/">ReclaimHosting</a>
+ once more!</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Exam review</title>
+    <id>/mid-term-review</id>
+    <updated>2020-03-16T20:21:43-04:00</updated>
+    <published>2019-10-01T14:02:52-04:00</published>
+    <summary>See slides from topic 7 on Drupal. There are several examples with answers in the front of the slide deck you can use to review the types of questions you&#39;ll be asked.This is an &#34;open web&#34; review. T</summary>
+    <link href="/mid-term-review"/>
+    
+    <content type="html">
+      <![CDATA[ <p>See slides from <a href="topics/drupal">topic 7 on Drupal</a>
+. There are several examples with answers in the front of the slide deck you can use to review the types of questions you'll be asked.</p>
+<p>This is an "open web" review. The real world you can google things if you get stuck and this is no different. Now, you can't take credit for other people's work in my class or IRL, so the TA will be proctoring this exam and ensuring that everyone's responsible for their own work.</p>
+<p>After the exam please answer the course survey questions to give us feedback on how class has done so far and where to go.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>W6 WordPress</title>
     <id>/labs/lab-6-wordpress</id>
     <updated>2020-03-16T20:21:43-04:00</updated>
@@ -1067,45 +1106,6 @@ complexity and learning curve</span></li>
 </span></span></li>
 </ul>
 <p><span style="letter-spacing: -0.48px;">This lab is worth 10 points</span></p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Exam review</title>
-    <id>/mid-term-review</id>
-    <updated>2020-03-16T20:21:43-04:00</updated>
-    <published>2019-10-01T14:02:52-04:00</published>
-    <summary>See slides from topic 7 on Drupal. There are several examples with answers in the front of the slide deck you can use to review the types of questions you&#39;ll be asked.This is an &#34;open web&#34; review. T</summary>
-    <link href="/mid-term-review"/>
-    
-    <content type="html">
-      <![CDATA[ <p>See slides from <a href="topics/drupal">topic 7 on Drupal</a>
-. There are several examples with answers in the front of the slide deck you can use to review the types of questions you'll be asked.</p>
-<p>This is an "open web" review. The real world you can google things if you get stuck and this is no different. Now, you can't take credit for other people's work in my class or IRL, so the TA will be proctoring this exam and ensuring that everyone's responsible for their own work.</p>
-<p>After the exam please answer the course survey questions to give us feedback on how class has done so far and where to go.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>ClassicPress / WordPress</title>
-    <id>/topics/wordpress</id>
-    <updated>2020-03-16T20:21:43-04:00</updated>
-    <published>2019-10-01T14:02:52-04:00</published>
-    <summary>Lecture slides from this week (Spring 2020)This week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of </summary>
-    <link href="/topics/wordpress"/>
-    
-    <content type="html">
-      <![CDATA[ <p style="width: 100%;"><a href="https://www.slideshare.net/BryanOllendyke1/edtechjoker-spring-2020-lecture-6-wordpress" style="width: 100%;">Lecture slides from this week</a>
- (Spring 2020)</p>
-<p>This week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why it powers (estimates, numbers differ by source) 33% to as much as 50% of sites on the internet.</p>
-<p>These sites could be everything from the Whitehouse down to every individual blog / new acount on wordpress.com (SaaS solution version) which is why people take some of that number with a grain of salt.</p>
-<p>It's a great platform to start your own website on but it's run into some recent controversies which are worth exploring - namely the battle for the heart of the community around a text editor. It's weird to think about, but when a CMS lives and dies by the ease of content entry, you can understand why the <b>new core mandatory</b>
- text editor called<b> Gutenberg</b>
- would attract positive and negative attention.</p>
-<p>With plans to phase out the "Classic Editor" in 2020 many people in the community are at a cross-roads: Continue to trust the same core community that "took away" their beloved simple HTML editor, or forge a new path. We'll look briefly at the concept of community forks through the context of ClassicPress, a popular WordPress alternative that's gaining traction as the more community centric CMS.</p>
-<p>With parallels to Drupal and it's popular fork Backdrop (topic for next lab) we'll see that it's not always code that leads to inflection points in groups but the process by which that code is formed, agreed upon, and ultimately pushed into the main project everyone's aligned with.</p>
-<p>WordPress is a great resume builder both in terms of the platform as well as putting on your resume that you have experience with it, so let's dig in and check it out in <a href="https://reclaimhosting.com/">ReclaimHosting</a>
- once more!</p>
  ]]>
     </content>
   </entry>
