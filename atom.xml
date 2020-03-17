@@ -30,14 +30,14 @@
   <entry>
     <title>Glossary</title>
     <id>/resources/glossary</id>
-    <updated>2020-03-16T20:21:43-04:00</updated>
+    <updated>2020-03-16T20:27:12-04:00</updated>
     <published>2020-01-20T10:28:13-05:00</published>
     <summary>This is a living glossary of terms from students who have taken the course (with some help from me in assembly)</summary>
     <link href="/resources/glossary"/>
     
     <content type="html">
-      <![CDATA[ <p>This is a living glossary of terms from students who have taken the course (with some help from me in assembly)</p>
-<md-block source="files/glossary.md"></md-block>
+      <![CDATA[ <p style="width: 100%;">This is a living glossary of terms from students who have taken the course (with some help from me in assembly)</p>
+<md-block source="https://raw.githubusercontent.com/btopro/ist402/master/files/glossary.md" style="width: 100%;"></md-block>
  ]]>
     </content>
   </entry>
