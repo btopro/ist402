@@ -1514,21 +1514,21 @@
             "order": "11",
             "parent": null,
             "title": "Project",
-            "description": "The last week of the semester there will be a slightly longer lab that I'm calling a project. You'll have to put together a pitch for one of multiple problem spaces but it's a technical pitch. You'll ",
+            "description": "Because 2020 is crazy I will be reviewing the final project and potentially changing it as a result of world events. You can review this as a guide for what has been given in the past and it will most",
             "metadata": {
                 "created": 1565968185,
-                "updated": 1584404503,
-                "readtime": 2,
+                "updated": 1584404752,
+                "readtime": 3,
                 "contentDetails": {
-                    "headings": 6,
-                    "paragraphs": 20,
+                    "headings": 7,
+                    "paragraphs": 21,
                     "schema": [],
                     "tags": {
-                        "p": 20,
-                        "h2": 6,
+                        "p": 21,
+                        "h2": 7,
                         "ul": 2
                     },
-                    "elements": 28
+                    "elements": 30
                 }
             }
         },
