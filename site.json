@@ -1286,17 +1286,16 @@
             "description": "Catch up on past labs or sleep. Big fan of sleep myself so I know what I'll be doing.",
             "metadata": {
                 "created": 1578937555,
-                "updated": 1584404503,
+                "updated": 1584405915,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
                     "paragraphs": 1,
                     "schema": [],
                     "tags": {
-                        "p": 1,
-                        "a11y-gif-player": 1
+                        "p": 1
                     },
-                    "elements": 2
+                    "elements": 1
                 }
             }
         },

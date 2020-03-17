@@ -138,14 +138,13 @@ channel to find them on YouTube. Watch their video for the git submission last w
   <entry>
     <title>W9 Spring Break</title>
     <id>/labs/w9-spring-break</id>
-    <updated>2020-03-16T20:21:43-04:00</updated>
+    <updated>2020-03-16T20:45:15-04:00</updated>
     <published>2020-01-13T12:45:55-05:00</published>
     <summary>Catch up on past labs or sleep. Big fan of sleep myself so I know what I'll be doing.</summary>
     <link href="/labs/w9-spring-break"/>
     
     <content type="html">
-      <![CDATA[ <p>Catch up on past labs or sleep. Big fan of sleep myself so I know what I'll be doing.</p>
-<a11y-gif-player alt="I'm on a boat and, it's going fast and..." src="https://media0.giphy.com/media/yidUzuMf6DH8cz09zO/giphy.gif" src-without-animation="https://media0.giphy.com/media/yidUzuMf6DH8cz09zO/480w_s.jpg" tooltip="Toggle animation" srcwithoutanimation="https://media0.giphy.com/media/yidUzuMf6DH8cz09zO/480w_s.jpg" style="width: 50%; margin: 0px auto; display: block;"></a11y-gif-player>
+      <![CDATA[ <p style="width: 100%;">Catch up on past labs or sleep. Big fan of sleep myself so I know what I'll be doing.</p>
  ]]>
     </content>
   </entry>
