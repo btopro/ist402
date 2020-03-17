@@ -447,25 +447,24 @@ This is also practicing a technique called User Story Elicitation / Generation, 
 <p style="width: 100%;">As HAX and HAXcms are being developed by the university to improve time on task, increase creativity in course design and help students present themselves online, you can complete this through any of the following scenarios.</p>
 <h2 id="header-2e18814f-97fb-48a9-c6f9-f7c36303cfe0" style="width: 100%;"><b>Scenario: "Online course for helping in a crisis"</b>
 </h2>
-<p style="width: 100%;">Instructors don't want to learn new technologies that might get in the way of teaching. They want platforms that are simple to use, recognizable, and that will last. They've seen the ages of LMSs and having to port content to and from WordPress / other CMS solutions in the past. As a result, they need reassurance that HAXcms is easy to use and that it'll be an engaging way for them to teach.</p>
-<p>For the purposes of this assignment, we'll take "engaging" to mean funny. So make sure there's lots of memes and fun things in what you're about to develop here. There are a few themes that make sense for presenting an online course but your welcome to use which ever theme you'd like.</p>
-<p style="width: 100%;">Create a  ~<b>10-15 page online course</b>
- about anything you want to teach a friend or family member about. It could be one of the topics from our course or something that you know more about than anyone else.</p>
-<h3 id="header-ca04d9de-c518-3c98-ea0b-8b840b2d9439" style="width: 100%;">Topics:</h3>
+<p style="width: 100%;">Instructors don't want to learn new technologies that might get in the way of teaching. They want platforms that are simple to use, recognizable, and that will last. They've seen the ages of LMSs and having to port content to and from CMS solutions in the past. As a result, they need reassurance that HAXcms is easy to use and that it'll be an engaging way for them to teach.</p>
+<p style="width: 100%;">For the purposes of this assignment, we'll take "engaging" to mean that it links to other sources, pulls in media like images and video, embeds wikipedia, has interactive question and answer segments; things like that. There are a few themes that make sense for presenting an online course but your welcome to use which ever theme you'd like.</p>
+<p style="width: 100%;">Create a  ~<b>10-15 page online learning resource </b>
+that teaches people about a topic that is in the news a lot and that is causing a lot of misinformation..</p>
+<h3 id="header-ca04d9de-c518-3c98-ea0b-8b840b2d9439" style="width: 100%;">Topic</h3>
 <ul style="width: 100%;"><li>A fact driven information site assembled about <b>COVID19</b>
- that could help others get relevant information to make better decisions about community health. <b>You will be given 5 bonus points for selecting this topic (yes, 50% of the subject as bonus).</b>
-</li>
+ that could help others get relevant information to make better decisions about community health.</li>
 <ul><li>Select sources that are not just major media sources. You can include some but lean toward research and source articles. CDC, other countries CDC equivalent, vaccine progress, models of impact of social distancing, things like this. Not just "STOCK MARKET DOWN" and "AIRPORT CLOSE" as so much of the news is right now. For example, <a href="https://www.ncbi.nlm.nih.gov/pubmed/32150748">NIH incubation period analysis</a>
  suggesting most cases are ~5 days as opposed to the widely reported 2 weeks (which while possible, is far far less frequent).</li>
 <li>This can include information that is geographic specific to yourself and your situation (make it personal). If you live in rural Kansas you have very different distancing considerations than inner city Philadelphia, London, or Queens. The more localized the better chance of connecting with people that know and trust you. <a href="https://oer.psu.edu/find/">PSU has a resource listing other</a>
  OER sources to help find things as well.</li>
 <li>Tone should be one about this being serious but not scary. We can help people connect with reality more through the personal trust they have in who is assembling the work</li>
-<li>Video / Pictures / graphics are important, explaining and linking off to where they are from is also important to ensure people can discover on their own. We're all supposed to be on lock down so we have time to invest in back story</li>
-<li>You can actually impact the lives of people around you with this. Assemble information in a relevant way, present the case, share out on social media / email to friends and family. Working to improve our reality is why we seek an education. It helps give us purpose. Find that purpose this week.</li>
+<li>Video / Pictures / graphics are important, HAXcms also includes a "Self check", "Stop note", "Multiple Choice", "Citation" and more which can help make content more interactive and engaging.</li>
+<li>Explaining and linking off to where media is from is also important to ensure people can discover on their own and learn from trusted sources. We're all supposed to be on lock down so we have time to invest in hoping around to primary articles.</li>
+<li><b>You can actually impact the lives of people around you with this so please take it seriously</b>
+. Assemble information in a relevant way, present the case, share out on social media / email to friends and family. <i>Working to improve our reality is why we seek an education</i>
+. It helps give us purpose. Find that purpose this week and channel it through your work to make a positive impact in a troubled word.</li>
 </ul>
-<li><i>Anything</i>
- personal to you, <b>literally</b>
-. Just as long as you connect with the material that you want to build into a learning resource for someone else. It will always be better when you connect with it (but consider the implications of doing the COVID one).</li>
 </ul>
 <h2 id="header-83318f78-18bd-c3b6-71e0-fbaa4639cb59" style="width: 100%;">Video submission</h2>
 <p style="width: 100%;">You'll be creating two videos this week. One relevant to the platform so that we can get feedback, but more importantly one geared toward other students, friends, family and society that needs you. We need your voice to help everyone through what is to come. We can make a positive difference.</p>
@@ -473,7 +472,7 @@ This is also practicing a technique called User Story Elicitation / Generation, 
 <span>
  - Describe your frustrations in using HAXcms. What made sense immediately? What took some time to figure out? What's something that worked really well? What's something that still doesn't make sense to you? What did you want it to do that it was missing? 2-3 minutes</span></li>
 <li><b>Empowerment</b>
- - We must remain calm and strong in times of trouble to help keep fear from spreading. Explain how friends and family can use technology to remain connected to one another in this crisis, what to watch for, how to remain calm, what series to binge watch on streaming services, and how to remain active in supporting your local economy. This may not seem like something you'd do in college for credit, which is exactly why it's so important that you do it. Education is about the pursuit of information and converting that information into knowledge and this knowledge literally has the power to save lives. You can and will change the world. 2-3 minutes</li>
+ - We must remain calm and strong in times of trouble to help keep fear from spreading. Explain how friends and family can use technology to remain connected to one another in this crisis, maybe how you plan to, what to watch on streaming services to pass the time, games and activities to connect you with friends remotely, and how to remain active in supporting your local economy. This may not seem like something you'd do in college for credit, which is exactly why it's so important that we do it now. Education is about the pursuit of information and converting that information into knowledge and this knowledge literally has the power to save lives. 2-3 minutes</li>
 </ul>
 <p style="width: 100%;"><b><i>
 What didn't work or what you ran into issues using the platform are critical to our team getting user feedback and improving.</i>
@@ -481,25 +480,24 @@ What didn't work or what you ran into issues using the platform are critical to 
 <br/></p>
 <h2 id="header-1b9e4123-7b55-af55-39f5-5046be7e2825" style="width: 100%;">Submitting this Lab</h2>
 <p>Embed your YouTube video on the homepage of your HAXcms site.</p>
-<p style="width: 100%;">Submit a link to your HAXcms site to <b>#lab9-haxtheweb</b>
-</p>
-<p style="width: 100%;"><b>*If selecting COVID as topic: </b>
+<p style="width: 100%;">Submit a link to your HAXcms site to the <b>#lab9-haxtheweb</b>
+ channel on slack</p>
+<p style="width: 100%;"><b>*Note on current events: </b>
 please consider using social media to send out links to your resource after posting and using relevant hashtags. Sunshine is a good disinfectant for the fear that is propagating society right now and creating a factual resource you could send to your friends and relatives has far greater importance then this silly class.</p>
 <h2 id="header-32687e69-1d24-97e1-f989-1e0130ec742f"><b>Grading the Lab</b>
 </h2>
 <p style="width: 100%;">Did you create a site using HAXcms and post your link to the channel<b> (0pts, just do it)</b>
 </p>
-<p style="width: 100%;">Did you create an engaging site that teaches someone about a topic you are passionate about / COVID and is it something that helps stitch together and generate new meaning for those looking for fast resources to access critical knowledge from trusted sources? <b>(6pts, +5 if you pick COVID)</b>
+<p style="width: 100%;">Did you create an engaging site that teaches someone facts and progress toward curing COVID and is it something that helps stitch together and generate new meaning for those looking for fast resources to access critical knowledge from trusted sources? <b>(6pts)</b>
 </p>
 <p style="width: 100%;">Did you record two videos; one with your experience and feedback on using the platform and another pointing to the positive ways that technology can help keep us safe and informed during these difficult times? <b>(4pts, 2 per video)</b>
 </p>
 <p style="width: 100%;"><b>Special note</b>
 : You will not be evaluated based on your opinion of the platform. If you have a horrible experience or don't like it or something is difficult, <b>be honest</b>
 . We grow from critique far more then fake-positive reviews. You are evaluated based on GIVING AN OPINION, implementing the solution, utilizing it, and backing up your perspective :)</p>
-<meme-maker alt="fake emergency GIF" image-url="https://media2.giphy.com/media/jVpXEm7Pq9mJRCMjnG/giphy.gif" imageurl="https://media2.giphy.com/media/jVpXEm7Pq9mJRCMjnG/giphy.gif" toptext="fake emergency GIF" style="width: 75%; margin: 0px auto; display: block;" bottom-text="Just a bit..">
-    
-      <img src="https://media2.giphy.com/media/jVpXEm7Pq9mJRCMjnG/giphy.gif" alt="fake emergency GIF" preload="lazy"/>
-    <div>Just a bit..</div></meme-maker>
+<p style="width: 100%;">No you will not be graded on your usage of social media, but it is highly recommended you use it in order to help spread the word about the importance of whats going on.</p>
+<grid-plate layout="1-1-1-1-1" responsive-size="xl" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" style="width: 100%;" hide-ops column-widths="[&quot;20%&quot;,&quot;20%&quot;,&quot;20%&quot;,&quot;20%&quot;,&quot;20%&quot;]"><a11y-gif-player src="https://media0.giphy.com/media/YEongvRqe8sXC/giphy.gif" style="width: 100%;" slot="col-2" class="hax-moving" tooltip="Toggle animation" no-image></a11y-gif-player>
+</grid-plate>
  ]]>
       </description>
       <category></category>
