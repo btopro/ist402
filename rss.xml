@@ -619,7 +619,11 @@ please consider using social media to send out links to your resource after post
       <title>Drupal</title>
       <link>/topics/drupal</link>
       <description>
-          <![CDATA[ <p><a href="https://www.slideshare.net/btopro/drupal-180769121">Slides for this topic</a>
+          <![CDATA[ <p style="width: 100%;"><ul href="https://www.slideshare.net/BryanOllendyke1/edtechjoker-spring-2020-lecture-7-drupal-intro" style="width: 100%;"><li><a href="https://www.slideshare.net/BryanOllendyke1/edtechjoker-spring-2020-lecture-7-drupal-intro">Drupal Slides for this topic</a>
+ (Spring 2020)</li>
+<li><a href="https://www.slideshare.net/BryanOllendyke1/edtechjoker-spring-2020-lecture-8-drupal-again">Drupal again slides</a>
+ (Spring 2020)</li>
+</ul>
 </p>
 <p>Drupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll use Drupal to model those relationships in the website.</p>
 <p>We'll learn about Content Types and fields to model data. Then we'll use Views in order to visualize that data and work with content entry to make sense of it all.</p>
