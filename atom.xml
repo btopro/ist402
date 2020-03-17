@@ -170,9 +170,9 @@ channel to find them on YouTube. Watch their video for the git submission last w
     </content>
   </entry>
   <entry>
-    <title>W11 Docker</title>
+    <title>W12 Docker</title>
     <id>/labs/lab-13-docker</id>
-    <updated>2020-03-16T20:21:43-04:00</updated>
+    <updated>2020-03-16T20:22:24-04:00</updated>
     <published>2019-11-19T22:56:24-05:00</published>
     <summary>For lab this week, we&#39;ll use directions our guest has put together to deploy different services via docker to better understand Functions as a Service technology as well as a bit of how docker infrast</summary>
     <link href="/labs/lab-13-docker"/>
