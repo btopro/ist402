@@ -1157,19 +1157,19 @@
             "order": "8",
             "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
             "title": "Webcomponents",
-            "description": "Slides - Web components & Package managersWeb components are the future of web development. Combined with package management systems like npm, they empower teams to leverage the work of others in a ",
+            "description": "Slides - Web components & Package managersGreat Web components Crash Course tutorial that's 25 minutes from nothing to decent looking card elements being used twice but built once.Web components a",
             "metadata": {
                 "created": 1568831881,
-                "updated": 1584404503,
+                "updated": 1584538640,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 3,
+                    "paragraphs": 4,
                     "schema": [],
                     "tags": {
-                        "p": 3
+                        "p": 4
                     },
-                    "elements": 3
+                    "elements": 4
                 }
             }
         },
