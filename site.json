@@ -1380,19 +1380,19 @@
             "description": "For this lab we're going to look at a few different services that are like codepen but allow for more advanced use-cases and development to support web components (and other front end languages).Exer",
             "metadata": {
                 "created": 1568831881,
-                "updated": 1585011811,
+                "updated": 1585011881,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 2,
-                    "paragraphs": 6,
+                    "paragraphs": 5,
                     "schema": [],
                     "tags": {
-                        "p": 6,
+                        "p": 5,
                         "h3": 2,
                         "ul": 1,
                         "ol": 1
                     },
-                    "elements": 10
+                    "elements": 9
                 },
                 "published": true
             }
