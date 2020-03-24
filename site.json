@@ -1160,16 +1160,17 @@
             "description": "Slides - Web components & Package managersGreat Web components Crash Course tutorial that's 25 minutes from nothing to decent looking card elements being used twice but built once.Web components a",
             "metadata": {
                 "created": 1568831881,
-                "updated": 1584538640,
+                "updated": 1585010837,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
                     "paragraphs": 4,
                     "schema": [],
                     "tags": {
-                        "p": 4
+                        "p": 4,
+                        "img": 1
                     },
-                    "elements": 4
+                    "elements": 5
                 },
                 "files": [
                     {
