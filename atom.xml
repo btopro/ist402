@@ -171,7 +171,7 @@ channel to find them on YouTube. Watch their video for the git submission last w
   <entry>
     <title>W12 Docker</title>
     <id>/labs/lab-13-docker</id>
-    <updated>2020-03-30T17:43:47-04:00</updated>
+    <updated>2020-03-30T17:45:31-04:00</updated>
     <published>2019-11-19T22:56:24-05:00</published>
     <summary>For lab this week, we'll use directions our guest has put together to deploy different services via docker to better understand Functions as a Service technology as well as a bit of how docker infrast</summary>
     <link href="/labs/lab-13-docker"/>
@@ -182,7 +182,7 @@ channel to find them on YouTube. Watch their video for the git submission last w
 <p>We'll do this in class using <a href="https://labs.play-with-docker.com/">Play with Docker</a>
 .</p>
 <h2 id="header-241c2cb9-4783-8c8f-76e5-e497cef4d837">HAXcms</h2>
-<p>We'll do this in class together. Let's <a href="https://github.com/heyMP/ist402-docker/tree/master/haxcms">setup HAXcms</a>
+<p>We'll do this in class together. Let's <a href="https://github.com/heyMP/ist402-docker/tree/master/labs/3-haxcms">setup HAXcms</a>
  in Play with Docker. This will most likely have trouble getting past the install screen but it's good practice to demonstrate in the context of something we can all visualize and have worked with.</p>
 <h2 id="header-6d92ad95-bdec-0430-ba50-2ad8bb6dd167">OpenFaaS</h2>
 <p>OpenFaaS is an open source functions as a service platform for building your own function based microservice endpoints. <a href="https://github.com/heyMP/ist402-docker/tree/master/openfaas">Follow the directions in this repo</a>
