@@ -171,32 +171,32 @@ channel to find them on YouTube. Watch their video for the git submission last w
   <entry>
     <title>W12 Docker</title>
     <id>/labs/lab-13-docker</id>
-    <updated>2020-03-16T20:22:24-04:00</updated>
+    <updated>2020-03-30T17:43:47-04:00</updated>
     <published>2019-11-19T22:56:24-05:00</published>
-    <summary>For lab this week, we&#39;ll use directions our guest has put together to deploy different services via docker to better understand Functions as a Service technology as well as a bit of how docker infrast</summary>
+    <summary>For lab this week, we'll use directions our guest has put together to deploy different services via docker to better understand Functions as a Service technology as well as a bit of how docker infrast</summary>
     <link href="/labs/lab-13-docker"/>
     
     <content type="html">
       <![CDATA[ <p>For lab this week, we'll use directions our guest has put together to deploy different services via docker to better understand Functions as a Service technology as well as a bit of how docker infrastructure works.</p>
-<h2>Setting up Ubuntu</h2>
+<h2 id="header-fb318d99-cfde-f4fa-1d65-cbcdfd792f63">Setting up Ubuntu</h2>
 <p>We'll do this in class using <a href="https://labs.play-with-docker.com/">Play with Docker</a>
 .</p>
-<h2>HAXcms</h2>
+<h2 id="header-241c2cb9-4783-8c8f-76e5-e497cef4d837">HAXcms</h2>
 <p>We'll do this in class together. Let's <a href="https://github.com/heyMP/ist402-docker/tree/master/haxcms">setup HAXcms</a>
  in Play with Docker. This will most likely have trouble getting past the install screen but it's good practice to demonstrate in the context of something we can all visualize and have worked with.</p>
-<h2>OpenFaaS</h2>
+<h2 id="header-6d92ad95-bdec-0430-ba50-2ad8bb6dd167">OpenFaaS</h2>
 <p>OpenFaaS is an open source functions as a service platform for building your own function based microservice endpoints. <a href="https://github.com/heyMP/ist402-docker/tree/master/openfaas">Follow the directions in this repo</a>
  to setup OpenFaaS on <a href="https://labs.play-with-docker.com/">Play with Docker</a>
 .</p>
-<h2>Deliverable</h2>
+<h2 id="header-89a8d03f-4925-dd9d-ae3a-b43e50f59a51">Deliverable</h2>
 <p>This week I want you to try your hand at the following (or combinations in the video).</p>
 <ul><li>Install OpenFaaS in Play with Docker and explain why functions as a service are the future of infrastructure. This could be done showing one of the functions we covered in class and relating it to how Uber spins up a service to track your location and relay it to the drive (as one example).</li>
 <li>Find a diagram to explain Docker and the difference between it and Virtual Machine technology, explaining why containers are the future of technology backed businesses. Install HAXcms in Play with Docker and get it to the install screen. (It has issues at times getting past this phase as this is just a demo)</li>
 </ul>
-<h2>Submission</h2>
-<p>Add your video to the <b>#lab13-docker</b>
+<h2 id="header-3de98455-e730-ce1d-2e34-2bb4cbe566e0">Submission</h2>
+<p>Add your video to the <b>#lab11-docker</b>
  slack channel.</p>
-<h2>Evaluation rubric</h2>
+<h2 id="header-e34fa9b8-704e-50b2-baeb-e85e2e410771">Evaluation rubric</h2>
 <ul><li>Did you demonstrate installing either application in Play with Docker? <b>(5pts)</b>
 </li>
 <li>Did you explain the difference between Containers and Virtual Machines or what Functions as a Service is with examples? <b>(4pts)</b>

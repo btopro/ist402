@@ -1404,10 +1404,10 @@
             "order": "11",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "W12 Docker",
-            "description": "For lab this week, we&#39;ll use directions our guest has put together to deploy different services via docker to better understand Functions as a Service technology as well as a bit of how docker infrast",
+            "description": "For lab this week, we'll use directions our guest has put together to deploy different services via docker to better understand Functions as a Service technology as well as a bit of how docker infrast",
             "metadata": {
                 "created": 1574222184,
-                "updated": 1584404544,
+                "updated": 1585604627,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 6,
