@@ -1407,7 +1407,7 @@
             "description": "For lab this week, we'll use directions our guest has put together to deploy different services via docker to better understand Functions as a Service technology as well as a bit of how docker infrast",
             "metadata": {
                 "created": 1574222184,
-                "updated": 1585665166,
+                "updated": 1585665188,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 6,

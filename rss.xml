@@ -174,7 +174,7 @@ channel to find them on YouTube. Watch their video for the git submission last w
 <h2 id="header-89a8d03f-4925-dd9d-ae3a-b43e50f59a51">Deliverable</h2>
 <p>This week I want you to try your hand at the following (or combinations in the video).</p>
 <ul><li>Install OpenFaaS in Play with Docker and explain why functions as a service are the future of infrastructure. This could be done showing one of the functions we covered in class and relating it to how Uber spins up a service to track your location and relay it to the drive (as one example).</li>
-<li>Find a diagram to explain Docker and the difference between it and Virtual Machine technology, explaining why containers are the future of technology backed businesses. Install HAXcms in Play with Docker and get it to the install screen. (It has issues at times getting past this phase as this is just a demo)</li>
+<li>Find a diagram to explain Docker and the difference between it and Virtual Machine technology, explaining why containers are the future of technology backed businesses. Install Drupal in Play with Docker and get it to the install screen. (It has issues at times getting past this phase as this is just a demo)</li>
 </ul>
 <h2 id="header-3de98455-e730-ce1d-2e34-2bb4cbe566e0">Submission</h2>
 <p>Add your video to the <b>#lab-11-docker</b>
