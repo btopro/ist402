@@ -177,7 +177,7 @@ channel to find them on YouTube. Watch their video for the git submission last w
 <li>Find a diagram to explain Docker and the difference between it and Virtual Machine technology, explaining why containers are the future of technology backed businesses. Install HAXcms in Play with Docker and get it to the install screen. (It has issues at times getting past this phase as this is just a demo)</li>
 </ul>
 <h2 id="header-3de98455-e730-ce1d-2e34-2bb4cbe566e0">Submission</h2>
-<p>Add your video to the <b>#lab11-docker</b>
+<p>Add your video to the <b>#lab-11-docker</b>
  slack channel.</p>
 <h2 id="header-e34fa9b8-704e-50b2-baeb-e85e2e410771">Evaluation rubric</h2>
 <ul><li>Did you demonstrate installing either application in Play with Docker? <b>(5pts)</b>
