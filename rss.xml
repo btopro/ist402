@@ -172,7 +172,8 @@ channel to find them on YouTube. Watch their video for the git submission last w
  to setup OpenFaaS on <a href="https://labs.play-with-docker.com/">Play with Docker</a>
 .</p>
 <h2 id="header-89a8d03f-4925-dd9d-ae3a-b43e50f59a51">Deliverable</h2>
-<p>This week I want you to try your hand at the following (or combinations in the video).</p>
+<p>This week I want you to try your hand at one of the following (or combinations in the video). As usual you can solve this how it makes sense to you <b>but I want you to be demonstrating how to install things in Play with Docker and what that looks like. This forms the backdrop for you to talk about why this is transformational.</b>
+</p>
 <ul><li>Install OpenFaaS in Play with Docker and explain why functions as a service are the future of infrastructure. This could be done showing one of the functions we covered in class and relating it to how Uber spins up a service to track your location and relay it to the drive (as one example).</li>
 <li>Find a diagram to explain Docker and the difference between it and Virtual Machine technology, explaining why containers are the future of technology backed businesses. Install Drupal in Play with Docker and get it to the install screen. (It has issues at times getting past this phase as this is just a demo)</li>
 </ul>
@@ -180,11 +181,10 @@ channel to find them on YouTube. Watch their video for the git submission last w
 <p>Add your video to the <b>#lab-11-docker</b>
  slack channel.</p>
 <h2 id="header-e34fa9b8-704e-50b2-baeb-e85e2e410771">Evaluation rubric</h2>
-<ul><li>Did you demonstrate installing either application in Play with Docker? <b>(5pts)</b>
+<ul><li>Did you demonstrate <i>installing an application in Play with Docker</i>
+? <b>(5pts)</b>
 </li>
-<li>Did you explain the difference between Containers and Virtual Machines or what Functions as a Service is with examples? <b>(4pts)</b>
-</li>
-<li>Did you submit your video to the channel? <b>(1pt)</b>
+<li>Did you explain the importance of Container technology either via the difference between Containers and Virtual Machines or why the Functions as a Service approach is such a big deal, with visuals backing it up? <b>(5pts)</b>
 </li>
 </ul>
  ]]>
