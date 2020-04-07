@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- generator-class="Icamys\SitemapGenerator\SitemapGenerator" -->
 <!-- generator-version="1.1.0" -->
-<!-- generated-on="2020-04-02T12:18:31-04:00" -->
+<!-- generated-on="2020-04-07T12:03:48-04:00" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>/welcome</loc>
@@ -263,7 +263,7 @@
   </url>
   <url>
     <loc>/labs/lab-12-accessible-design</loc>
-    <lastmod>2020-03-16T20:21:43-04:00</lastmod>
+    <lastmod>2020-04-07T12:03:48-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

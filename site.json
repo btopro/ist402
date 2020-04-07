@@ -1430,14 +1430,14 @@
             "order": "12",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "W13 Accessible Design",
-            "description": "You live in the world of Stranger Things. I know, it&#39;s hard to envision, it&#39;s why it&#39;s such a good show. Old people like your instructor, actually remember parts of the 80s and what it was like to not",
+            "description": "You live in the world of Stranger Things. I know, it's hard to envision, it's why it's such a good show. Old people like your instructor, actually remember parts of the 80s and what it was like to not",
             "metadata": {
                 "created": 1573603624,
-                "updated": 1584404503,
+                "updated": 1586275428,
                 "readtime": 3,
                 "contentDetails": {
                     "headings": 4,
-                    "paragraphs": 16,
+                    "paragraphs": 17,
                     "schema": [
                         {
                             "resource": "#4bc09838-e59e-6789-8a79",
@@ -1445,13 +1445,13 @@
                         }
                     ],
                     "tags": {
-                        "p": 16,
+                        "p": 17,
                         "grid-plate": 1,
                         "h2": 3,
                         "h3": 1,
                         "video-player": 1
                     },
-                    "elements": 22
+                    "elements": 23
                 },
                 "published": true
             }
