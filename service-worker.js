@@ -47,36 +47,24 @@ var precacheConfig = [
         "j40WSpbCtJxlmtYB4lU4eA"
     ],
     [
-        "pages\/labs\/building-your-digital-identity\/index.html",
-        "xRgqsrUg961a5xJxe36iJQ"
-    ],
-    [
-        "pages\/labs\/lab-11-accessibility\/index.html",
-        "RUQYU4YtOK4b0OIu6ZP28Q"
-    ],
-    [
-        "pages\/labs\/lab-6-wordpress\/scenario-1\/index.html",
-        "oSO1wLHPY5YJXnnuGSO8A"
-    ],
-    [
         "pages\/topics\/building-your-digital-identity\/index.html",
-        "x6eY3zU0MCYDxffHW9aYQ"
+        "sAtgllczLdAbwwRLNgddGA"
     ],
     [
         "pages\/resources\/screencasting\/index.html",
         "PnI1wcBC1tkSiiQI91wOJA"
     ],
     [
-        "pages\/resources\/past-student-work\/index.html",
-        "TdlNqCvduxajp1afRaI6PQ"
+        "pages\/labs\/lab-6-wordpress\/scenario-1\/index.html",
+        "oSO1wLHPY5YJXnnuGSO8A"
     ],
     [
-        "pages\/topics\/git\/index.html",
-        "4dPA5Mkn7qVU1eaF0pnA"
+        "pages\/labs\/building-your-digital-identity\/index.html",
+        "xRgqsrUg961a5xJxe36iJQ"
     ],
     [
-        "pages\/syllabus\/index.html",
-        "HcBvwTTPTo6hXVcH50Qrg"
+        "pages\/labs\/lab-11-accessibility\/index.html",
+        "RUQYU4YtOK4b0OIu6ZP28Q"
     ],
     [
         "pages\/labs\/lab-6-wordpress\/scenario-2\/index.html",
@@ -87,12 +75,20 @@ var precacheConfig = [
         "jnUOofP2TSOhgxQ7X8mgyQ"
     ],
     [
-        "pages\/materials\/index.html",
-        "mdQtLka1tcOrr7tRU0OA0w"
+        "pages\/syllabus\/index.html",
+        "HcBvwTTPTo6hXVcH50Qrg"
     ],
     [
-        "pages\/labs\/lab-6-wordpress\/submitting-the-lab\/index.html",
-        "gRT6cagqucIOh9mt8DihGQ"
+        "pages\/topics\/git\/index.html",
+        "jUVWouNNqecIJby3PSxljA"
+    ],
+    [
+        "pages\/resources\/past-student-work\/index.html",
+        "FoGVJp1dLcpFnuLQiu5A"
+    ],
+    [
+        "pages\/materials\/index.html",
+        "mdQtLka1tcOrr7tRU0OA0w"
     ],
     [
         "pages\/topics\/oerschema-1\/index.html",
@@ -107,12 +103,16 @@ var precacheConfig = [
         "e9tw6CTKDKHpWtUAiAEXSA"
     ],
     [
+        "pages\/labs\/lab-6-wordpress\/submitting-the-lab\/index.html",
+        "gRT6cagqucIOh9mt8DihGQ"
+    ],
+    [
         "pages\/goals-for-you-\/index.html",
         "J3jy0pfTCivBKrHulpBPQ"
     ],
     [
         "pages\/resources\/glossary\/index.html",
-        "sISA924D2VKLAKOvB9I2g"
+        "Jm7g3gCN4mUiU5mQrFO2iw"
     ],
     [
         "pages\/labs\/html-css-js-web-basics\/index.html",
@@ -120,7 +120,15 @@ var precacheConfig = [
     ],
     [
         "pages\/topics\/html-css-js-web-basics\/index.html",
-        "AuNYze2ZDbx0qbEV4Y0RDA"
+        "MxFoZpsgOisWrKWECBPYbg"
+    ],
+    [
+        "pages\/labs\/lab-5-gravcms\/index.html",
+        "5l5zwNzeWbiSe8L4owiEhA"
+    ],
+    [
+        "pages\/topics\/gravcms\/index.html",
+        "8CyV566WoTjymlgyYsSXg"
     ],
     [
         "pages\/class-time-together\/index.html",
@@ -131,16 +139,8 @@ var precacheConfig = [
         "8LGj6KFqiZqmP5gN4yAipA"
     ],
     [
-        "pages\/labs\/lab-5-gravcms\/index.html",
-        "5l5zwNzeWbiSe8L4owiEhA"
-    ],
-    [
-        "pages\/topics\/gravcms\/index.html",
-        "Lz897JCc3vYkuVtO3Ibg"
-    ],
-    [
         "pages\/topics\/wordpress\/index.html",
-        "MkTB23EinjgR0DroRdw"
+        "EWaVgTQFbH5wb4oIWpyEg"
     ],
     [
         "pages\/after-class-reflection\/index.html",
@@ -152,7 +152,7 @@ var precacheConfig = [
     ],
     [
         "pages\/topics\/drupal\/index.html",
-        "qmHrkKcetLcA4XYxBL2BvQ"
+        "xgHIrieeLwasEg2j91fLIg"
     ],
     [
         "pages\/technologies-we-explore\/index.html",
@@ -163,24 +163,20 @@ var precacheConfig = [
         "aNehAYvrtHGVtIGptHOew"
     ],
     [
-        "pages\/topics\/haxtheweb\/index.html",
-        "QlX5KYwS0nM8qeNrt8IEg"
-    ],
-    [
-        "pages\/labs\/lab-9-drupal-again\/index.html",
-        "5twsec2wsoYIm2AKjZHf6A"
-    ],
-    [
         "pages\/topics\/index.html",
         "y6hlenBzkWd3HyPnYxhYVw"
     ],
     [
-        "pages\/topics\/container\/index.html",
-        "eRLBfPNoZi7sg4i4bknWg"
+        "pages\/topics\/haxtheweb\/index.html",
+        "IUpTfd7MSh7Iw6wRQ2iE2w"
     ],
     [
         "pages\/topics\/webcomponents\/index.html",
-        "U0E4Fog6fN9iJdkZc4oUw"
+        "ynxUedpHfFmkuqfov5FpQA"
+    ],
+    [
+        "pages\/topics\/container\/index.html",
+        "eYO0Oky5iaLJRU6sYTwXCA"
     ],
     [
         "pages\/topics\/accessible-design\/index.html",
@@ -191,8 +187,12 @@ var precacheConfig = [
         "TW2SscAdklrJztKZLUG5Zg"
     ],
     [
+        "pages\/labs\/lab-9-drupal-again\/index.html",
+        "5twsec2wsoYIm2AKjZHf6A"
+    ],
+    [
         "pages\/labs\/w9-spring-break\/index.html",
-        "5S70V3ralDAMyxieyuEW0Q"
+        "IxmLiHXIfnfx1YfcFx2nA"
     ],
     [
         "pages\/labs\/index.html",
@@ -200,19 +200,19 @@ var precacheConfig = [
     ],
     [
         "pages\/labs\/labs\/lab-10-haxtheweb\/index.html",
-        "kkLpHqHJrDGbhND0HHEWQ"
-    ],
-    [
-        "pages\/labs\/lab-13-docker\/index.html",
-        "bOo16oV73il4XivvjV4Uw"
+        "erfO9u0D0Ua5sCFHqdaew"
     ],
     [
         "pages\/labs\/webcomponents-1\/index.html",
-        "v4nLd1Bxxwyby1sGNEuwg"
+        "bTsFwATMzEIgMjkpadxhCA"
+    ],
+    [
+        "pages\/labs\/lab-13-docker\/index.html",
+        "SMlcU0HLJOaPY2rlVx6JQ"
     ],
     [
         "pages\/labs\/lab-12-accessible-design\/index.html",
-        "ancBDkKt3cj1hnPCnts4Vw"
+        "7yynLP7ZsFhvnCJLy65OQ"
     ],
     [
         "pages\/labs\/lab-8-midterm-no-lab\/index.html",
@@ -224,11 +224,11 @@ var precacheConfig = [
     ],
     [
         "pages\/mid-term-review\/index.html",
-        "T16Z0XKLbsxpoXd4vbTWKg"
+        "5pN8zhwrLf0kK28pNfMQOw"
     ],
     [
         "pages\/project\/index.html",
-        "VIXF9XpUub59ESGRWYLYYg"
+        "wGVpnDTLYTd997pHxVYZnQ"
     ],
     [
         "pages\/resources\/index.html",
@@ -236,7 +236,7 @@ var precacheConfig = [
     ],
     [
         "index.html",
-        "WGa3vji4VdX4pB29a5rsbQ"
+        "8DziwZUUW7yRcamiowQ"
     ],
     [
         "files\/haxcms-managed\/512x512-IMG_20190823_102434 2.jpg",
@@ -288,7 +288,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "l1bwWGQgDDkT1r6a0K1iw"
+        "ZOnd3SXmoMuWuJVriRFu9Q"
     ],
     [
         "404.html",
@@ -301,6 +301,10 @@ var precacheConfig = [
     [
         "files\/ECrfY0IXUAA4qsQ.jpeg",
         "V5eA5Y3sQYGZuNDwfYH67Q"
+    ],
+    [
+        "files\/Screenshot from 2020-03-23 20-35-34.jpg",
+        "XzJBmqpM4HV60xLX3a1jSQ"
     ],
     [
         "files\/IMG_20191017_155041.jpg",
