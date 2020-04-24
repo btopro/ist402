@@ -46,8 +46,8 @@
             "density": "4.0"
         }
     ],
-    "scope": "/bto108/sites/ist402/",
-    "start_url": "/bto108/sites/ist402/",
+    "scope": "",
+    "start_url": "",
     "display": "standalone",
     "theme_color": "#aeff00",
     "background_color": "#aeff00"
