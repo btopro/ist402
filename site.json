@@ -256,14 +256,14 @@
             "order": "0",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "W1 Building your digital identity",
-            "description": "Lab 1This is a warm up lab that will help set the stage for the platforms we'll use for the rest of the semester. Now, I'm going to kick things off with the following:I'll showing you some some dif",
+            "description": "Lab 1This is a warm up lab that will help set the stage for the platforms we'll use for the rest of the semester. Now, I'm going to kick things off with the following:I'll showing you some some di",
             "metadata": {
                 "created": 1566568358,
-                "updated": 1584404503,
+                "updated": 1588348313,
                 "readtime": 3,
                 "contentDetails": {
                     "headings": 2,
-                    "paragraphs": 1,
+                    "paragraphs": 0,
                     "schema": [
                         {
                             "resource": "#b2b41292-2a5a-b2de-a3b3",
@@ -272,12 +272,11 @@
                     ],
                     "tags": {
                         "h2": 2,
-                        "video-player": 1,
-                        "p": 1,
+                        "grid-plate": 1,
                         "ol": 2,
                         "a11y-gif-player": 1
                     },
-                    "elements": 7
+                    "elements": 6
                 },
                 "published": true
             }
