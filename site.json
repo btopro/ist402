@@ -1116,6 +1116,14 @@
                         "type": "image\/jpeg",
                         "name": "IMG_20190307_142259.jpg",
                         "size": 32993
+                    },
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/headshot150550.0699999975.jpg",
+                        "fullUrl": "\/bto108\/sites\/ist402\/files\/headshot150550.0699999975.jpg",
+                        "url": "files\/headshot150550.0699999975.jpg",
+                        "type": "image\/jpeg",
+                        "name": "headshot150550.0699999975.jpg",
+                        "size": 177003
                     }
                 ]
             }
