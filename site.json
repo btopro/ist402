@@ -1387,15 +1387,15 @@
             "description": "This week we're going to write some basic code to make a web component with an optional tooling based approach to web development for those that have written HTML, CSS and JavaScript before. Let's tak",
             "metadata": {
                 "created": 1568831881,
-                "updated": 1588523001,
+                "updated": 1588523006,
                 "readtime": 2,
                 "contentDetails": {
-                    "headings": 2,
-                    "paragraphs": 7,
+                    "headings": 3,
+                    "paragraphs": 6,
                     "schema": [],
                     "tags": {
-                        "p": 7,
-                        "h2": 2,
+                        "p": 6,
+                        "h2": 3,
                         "ul": 1,
                         "ol": 1
                     },
