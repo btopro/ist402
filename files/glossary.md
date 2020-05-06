@@ -146,6 +146,14 @@ Here are some links to learn more:
 
 
 ## Polymer Project
+Polymer project is an open-source JavaScript library that developed by google for building web applications using Web Components. The initial release of Polymer was May 29, 2015. The library is being developed by Google developers and contributors on GitHub. Modern design principles are implemented as a separate project using Google's Material Design principles. Polymer is used by a number of Google services and websites, including the redesigned YouTube, YouTube Gaming, the redesigned Google Earth, Google I/O websites, Google Play Music, redesign of Google Sites and Allo for web. 
+
+Public development of Polymer began on Nov 14, 2013 with the release of a Promises Polyfill. This steadily expanded into a web design library covering visual styling guidelines (via Material Design), data binding, and a large number of "Core" and "Paper" Web Components. Polymer has begun to gain increasing recognition in the market, with spikes in use in 2015 and 2016 as documented by the website BuiltWith. Special attention has been paid to its structured design process, allowing for an interoperable "lego block" structure.
+
+Here are some links to learn more about Polymer project:
+About Polymer 1.0: https://polymer-library.polymer-project.org/1.0/docs/about_10
+A tutorial of Polymer: https://www.tutorialspoint.com/polymer/polymer_overview.htm
+Polymer vs Angular: https://www.binpress.com/polymer-vs-angular/
 
 
 ## Web Components
