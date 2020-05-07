@@ -519,3 +519,9 @@ Some companies that use PaaS every single day are AWS, Google App Engine, VMware
 - https://www.marketjournal.co.uk/public-cloud-platform-as-a-service-paas-market-growth-scenario-2025/80323/
 
 ## SaaS
+I decided to review SaaS. SaaS stands for Software as a Service and is a cloud based software. it helps all size corporations and is nearly the default for 2020 business technology. It allows data to be accessed by any device with internet. They do no require huge amounts of software and are typically paid by subscriptions. 
+
+For more info visit:
+- [10 FAQ's] (https://www.softwareadvice.com/resources/saas-10-faqs-software-service/)
+- [What is SaaS] (https://www.techradar.com/news/what-is-saas)
+- [SaaS Advantages] (https://technologyadvice.com/blog/information-technology/advantages-of-software-as-a-service-saas-2/)
