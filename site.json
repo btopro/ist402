@@ -1335,22 +1335,16 @@
             "description": "We'll have a lab almost every week of the semester which we'll start in class and then will be yours to finish on your own time. Most labs should be able to be completed in 1-2 hours total.Remember t",
             "metadata": {
                 "created": 1566568358,
-                "updated": 1590167734,
+                "updated": 1590167821,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
                     "paragraphs": 3,
-                    "schema": [
-                        {
-                            "resource": "#a9407eef-bce1-f166-bd65-c18230dccc99",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
+                    "schema": [],
                     "tags": {
-                        "p": 3,
-                        "video-player": 1
+                        "p": 3
                     },
-                    "elements": 4
+                    "elements": 3
                 }
             }
         },
