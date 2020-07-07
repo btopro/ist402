@@ -60,7 +60,7 @@ var precacheConfig = [
     ],
     [
         "pages\/labs\/building-your-digital-identity\/index.html",
-        "xRgqsrUg961a5xJxe36iJQ"
+        "RIaCY5YP8RXnspmRPzurQ"
     ],
     [
         "pages\/labs\/lab-11-accessibility\/index.html",
@@ -164,7 +164,7 @@ var precacheConfig = [
     ],
     [
         "pages\/topics\/index.html",
-        "y6hlenBzkWd3HyPnYxhYVw"
+        "THFyaDoGI1fY2qDK9lKmgg"
     ],
     [
         "pages\/topics\/haxtheweb\/index.html",
@@ -204,7 +204,7 @@ var precacheConfig = [
     ],
     [
         "pages\/labs\/webcomponents-1\/index.html",
-        "bTsFwATMzEIgMjkpadxhCA"
+        "9tI7ZHIJbvWhHt90WdvhQ"
     ],
     [
         "pages\/labs\/lab-13-docker\/index.html",
@@ -228,7 +228,7 @@ var precacheConfig = [
     ],
     [
         "pages\/project\/index.html",
-        "mJZ2vBWcY6pZiusYFZklw"
+        "ynspiou59ACENqeWrnYNg"
     ],
     [
         "pages\/resources\/index.html",
@@ -236,7 +236,7 @@ var precacheConfig = [
     ],
     [
         "index.html",
-        "8jL4Zkysrz1VTV4l73HRQ"
+        "QitTBCqPt0HFrPfiUx4AA"
     ],
     [
         "files\/haxcms-managed\/512x512-IMG_20190823_102434 2.jpg",
@@ -288,7 +288,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "efLAUrkDYahYcajiggM4UQ"
+        "taAiJhBWmbZmaXK4ogFElg"
     ],
     [
         "404.html",
@@ -321,6 +321,10 @@ var precacheConfig = [
     [
         "files\/TRY1UF54J-USAQWR4GY-57ce9ad62766-512.jpeg",
         "ik0zhwR6GwRBZSleT0ctQA"
+    ],
+    [
+        "files\/headshot150550.0699999975.jpg",
+        "qDMgpYVVKUOrhuVtKVacA"
     ],
     [
         "files\/Screenshot from 2020-01-22 17-07-35.png",
