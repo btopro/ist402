@@ -102,10 +102,10 @@
             "order": "0",
             "parent": null,
             "title": "Welcome",
-            "description": "IST 402: Emerging TechnologiesRepo backing this websiteMy name is Bryan Ollendyke, and welcome to IST 402: Emerging Tech!I am excited to expose you to the ideas and technologies I wish I had been",
+            "description": "IST 402: Emerging TechnologiesA GIT\u00a0repo is backing this website, check it out!My name is Bryan Ollendyke, and welcome to IST 402: Emerging Tech!I am excited to expose you to the ideas and techn",
             "metadata": {
                 "created": 1565898366,
-                "updated": 1594701309,
+                "updated": 1595959774,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/\/headshot.jpg",
