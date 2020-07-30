@@ -1,6 +1,6 @@
 {
   "name": "ist402",
-  "version": "1.1.3",
+  "version": "1.2.13",
   "description": "Web Technologies and Activism",
   "main": "index.html",
   "repository": {
@@ -31,7 +31,7 @@
     "@lrnwebcomponents/image-compare-slider": "^2.0.1",
     "@lrnwebcomponents/license-element": "^2.0.1",
     "@lrnwebcomponents/lrn-aside": "^2.0.1",
-    "@lrnwebcomponents/lrn-calendar": "^2.0.1",
+    
     "@lrnwebcomponents/lrn-icons": "^2.0.1",
     "@lrnwebcomponents/lrn-math": "^2.0.1",
     "@lrnwebcomponents/lrn-table": "^2.0.1",
@@ -64,7 +64,6 @@
     "@lrnwebcomponents/tab-list": "^2.0.1",
     "@lrnwebcomponents/task-list": "^2.0.1",
     "@lrnwebcomponents/video-player": "^2.0.1",
-    "@lrnwebcomponents/wave-player": "^2.0.1",
     "@lrnwebcomponents/wikipedia-query": "^2.0.1",
     "@polymer/app-localize-behavior": "^3.0.1",
     "@polymer/iron-a11y-keys": "^3.0.0",

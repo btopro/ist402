@@ -40,7 +40,7 @@
 var precacheConfig = [
     [
         "pages\/welcome\/index.html",
-        "UfMo2zh5JKOoUVo7OGrLYw"
+        "FZjZ6vncDhyaB9wyRC90Pw"
     ],
     [
         "pages\/welcome\/welcome\/about-the-instructor\/index.html",
@@ -108,7 +108,7 @@ var precacheConfig = [
     ],
     [
         "pages\/goals-for-you-\/index.html",
-        "J3jy0pfTCivBKrHulpBPQ"
+        "HudnBXYg7PyNPxto4BA6cQ"
     ],
     [
         "pages\/resources\/glossary\/index.html",
@@ -164,7 +164,7 @@ var precacheConfig = [
     ],
     [
         "pages\/topics\/index.html",
-        "THFyaDoGI1fY2qDK9lKmgg"
+        "KUFPCuqFmduTXrV6whzXw"
     ],
     [
         "pages\/topics\/haxtheweb\/index.html",
@@ -228,7 +228,7 @@ var precacheConfig = [
     ],
     [
         "pages\/project\/index.html",
-        "ynspiou59ACENqeWrnYNg"
+        "9EJX5xnPHhkiKmLXUX0Uw"
     ],
     [
         "pages\/resources\/index.html",
@@ -236,7 +236,7 @@ var precacheConfig = [
     ],
     [
         "index.html",
-        "QitTBCqPt0HFrPfiUx4AA"
+        "hu8mkOcN44izmd0T3mNhlg"
     ],
     [
         "files\/haxcms-managed\/512x512-IMG_20190823_102434 2.jpg",
@@ -284,11 +284,11 @@ var precacheConfig = [
     ],
     [
         "manifest.json",
-        "CaDCUEIfSntkoTB9bN2FZw"
+        "NQ6UNvs0WLO64hLCcFE39A"
     ],
     [
         "site.json",
-        "taAiJhBWmbZmaXK4ogFElg"
+        "gfwWnwRTWv84tQYSYFf7fw"
     ],
     [
         "404.html",

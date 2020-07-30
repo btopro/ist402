@@ -37,7 +37,8 @@
             "src": "files/haxcms-managed/192x192-IMG_20190823_102434 2.jpg",
             "sizes": "192x192",
             "type": "image\/png",
-            "density": "4.0"
+            "density": "4.0",
+            "purpose": "any maskable"
         },
         {
             "src": "files/haxcms-managed/512x512-IMG_20190823_102434 2.jpg",
@@ -46,8 +47,8 @@
             "density": "4.0"
         }
     ],
-    "scope": "",
-    "start_url": "",
+    "scope": "/bto108/sites/ist402/",
+    "start_url": "/bto108/sites/ist402/",
     "display": "standalone",
     "theme_color": "#aeff00",
     "background_color": "#aeff00"
