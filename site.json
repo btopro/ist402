@@ -386,16 +386,23 @@
             "description": "A standard syllabus is a contract between us. You can see past ones as well if interested.IST 402 Spring 2020 Syllabus (PDF) \/ (Docx)",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1594736365,
+                "updated": 1604595133,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 2,
-                    "schema": [],
+                    "paragraphs": 4,
+                    "schema": [
+                        {
+                            "typeof": "oer:Assessment",
+                            "resource": "#d4dd91ba-e904-47a1-90c4-c48480c80f07",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
                     "tags": {
-                        "p": 2
+                        "p": 4,
+                        "multiple-choice": 1
                     },
-                    "elements": 2
+                    "elements": 5
                 },
                 "files": [
                     {
