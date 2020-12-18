@@ -102,10 +102,10 @@
             "order": "0",
             "parent": null,
             "title": "Welcome",
-            "description": "IST 402: Emerging TechnologiesA GIT\u00a0repo is backing this website, check it out!My name is Bryan Ollendyke, and welcome to IST 402: Emerging Tech!I am excited to expose you to the ideas and techn",
+            "description": "IST 402: Emerging TechnologiesDyStOpIaN TechnologiesCourse currently under revision for Spring 2021. You are free to check out the Spring 2020 offering. The new version will take on the dystopian",
             "metadata": {
                 "created": 1565898366,
-                "updated": 1595959774,
+                "updated": 1608321437,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/\/headshot.jpg",
@@ -116,18 +116,18 @@
                         "size": 32993
                     }
                 ],
-                "readtime": 3,
+                "readtime": 4,
                 "contentDetails": {
-                    "headings": 4,
-                    "paragraphs": 18,
+                    "headings": 5,
+                    "paragraphs": 20,
                     "schema": [],
                     "tags": {
-                        "h2": 3,
-                        "p": 18,
+                        "h2": 4,
+                        "p": 20,
                         "grid-plate": 2,
                         "h3": 1
                     },
-                    "elements": 24
+                    "elements": 27
                 }
             }
         },
