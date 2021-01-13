@@ -1636,21 +1636,19 @@
             "order": "11",
             "parent": null,
             "title": "Project",
-            "description": "Spring 2020 projectThe last weeks of the semester there will be a slightly longer lab that I'm calling a project. You'll have to put together a pitch for one of multiple problem spaces but it's a tec",
+            "description": "Announced as we get closer to the end of the semester",
             "metadata": {
                 "created": 1565968185,
-                "updated": 1594739177,
-                "readtime": 7,
+                "updated": 1610550568,
+                "readtime": 1,
                 "contentDetails": {
-                    "headings": 8,
-                    "paragraphs": 20,
+                    "headings": 0,
+                    "paragraphs": 1,
                     "schema": [],
                     "tags": {
-                        "h2": 8,
-                        "p": 20,
-                        "ul": 6
+                        "p": 1
                     },
-                    "elements": 34
+                    "elements": 1
                 }
             }
         },
