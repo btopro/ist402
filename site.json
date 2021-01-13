@@ -431,14 +431,14 @@
             "order": "1",
             "parent": null,
             "title": "Syllabus",
-            "description": "A standard syllabus is a contract between us. You can see past ones as well if interested.IST 402 Spring 2020 Syllabus (PDF) \/ (Docx)",
+            "description": "A standard syllabus is a contract between us. You can see past ones as well if interested.IST 402 Spring 2021 Syllabus (PDF) \/ (Docx) (coming soon)",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1604595133,
+                "updated": 1610554158,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 4,
+                    "paragraphs": 2,
                     "schema": [
                         {
                             "typeof": "oer:Assessment",
@@ -447,10 +447,10 @@
                         }
                     ],
                     "tags": {
-                        "p": 4,
+                        "p": 2,
                         "multiple-choice": 1
                     },
-                    "elements": 5
+                    "elements": 3
                 },
                 "files": [
                     {
