@@ -650,18 +650,15 @@ please consider using social media to send out links to your resource after post
   <entry>
     <title>Drupal</title>
     <id>/topics/drupal</id>
-    <updated>2020-03-16T20:21:43-04:00</updated>
+    <updated>2021-01-13T10:06:41-05:00</updated>
     <published>2019-10-03T20:07:06-04:00</published>
-    <summary>Drupal Slides for this topic (Spring 2020)Drupal again slides (Spring 2020)Drupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's conce</summary>
+    <summary>Drupal Slides for this topicDrupal week two slidesDrupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling</summary>
     <link href="/topics/drupal"/>
     
     <content type="html">
-      <![CDATA[ <p style="width: 100%;"><ul href="https://www.slideshare.net/BryanOllendyke1/edtechjoker-spring-2020-lecture-7-drupal-intro" style="width: 100%;"><li><a href="https://www.slideshare.net/BryanOllendyke1/edtechjoker-spring-2020-lecture-7-drupal-intro">Drupal Slides for this topic</a>
- (Spring 2020)</li>
-<li><a href="https://www.slideshare.net/BryanOllendyke1/edtechjoker-spring-2020-lecture-8-drupal-again">Drupal again slides</a>
- (Spring 2020)</li>
+      <![CDATA[ <ul href="https://www.slideshare.net/BryanOllendyke1/edtechjoker-spring-2020-lecture-7-drupal-intro" style="width: 100%;"><li>Drupal Slides for this topic</li>
+<li>Drupal week two slides</li>
 </ul>
-</p>
 <p>Drupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll use Drupal to model those relationships in the website.</p>
 <p>We'll learn about Content Types and fields to model data. Then we'll use Views in order to visualize that data and work with content entry to make sense of it all.</p>
 <p>Drupal is daunting at first but once you learn the concepts and experience them they form a repeatable pattern of development and site building that leads you into a large community with lots of financial opportunities.</p>

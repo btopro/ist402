@@ -1066,20 +1066,20 @@
             "order": "6",
             "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
             "title": "Drupal",
-            "description": "Drupal Slides for this topic (Spring 2020)Drupal again slides\u00a0(Spring 2020)Drupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's conce",
+            "description": "Drupal Slides for this topicDrupal week two slidesDrupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling",
             "metadata": {
                 "created": 1570147626,
-                "updated": 1584404503,
+                "updated": 1610550401,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 5,
+                    "paragraphs": 3,
                     "schema": [],
                     "tags": {
-                        "p": 5,
-                        "ul": 1
+                        "ul": 1,
+                        "p": 3
                     },
-                    "elements": 6
+                    "elements": 4
                 }
             }
         },
