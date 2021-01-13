@@ -284,6 +284,20 @@ channel to find them on YouTube. Watch their video for the git submission last w
   </entry>
   <entry>
     <title>Accessibility</title>
+    <id>/topics/accessibility-1</id>
+    <updated>2021-01-13T10:07:45-05:00</updated>
+    <published>2019-10-30T17:21:25-04:00</published>
+    <summary>My slides from class</summary>
+    <link href="/topics/accessibility-1"/>
+    
+    <content type="html">
+      <![CDATA[ <p>My slides from class</p>
+<a11y-gif-player src="https://media1.giphy.com/media/26u4eMlvKoTn7DfvG/giphy.gif" src-without-animation="https://media3.giphy.com/media/26u4eMlvKoTn7DfvG/480w_s.jpg" alt="Wheel chair user slowly being lowered by kegs down a ramp" schema-resource-id="#bc676c7d-31ce-58d0-f485" resource="#bc676c7d-31ce-58d0-f485" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 75%; margin: 0px auto; display: block;" tooltip="Toggle animation"></a11y-gif-player>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Accessibility</title>
     <id>/labs/lab-11-accessibility</id>
     <updated>2020-03-16T20:21:43-04:00</updated>
     <published>2019-10-30T17:21:25-04:00</published>
@@ -344,20 +358,6 @@ to understand issues and see what real reports look and feel like</p>
 </p>
 <p>Post link to page in HAXcms site with the video included in<b> #lab11-accessibility</b>
 </p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Accessibility</title>
-    <id>/topics/accessibility-1</id>
-    <updated>2021-01-13T10:07:45-05:00</updated>
-    <published>2019-10-30T17:21:25-04:00</published>
-    <summary>My slides from class</summary>
-    <link href="/topics/accessibility-1"/>
-    
-    <content type="html">
-      <![CDATA[ <p>My slides from class</p>
-<a11y-gif-player src="https://media1.giphy.com/media/26u4eMlvKoTn7DfvG/giphy.gif" src-without-animation="https://media3.giphy.com/media/26u4eMlvKoTn7DfvG/480w_s.jpg" alt="Wheel chair user slowly being lowered by kegs down a ramp" schema-resource-id="#bc676c7d-31ce-58d0-f485" resource="#bc676c7d-31ce-58d0-f485" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 75%; margin: 0px auto; display: block;" tooltip="Toggle animation"></a11y-gif-player>
  ]]>
     </content>
   </entry>
@@ -1006,43 +1006,6 @@ complexity and learning curve</span></li>
     </content>
   </entry>
   <entry>
-    <title>ClassicPress / WordPress</title>
-    <id>/topics/wordpress</id>
-    <updated>2021-01-13T10:06:11-05:00</updated>
-    <published>2019-10-01T14:02:52-04:00</published>
-    <summary>Lecture slides from this weekThis week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why i</summary>
-    <link href="/topics/wordpress"/>
-    
-    <content type="html">
-      <![CDATA[ <p style=""><span>Lecture slides from this week</span></p>
-<p>This week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why it powers (estimates, numbers differ by source) 33% to as much as 50% of sites on the internet.</p>
-<p>These sites could be everything from the Whitehouse down to every individual blog / new acount on wordpress.com (SaaS solution version) which is why people take some of that number with a grain of salt.</p>
-<p>It's a great platform to start your own website on but it's run into some recent controversies which are worth exploring - namely the battle for the heart of the community around a text editor. It's weird to think about, but when a CMS lives and dies by the ease of content entry, you can understand why the <b>new core mandatory</b>
- text editor called<b> Gutenberg</b>
- would attract positive and negative attention.</p>
-<p>With plans to phase out the "Classic Editor" in 2020 many people in the community are at a cross-roads: Continue to trust the same core community that "took away" their beloved simple HTML editor, or forge a new path. We'll look briefly at the concept of community forks through the context of ClassicPress, a popular WordPress alternative that's gaining traction as the more community centric CMS.</p>
-<p>With parallels to Drupal and it's popular fork Backdrop (topic for next lab) we'll see that it's not always code that leads to inflection points in groups but the process by which that code is formed, agreed upon, and ultimately pushed into the main project everyone's aligned with.</p>
-<p>WordPress is a great resume builder both in terms of the platform as well as putting on your resume that you have experience with it, so let's dig in and check it out in <a href="https://reclaimhosting.com/">ReclaimHosting</a>
- once more!</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Exam review</title>
-    <id>/mid-term-review</id>
-    <updated>2020-03-16T20:24:17-04:00</updated>
-    <published>2019-10-01T14:02:52-04:00</published>
-    <summary>To study I'd look through the lectures quickly to familiarize yourself with the words on the terminology slides of each week.Realize though that this is an "open web" review. The real world you can g</summary>
-    <link href="/mid-term-review"/>
-    
-    <content type="html">
-      <![CDATA[ <p style="width: 100%;">To study I'd look through the lectures quickly to familiarize yourself with the words on the terminology slides of each week.</p>
-<p style="width: 100%;">Realize though that this is an "open web" review. The real world you can google things if you get stuck and this is no different. Now, you can't take credit for other people's work in my class or IRL, so the TA will be proctoring this exam and ensuring that everyone's responsible for their own work.</p>
-<p style="width: 100%;">After the exam please answer the course survey questions as it helps me make changes for the future as well as the final project.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>W6 WordPress</title>
     <id>/labs/lab-6-wordpress</id>
     <updated>2020-03-16T20:21:43-04:00</updated>
@@ -1099,173 +1062,68 @@ complexity and learning curve</span></li>
     </content>
   </entry>
   <entry>
-    <title>W5 GravCMS</title>
-    <id>/labs/lab-5-gravcms</id>
-    <updated>2020-03-16T20:21:43-04:00</updated>
-    <published>2019-09-25T11:00:10-04:00</published>
-    <summary>Lab scenarioYouare a project manager in a design firmYour team is 1 developer, 1 sitebuilder, 1 designer and you report to theCEOYou think GravCMS might be a great way to deliver 10-</summary>
-    <link href="/labs/lab-5-gravcms"/>
+    <title>Exam review</title>
+    <id>/mid-term-review</id>
+    <updated>2020-03-16T20:24:17-04:00</updated>
+    <published>2019-10-01T14:02:52-04:00</published>
+    <summary>To study I'd look through the lectures quickly to familiarize yourself with the words on the terminology slides of each week.Realize though that this is an "open web" review. The real world you can g</summary>
+    <link href="/mid-term-review"/>
     
     <content type="html">
-      <![CDATA[ <h2><span style=""><span style="">Lab scenario</span><font face="Space Mono"><br/></font>
-</span>
-
-
-</h2>
-<ul><li><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">You
-are a project manager in a design firm</span></li>
-
-
-
-<li>Your team is 1 <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">developer</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">, 1 </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">site
-builder</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">, </span>1 <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">designer</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> and you report to </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">the</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">
-</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">CEO</span></li>
-
-
-
-<li>You think <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">GravCMS</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> might be a great way </span>to deliver 10-20 page marketing
-websites faster to small clients</li>
-
-
-
-
-<li>SEO is critical to rank high on Google or mom ‘n pop clients will close!!<span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">😲
-😲</span></li>
-
-
-
-
-<li>Your team <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">isn’t
-convinced on any CMS </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">as </span>they always build everything <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">from scratch</span></li>
-
-
-
-</ul>
-<h2><span style=""><span style="">Lab deliverable</span><font face="Space Mono"><br/></font>
-</span>
-
-
-</h2>
-<ul><li><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Sell the team on </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">by
-<a href="https://reclaimhosting.com/">building a site on ReclaimHosting</a>
-!</span></li>
-
-
-
-
-<li>Page 1: Management - How <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> will save money on
-projects?</span></li>
-
-
-
-
-<li>Page 2: Developer buy-in - How does <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> improve security?</span></li>
-
-
-
-
-<li>Page 3: Designer buy-in - How <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> can promote design / brand
-quality</span></li>
-
-
-
-
-<li>Page 4: Site builder buy-in - What does authoring feel like? How
-will <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">improve</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">their
-day to day interfacing with clients wanting content changes?</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"></span></li>
-
-
-
-
-<li>Page 5: Additional Resources - Link to 3 resources
-
-
- for the team to get
-more info</li>
-
-
-
-</ul>
-<h2><span style=""><span style="letter-spacing: -0.48px;">Submitting the Lab deliverable</span><br/></span></h2>
-<ul><li><span style=""><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Create your </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">GravCMS</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> site</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">
-with the 5 pages </span></span>meeting the objectives of each
-audience</li>
-
-
-
-<li>Record a video <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">demonstrating</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> 1 of the
-following:</span></li>
-
-
-
-
-<ul><li>How to add a new page and author in <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">GravCMS and </span>record yourself adding or modifying
-some of the pages in the
-deliverable</li>
-
-
-
-<li>How to add plugins, specifically the
-SEO plugin and demonstrate what it enables on
-social media by showing you sharing one of your
-pages on twitter, <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">F</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">acebook
-or </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">L</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">inkedin</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">.</span></li>
-
-
-
-</ul>
-
-
-
-
-<li>Embed a link to your YouTube video in the Additional
-Resources
-
-
-<span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> page
-of your </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> Site</span></li>
-
-
-
-<li>Post your link to your site in <span style="font-size: 16pt; font-family: &quot;Space Mono&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: bold;">#lab5-gravcms</span></li>
-
-
-
-</ul>
-<h2><span style="">Grading the Lab deliverable</span></h2>
-<ul><li><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Did you create a </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;">GravCMS</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> site in Reclaim and post </span>your link to the channel </li>
-
-
-<ul><li><b>2pts</b>
-
+      <![CDATA[ <p style="width: 100%;">To study I'd look through the lectures quickly to familiarize yourself with the words on the terminology slides of each week.</p>
+<p style="width: 100%;">Realize though that this is an "open web" review. The real world you can google things if you get stuck and this is no different. Now, you can't take credit for other people's work in my class or IRL, so the TA will be proctoring this exam and ensuring that everyone's responsible for their own work.</p>
+<p style="width: 100%;">After the exam please answer the course survey questions as it helps me make changes for the future as well as the final project.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>ClassicPress / WordPress</title>
+    <id>/topics/wordpress</id>
+    <updated>2021-01-13T10:06:11-05:00</updated>
+    <published>2019-10-01T14:02:52-04:00</published>
+    <summary>Lecture slides from this weekThis week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why i</summary>
+    <link href="/topics/wordpress"/>
+    
+    <content type="html">
+      <![CDATA[ <p style=""><span>Lecture slides from this week</span></p>
+<p>This week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why it powers (estimates, numbers differ by source) 33% to as much as 50% of sites on the internet.</p>
+<p>These sites could be everything from the Whitehouse down to every individual blog / new acount on wordpress.com (SaaS solution version) which is why people take some of that number with a grain of salt.</p>
+<p>It's a great platform to start your own website on but it's run into some recent controversies which are worth exploring - namely the battle for the heart of the community around a text editor. It's weird to think about, but when a CMS lives and dies by the ease of content entry, you can understand why the <b>new core mandatory</b>
+ text editor called<b> Gutenberg</b>
+ would attract positive and negative attention.</p>
+<p>With plans to phase out the "Classic Editor" in 2020 many people in the community are at a cross-roads: Continue to trust the same core community that "took away" their beloved simple HTML editor, or forge a new path. We'll look briefly at the concept of community forks through the context of ClassicPress, a popular WordPress alternative that's gaining traction as the more community centric CMS.</p>
+<p>With parallels to Drupal and it's popular fork Backdrop (topic for next lab) we'll see that it's not always code that leads to inflection points in groups but the process by which that code is formed, agreed upon, and ultimately pushed into the main project everyone's aligned with.</p>
+<p>WordPress is a great resume builder both in terms of the platform as well as putting on your resume that you have experience with it, so let's dig in and check it out in <a href="https://reclaimhosting.com/">ReclaimHosting</a>
+ once more!</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>GravCMS</title>
+    <id>/topics/gravcms</id>
+    <updated>2021-01-13T10:06:03-05:00</updated>
+    <published>2019-09-25T11:00:10-04:00</published>
+    <summary>Slides about CPanel & GravCMS from classThis week kicks off Reclaim hosting and our Content Management System section of the course. We're going to be covering four different content management syst</summary>
+    <link href="/topics/gravcms"/>
+    
+    <content type="html">
+      <![CDATA[ <p style=""><span>Slides about CPanel & GravCMS from class</span></p>
+<p>This week kicks off <a href="https://reclaimhosting.com/">Reclaim hosting</a>
+ and our Content Management System section of the course. We're going to be covering four different content management systems in this section of the course leveraging <a href="https://reclaimhosting.com/">Reclaim hosting</a>
+ to skip a lot of the tediousness of setting up and playing with a CMS.</p>
+<p>We'll talk about CPanel in the high level as far as what function it provides and navigate some of the parts of it a bit, though it won't be the focus. CPanel has been around forever (in web terms) and is still a powerful way to abstract away the complexity of managing servers and get you access to installing apps via a nice UI and mild technical knowledge.</p>
+<p>Listing CMS "Site building" skills on a resume is a sure fire way to get noticed by certain companies looking for people who can hit the ground running with their internal systems. It demonstrates that you know how to navigate technical systems and can be taught out to administer them (potentially).</p>
+<p>It's also a bit crazy as CMSs really are just big storage houses of information with text editors and other UIs that help streamline getting large groups of media and content on the web. The crazy part is, this really isn't that hard to do (as we'll demonstrate through these units) but a lot of people are so afraid of them that they won't touch them.</p>
+<p>Master any one of these popular CMSs coming up (especially Drupal coming up) and you'll stand out in any organization that manages web projects or interfaces regularly with the web properties of the company directly.</p>
+<h2 id="header-8b7b4132-bb05-1532-a85f-f2906798efc0">Links and resources for working with GravCMS</h2>
+<ul><li><a href="https://learn.getgrav.org/16/basics/basic-tutorial">GravCMS documentation</a>
+ (Basic tutorial of working with it)</li>
+<li><a href="https://getgrav.org/">GravCMS homepage</a>
 </li>
-
-
-</ul>
-
-
-
-<li>Did you create the 5 pages and effectively convey why <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">Grav</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"> is useful to different groups?</span></li>
-
-
-<ul><li><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"><b>4pts</b>
-
-</span></li>
-
-
-</ul>
-
-
-<li>Did you record a video demonstrating one of the two concepts in <span style="font-variant-numeric: normal; font-variant-east-asian: normal;">GravCMS</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal;" class="hax-active">? </span></li>
-
-
-<ul><li><span style="font-variant-numeric: normal; font-variant-east-asian: normal;"><b>4pts</b>
-
-</span></li>
-
-</ul>
-
-
+<li><a href="https://getgrav.org/downloads/plugins">GravCMS plugin listing</a>
+</li>
+<li><a href="https://github.com/getgrav">Grav community on Github</a>
+</li>
 </ul>
  ]]>
     </content>
