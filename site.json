@@ -102,10 +102,10 @@
             "order": "0",
             "parent": null,
             "title": "Welcome",
-            "description": "IST 402: Emerging TechnologiesIST 402: DyStOpIaN TechnologiesCourse currently under revision for Spring 2021. You are free to check out the Spring 2020 offering. The new version will take on the d",
+            "description": "IST 402: Emerging TechnologiesIST 402: DyStOpIaN Technologies    TOTALLY          NORMALCourse currently under revision for Spring 2021. You are free to check out the Spring 2020 offering. Th",
             "metadata": {
                 "created": 1565898366,
-                "updated": 1608321452,
+                "updated": 1610548451,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/\/headshot.jpg",
@@ -147,11 +147,11 @@
                     "schema": [],
                     "tags": {
                         "h2": 4,
+                        "grid-plate": 5,
                         "p": 20,
-                        "grid-plate": 2,
                         "h3": 1
                     },
-                    "elements": 27
+                    "elements": 30
                 }
             }
         },
