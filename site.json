@@ -604,11 +604,11 @@
             "slug": "topics\/oerschema-1",
             "order": "2",
             "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
-            "title": "OERSchema",
-            "description": "This week we'll have a guest speaker. Michael Collins is the Lead faculty member of the DMD program. An innovative online undergrad program in the College of Arts & Architecture that is a mesh of topi",
+            "title": "SEO",
+            "description": "This week we&#39;ll have a guest speaker. Michael Collins is the Lead faculty member of the DMD program. An innovative online undergrad program in the College of Arts & Architecture that is a mesh of topi",
             "metadata": {
                 "created": 1579730095,
-                "updated": 1584404503,
+                "updated": 1610550239,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/collins-image-3_1_1.png",
@@ -637,7 +637,8 @@
                         "p": 3
                     },
                     "elements": 4
-                }
+                },
+                "published": true
             }
         },
         {
