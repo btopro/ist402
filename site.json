@@ -472,10 +472,10 @@
             "order": "1",
             "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
             "title": "Git \/ Github \/ Contribution",
-            "description": "Link to the slides from class\u00a0(Spring 2020)Github git cheatsheetGitflow imageMarkdown CheatsheetGit is a free and open source distributed version control system designed to handle everything",
+            "description": "Link to the slides from classGithub git cheatsheetGitflow imageMarkdown CheatsheetGit is a free and open source distributed version control system designed to handle everything from small to v",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1584404503,
+                "updated": 1610550199,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/\/2019-08-24_15-21-52.png",
@@ -500,9 +500,10 @@
                         "p": 8,
                         "ul": 2,
                         "lrndesign-blockquote": 1,
+                        "code-sample": 1,
                         "img": 1
                     },
-                    "elements": 12
+                    "elements": 13
                 }
             }
         },
