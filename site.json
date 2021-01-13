@@ -122,6 +122,14 @@
                         "type": "image\/jpeg",
                         "name": "headshot47714.570000000094.jpg",
                         "size": 127729
+                    },
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/headshot62324.75000000022.jpg",
+                        "fullUrl": "\/bto108\/sites\/ist402\/files\/headshot62324.75000000022.jpg",
+                        "url": "files\/headshot62324.75000000022.jpg",
+                        "type": "image\/jpeg",
+                        "name": "headshot62324.75000000022.jpg",
+                        "size": 138358
                     }
                 ],
                 "readtime": 4,
