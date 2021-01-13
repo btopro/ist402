@@ -40,7 +40,7 @@
 var precacheConfig = [
     [
         "pages\/welcome\/index.html",
-        "FZjZ6vncDhyaB9wyRC90Pw"
+        "5CGm1NEoM4M7n9hCgrLhmQ"
     ],
     [
         "pages\/welcome\/welcome\/about-the-instructor\/index.html",
@@ -48,7 +48,7 @@ var precacheConfig = [
     ],
     [
         "pages\/topics\/building-your-digital-identity\/index.html",
-        "sAtgllczLdAbwwRLNgddGA"
+        "3pzapxk37owOHeanmrk1Ew"
     ],
     [
         "pages\/resources\/screencasting\/index.html",
@@ -76,11 +76,11 @@ var precacheConfig = [
     ],
     [
         "pages\/syllabus\/index.html",
-        "HcBvwTTPTo6hXVcH50Qrg"
+        "IuLVxVEG889de7AkUBSxQ"
     ],
     [
         "pages\/topics\/git\/index.html",
-        "jUVWouNNqecIJby3PSxljA"
+        "Yw1SqldbZEGGwMBm244NA"
     ],
     [
         "pages\/resources\/past-student-work\/index.html",
@@ -92,7 +92,7 @@ var precacheConfig = [
     ],
     [
         "pages\/topics\/oerschema-1\/index.html",
-        "Z5N1p9bLlJ5kdUYNoIthVQ"
+        "vhCikVz58HXfZ9mSIcGXuw"
     ],
     [
         "pages\/labs\/improving-your-digital-identity\/index.html",
@@ -120,7 +120,7 @@ var precacheConfig = [
     ],
     [
         "pages\/topics\/html-css-js-web-basics\/index.html",
-        "MxFoZpsgOisWrKWECBPYbg"
+        "XKI1cELVpmUvFajts9Dfhg"
     ],
     [
         "pages\/labs\/lab-5-gravcms\/index.html",
@@ -128,7 +128,7 @@ var precacheConfig = [
     ],
     [
         "pages\/topics\/gravcms\/index.html",
-        "8CyV566WoTjymlgyYsSXg"
+        "nze3a2igNSaldH8XXj3Kw"
     ],
     [
         "pages\/class-time-together\/index.html",
@@ -140,7 +140,7 @@ var precacheConfig = [
     ],
     [
         "pages\/topics\/wordpress\/index.html",
-        "EWaVgTQFbH5wb4oIWpyEg"
+        "DseIkIDpnW94dAFRlgB0A"
     ],
     [
         "pages\/after-class-reflection\/index.html",
@@ -152,15 +152,15 @@ var precacheConfig = [
     ],
     [
         "pages\/topics\/drupal\/index.html",
-        "xgHIrieeLwasEg2j91fLIg"
+        "zsL05FqNoaHPoY702X4Vw"
     ],
     [
         "pages\/technologies-we-explore\/index.html",
-        "cmqfd8jaG10H8thH9CaQ"
+        "MQmx3SXa0xO5L2GvAH9Cw"
     ],
     [
         "pages\/labs\/lab-7-drupal\/index.html",
-        "aNehAYvrtHGVtIGptHOew"
+        "92Vi1Gtaa8pKVInbBBrPw"
     ],
     [
         "pages\/topics\/index.html",
@@ -168,23 +168,23 @@ var precacheConfig = [
     ],
     [
         "pages\/topics\/haxtheweb\/index.html",
-        "IUpTfd7MSh7Iw6wRQ2iE2w"
+        "vEsjFQfH4sxx44AcWrns1w"
     ],
     [
         "pages\/topics\/webcomponents\/index.html",
-        "ynxUedpHfFmkuqfov5FpQA"
+        "LN1eBsnhX7XBXD9uzaeqYg"
     ],
     [
         "pages\/topics\/container\/index.html",
-        "eYO0Oky5iaLJRU6sYTwXCA"
+        "pjMR7BALpST8ncuPUJSw"
     ],
     [
         "pages\/topics\/accessible-design\/index.html",
-        "8tPoaqm4VRhoSfWfGhnJXA"
+        "8OdI8gmtqiYZ5Od2Gn5Q"
     ],
     [
         "pages\/topics\/accessibility-1\/index.html",
-        "TW2SscAdklrJztKZLUG5Zg"
+        "Fyn1p1DUyxaODVecLRA7Q"
     ],
     [
         "pages\/labs\/lab-9-drupal-again\/index.html",
@@ -196,7 +196,7 @@ var precacheConfig = [
     ],
     [
         "pages\/labs\/index.html",
-        "aQKNQ6jZVg7OBSvi4xbeRw"
+        "I8kI4kjOgCngThoiu2fmA"
     ],
     [
         "pages\/labs\/labs\/lab-10-haxtheweb\/index.html",
@@ -219,16 +219,12 @@ var precacheConfig = [
         "v5TYWguyOIyQrNr9dbtQ"
     ],
     [
-        "pages\/feedback\/index.html",
-        "FSkTDVcHau3hbvbJ7R8BPQ"
-    ],
-    [
         "pages\/mid-term-review\/index.html",
         "5pN8zhwrLf0kK28pNfMQOw"
     ],
     [
         "pages\/project\/index.html",
-        "9EJX5xnPHhkiKmLXUX0Uw"
+        "qc2Xi1EfQPYcKspmcROe4w"
     ],
     [
         "pages\/resources\/index.html",
@@ -236,51 +232,51 @@ var precacheConfig = [
     ],
     [
         "index.html",
-        "hu8mkOcN44izmd0T3mNhlg"
+        "UIRFSxtYACK1JhxIoRvlA"
     ],
     [
-        "files\/haxcms-managed\/512x512-IMG_20190823_102434 2.jpg",
-        "RMuKEMmXQwyCiEFWW59N0A"
+        "files\/haxcms-managed\/512x512-1633609907554_48eae0bf5903e0f3b990_132.jpg",
+        "9Wf6069hJyJPtoxlS1cA"
     ],
     [
-        "files\/haxcms-managed\/310x310-IMG_20190823_102434 2.jpg",
-        "x5VRkvbVlfcnhZvQ2eLZA"
+        "files\/haxcms-managed\/310x310-1633609907554_48eae0bf5903e0f3b990_132.jpg",
+        "uwtRlXLx2G9ncWHAa0GBvg"
     ],
     [
-        "files\/haxcms-managed\/192x192-IMG_20190823_102434 2.jpg",
-        "wTVCFKtpmsW0SvRGrAFw"
+        "files\/haxcms-managed\/192x192-1633609907554_48eae0bf5903e0f3b990_132.jpg",
+        "ff18DSwWpofGKYYNlHBPXg"
     ],
     [
-        "files\/haxcms-managed\/150x150-IMG_20190823_102434 2.jpg",
-        "gjkMQhlMXvrthcbqBSc8Q"
+        "files\/haxcms-managed\/150x150-1633609907554_48eae0bf5903e0f3b990_132.jpg",
+        "itt9pr1OiO46sBxUCoiwFA"
     ],
     [
-        "files\/haxcms-managed\/144x144-IMG_20190823_102434 2.jpg",
-        "J9XNQQWTXSKLPJmyOoAWA"
+        "files\/haxcms-managed\/144x144-1633609907554_48eae0bf5903e0f3b990_132.jpg",
+        "q3duSjqq9RcEveeJ347oTQ"
     ],
     [
-        "files\/haxcms-managed\/96x96-IMG_20190823_102434 2.jpg",
-        "HzYZ8IvE9wfJHAEjkgONRQ"
+        "files\/haxcms-managed\/96x96-1633609907554_48eae0bf5903e0f3b990_132.jpg",
+        "iwv5TULXJkb0hYVC86xoMA"
     ],
     [
-        "files\/haxcms-managed\/72x72-IMG_20190823_102434 2.jpg",
-        "bP4mQkAWnVEa1PFiTobA"
+        "files\/haxcms-managed\/72x72-1633609907554_48eae0bf5903e0f3b990_132.jpg",
+        "SL3AjdmEtw2gtUFTXTa8XA"
     ],
     [
-        "files\/haxcms-managed\/70x70-IMG_20190823_102434 2.jpg",
-        "QHr7eI2l4ETGVE2tmIedQ"
+        "files\/haxcms-managed\/70x70-1633609907554_48eae0bf5903e0f3b990_132.jpg",
+        "cXFcAJoEXHV8DKOhsS8DQ"
     ],
     [
-        "files\/haxcms-managed\/48x48-IMG_20190823_102434 2.jpg",
-        "VC1M2eBkPS47I02q1j2I4A"
+        "files\/haxcms-managed\/48x48-1633609907554_48eae0bf5903e0f3b990_132.jpg",
+        "x8nKVmOpuNTkYyCNN0B43w"
     ],
     [
-        "files\/haxcms-managed\/36x36-IMG_20190823_102434 2.jpg",
-        "aP82luzmv19QDAnjWvW0aA"
+        "files\/haxcms-managed\/36x36-1633609907554_48eae0bf5903e0f3b990_132.jpg",
+        "tF4bn4ZJmVByjGD7PjWVg"
     ],
     [
-        "files\/haxcms-managed\/16x16-IMG_20190823_102434 2.jpg",
-        "MC2oEa4LYQvAnSJAw65c2w"
+        "files\/haxcms-managed\/16x16-1633609907554_48eae0bf5903e0f3b990_132.jpg",
+        "9MjhEMozlnqJaw5aZjP30Q"
     ],
     [
         "manifest.json",
@@ -288,7 +284,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "zuCSs2g8EFW4BieHgKRSoA"
+        "X4Wdw0ntdHeYJ5I2moRKuQ"
     ],
     [
         "404.html",
@@ -297,6 +293,10 @@ var precacheConfig = [
     [
         "files\/giphy.gif",
         "h1yR0gvHTSroF3LTwkHtXA"
+    ],
+    [
+        "files\/edtechjoker-dedsec-cyberpunk_v1-31.gif",
+        "zJQJGLg3jfwTXdAiLpzw"
     ],
     [
         "files\/ECrfY0IXUAA4qsQ.jpeg",
@@ -339,6 +339,10 @@ var precacheConfig = [
         "IQky5nv52blp5v69f6Tw"
     ],
     [
+        "files\/edtechjoker-dedsec-cyberpunk_v1-3.gif",
+        "oEJSRSIuXt6r3WvCrJNTw"
+    ],
+    [
         "files\/RH-VHS-Logo-Blue-with-Orange-620x394-nqnrgrvruqaafj3kts3ak8jyhc9fgbvks86drh3eek-1.png",
         "RkM8wN4a4REWkKRJ0UZQ"
     ],
@@ -351,8 +355,20 @@ var precacheConfig = [
         "rorcFAwJBlE1DiVQ0SOYg"
     ],
     [
+        "files\/headshot62324.75000000022.jpg",
+        "JggnG04skvPa5br3DkorHw"
+    ],
+    [
         "files\/headshot.jpg",
         "JkwKNRVzizk5HjpprMaLPQ"
+    ],
+    [
+        "files\/1633609907554_48eae0bf5903e0f3b990_132.jpg",
+        "0N7Kv72QP7ww1vRGXFEzA"
+    ],
+    [
+        "files\/edtechjoker-dedsec-cyberpunk_v1-32.gif",
+        "5gSX641nWhC3sHnqCLgM6A"
     ],
     [
         "files\/IMG_20190823_102434 2.jpg",
@@ -361,6 +377,10 @@ var precacheConfig = [
     [
         "files\/Drupal2020.jpg",
         "TgUHYvKFJ9kjSB04EtxTeg"
+    ],
+    [
+        "files\/headshot47714.570000000094.jpg",
+        "RXTUIT3CtjPhwKapM8sNtg"
     ],
     [
         "files\/courselinks.csv",
