@@ -745,21 +745,24 @@
             "order": "3",
             "parent": null,
             "title": "Goals.. for you!",
-            "description": "My primary goal for you is to learn new things about modern web technologies while getting hands on with them. More specifically..Learning not just what a technology is but...Who's using it, what in",
+            "description": "My hope for youThat you'll use this experience as a vehicle to free your mind and enact your own change on the world. Whether it's the lectures and concepts of this course, a great blog, a TED talk, ",
             "metadata": {
                 "created": 1566414674,
-                "updated": 1594670605,
-                "readtime": 1,
+                "updated": 1611026184,
+                "readtime": 2,
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 2,
+                    "headings": 2,
+                    "paragraphs": 6,
                     "schema": [],
                     "tags": {
-                        "p": 2,
+                        "h2": 1,
+                        "p": 6,
+                        "media-image": 1,
+                        "h3": 1,
                         "ul": 1,
                         "meme-maker": 1
                     },
-                    "elements": 4
+                    "elements": 11
                 }
             }
         },
