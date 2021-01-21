@@ -190,20 +190,26 @@
             "description": "This is the approved, boring version of this course.My name is Bryan Ollendyke and I've been living working at Penn State since 2007. I did my undergrad in IST and was able to get a job working in ",
             "metadata": {
                 "created": 1565898527,
-                "updated": 1584404503,
+                "updated": 1611250148,
                 "readtime": 2,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 9,
+                    "paragraphs": 7,
                     "schema": [
                         {
                             "resource": "#0e8a5bdc-121d-e719-bbe6",
                             "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        },
+                        {
+                            "resource": "#3fc42b83-2d9d-2fe0-84d4-17645ccb8087",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
                         }
                     ],
                     "tags": {
-                        "p": 9,
-                        "a11y-gif-player": 1
+                        "p": 7,
+                        "a11y-gif-player": 1,
+                        "grid-plate": 1,
+                        "video-player": 1
                     },
                     "elements": 10
                 },
