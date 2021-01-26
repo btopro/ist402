@@ -44,99 +44,99 @@ var precacheConfig = [
     ],
     [
         "pages\/welcome\/welcome\/about-the-instructor\/index.html",
-        "j40WSpbCtJxlmtYB4lU4eA"
-    ],
-    [
-        "pages\/topics\/building-your-digital-identity\/index.html",
-        "3pzapxk37owOHeanmrk1Ew"
-    ],
-    [
-        "pages\/resources\/screencasting\/index.html",
-        "PnI1wcBC1tkSiiQI91wOJA"
-    ],
-    [
-        "pages\/labs\/lab-6-wordpress\/scenario-1\/index.html",
-        "oSO1wLHPY5YJXnnuGSO8A"
+        "16ta5t4NFuGl2mIDFVOlww"
     ],
     [
         "pages\/labs\/building-your-digital-identity\/index.html",
-        "RIaCY5YP8RXnspmRPzurQ"
+        "Cneu1ifdPojQIJHqc4cmgQ"
     ],
     [
         "pages\/labs\/lab-11-accessibility\/index.html",
         "RUQYU4YtOK4b0OIu6ZP28Q"
     ],
     [
-        "pages\/labs\/lab-6-wordpress\/scenario-2\/index.html",
-        "xJnbxu0fn0N0aDiHsaqA"
+        "pages\/labs\/lab-6-wordpress\/scenario-1\/index.html",
+        "oSO1wLHPY5YJXnnuGSO8A"
     ],
     [
-        "pages\/labs\/git\/index.html",
-        "jnUOofP2TSOhgxQ7X8mgyQ"
+        "pages\/resources\/screencasting\/index.html",
+        "PnI1wcBC1tkSiiQI91wOJA"
     ],
     [
-        "pages\/syllabus\/index.html",
-        "IuLVxVEG889de7AkUBSxQ"
-    ],
-    [
-        "pages\/topics\/git\/index.html",
-        "Yw1SqldbZEGGwMBm244NA"
-    ],
-    [
-        "pages\/resources\/past-student-work\/index.html",
-        "FoGVJp1dLcpFnuLQiu5A"
-    ],
-    [
-        "pages\/materials\/index.html",
-        "mdQtLka1tcOrr7tRU0OA0w"
-    ],
-    [
-        "pages\/topics\/oerschema-1\/index.html",
-        "vhCikVz58HXfZ9mSIcGXuw"
-    ],
-    [
-        "pages\/labs\/improving-your-digital-identity\/index.html",
-        "4aPVeIPxmDP3IXishlT0A"
-    ],
-    [
-        "pages\/resources\/links-to-learn-more\/index.html",
-        "e9tw6CTKDKHpWtUAiAEXSA"
-    ],
-    [
-        "pages\/labs\/lab-6-wordpress\/submitting-the-lab\/index.html",
-        "gRT6cagqucIOh9mt8DihGQ"
-    ],
-    [
-        "pages\/goals-for-you-\/index.html",
-        "HudnBXYg7PyNPxto4BA6cQ"
-    ],
-    [
-        "pages\/resources\/glossary\/index.html",
-        "Jm7g3gCN4mUiU5mQrFO2iw"
-    ],
-    [
-        "pages\/labs\/html-css-js-web-basics\/index.html",
-        "VtgwXVCJT5yNpN6PNa6RSA"
+        "pages\/topics\/building-your-digital-identity\/index.html",
+        "3pzapxk37owOHeanmrk1Ew"
     ],
     [
         "pages\/topics\/html-css-js-web-basics\/index.html",
         "XKI1cELVpmUvFajts9Dfhg"
     ],
     [
-        "pages\/labs\/lab-5-gravcms\/index.html",
-        "5l5zwNzeWbiSe8L4owiEhA"
+        "pages\/resources\/past-student-work\/index.html",
+        "FoGVJp1dLcpFnuLQiu5A"
     ],
     [
-        "pages\/topics\/gravcms\/index.html",
-        "nze3a2igNSaldH8XXj3Kw"
+        "pages\/syllabus\/index.html",
+        "k3vsHSnAD2dggOMuBgf0g"
+    ],
+    [
+        "pages\/labs\/html-css-js-web-basics\/index.html",
+        "VtgwXVCJT5yNpN6PNa6RSA"
+    ],
+    [
+        "pages\/labs\/lab-6-wordpress\/scenario-2\/index.html",
+        "xJnbxu0fn0N0aDiHsaqA"
+    ],
+    [
+        "pages\/labs\/lab-6-wordpress\/submitting-the-lab\/index.html",
+        "gRT6cagqucIOh9mt8DihGQ"
+    ],
+    [
+        "pages\/topics\/oerschema-1\/index.html",
+        "vhCikVz58HXfZ9mSIcGXuw"
+    ],
+    [
+        "pages\/materials\/index.html",
+        "mdQtLka1tcOrr7tRU0OA0w"
+    ],
+    [
+        "pages\/resources\/links-to-learn-more\/index.html",
+        "e9tw6CTKDKHpWtUAiAEXSA"
+    ],
+    [
+        "pages\/item-cf20c5a6-e0da-48ea-85b6-1cb50a852928\/index.html",
+        "qfEJ1IKaet6fUtZrxio3qg"
+    ],
+    [
+        "pages\/labs\/improving-your-digital-identity\/index.html",
+        "4aPVeIPxmDP3IXishlT0A"
+    ],
+    [
+        "pages\/topics\/git\/index.html",
+        "Yw1SqldbZEGGwMBm244NA"
+    ],
+    [
+        "pages\/goals-for-you-\/index.html",
+        "uES9IBvy3KGM0x0JZkEA"
+    ],
+    [
+        "pages\/resources\/glossary\/index.html",
+        "Jm7g3gCN4mUiU5mQrFO2iw"
+    ],
+    [
+        "pages\/labs\/git\/index.html",
+        "jnUOofP2TSOhgxQ7X8mgyQ"
     ],
     [
         "pages\/class-time-together\/index.html",
-        "IfETYMcRQjCB7DkiHZ1aQ"
+        "BXUAPEv91UsV0IhwRtqgzA"
     ],
     [
         "pages\/question-driven-teaching\/index.html",
         "8LGj6KFqiZqmP5gN4yAipA"
+    ],
+    [
+        "pages\/topics\/gravcms\/index.html",
+        "nze3a2igNSaldH8XXj3Kw"
     ],
     [
         "pages\/topics\/wordpress\/index.html",
@@ -145,6 +145,10 @@ var precacheConfig = [
     [
         "pages\/after-class-reflection\/index.html",
         "TZNUBvN92tTEbSOlbTKCeg"
+    ],
+    [
+        "pages\/labs\/lab-5-gravcms\/index.html",
+        "5l5zwNzeWbiSe8L4owiEhA"
     ],
     [
         "pages\/labs\/lab-6-wordpress\/index.html",
@@ -163,12 +167,12 @@ var precacheConfig = [
         "92Vi1Gtaa8pKVInbBBrPw"
     ],
     [
-        "pages\/topics\/index.html",
-        "KUFPCuqFmduTXrV6whzXw"
-    ],
-    [
         "pages\/topics\/haxtheweb\/index.html",
         "vEsjFQfH4sxx44AcWrns1w"
+    ],
+    [
+        "pages\/topics\/index.html",
+        "ozNyUmalpKjopHZTCmk5g"
     ],
     [
         "pages\/topics\/webcomponents\/index.html",
@@ -191,12 +195,12 @@ var precacheConfig = [
         "5twsec2wsoYIm2AKjZHf6A"
     ],
     [
-        "pages\/labs\/w9-spring-break\/index.html",
-        "IxmLiHXIfnfx1YfcFx2nA"
-    ],
-    [
         "pages\/labs\/index.html",
         "I8kI4kjOgCngThoiu2fmA"
+    ],
+    [
+        "pages\/labs\/w9-spring-break\/index.html",
+        "IxmLiHXIfnfx1YfcFx2nA"
     ],
     [
         "pages\/labs\/labs\/lab-10-haxtheweb\/index.html",
@@ -211,12 +215,16 @@ var precacheConfig = [
         "SMlcU0HLJOaPY2rlVx6JQ"
     ],
     [
-        "pages\/labs\/lab-12-accessible-design\/index.html",
-        "7yynLP7ZsFhvnCJLy65OQ"
-    ],
-    [
         "pages\/labs\/lab-8-midterm-no-lab\/index.html",
         "v5TYWguyOIyQrNr9dbtQ"
+    ],
+    [
+        "pages\/item-3865aac5-97b9-4164-bdf3-68c7c0d59ea6\/index.html",
+        "KR2lMMjJaoSno5BH5CV7sg"
+    ],
+    [
+        "pages\/labs\/lab-12-accessible-design\/index.html",
+        "7yynLP7ZsFhvnCJLy65OQ"
     ],
     [
         "pages\/mid-term-review\/index.html",
@@ -284,7 +292,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "X4Wdw0ntdHeYJ5I2moRKuQ"
+        "4WqSpoyqZdNTFS3WWSomxw"
     ],
     [
         "404.html",
