@@ -1370,7 +1370,7 @@
             "description": "My slides from class",
             "metadata": {
                 "created": 1572470485,
-                "updated": 1611634557,
+                "updated": 1611634783,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -1386,7 +1386,8 @@
                         "a11y-gif-player": 1
                     },
                     "elements": 2
-                }
+                },
+                "published": false
             }
         },
         {
