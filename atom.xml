@@ -11,7 +11,7 @@
   <entry>
     <title>SEO</title>
     <id>/topics/oerschema-1</id>
-    <updated>2021-01-13T10:05:35-05:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2020-01-22T16:54:55-05:00</published>
     <summary>This week we'll be looking at SEO as well as detouring into some mind bending concepts that helped influence how I perceive SEO and manipulate it. If I wanted to this is better listed as "SEO" because</summary>
     <link href="/topics/oerschema-1"/>
@@ -25,7 +25,7 @@
   <entry>
     <title>Glossary</title>
     <id>/resources/glossary</id>
-    <updated>2020-03-16T20:27:12-04:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2020-01-20T10:28:13-05:00</published>
     <summary>This is a living glossary of terms from students who have taken the course (with some help from me in assembly)</summary>
     <link href="/resources/glossary"/>
@@ -39,7 +39,7 @@
   <entry>
     <title>Links to learn more</title>
     <id>/resources/links-to-learn-more</id>
-    <updated>2020-03-16T20:21:43-04:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2020-01-15T21:07:23-05:00</published>
     <summary>Links to learn more about topics. This is an organic list built by me, past students and current students.Web DevelopmentToolsVSCodeGithub /  Github GUIIntro to Web DevelopmentCodePenGli</summary>
     <link href="/resources/links-to-learn-more"/>
@@ -91,7 +91,7 @@
   <entry>
     <title>W3 Improving your digital identity</title>
     <id>/labs/improving-your-digital-identity</id>
-    <updated>2020-03-16T20:21:43-04:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2020-01-13T12:49:31-05:00</published>
     <summary>This week we're going to improve upon our brand through critique and self reflection. We want to get our brands in as good a shape as possible prior to all the hands on labs and topics we'll be engagi</summary>
     <link href="/labs/improving-your-digital-identity"/>
@@ -133,7 +133,7 @@ channel to find them on YouTube. Watch their video for the git submission last w
   <entry>
     <title>W9 Spring Break</title>
     <id>/labs/w9-spring-break</id>
-    <updated>2020-03-16T20:45:15-04:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2020-01-13T12:45:55-05:00</published>
     <summary>Catch up on past labs or sleep. Big fan of sleep myself so I know what I'll be doing.</summary>
     <link href="/labs/w9-spring-break"/>
@@ -146,7 +146,7 @@ channel to find them on YouTube. Watch their video for the git submission last w
   <entry>
     <title>Containers</title>
     <id>/topics/container</id>
-    <updated>2021-01-13T10:07:24-05:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2019-11-19T22:56:44-05:00</published>
     <summary>Slides on containers by me and @hey__mpContainers are transforming the landscape of the web and what's possible in application development at scale. Companies like Google, Netflix, Uber, Canvas and m</summary>
     <link href="/topics/container"/>
@@ -165,7 +165,7 @@ channel to find them on YouTube. Watch their video for the git submission last w
   <entry>
     <title>W12 Docker</title>
     <id>/labs/lab-13-docker</id>
-    <updated>2020-04-02T12:18:31-04:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2019-11-19T22:56:24-05:00</published>
     <summary>For lab this week, we'll use directions our guest has put together to deploy different services via docker to better understand Functions as a Service technology as well as a bit of how docker infrast</summary>
     <link href="/labs/lab-13-docker"/>
@@ -204,7 +204,7 @@ channel to find them on YouTube. Watch their video for the git submission last w
   <entry>
     <title>W13 Accessible Design</title>
     <id>/labs/lab-12-accessible-design</id>
-    <updated>2020-04-07T12:03:48-04:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2019-11-12T19:07:04-05:00</published>
     <summary>You live in the world of Stranger Things. I know, it's hard to envision, it's why it's such a good show. Old people like your instructor, actually remember parts of the 80s and what it was like to not</summary>
     <link href="/labs/lab-12-accessible-design"/>
@@ -250,7 +250,7 @@ channel to find them on YouTube. Watch their video for the git submission last w
   <entry>
     <title>Accessible Design</title>
     <id>/topics/accessible-design</id>
-    <updated>2021-01-13T10:07:31-05:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2019-11-12T18:50:27-05:00</published>
     <summary>Slides for class from Nikki's lectureToday we're going to have a guest lecture by Nikki Massaro-Kauffman (@NikkiMK, LinkedIn), User Experience and Accessibility lead on all things HAXTheWeb. Nikki</summary>
     <link href="/topics/accessible-design"/>
@@ -269,7 +269,7 @@ channel to find them on YouTube. Watch their video for the git submission last w
   <entry>
     <title>Past student work</title>
     <id>/resources/past-student-work</id>
-    <updated>2020-03-16T20:27:35-04:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2019-11-05T12:27:12-05:00</published>
     <summary>Here are some examples of past student work to check out!Fall 2019</summary>
     <link href="/resources/past-student-work"/>
@@ -285,7 +285,7 @@ channel to find them on YouTube. Watch their video for the git submission last w
   <entry>
     <title>Accessibility</title>
     <id>/topics/accessibility-1</id>
-    <updated>2021-01-13T10:07:45-05:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2019-10-30T17:21:25-04:00</published>
     <summary>My slides from class</summary>
     <link href="/topics/accessibility-1"/>
@@ -299,7 +299,7 @@ channel to find them on YouTube. Watch their video for the git submission last w
   <entry>
     <title>Accessibility</title>
     <id>/labs/lab-11-accessibility</id>
-    <updated>2020-03-16T20:21:43-04:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2019-10-30T17:21:25-04:00</published>
     <summary>Web accessibility is just one piece of the accessibility pie but we&#39;re attuned to its importance. The next thing though is how do we use tools to help build more accessible things and remediate what w</summary>
     <link href="/labs/lab-11-accessibility"/>
@@ -364,7 +364,7 @@ to understand issues and see what real reports look and feel like</p>
   <entry>
     <title>W8 Drupal again</title>
     <id>/labs/lab-9-drupal-again</id>
-    <updated>2020-03-16T20:21:43-04:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2019-10-23T14:38:05-04:00</published>
     <summary>Drupal was both challenging and many wanted to learn more. As it's a much more complex system then the other CMSs we're covering, we're going to dedicate an additional class period JUST to doing more </summary>
     <link href="/labs/lab-9-drupal-again"/>
@@ -437,7 +437,7 @@ correctly of the organization and has poor permission support within those roles
   <entry>
     <title>W14 Exam</title>
     <id>/labs/lab-8-midterm-no-lab</id>
-    <updated>2020-03-16T20:21:43-04:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2019-10-23T14:38:05-04:00</published>
     <summary>Week 14 we will have an Exam the Tuesday of this week and then start into our Final Projects on the Thursday of this week.This will give you two weeks to work on your Final project prior to finals.T</summary>
     <link href="/labs/lab-8-midterm-no-lab"/>
@@ -452,7 +452,7 @@ correctly of the organization and has poor permission support within those roles
   <entry>
     <title>W10 HAXTheWeb</title>
     <id>/labs/labs/lab-10-haxtheweb</id>
-    <updated>2020-03-17T13:27:10-04:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2019-10-10T15:41:57-04:00</published>
     <summary>We'll cover user experience and generating ways of improving the platform by creating issues about any confusion you've run into when using the platform. Open critique is the best way to improve! Thi</summary>
     <link href="/labs/labs/lab-10-haxtheweb"/>
@@ -534,7 +534,7 @@ please consider using social media to send out links to your resource after post
   <entry>
     <title>HAXTheWeb</title>
     <id>/topics/haxtheweb</id>
-    <updated>2021-01-13T10:06:54-05:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2019-10-10T15:41:56-04:00</published>
     <summary>Slides for this weekThis is the platform that's powering THIS website you are reading through for class currently. HAXTheWeb is a series of platforms and web components to transform web publishing. H</summary>
     <link href="/topics/haxtheweb"/>
@@ -549,7 +549,7 @@ please consider using social media to send out links to your resource after post
   <entry>
     <title>W7 Drupal</title>
     <id>/labs/lab-7-drupal</id>
-    <updated>2021-01-13T10:11:35-05:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2019-10-03T20:07:06-04:00</published>
     <summary>Data modelingClick here to download the fileThis is to be done in class with image posted here for reference but in case you miss the activity that generates it. Take 10 minutes and figure out the</summary>
     <link href="/labs/lab-7-drupal"/>
@@ -646,7 +646,7 @@ please consider using social media to send out links to your resource after post
   <entry>
     <title>Drupal</title>
     <id>/topics/drupal</id>
-    <updated>2021-01-13T10:06:41-05:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2019-10-03T20:07:06-04:00</published>
     <summary>Drupal Slides for this topicDrupal week two slidesDrupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling</summary>
     <link href="/topics/drupal"/>
@@ -664,7 +664,7 @@ please consider using social media to send out links to your resource after post
   <entry>
     <title>Submitting the lab</title>
     <id>/labs/lab-6-wordpress/submitting-the-lab</id>
-    <updated>2020-03-16T20:21:43-04:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2019-10-01T20:43:14-04:00</published>
     <summary>Create your WordPresssite withthe scenario you want to cover and the solution you want to proposeRecord a video makingthe case either way basedon the scenario selected and solutionselectedP</summary>
     <link href="/labs/lab-6-wordpress/submitting-the-lab"/>
@@ -700,7 +700,7 @@ your </span><span style="font-variant-numeric: normal; font-variant-east-asian: 
   <entry>
     <title>Scenario 2</title>
     <id>/labs/lab-6-wordpress/scenario-2</id>
-    <updated>2020-03-16T20:21:43-04:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2019-10-01T19:40:19-04:00</published>
     <summary>Lab Scenario 2 - Scope to nowhereYouwon a contract from the Alaska state government to build a website to market:Alaska’s ”Bridgeto nowhere” (look it up)This site was originallybuilt in</summary>
     <link href="/labs/lab-6-wordpress/scenario-2"/>
@@ -866,7 +866,7 @@ desire</span></li>
   <entry>
     <title>Scenario 1</title>
     <id>/labs/lab-6-wordpress/scenario-1</id>
-    <updated>2020-03-16T20:21:43-04:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2019-10-01T19:40:19-04:00</published>
     <summary>LabScenario 1 – Soaps R Us ContextMom’n’Pop store “Soaps R Us” wants to sell their famous soap online. They need anattractive website with high SEOthat has a shopping cart and a s</summary>
     <link href="/labs/lab-6-wordpress/scenario-1"/>
@@ -1008,7 +1008,7 @@ complexity and learning curve</span></li>
   <entry>
     <title>W6 WordPress</title>
     <id>/labs/lab-6-wordpress</id>
-    <updated>2020-03-16T20:21:43-04:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2019-10-01T14:02:52-04:00</published>
     <summary>Lab ContextYou are the project manager that sold your team and CEO on using GravGrav is going great, but there are rumblings from some clients recently and team members used to WordPress are a</summary>
     <link href="/labs/lab-6-wordpress"/>
@@ -1064,7 +1064,7 @@ complexity and learning curve</span></li>
   <entry>
     <title>Exam review</title>
     <id>/mid-term-review</id>
-    <updated>2020-03-16T20:24:17-04:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2019-10-01T14:02:52-04:00</published>
     <summary>To study I'd look through the lectures quickly to familiarize yourself with the words on the terminology slides of each week.Realize though that this is an "open web" review. The real world you can g</summary>
     <link href="/mid-term-review"/>
@@ -1079,7 +1079,7 @@ complexity and learning curve</span></li>
   <entry>
     <title>ClassicPress / WordPress</title>
     <id>/topics/wordpress</id>
-    <updated>2021-01-13T10:06:11-05:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2019-10-01T14:02:52-04:00</published>
     <summary>Lecture slides from this weekThis week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why i</summary>
     <link href="/topics/wordpress"/>
@@ -1101,7 +1101,7 @@ complexity and learning curve</span></li>
   <entry>
     <title>GravCMS</title>
     <id>/topics/gravcms</id>
-    <updated>2021-01-13T10:06:03-05:00</updated>
+    <updated>2021-01-25T23:14:08-05:00</updated>
     <published>2019-09-25T11:00:10-04:00</published>
     <summary>Slides about CPanel & GravCMS from classThis week kicks off Reclaim hosting and our Content Management System section of the course. We're going to be covering four different content management syst</summary>
     <link href="/topics/gravcms"/>
