@@ -508,23 +508,22 @@
             "order": "1",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "W2 HTML \/ CSS",
-            "description": "For this lab we're going to be modifying CodePens and digging into HTML \/ CSS.Exercise Pen:\u00a0Fork this Pen and we can follow along together in class a bit.ScenarioYou are a college student and nee",
+            "description": "For this lab we're going to be modifying CodePens and digging into HTML \/ CSS.  Exercise Pen:\u00a0  Fork this Pen and we can follow along together in class a bit.  Scenario  You are a college s",
             "metadata": {
                 "created": 1568062380,
-                "updated": 1611635502,
+                "updated": 1611687781,
                 "readtime": 2,
                 "contentDetails": {
-                    "headings": 8,
-                    "paragraphs": 4,
+                    "headings": 9,
+                    "paragraphs": 5,
                     "schema": [],
                     "tags": {
-                        "p": 4,
+                        "p": 5,
                         "h2": 3,
-                        "h3": 5,
-                        "ul": 5,
-                        "a": 1
+                        "h3": 6,
+                        "ul": 6
                     },
-                    "elements": 18
+                    "elements": 20
                 },
                 "published": true
             }
