@@ -696,10 +696,20 @@
             "order": "2",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "W3 JavaScript",
-            "description": "",
+            "description": "We'll make something with JavaScript based on the option selected.",
             "metadata": {
                 "created": 1611634557,
-                "updated": 1611634557
+                "updated": 1611635520,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 1,
+                    "schema": [],
+                    "tags": {
+                        "p": 1
+                    },
+                    "elements": 1
+                }
             }
         },
         {

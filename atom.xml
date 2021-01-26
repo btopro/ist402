@@ -23,13 +23,14 @@
   <entry>
     <title>W3 JavaScript</title>
     <id>/item-cf20c5a6-e0da-48ea-85b6-1cb50a852928</id>
-    <updated>2021-01-25T23:15:57-05:00</updated>
+    <updated>2021-01-25T23:32:00-05:00</updated>
     <published>2021-01-25T23:15:57-05:00</published>
-    <summary></summary>
+    <summary>We'll make something with JavaScript based on the option selected.</summary>
     <link href="/item-cf20c5a6-e0da-48ea-85b6-1cb50a852928"/>
     
     <content type="html">
-      <![CDATA[ <p></p> ]]>
+      <![CDATA[ <p>We'll make something with JavaScript based on the option selected.</p>
+ ]]>
     </content>
   </entry>
   <entry>
