@@ -3,7 +3,7 @@
   <title>IST 402</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>Web Technologies and Activism</subtitle>
-  <updated>2021-01-25T23:14:08-05:00</updated>
+  <updated>2021-01-25T23:15:57-05:00</updated>
   <author>
       <name></name>
   </author>
@@ -228,9 +228,9 @@ channel to find them on YouTube. Watch their video for the git submission last w
   <entry>
     <title>W13 Accessible Design</title>
     <id>/labs/lab-12-accessible-design</id>
-    <updated>2021-01-25T23:15:57-05:00</updated>
+    <updated>2021-01-25T23:16:09-05:00</updated>
     <published>2019-11-12T19:07:04-05:00</published>
-    <summary>You live in the world of Stranger Things. I know, it's hard to envision, it's why it's such a good show. Old people like your instructor, actually remember parts of the 80s and what it was like to not</summary>
+    <summary>You live in the world of Stranger Things. I know, it&#39;s hard to envision, it&#39;s why it&#39;s such a good show. Old people like your instructor, actually remember parts of the 80s and what it was like to not</summary>
     <link href="/labs/lab-12-accessible-design"/>
     
     <content type="html">
@@ -308,6 +308,20 @@ channel to find them on YouTube. Watch their video for the git submission last w
   </entry>
   <entry>
     <title>Accessibility</title>
+    <id>/topics/accessibility-1</id>
+    <updated>2021-01-25T23:15:57-05:00</updated>
+    <published>2019-10-30T17:21:25-04:00</published>
+    <summary>My slides from class</summary>
+    <link href="/topics/accessibility-1"/>
+    
+    <content type="html">
+      <![CDATA[ <p>My slides from class</p>
+<a11y-gif-player src="https://media1.giphy.com/media/26u4eMlvKoTn7DfvG/giphy.gif" src-without-animation="https://media3.giphy.com/media/26u4eMlvKoTn7DfvG/480w_s.jpg" alt="Wheel chair user slowly being lowered by kegs down a ramp" schema-resource-id="#bc676c7d-31ce-58d0-f485" resource="#bc676c7d-31ce-58d0-f485" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 75%; margin: 0px auto; display: block;" tooltip="Toggle animation"></a11y-gif-player>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Accessibility</title>
     <id>/labs/lab-11-accessibility</id>
     <updated>2021-01-25T23:15:57-05:00</updated>
     <published>2019-10-30T17:21:25-04:00</published>
@@ -368,20 +382,6 @@ to understand issues and see what real reports look and feel like</p>
 </p>
 <p>Post link to page in HAXcms site with the video included in<b> #lab11-accessibility</b>
 </p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Accessibility</title>
-    <id>/topics/accessibility-1</id>
-    <updated>2021-01-25T23:15:57-05:00</updated>
-    <published>2019-10-30T17:21:25-04:00</published>
-    <summary>My slides from class</summary>
-    <link href="/topics/accessibility-1"/>
-    
-    <content type="html">
-      <![CDATA[ <p>My slides from class</p>
-<a11y-gif-player src="https://media1.giphy.com/media/26u4eMlvKoTn7DfvG/giphy.gif" src-without-animation="https://media3.giphy.com/media/26u4eMlvKoTn7DfvG/480w_s.jpg" alt="Wheel chair user slowly being lowered by kegs down a ramp" schema-resource-id="#bc676c7d-31ce-58d0-f485" resource="#bc676c7d-31ce-58d0-f485" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 75%; margin: 0px auto; display: block;" tooltip="Toggle animation"></a11y-gif-player>
  ]]>
     </content>
   </entry>
@@ -571,6 +571,24 @@ please consider using social media to send out links to your resource after post
     </content>
   </entry>
   <entry>
+    <title>Drupal</title>
+    <id>/topics/drupal</id>
+    <updated>2021-01-25T23:15:57-05:00</updated>
+    <published>2019-10-03T20:07:06-04:00</published>
+    <summary>Drupal Slides for this topicDrupal week two slidesDrupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling</summary>
+    <link href="/topics/drupal"/>
+    
+    <content type="html">
+      <![CDATA[ <ul href="https://www.slideshare.net/BryanOllendyke1/edtechjoker-spring-2020-lecture-7-drupal-intro" style="width: 100%;"><li>Drupal Slides for this topic</li>
+<li>Drupal week two slides</li>
+</ul>
+<p>Drupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll use Drupal to model those relationships in the website.</p>
+<p>We'll learn about Content Types and fields to model data. Then we'll use Views in order to visualize that data and work with content entry to make sense of it all.</p>
+<p>Drupal is daunting at first but once you learn the concepts and experience them they form a repeatable pattern of development and site building that leads you into a large community with lots of financial opportunities.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>W8 Drupal</title>
     <id>/labs/lab-7-drupal</id>
     <updated>2021-01-25T23:15:57-05:00</updated>
@@ -664,24 +682,6 @@ please consider using social media to send out links to your resource after post
 </ul>
 <p><b>10 points total with 2 possible bonus points</b>
 </p>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Drupal</title>
-    <id>/topics/drupal</id>
-    <updated>2021-01-25T23:15:57-05:00</updated>
-    <published>2019-10-03T20:07:06-04:00</published>
-    <summary>Drupal Slides for this topicDrupal week two slidesDrupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling</summary>
-    <link href="/topics/drupal"/>
-    
-    <content type="html">
-      <![CDATA[ <ul href="https://www.slideshare.net/BryanOllendyke1/edtechjoker-spring-2020-lecture-7-drupal-intro" style="width: 100%;"><li>Drupal Slides for this topic</li>
-<li>Drupal week two slides</li>
-</ul>
-<p>Drupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll use Drupal to model those relationships in the website.</p>
-<p>We'll learn about Content Types and fields to model data. Then we'll use Views in order to visualize that data and work with content entry to make sense of it all.</p>
-<p>Drupal is daunting at first but once you learn the concepts and experience them they form a repeatable pattern of development and site building that leads you into a large community with lots of financial opportunities.</p>
  ]]>
     </content>
   </entry>
@@ -1030,21 +1030,6 @@ complexity and learning curve</span></li>
     </content>
   </entry>
   <entry>
-    <title>Exam review</title>
-    <id>/mid-term-review</id>
-    <updated>2021-01-25T23:15:57-05:00</updated>
-    <published>2019-10-01T14:02:52-04:00</published>
-    <summary>To study I'd look through the lectures quickly to familiarize yourself with the words on the terminology slides of each week.Realize though that this is an "open web" review. The real world you can g</summary>
-    <link href="/mid-term-review"/>
-    
-    <content type="html">
-      <![CDATA[ <p style="width: 100%;">To study I'd look through the lectures quickly to familiarize yourself with the words on the terminology slides of each week.</p>
-<p style="width: 100%;">Realize though that this is an "open web" review. The real world you can google things if you get stuck and this is no different. Now, you can't take credit for other people's work in my class or IRL, so the TA will be proctoring this exam and ensuring that everyone's responsible for their own work.</p>
-<p style="width: 100%;">After the exam please answer the course survey questions as it helps me make changes for the future as well as the final project.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>W7 WordPress</title>
     <id>/labs/lab-6-wordpress</id>
     <updated>2021-01-25T23:15:57-05:00</updated>
@@ -1097,6 +1082,28 @@ complexity and learning curve</span></li>
 </span></span></li>
 </ul>
 <p><span style="letter-spacing: -0.48px;">This lab is worth 10 points</span></p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>ClassicPress / WordPress</title>
+    <id>/topics/wordpress</id>
+    <updated>2021-01-25T23:15:57-05:00</updated>
+    <published>2019-10-01T14:02:52-04:00</published>
+    <summary>Lecture slides from this weekThis week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why i</summary>
+    <link href="/topics/wordpress"/>
+    
+    <content type="html">
+      <![CDATA[ <p style=""><span>Lecture slides from this week</span></p>
+<p>This week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why it powers (estimates, numbers differ by source) 33% to as much as 50% of sites on the internet.</p>
+<p>These sites could be everything from the Whitehouse down to every individual blog / new acount on wordpress.com (SaaS solution version) which is why people take some of that number with a grain of salt.</p>
+<p>It's a great platform to start your own website on but it's run into some recent controversies which are worth exploring - namely the battle for the heart of the community around a text editor. It's weird to think about, but when a CMS lives and dies by the ease of content entry, you can understand why the <b>new core mandatory</b>
+ text editor called<b> Gutenberg</b>
+ would attract positive and negative attention.</p>
+<p>With plans to phase out the "Classic Editor" in 2020 many people in the community are at a cross-roads: Continue to trust the same core community that "took away" their beloved simple HTML editor, or forge a new path. We'll look briefly at the concept of community forks through the context of ClassicPress, a popular WordPress alternative that's gaining traction as the more community centric CMS.</p>
+<p>With parallels to Drupal and it's popular fork Backdrop (topic for next lab) we'll see that it's not always code that leads to inflection points in groups but the process by which that code is formed, agreed upon, and ultimately pushed into the main project everyone's aligned with.</p>
+<p>WordPress is a great resume builder both in terms of the platform as well as putting on your resume that you have experience with it, so let's dig in and check it out in <a href="https://reclaimhosting.com/">ReclaimHosting</a>
+ once more!</p>
  ]]>
     </content>
   </entry>
