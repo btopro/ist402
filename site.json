@@ -162,6 +162,14 @@
                         "type": "image\/jpeg",
                         "name": "1633609907554_48eae0bf5903e0f3b990_132.jpg",
                         "size": 7996
+                    },
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/headshot61690.51500000205.jpg",
+                        "fullUrl": "\/bto108\/sites\/ist402\/files\/headshot61690.51500000205.jpg",
+                        "url": "files\/headshot61690.51500000205.jpg",
+                        "type": "image\/jpeg",
+                        "name": "headshot61690.51500000205.jpg",
+                        "size": 221239
                     }
                 ],
                 "readtime": 5,
