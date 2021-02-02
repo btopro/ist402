@@ -56,9 +56,8 @@
 </li>
 <li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation">Create a hello-world app that uses packages like:</p>
 </li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><i>@lrnwebcomponents/meme-maker</i>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><i>@lrnwebcomponents/meme-maker</i>
 </blockquote>
-</p>
 </li>
 <li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><i>@lrnwebcomponents/moar-sarcasm</i>
 </blockquote>
@@ -85,6 +84,25 @@
 <li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Do a video explaining a hello world codepen from either community</span></p>
 </li>
 <li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 16pt;" role="presentation">Do a blog post about your experience, which you liked more and why.</p>
+</li>
+</ul>
+<h3 id="header-ddafdef8-d9c5-a28a-61a7-daf7a9bbc1e9">Submission</h3>
+<ul style="margin-top:0;margin-bottom:0;"><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" role="presentation"><span>Create the post, link to you video in the post</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Submit link to post in </span><span>#lab3-javascript</span><span> channel on Slack</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>This is due by Wed, Feb 10 at 11:59pm</span></p>
+</li>
+<ul style="margin-top:0;margin-bottom:0;"><li dir="ltr" style="list-style-type: circle; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 16pt;" role="presentation"><span>This is because there is no class Next Tuesday</span></p>
+</li>
+</ul>
+</ul>
+<h3 id="header-8f6244a4-36a8-0477-25ca-520bb6fa4267">Rubric</h3>
+<ul style="margin-top:0;margin-bottom:0;"><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" role="presentation"><span>Did you make a video that demonstrates technique but also illustrates that you tried to install / learn more about one of the three options requested (50%)</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:16pt;" role="presentation"><span>Did you write up how others could get started and use the project like you did (50%)</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" role="presentation"><span>Evaluation is contextual based on which option you pick.</span></p>
 </li>
 </ul>
  ]]>

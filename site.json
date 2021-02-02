@@ -706,17 +706,17 @@
             "description": "ScenarioYou are told IST makes you learn on your ownThat you\u2019ll just Google everything and do it yourselfWell, this week, thanks in part to a snow cancelation at your teacher\u2019s, kids\u2019 schoo",
             "metadata": {
                 "created": 1611634557,
-                "updated": 1612246708,
+                "updated": 1612246789,
                 "readtime": 2,
                 "contentDetails": {
-                    "headings": 4,
+                    "headings": 6,
                     "paragraphs": 0,
                     "schema": [],
                     "tags": {
-                        "h3": 4,
-                        "ul": 4
+                        "h3": 6,
+                        "ul": 6
                     },
-                    "elements": 8
+                    "elements": 12
                 }
             }
         },
