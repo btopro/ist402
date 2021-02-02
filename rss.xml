@@ -33,9 +33,8 @@
 </li>
 </ul>
 <h3 id="header-b6c77447-6735-ca73-ff2c-1277dd2283ef"><span>Option 1</span></h3>
-<ul style="margin-top:0;margin-bottom:0;"><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" role="presentation">Try out VueJS</p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Look over some examples: </span><a href="https://vuejs.org/v2/examples/" style=""><span>https://vuejs.org/v2/examples/</span></a>
+<ul style="margin-top:0;margin-bottom:0;"><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><ul style="margin-top:0;margin-bottom:0;"><li>Try out VueJS</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" role="presentation"><span>Look over some examples: </span><a href="https://vuejs.org/v2/examples/" style=""><span>https://vuejs.org/v2/examples/</span></a>
 </p>
 </li>
 <li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Run through the “Scrimba” interactive videos in the Introduction </span><a href="https://vuejs.org/v2/guide/index.html" style=""><span>https://vuejs.org/v2/guide/index.html</span></a>
@@ -43,48 +42,80 @@
 </li>
 <li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Make a very basic Vue component using an aspect of your resume to make a building block</span></p>
 </li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Write up your thought process for selecting how your component should function</span></p>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:16pt;" role="presentation"><span>Write up your thought process for selecting how your component should function</span></p>
 </li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 16pt;" role="presentation">Do your video explaining the Vue component you made</p>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Do your video explaining the Vue component you made</span></p>
+</li>
+</ul>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><ul style="margin-top:0;margin-bottom:0;"><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>When I say “Make a Vue Component from resume” I mean like the top bar that has a photo of you + name + link to your youtube channel</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>top-area</span></p>
+</li>
+<ul style="margin-top:0;margin-bottom:0;"><li dir="ltr" style="list-style-type: circle; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Title</span></p>
+</li>
+<li dir="ltr" style="list-style-type: circle; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Image</span></p>
+</li>
+<li dir="ltr" style="list-style-type: circle; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Link to video</span></p>
+</li>
+</ul>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>So take your resume template that</span><span>has already working css / HTML</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 16pt;" role="presentation"><span>Apply the concepts of Vue to make a reusable element</span></p>
+</li>
+</ul>
 </li>
 </ul>
 <h3 id="header-6dad8924-e08b-d066-40aa-ea9e0aa050a4"><span>Option 2</span></h3>
-<ul style="margin-top:0;margin-bottom:0;"><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" role="presentation">Use <a href="https://open-wc.org/" style=""><span>https://open-wc.org/</span></a>
- to make a boilerplate project</p>
+<ul style="margin-top:0;margin-bottom:0;"><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" role="presentation"><span>Use </span><a href="https://open-wc.org/" style=""><span>https://open-wc.org/</span></a>
+<span> to make a boilerplate project</span></p>
 </li>
 <li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Install the tooling (will need to get NodeJS first)</span></p>
 </li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation">Create a hello-world app that uses packages like:</p>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Create a really trolly repo using these two custom elements</span><span><span class="Apple-tab-span" style="white-space:pre;">	</span></span><span>@lrnwebcomponents/meme-maker</span><span><span class="Apple-tab-span" style="white-space:pre;">	</span></span><span>@lrnwebcomponents/moar-sarcasm</span></p>
 </li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><i>@lrnwebcomponents/meme-maker</i>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Write a blog post detailing how to use these tags in a project and your experience with Web components</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 16pt;" role="presentation"><span>Do your video installing and implementing a trolly asset from NPM</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 16pt;" role="presentation"><span>Collin (past IST 402) did an excellent tutorial on LitElement from zero to simple card element and explaining the process</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 16pt;" role="presentation"></p>
+<blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><span><a href="https://www.youtube.com/watch?v=8gMDhXWMxRg&t=2s">https://www.youtube.com/watch?v=8gMDhXWMxRg&t=2s</a>
+</span></blockquote>
+<p></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><span>Try LitElement Tutorial takes ~ 30 minutes and I highly recommend it</span></blockquote>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><span><a href="https://lit-element.polymer-project.org/try">https://lit-element.polymer-project.org/try</a>
+</span></blockquote>
 </blockquote>
 </li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><i>@lrnwebcomponents/moar-sarcasm</i>
-</blockquote>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Wire them into your app (</span><a href="https://lit-element.polymer-project.org/try/" style=""><span>https://lit-element.polymer-project.org/try/</span></a>
-<span> is another good tutorial)</span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" role="presentation"><span>Do a video demonstrating adding the packages via NPM and adding / using the web component in your boilerplate</span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 16pt;" role="presentation">Write a blog post with all the steps involved to replicate your demo </p>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><span>Ask questions if you run into them, this is what my team does for a living</span></blockquote>
 </li>
 </ul>
 <h3 id="header-065fdd84-22fe-361d-22f1-3d220e69b092"><span>Option 3</span></h3>
-<ul style="margin-top:0;margin-bottom:0;"><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" role="presentation">Work through Tutorials on React, Angular</p>
+<ul style="margin-top:0;margin-bottom:0;"><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" role="presentation"><span>Work through a Tutorial on React and then LitElement</span></p>
 </li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><a href="https://angular.io/start">https://angular.io/start</a>
-  </p>
+<ul style="margin-top:0;margin-bottom:0;"><li dir="ltr" style="list-style-type: circle; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><a href="https://reactjs.org/tutorial/tutorial.html" style=""><span>https://reactjs.org/tutorial/tutorial.html</span></a>
+</p>
 </li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><a href="https://reactjs.org/tutorial/tutorial.html">https://reactjs.org/tutorial/tutorial.html</a>
- </p>
+<li dir="ltr" style="list-style-type: circle; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><a href="https://lit-element.polymer-project.org/try" style=""><span>https://lit-element.polymer-project.org/try</span></a>
+</p>
 </li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Which made more sense to you? Which was easier to follow? Who makes their community more approachable</span></p>
+</ul>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Which made more sense to you? What is similar between the two projects in what you can do (and how)? What’s different?</span></p>
 </li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Do a video explaining a hello world codepen from either community</span></p>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Find other articles explaining the difference between the React </span><span>FRAMEWORK</span><span> and the LitElement </span><span>LIBRARY</span></p>
 </li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 16pt;" role="presentation">Do a blog post about your experience, which you liked more and why.</p>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>What’s different between a library and framework (bullet points help)</span></p>
 </li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:16pt;" role="presentation"><span>Write up ~500 words explaining the above and why it matters.</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:16pt;" role="presentation"><span>Do a video version of the above write up / screencast</span></p>
+</li>
+</ul>
+<ul style="margin-top:0;margin-bottom:0;">
 </ul>
 <h3 id="header-ddafdef8-d9c5-a28a-61a7-daf7a9bbc1e9">Submission</h3>
 <ul style="margin-top:0;margin-bottom:0;"><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" role="presentation"><span>Create the post, link to you video in the post</span></p>
