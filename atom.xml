@@ -23,72 +23,75 @@
   <entry>
     <title>W3 JavaScript</title>
     <id>/item-cf20c5a6-e0da-48ea-85b6-1cb50a852928</id>
-    <updated>2021-02-02T01:16:01-05:00</updated>
+    <updated>2021-02-02T01:18:28-05:00</updated>
     <published>2021-01-25T23:15:57-05:00</published>
-    <summary>We'll make something with JavaScript based on the option selected.ScenarioYou are told IST makes you learn on your ownThat you’ll just Google everything and do it yourselfWell, this week, than</summary>
+    <summary>ScenarioYou are told IST makes you learn on your ownThat you’ll just Google everything and do it yourselfWell, this week, thanks in part to a snow cancelation at your teacher’s, kids’ schoo</summary>
     <link href="/item-cf20c5a6-e0da-48ea-85b6-1cb50a852928"/>
     
     <content type="html">
-      <![CDATA[ <p>We'll make something with JavaScript based on the option selected.</p>
-<p>Scenario<span id="docs-internal-guid-95be3417-7fff-b5de-f865-e110297d2579"></span></p>
-<ul style="margin-top:0;margin-bottom:0;"><li dir="ltr" style="list-style-type:disc;font-size:21pt;font-family:Arial;color:#F3F3F3;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>You are told IST makes you learn on your own</span></p>
+      <![CDATA[ <h3 id="header-3fcab691-d01a-1854-2c21-b94bc94e9383">Scenario<span id="docs-internal-guid-95be3417-7fff-b5de-f865-e110297d2579"></span></h3>
+<ul style="margin-top:0;margin-bottom:0;"><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" role="presentation">You are told IST makes you learn on your own</p>
 </li>
-<li dir="ltr" style="list-style-type:disc;font-size:21pt;font-family:Arial;color:#F3F3F3;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>That you’ll just Google everything and do it yourself</span></p>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" role="presentation">That you’ll just Google everything and do it yourself</p>
 </li>
-<li dir="ltr" style="list-style-type:disc;font-size:21pt;font-family:Arial;color:#F3F3F3;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Well, this week, thanks in part to a snow cancelation at your teacher’s, kids’ school, you’ll get just that</span></p>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" role="presentation">Well, this week, thanks in part to a snow cancelation at your teacher’s, kids’ school, you’ll get just that</p>
 </li>
-<li dir="ltr" style="list-style-type:disc;font-size:21pt;font-family:Arial;color:#F3F3F3;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:16pt;" role="presentation"><span>“I didn’t have enough time to make an interesting lab scenario, for which I am truly sorry. Some day, you’ll have kids, and they’ll play video games loudly next to you, and you’ll say ‘Wow… this is distracting… I bet I won’t be able to make a full lab and just like, tell them to teach themselves something of value’”</span></p>
-</li>
-</ul>
-<p><font color="#f3f3f3" face="Arial"><span>Option 1</span></font>
-</p>
-<ul style="margin-top:0;margin-bottom:0;"><li dir="ltr" style="list-style-type:disc;font-size:20pt;font-family:Arial;color:#F3F3F3;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Try out VueJS</span></p>
-</li>
-<li dir="ltr" style="list-style-type:disc;font-size:20pt;font-family:Arial;color:#F3F3F3;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Look over some examples: </span><a href="https://vuejs.org/v2/examples/" style="text-decoration:none;"><span>https://vuejs.org/v2/examples/</span></a>
-</p>
-</li>
-<li dir="ltr" style="list-style-type:disc;font-size:20pt;font-family:Arial;color:#F3F3F3;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Run through the “Scrimba” interactive videos in the Introduction </span><a href="https://vuejs.org/v2/guide/index.html" style="text-decoration:none;"><span>https://vuejs.org/v2/guide/index.html</span></a>
-</p>
-</li>
-<li dir="ltr" style="list-style-type:disc;font-size:20pt;font-family:Arial;color:#F3F3F3;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Make a very basic Vue component using an aspect of your resume to make a building block</span></p>
-</li>
-<li dir="ltr" style="list-style-type:disc;font-size:20pt;font-family:Arial;color:#F3F3F3;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Write up your thought process for selecting how your component should function</span></p>
-</li>
-<li dir="ltr" style="list-style-type:disc;font-size:20pt;font-family:Arial;color:#F3F3F3;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:16pt;" role="presentation"><span>Do your video explaining the Vue component you made</span></p>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 16pt;" role="presentation">“I didn’t have enough time to make an interesting lab scenario, for which I am truly sorry. Some day, you’ll have kids, and they’ll play video games loudly next to you, and you’ll say ‘Wow… this is distracting… I bet I won’t be able to make a full lab and just like, tell them to teach themselves something of value’”</p>
 </li>
 </ul>
-<p><font color="#f3f3f3" face="Arial"><span>Option 2</span></font>
+<h3 id="header-b6c77447-6735-ca73-ff2c-1277dd2283ef"><span>Option 1</span></h3>
+<ul style="margin-top:0;margin-bottom:0;"><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" role="presentation">Try out VueJS</p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Look over some examples: </span><a href="https://vuejs.org/v2/examples/" style=""><span>https://vuejs.org/v2/examples/</span></a>
 </p>
-<ul style="margin-top:0;margin-bottom:0;"><li dir="ltr" style="list-style-type:disc;font-size:18pt;font-family:Arial;color:#F3F3F3;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Use </span><a href="https://open-wc.org/" style="text-decoration:none;"><span>https://open-wc.org/</span></a>
-<span> to make a boilerplate project</span></p>
 </li>
-<li dir="ltr" style="list-style-type:disc;font-size:18pt;font-family:Arial;color:#F3F3F3;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Install the tooling (will need to get NodeJS first)</span></p>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Run through the “Scrimba” interactive videos in the Introduction </span><a href="https://vuejs.org/v2/guide/index.html" style=""><span>https://vuejs.org/v2/guide/index.html</span></a>
+</p>
 </li>
-<li dir="ltr" style="list-style-type:disc;font-size:18pt;font-family:Arial;color:#F3F3F3;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Create a hello-world app that uses packages like</span><span><span class="Apple-tab-span" style="white-space:pre;">	</span></span><span>@lrnwebcomponents/meme-maker</span><span><span class="Apple-tab-span" style="white-space:pre;">	</span></span><span>@lrnwebcomponents/moar-sarcasm</span></p>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Make a very basic Vue component using an aspect of your resume to make a building block</span></p>
 </li>
-<li dir="ltr" style="list-style-type:disc;font-size:18pt;font-family:Arial;color:#F3F3F3;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Wire them into your app (</span><a href="https://lit-element.polymer-project.org/try/" style="text-decoration:none;"><span>https://lit-element.polymer-project.org/try/</span></a>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Write up your thought process for selecting how your component should function</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 16pt;" role="presentation">Do your video explaining the Vue component you made</p>
+</li>
+</ul>
+<h3 id="header-6dad8924-e08b-d066-40aa-ea9e0aa050a4"><span>Option 2</span></h3>
+<ul style="margin-top:0;margin-bottom:0;"><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" role="presentation">Use <a href="https://open-wc.org/" style=""><span>https://open-wc.org/</span></a>
+ to make a boilerplate project</p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Install the tooling (will need to get NodeJS first)</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation">Create a hello-world app that uses packages like:</p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><i>@lrnwebcomponents/meme-maker</i>
+</blockquote>
+</p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><i>@lrnwebcomponents/moar-sarcasm</i>
+</blockquote>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Wire them into your app (</span><a href="https://lit-element.polymer-project.org/try/" style=""><span>https://lit-element.polymer-project.org/try/</span></a>
 <span> is another good tutorial)</span></p>
 </li>
-<li dir="ltr" style="list-style-type:disc;font-size:18pt;font-family:Arial;color:#F3F3F3;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Do a video demonstrating adding the packages via NPM and adding / using the web component in your boilerplate</span></p>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" role="presentation"><span>Do a video demonstrating adding the packages via NPM and adding / using the web component in your boilerplate</span></p>
 </li>
-<li dir="ltr" style="list-style-type:disc;font-size:18pt;font-family:Arial;color:#F3F3F3;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:16pt;" role="presentation"><span>Write a blog post with all the steps involved to replicate your demo </span></p>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 16pt;" role="presentation">Write a blog post with all the steps involved to replicate your demo </p>
 </li>
 </ul>
-<p><font color="#f3f3f3" face="Arial"><span>Option 3</span></font>
-</p>
-<ul style="margin-top:0;margin-bottom:0;"><li dir="ltr" style="list-style-type:disc;font-size:22pt;font-family:Arial;color:#F3F3F3;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Work through Tutorials on React, Angular</span></p>
+<h3 id="header-065fdd84-22fe-361d-22f1-3d220e69b092"><span>Option 3</span></h3>
+<ul style="margin-top:0;margin-bottom:0;"><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" role="presentation">Work through Tutorials on React, Angular</p>
 </li>
-<li dir="ltr" style="list-style-type:disc;font-size:22pt;font-family:Arial;color:#F3F3F3;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><a href="https://angular.io/start" style="text-decoration:none;"><span>https://angular.io/start</span></a>
-</p>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><a href="https://angular.io/start">https://angular.io/start</a>
+  </p>
 </li>
-<li dir="ltr" style="list-style-type:disc;font-size:22pt;font-family:Arial;color:#F3F3F3;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><a href="https://reactjs.org/tutorial/tutorial.html" style="text-decoration:none;"><span>https://reactjs.org/tutorial/tutorial.html</span></a>
-</p>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><a href="https://reactjs.org/tutorial/tutorial.html">https://reactjs.org/tutorial/tutorial.html</a>
+ </p>
 </li>
-<li dir="ltr" style="list-style-type:disc;font-size:22pt;font-family:Arial;color:#F3F3F3;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Which made more sense to you? Which was easier to follow? Who makes their community more approachable</span></p>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Which made more sense to you? Which was easier to follow? Who makes their community more approachable</span></p>
 </li>
-<li dir="ltr" style="list-style-type:disc;font-size:22pt;font-family:Arial;color:#F3F3F3;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Do a video explaining a hello world codepen from either community</span></p>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;" role="presentation"><span>Do a video explaining a hello world codepen from either community</span></p>
 </li>
-<li dir="ltr" style="list-style-type:disc;font-size:22pt;font-family:Arial;color:#F3F3F3;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:16pt;" role="presentation"><span>Do a blog post about your experience, which you liked more and why.</span></p>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 16pt;" role="presentation">Do a blog post about your experience, which you liked more and why.</p>
 </li>
 </ul>
  ]]>

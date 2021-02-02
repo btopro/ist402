@@ -703,20 +703,20 @@
             "order": "2",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "W3 JavaScript",
-            "description": "We'll make something with JavaScript based on the option selected.ScenarioYou are told IST makes you learn on your ownThat you\u2019ll just Google everything and do it yourselfWell, this week, than",
+            "description": "ScenarioYou are told IST makes you learn on your ownThat you\u2019ll just Google everything and do it yourselfWell, this week, thanks in part to a snow cancelation at your teacher\u2019s, kids\u2019 schoo",
             "metadata": {
                 "created": 1611634557,
-                "updated": 1612246561,
+                "updated": 1612246708,
                 "readtime": 2,
                 "contentDetails": {
-                    "headings": 0,
-                    "paragraphs": 5,
+                    "headings": 4,
+                    "paragraphs": 0,
                     "schema": [],
                     "tags": {
-                        "p": 5,
+                        "h3": 4,
                         "ul": 4
                     },
-                    "elements": 9
+                    "elements": 8
                 }
             }
         },
