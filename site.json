@@ -688,7 +688,7 @@
             "description": "This week we'll be looking at SEO as well as detouring into some mind bending concepts that helped influence how I perceive SEO and manipulate it. If I wanted to this is better listed as \"SEO\" because",
             "metadata": {
                 "created": 1579730095,
-                "updated": 1612362980,
+                "updated": 1612363158,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/collins-image-3_1_1.png",
@@ -718,12 +718,13 @@
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 0,
+                    "paragraphs": 2,
                     "schema": [],
                     "tags": {
-                        "grid-plate": 1
+                        "p": 2,
+                        "ol": 1
                     },
-                    "elements": 1
+                    "elements": 3
                 },
                 "published": true
             }
