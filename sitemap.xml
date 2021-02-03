@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- generator-class="Icamys\SitemapGenerator\SitemapGenerator" -->
 <!-- generator-version="1.1.0" -->
-<!-- generated-on="2021-02-03T09:36:20-05:00" -->
+<!-- generated-on="2021-02-03T09:36:55-05:00" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>/welcome</loc>
@@ -16,16 +16,16 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/labs/building-your-digital-identity</loc>
+    <loc>/resources/screencasting</loc>
     <lastmod>2021-02-03T09:36:20-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/labs/lab-11-accessibility</loc>
+    <loc>/topics/building-your-digital-identity</loc>
     <lastmod>2021-02-03T09:36:20-05:00</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.7</priority>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>/labs/lab-6-wordpress/scenario-1</loc>
@@ -34,13 +34,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/resources/screencasting</loc>
+    <loc>/labs/lab-11-accessibility</loc>
     <lastmod>2021-02-03T09:36:20-05:00</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>/topics/building-your-digital-identity</loc>
+    <loc>/labs/building-your-digital-identity</loc>
     <lastmod>2021-02-03T09:36:20-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -76,13 +76,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>/labs/lab-6-wordpress/submitting-the-lab</loc>
+    <loc>/item-cf20c5a6-e0da-48ea-85b6-1cb50a852928</loc>
     <lastmod>2021-02-03T09:36:20-05:00</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.7</priority>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>/topics/oerschema-1</loc>
+    <loc>/resources/links-to-learn-more</loc>
     <lastmod>2021-02-03T09:36:20-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -94,13 +94,13 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>/resources/links-to-learn-more</loc>
+    <loc>/labs/lab-6-wordpress/submitting-the-lab</loc>
     <lastmod>2021-02-03T09:36:20-05:00</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.5</priority>
+    <priority>0.7</priority>
   </url>
   <url>
-    <loc>/item-cf20c5a6-e0da-48ea-85b6-1cb50a852928</loc>
+    <loc>/topics/oerschema-1</loc>
     <lastmod>2021-02-03T09:36:20-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -154,6 +154,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>/labs/lab-5-gravcms</loc>
+    <lastmod>2021-02-03T09:36:20-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>/topics/wordpress</loc>
     <lastmod>2021-02-03T09:36:20-05:00</lastmod>
     <changefreq>daily</changefreq>
@@ -164,12 +170,6 @@
     <lastmod>2021-02-03T09:36:20-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>/labs/lab-5-gravcms</loc>
-    <lastmod>2021-02-03T09:36:20-05:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>/labs/lab-6-wordpress</loc>
@@ -232,16 +232,16 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/labs/lab-9-drupal-again</loc>
-    <lastmod>2021-02-03T09:36:20-05:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>/labs</loc>
     <lastmod>2021-02-03T09:36:20-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>/labs/lab-9-drupal-again</loc>
+    <lastmod>2021-02-03T09:36:20-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>/labs/w9-spring-break</loc>
@@ -286,13 +286,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/mid-term-review</loc>
+    <loc>/project</loc>
     <lastmod>2021-02-03T09:36:20-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>/project</loc>
+    <loc>/mid-term-review</loc>
     <lastmod>2021-02-03T09:36:20-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>

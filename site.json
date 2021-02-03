@@ -705,6 +705,14 @@
                         "type": "image\/jpeg",
                         "name": "collins-mug.jpg",
                         "size": 114955
+                    },
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/6a1dba50e19f7936.png",
+                        "fullUrl": "\/bto108\/sites\/ist402\/files\/6a1dba50e19f7936.png",
+                        "url": "files\/6a1dba50e19f7936.png",
+                        "type": "image\/png",
+                        "name": "6a1dba50e19f7936.png",
+                        "size": 8048
                     }
                 ],
                 "readtime": 1,

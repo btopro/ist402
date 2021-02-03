@@ -6,18 +6,8 @@
     <description>Web Technologies and Activism</description>
     <copyright>Copyright (C) 2021 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Jan 2021 23:18:01 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 03 Feb 2021 09:36:20 -0500</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>W13 Final Project</title>
-      <link>/item-3865aac5-97b9-4164-bdf3-68c7c0d59ea6</link>
-      <description>
-          <![CDATA[ <p></p> ]]>
-      </description>
-      <category></category>
-      <guid>/item-3865aac5-97b9-4164-bdf3-68c7c0d59ea6</guid>
-      <pubDate>Mon, 25 Jan 2021 23:15:57 -0500</pubDate>
-    </item>
     <item>
       <title>W3 JavaScript</title>
       <link>/item-cf20c5a6-e0da-48ea-85b6-1cb50a852928</link>
@@ -134,6 +124,16 @@ to make a boilerplate project</li>
       </description>
       <category></category>
       <guid>/item-cf20c5a6-e0da-48ea-85b6-1cb50a852928</guid>
+      <pubDate>Mon, 25 Jan 2021 23:15:57 -0500</pubDate>
+    </item>
+    <item>
+      <title>W13 Final Project</title>
+      <link>/item-3865aac5-97b9-4164-bdf3-68c7c0d59ea6</link>
+      <description>
+          <![CDATA[ <p></p> ]]>
+      </description>
+      <category></category>
+      <guid>/item-3865aac5-97b9-4164-bdf3-68c7c0d59ea6</guid>
       <pubDate>Mon, 25 Jan 2021 23:15:57 -0500</pubDate>
     </item>
     <item>
@@ -467,6 +467,19 @@ to understand issues and see what real reports look and feel like</p>
       <pubDate>Wed, 30 Oct 2019 17:21:25 -0400</pubDate>
     </item>
     <item>
+      <title>W13 Exam</title>
+      <link>/labs/lab-8-midterm-no-lab</link>
+      <description>
+          <![CDATA[ <p>Week 14 we will have an Exam the Tuesday of this week and then start into our Final Projects on the Thursday of this week.</p>
+<p>This will give you two weeks to work on your Final project prior to finals.</p>
+<p>The exam is "open internet" and is an overview from the topics this semester.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/labs/lab-8-midterm-no-lab</guid>
+      <pubDate>Wed, 23 Oct 2019 14:38:05 -0400</pubDate>
+    </item>
+    <item>
       <title>W9 Drupal again</title>
       <link>/labs/lab-9-drupal-again</link>
       <description>
@@ -535,19 +548,6 @@ correctly of the organization and has poor permission support within those roles
       </description>
       <category></category>
       <guid>/labs/lab-9-drupal-again</guid>
-      <pubDate>Wed, 23 Oct 2019 14:38:05 -0400</pubDate>
-    </item>
-    <item>
-      <title>W13 Exam</title>
-      <link>/labs/lab-8-midterm-no-lab</link>
-      <description>
-          <![CDATA[ <p>Week 14 we will have an Exam the Tuesday of this week and then start into our Final Projects on the Thursday of this week.</p>
-<p>This will give you two weeks to work on your Final project prior to finals.</p>
-<p>The exam is "open internet" and is an overview from the topics this semester.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/labs/lab-8-midterm-no-lab</guid>
       <pubDate>Wed, 23 Oct 2019 14:38:05 -0400</pubDate>
     </item>
     <item>
@@ -644,22 +644,6 @@ please consider using social media to send out links to your resource after post
       <pubDate>Thu, 10 Oct 2019 15:41:56 -0400</pubDate>
     </item>
     <item>
-      <title>Drupal</title>
-      <link>/topics/drupal</link>
-      <description>
-          <![CDATA[ <ul href="https://www.slideshare.net/BryanOllendyke1/edtechjoker-spring-2020-lecture-7-drupal-intro" style="width: 100%;"><li>Drupal Slides for this topic</li>
-<li>Drupal week two slides</li>
-</ul>
-<p>Drupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll use Drupal to model those relationships in the website.</p>
-<p>We'll learn about Content Types and fields to model data. Then we'll use Views in order to visualize that data and work with content entry to make sense of it all.</p>
-<p>Drupal is daunting at first but once you learn the concepts and experience them they form a repeatable pattern of development and site building that leads you into a large community with lots of financial opportunities.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/topics/drupal</guid>
-      <pubDate>Thu, 03 Oct 2019 20:07:06 -0400</pubDate>
-    </item>
-    <item>
       <title>W8 Drupal</title>
       <link>/labs/lab-7-drupal</link>
       <description>
@@ -752,6 +736,22 @@ please consider using social media to send out links to your resource after post
       </description>
       <category></category>
       <guid>/labs/lab-7-drupal</guid>
+      <pubDate>Thu, 03 Oct 2019 20:07:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>Drupal</title>
+      <link>/topics/drupal</link>
+      <description>
+          <![CDATA[ <ul href="https://www.slideshare.net/BryanOllendyke1/edtechjoker-spring-2020-lecture-7-drupal-intro" style="width: 100%;"><li>Drupal Slides for this topic</li>
+<li>Drupal week two slides</li>
+</ul>
+<p>Drupal is the worlds most powerful, most complex and as a result, the most expensive CMS. We'll explore Drupal's concepts and do some data modeling together in class. Then we'll use Drupal to model those relationships in the website.</p>
+<p>We'll learn about Content Types and fields to model data. Then we'll use Views in order to visualize that data and work with content entry to make sense of it all.</p>
+<p>Drupal is daunting at first but once you learn the concepts and experience them they form a repeatable pattern of development and site building that leads you into a large community with lots of financial opportunities.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/topics/drupal</guid>
       <pubDate>Thu, 03 Oct 2019 20:07:06 -0400</pubDate>
     </item>
     <item>
@@ -1093,6 +1093,26 @@ complexity and learning curve</span></li>
       <pubDate>Tue, 01 Oct 2019 19:40:19 -0400</pubDate>
     </item>
     <item>
+      <title>ClassicPress / WordPress</title>
+      <link>/topics/wordpress</link>
+      <description>
+          <![CDATA[ <p style=""><span>Lecture slides from this week</span></p>
+<p>This week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why it powers (estimates, numbers differ by source) 33% to as much as 50% of sites on the internet.</p>
+<p>These sites could be everything from the Whitehouse down to every individual blog / new acount on wordpress.com (SaaS solution version) which is why people take some of that number with a grain of salt.</p>
+<p>It's a great platform to start your own website on but it's run into some recent controversies which are worth exploring - namely the battle for the heart of the community around a text editor. It's weird to think about, but when a CMS lives and dies by the ease of content entry, you can understand why the <b>new core mandatory</b>
+ text editor called<b> Gutenberg</b>
+ would attract positive and negative attention.</p>
+<p>With plans to phase out the "Classic Editor" in 2020 many people in the community are at a cross-roads: Continue to trust the same core community that "took away" their beloved simple HTML editor, or forge a new path. We'll look briefly at the concept of community forks through the context of ClassicPress, a popular WordPress alternative that's gaining traction as the more community centric CMS.</p>
+<p>With parallels to Drupal and it's popular fork Backdrop (topic for next lab) we'll see that it's not always code that leads to inflection points in groups but the process by which that code is formed, agreed upon, and ultimately pushed into the main project everyone's aligned with.</p>
+<p>WordPress is a great resume builder both in terms of the platform as well as putting on your resume that you have experience with it, so let's dig in and check it out in <a href="https://reclaimhosting.com/">ReclaimHosting</a>
+ once more!</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/topics/wordpress</guid>
+      <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
+    </item>
+    <item>
       <title>W7 WordPress</title>
       <link>/labs/lab-6-wordpress</link>
       <description>
@@ -1144,26 +1164,6 @@ complexity and learning curve</span></li>
       </description>
       <category></category>
       <guid>/labs/lab-6-wordpress</guid>
-      <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
-    </item>
-    <item>
-      <title>ClassicPress / WordPress</title>
-      <link>/topics/wordpress</link>
-      <description>
-          <![CDATA[ <p style=""><span>Lecture slides from this week</span></p>
-<p>This week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why it powers (estimates, numbers differ by source) 33% to as much as 50% of sites on the internet.</p>
-<p>These sites could be everything from the Whitehouse down to every individual blog / new acount on wordpress.com (SaaS solution version) which is why people take some of that number with a grain of salt.</p>
-<p>It's a great platform to start your own website on but it's run into some recent controversies which are worth exploring - namely the battle for the heart of the community around a text editor. It's weird to think about, but when a CMS lives and dies by the ease of content entry, you can understand why the <b>new core mandatory</b>
- text editor called<b> Gutenberg</b>
- would attract positive and negative attention.</p>
-<p>With plans to phase out the "Classic Editor" in 2020 many people in the community are at a cross-roads: Continue to trust the same core community that "took away" their beloved simple HTML editor, or forge a new path. We'll look briefly at the concept of community forks through the context of ClassicPress, a popular WordPress alternative that's gaining traction as the more community centric CMS.</p>
-<p>With parallels to Drupal and it's popular fork Backdrop (topic for next lab) we'll see that it's not always code that leads to inflection points in groups but the process by which that code is formed, agreed upon, and ultimately pushed into the main project everyone's aligned with.</p>
-<p>WordPress is a great resume builder both in terms of the platform as well as putting on your resume that you have experience with it, so let's dig in and check it out in <a href="https://reclaimhosting.com/">ReclaimHosting</a>
- once more!</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>/topics/wordpress</guid>
       <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
     </item>
   </channel>
