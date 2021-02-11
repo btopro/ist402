@@ -6,27 +6,27 @@
     <description>Web Technologies and Activism</description>
     <copyright>Copyright (C) 2021 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Feb 2021 09:36:20 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 10 Feb 2021 23:35:08 -0500</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>W4 SEO & A11y</title>
       <link>/item-2f6e07c1-3c7c-49d7-993f-3799dfa13ea6</link>
       <description>
-          <![CDATA[ <p></p> ]]>
+          <![CDATA[ <h3 id="header-bc5b3d65-6131-6cb8-274a-7291fefee156">Scenario</h3>
+<p></p>
+<h3 id="header-6869354b-dd1c-46fe-7670-a1e78b49cf4c">Option 1</h3>
+<p></p>
+<h3 id="header-de46fb17-799f-7128-ace9-6626fd21eb30">Option 2</h3>
+<p></p>
+<h3 id="header-cdd790e1-47ee-740f-6380-1149218a4c3d">Rubric</h3>
+<p></p>
+<h3 id="header-89aae1e2-67ac-990c-e170-c5990ec7db37">Submission</h3>
+<p></p>
+ ]]>
       </description>
       <category></category>
       <guid>/item-2f6e07c1-3c7c-49d7-993f-3799dfa13ea6</guid>
       <pubDate>Wed, 10 Feb 2021 23:35:08 -0500</pubDate>
-    </item>
-    <item>
-      <title>W13 Final Project</title>
-      <link>/item-3865aac5-97b9-4164-bdf3-68c7c0d59ea6</link>
-      <description>
-          <![CDATA[ <p></p> ]]>
-      </description>
-      <category></category>
-      <guid>/item-3865aac5-97b9-4164-bdf3-68c7c0d59ea6</guid>
-      <pubDate>Mon, 25 Jan 2021 23:15:57 -0500</pubDate>
     </item>
     <item>
       <title>W3 JavaScript</title>
@@ -144,6 +144,16 @@ to make a boilerplate project</li>
       </description>
       <category></category>
       <guid>/item-cf20c5a6-e0da-48ea-85b6-1cb50a852928</guid>
+      <pubDate>Mon, 25 Jan 2021 23:15:57 -0500</pubDate>
+    </item>
+    <item>
+      <title>W13 Final Project</title>
+      <link>/item-3865aac5-97b9-4164-bdf3-68c7c0d59ea6</link>
+      <description>
+          <![CDATA[ <p></p> ]]>
+      </description>
+      <category></category>
+      <guid>/item-3865aac5-97b9-4164-bdf3-68c7c0d59ea6</guid>
       <pubDate>Mon, 25 Jan 2021 23:15:57 -0500</pubDate>
     </item>
     <item>
@@ -402,18 +412,6 @@ channel to find them on YouTube. Watch their video for the git submission last w
     </item>
     <item>
       <title>Accessibility</title>
-      <link>/topics/accessibility-1</link>
-      <description>
-          <![CDATA[ <p>My slides from class</p>
-<a11y-gif-player src="https://media1.giphy.com/media/26u4eMlvKoTn7DfvG/giphy.gif" src-without-animation="https://media3.giphy.com/media/26u4eMlvKoTn7DfvG/480w_s.jpg" alt="Wheel chair user slowly being lowered by kegs down a ramp" schema-resource-id="#bc676c7d-31ce-58d0-f485" resource="#bc676c7d-31ce-58d0-f485" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 75%; margin: 0px auto; display: block;" tooltip="Toggle animation"></a11y-gif-player>
- ]]>
-      </description>
-      <category></category>
-      <guid>/topics/accessibility-1</guid>
-      <pubDate>Wed, 30 Oct 2019 17:21:25 -0400</pubDate>
-    </item>
-    <item>
-      <title>Accessibility</title>
       <link>/labs/lab-11-accessibility</link>
       <description>
           <![CDATA[ <p>Web accessibility is just one piece of the accessibility pie but we're attuned to its importance. The next thing though is how do we use tools to help build more accessible things and remediate what we already have?</p>
@@ -476,17 +474,16 @@ to understand issues and see what real reports look and feel like</p>
       <pubDate>Wed, 30 Oct 2019 17:21:25 -0400</pubDate>
     </item>
     <item>
-      <title>W13 Exam</title>
-      <link>/labs/lab-8-midterm-no-lab</link>
+      <title>Accessibility</title>
+      <link>/topics/accessibility-1</link>
       <description>
-          <![CDATA[ <p>Week 14 we will have an Exam the Tuesday of this week and then start into our Final Projects on the Thursday of this week.</p>
-<p>This will give you two weeks to work on your Final project prior to finals.</p>
-<p>The exam is "open internet" and is an overview from the topics this semester.</p>
+          <![CDATA[ <p>My slides from class</p>
+<a11y-gif-player src="https://media1.giphy.com/media/26u4eMlvKoTn7DfvG/giphy.gif" src-without-animation="https://media3.giphy.com/media/26u4eMlvKoTn7DfvG/480w_s.jpg" alt="Wheel chair user slowly being lowered by kegs down a ramp" schema-resource-id="#bc676c7d-31ce-58d0-f485" resource="#bc676c7d-31ce-58d0-f485" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 75%; margin: 0px auto; display: block;" tooltip="Toggle animation"></a11y-gif-player>
  ]]>
       </description>
       <category></category>
-      <guid>/labs/lab-8-midterm-no-lab</guid>
-      <pubDate>Wed, 23 Oct 2019 14:38:05 -0400</pubDate>
+      <guid>/topics/accessibility-1</guid>
+      <pubDate>Wed, 30 Oct 2019 17:21:25 -0400</pubDate>
     </item>
     <item>
       <title>W9 Drupal again</title>
@@ -557,6 +554,19 @@ correctly of the organization and has poor permission support within those roles
       </description>
       <category></category>
       <guid>/labs/lab-9-drupal-again</guid>
+      <pubDate>Wed, 23 Oct 2019 14:38:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>W13 Exam</title>
+      <link>/labs/lab-8-midterm-no-lab</link>
+      <description>
+          <![CDATA[ <p>Week 14 we will have an Exam the Tuesday of this week and then start into our Final Projects on the Thursday of this week.</p>
+<p>This will give you two weeks to work on your Final project prior to finals.</p>
+<p>The exam is "open internet" and is an overview from the topics this semester.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>/labs/lab-8-midterm-no-lab</guid>
       <pubDate>Wed, 23 Oct 2019 14:38:05 -0400</pubDate>
     </item>
     <item>
@@ -1102,57 +1112,23 @@ desire</span></li>
       <pubDate>Tue, 01 Oct 2019 19:40:19 -0400</pubDate>
     </item>
     <item>
-      <title>W7 WordPress</title>
-      <link>/labs/lab-6-wordpress</link>
+      <title>ClassicPress / WordPress</title>
+      <link>/topics/wordpress</link>
       <description>
-          <![CDATA[ <h2>Lab Context</h2>
-<ul><li>You are the project manager that sold your team and CEO on using Grav</li>
-
-
-
-
-
-
-<li>Grav is going great, but there are rumblings from some clients recently and team members used to WordPress are asking for it.</li>
-
-
-
-
-
-
-<li><b><a href="labs/lab-6-wordpress/scenario-1">Client 1</a>
-
-</b>
-
-
- is also concerned about this "New Editor" they keep hearing about. Some want to try it out, others like things the way it is now because of training.</li>
-
-
-
-
-
-
-<li><b><a href="labs/lab-6-wordpress/scenario-2">Client 2</a>
-
-</b>
-
-
- is questioning why you selected Grav for their project and wants you to review if they should be using WordPress because of other projects they are using it on.</li>
-
-</ul>
-<h2 class="hax-active"><span style=""><span style="letter-spacing: -0.48px;" class="hax-active">Grading the Lab deliverable</span></span></h2>
-<ul><li><span style=""><span style="letter-spacing: -0.48px;" class="hax-active">Did you create a WordPress site in Reclaim and post your link to the channel <b>(2pts)</b>
-</span></span></li>
-<li><span style=""><span style="letter-spacing: -0.48px;" class="hax-active">Did you create the site and effectively effectively argue the case for the technology selection in the scenario? <b>(4pts)</b>
-</span></span></li>
-<li><span style=""><span style="letter-spacing: -0.48px;">Did you record a video that makes the case for or against the decision in question?<b> (4pts)</b>
-</span></span></li>
-</ul>
-<p><span style="letter-spacing: -0.48px;">This lab is worth 10 points</span></p>
+          <![CDATA[ <p style=""><span>Lecture slides from this week</span></p>
+<p>This week we'll be covering WordPress, the worlds most widely used open source CMS. WordPress is great for simple websites of which the web is made up of many. It's why it powers (estimates, numbers differ by source) 33% to as much as 50% of sites on the internet.</p>
+<p>These sites could be everything from the Whitehouse down to every individual blog / new acount on wordpress.com (SaaS solution version) which is why people take some of that number with a grain of salt.</p>
+<p>It's a great platform to start your own website on but it's run into some recent controversies which are worth exploring - namely the battle for the heart of the community around a text editor. It's weird to think about, but when a CMS lives and dies by the ease of content entry, you can understand why the <b>new core mandatory</b>
+ text editor called<b> Gutenberg</b>
+ would attract positive and negative attention.</p>
+<p>With plans to phase out the "Classic Editor" in 2020 many people in the community are at a cross-roads: Continue to trust the same core community that "took away" their beloved simple HTML editor, or forge a new path. We'll look briefly at the concept of community forks through the context of ClassicPress, a popular WordPress alternative that's gaining traction as the more community centric CMS.</p>
+<p>With parallels to Drupal and it's popular fork Backdrop (topic for next lab) we'll see that it's not always code that leads to inflection points in groups but the process by which that code is formed, agreed upon, and ultimately pushed into the main project everyone's aligned with.</p>
+<p>WordPress is a great resume builder both in terms of the platform as well as putting on your resume that you have experience with it, so let's dig in and check it out in <a href="https://reclaimhosting.com/">ReclaimHosting</a>
+ once more!</p>
  ]]>
       </description>
       <category></category>
-      <guid>/labs/lab-6-wordpress</guid>
+      <guid>/topics/wordpress</guid>
       <pubDate>Tue, 01 Oct 2019 14:02:52 -0400</pubDate>
     </item>
   </channel>

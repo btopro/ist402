@@ -771,10 +771,21 @@
             "order": "3",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "W4 SEO & A11y",
-            "description": "",
+            "description": "ScenarioOption 1Option 2RubricSubmission",
             "metadata": {
                 "created": 1613018108,
-                "updated": 1613018108
+                "updated": 1613018339,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 5,
+                    "paragraphs": 5,
+                    "schema": [],
+                    "tags": {
+                        "h3": 5,
+                        "p": 5
+                    },
+                    "elements": 10
+                }
             }
         },
         {
