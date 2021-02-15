@@ -984,7 +984,7 @@
             "description": "Lab 2We&#39;ve talked about git for version control and explored Github a bit and how teams work together using the platform. Now let&#39;s dig in!Basic example \/ Getting startedCreate a GitHub account",
             "metadata": {
                 "created": 1566673990,
-                "updated": 1613018108,
+                "updated": 1613405696,
                 "readtime": 3,
                 "contentDetails": {
                     "headings": 5,
@@ -999,7 +999,7 @@
                     },
                     "elements": 17
                 },
-                "published": true
+                "published": false
             }
         },
         {
