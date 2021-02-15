@@ -981,23 +981,23 @@
             "order": "5",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "W5 Git \/ Github \/ Contribution",
-            "description": "Lab 2We&#39;ve talked about git for version control and explored Github a bit and how teams work together using the platform. Now let&#39;s dig in!Basic example \/ Getting startedCreate a GitHub account",
+            "description": "We've talked about git for version control and explored Github a bit and how teams work together using the platform. Now let's dig in!Basic example \/ Getting startedCreate a GitHub accountStar the",
             "metadata": {
                 "created": 1566673990,
-                "updated": 1613405696,
-                "readtime": 3,
+                "updated": 1613406136,
+                "readtime": 4,
                 "contentDetails": {
-                    "headings": 5,
+                    "headings": 4,
                     "paragraphs": 9,
                     "schema": [],
                     "tags": {
                         "p": 9,
-                        "h2": 1,
-                        "h3": 4,
+                        "h3": 3,
                         "ol": 2,
+                        "h2": 1,
                         "ul": 1
                     },
-                    "elements": 17
+                    "elements": 16
                 },
                 "published": false
             }
