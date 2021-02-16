@@ -128,7 +128,7 @@ HTML, or "HyperText Markup Language", is a markup language used primarily for fr
   SQL can get very confusing as the commands get longer and longer. For the most part, SQL is used to store, create, read, and delete data from a relational database (Database that has connectiong between tables and other databases). It is the most user friendly database language.
 
 ## MySQL
-
+MySQL is an relational database management system (RDBMS). It is an open-source system and is a common option for storage of information in databases primarily used in financial records, personnel data, and more since the 1980s. MySQL organizes data into tables with relations that help structure the data. One of the differences between SQL and MySQL is that SQL is a programming language while MySQL works with an operating system to implement a relational database within a computer's storage system.
 
 ## WebAssembly
 
