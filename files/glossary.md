@@ -200,3 +200,4 @@ An Apache Web Server is an open source web browser that delivers web content thr
 
 
 ## SaaS
+(Software as a Service) is a software licensing and delivery model in which software is licensed on a subscription basis.
