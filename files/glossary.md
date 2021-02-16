@@ -13,6 +13,9 @@ HTML, or "HyperText Markup Language", is a markup language used primarily for fr
 - [w3schools](https://www.w3schools.com/html/html_examples.asp)
 
 ## CSS
+CSS stands for Cascading Style Sheets and is used to manipulate the presentation of an HTML document. It is used to simplify the process of making web pages look presentable. It is used to define styles for web pages, including design, layout and variations in display for different screen sizes. Some advantages in using CSS are that it saves time, helps pages load faster, is easy to maintain, fits the global web standards, and has superior styles to HTML.
+- [TutorialsPoint](https://www.tutorialspoint.com/css/what_is_css.htm)
+- [W3Schools]( https://www.w3schools.com/Css/css_intro.asp)
 
 
 ## JavaScript
