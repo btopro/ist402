@@ -8,7 +8,9 @@ A front end developer works on "front end" code in an application, commonly mean
 - [Blog post: What is the future of front end development?](https://scale3c.com/blog/what-is-the-future-of-front-end-development-in-2020/)
 
 ## HTML
-
+HTML, or "HyperText Markup Language", is a markup language used primarily for front-end web development.  It represents objects using tags, and allows programmers to instantiate objects thereby creating a document which is viewable through use of a web browser.  See the below links for some examples and further information.
+- [Wikipedia](https://en.wikipedia.org/wiki/HTML#:~:text=Hypertext%20Markup%20Language%20(HTML)%20is,scripting%20languages%20such%20as%20JavaScript.)
+- [w3schools](https://www.w3schools.com/html/html_examples.asp)
 
 ## CSS
 
