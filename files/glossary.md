@@ -116,7 +116,11 @@ A front end developer works on "front end" code in an application, commonly mean
 
 
 ## Vue.js
+Vue.js is a front end JavaScript framework used for building user applications and interfaces. Similar yet different from React and Angular, Vue can be used in conjunction with frameworks like Electron to build both web applications and mobile and desktop apps. With its main feature being incremental adoption, Vue is one of the most easily adoptable JavaScript frameworks, allowing you to slowly implement Vue into an existing project rather than having to implement it all at once. The one big drawback of Vue is that it remains exclusively focued on the view layer, meaning that to build functionality such as routing, build tooling, and state management, you need to use external supporting libraries and packages.
 
+More Reading:
+[The Pro and Cons of Vue.js](https://www.altexsoft.com/blog/engineering/pros-and-cons-of-vue-js/)
+[Vue.js - Wikipedia](https://en.wikipedia.org/wiki/Vue.js)
 
 ## Golang
 
