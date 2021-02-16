@@ -125,7 +125,7 @@ A front end developer works on "front end" code in an application, commonly mean
 
 
 ## MySQL
-
+MySQL is an relational database management system (RDBMS). It is an open-source system and is a common option for storage of information in databases primarily used in financial records, personnel data, and more since the 1980s. MySQL organizes data into tables with relations that help structure the data. One of the differences between SQL and MySQL is that SQL is a programming language while MySQL works with an operating system to implement a relational database within a computer's storage system.
 
 ## WebAssembly
 
