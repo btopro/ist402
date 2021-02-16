@@ -150,6 +150,16 @@ A front end developer works on "front end" code in an application, commonly mean
 
 ## Accessibility / A11y
 
+Accessibility is creating a website that can be used by all people, no matter how they get the information from the site. Some examples of ways people need special accomdendations to browse sites include:
+
+* voice over
+* keyboard controls
+* audio file transcripts
+* alternative text for images
+
+Implementing accessibility is important because just like busniess are required to make their space usable for all people, including those with disabilies, websites must be avaible to all people to use. Some tools developers can use to manage accssibility inclde Lighthouse, and WAVE. 
+
+[Accessibility from W3](https://www.w3.org/standards/webdesign/accessibility)
 
 ## Internationalization / i18n
 
