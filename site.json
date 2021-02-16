@@ -685,10 +685,10 @@
             "order": "2",
             "parent": "item-72221f19-c261-4bbc-a3c1-3c9e29bdbc4b",
             "title": "SEO & A11y",
-            "description": "This week we&#39;ll be looking at Accessibility and SEO.This is a &#34;wellness&#34; week which means we&#39;ll have a bit lighter lesson, learn a bit about accessibility and SEO, give classmates feedback on their b",
+            "description": "This week we'll be looking at Accessibility and SEO.This is a \"wellness\" week which means we'll have a bit lighter lesson, learn a bit about accessibility and SEO, give classmates feedback on their b",
             "metadata": {
                 "created": 1579730095,
-                "updated": 1613018108,
+                "updated": 1613493442,
                 "files": [
                     {
                         "path": "\/var\/www\/iam\/users\/bto108\/sites\/ist402\/files\/collins-image-3_1_1.png",
@@ -718,12 +718,12 @@
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
-                    "paragraphs": 2,
+                    "paragraphs": 3,
                     "schema": [],
                     "tags": {
-                        "p": 2
+                        "p": 3
                     },
-                    "elements": 2
+                    "elements": 3
                 },
                 "published": true
             }
