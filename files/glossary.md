@@ -164,7 +164,7 @@ A front end developer works on "front end" code in an application, commonly mean
 
 
 ## Apache Web server
-
+An Apache Web Server is an open source web browser that delivers web content through the internet.  It has become the most popular HTTP client on the web.
 
 ## Varnish
 
