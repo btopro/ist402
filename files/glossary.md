@@ -118,7 +118,9 @@ HTML, or "HyperText Markup Language", is a markup language used primarily for fr
 
 
 ## Vue.js
-
+Vue.js is an open source framework/library that is primarily used for UI development and Design. Focused on the View Layer only hence the name.
+You can find out more here.
+https://vuejs.org/v2/guide/#:~:text=What%20is%20Vue.js?%20Vue%20(pronounced%20/vju%CB%90/,%20like%20view),and%20integrate%20with%20other%20libraries%20or%20existing%20projects.
 
 ## Golang
 
