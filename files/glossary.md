@@ -155,7 +155,7 @@ A front end developer works on "front end" code in an application, commonly mean
 
 
 ## User Experience / Usability
-
+User Experience is really important to creating a easily usable product. This means any given user has an positive experience beacuse of the meangingful and relevant design. While usability is really important to creating this positive experience, it is not everything. User Experience encompasses the whole interactrion, starting with branding and design and including the usability and function of the product. A good User Experience is meeting every users needs, specific to them. Learn more at the [Interaction Design Foundation] (https://www.interaction-design.org/literature/topics/ux-design)
 
 ## Open Educational Resources (OER)
 
