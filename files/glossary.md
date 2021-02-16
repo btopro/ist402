@@ -122,7 +122,8 @@ A front end developer works on "front end" code in an application, commonly mean
 
 
 ## SQL
-
+  SQL is a relational database language. A sample of SQL code: `SELECT * FROM Schools`, which returns all the results from the Schools table. 
+  SQL can get very confusing as the commands get longer and longer. For the most part, SQL is used to store, create, read, and delete data from a relational database (Database that has connectiong between tables and other databases). It is the most user friendly database language.
 
 ## MySQL
 
