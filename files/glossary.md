@@ -131,6 +131,11 @@ A front end developer works on "front end" code in an application, commonly mean
 
 
 ## Python
+Python is a high-level programming language that was released in 1991.  It has become increasingly popular among developers, due to its usability and general ease (expressing concepts is so much easier than Java, C++ or C).
+Read more about the history of Python here: https://www.geeksforgeeks.org/history-of-python/
+  
+  Here is a fun fact:
+    -the name inspiration came from the BBC tv show "Monty Python's Flying Circus" (IMO it should be from Monty        Python and the Holy Grail)
 
 
 ## Docker
