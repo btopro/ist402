@@ -8,9 +8,7 @@ A front end developer works on "front end" code in an application, commonly mean
 - [Blog post: What is the future of front end development?](https://scale3c.com/blog/what-is-the-future-of-front-end-development-in-2020/)
 
 ## HTML
-HTML, or "HyperText Markup Language", is a markup language used primarily for front-end web development.  It represents objects using tags, and allows programmers to instantiate objects thereby creating a document which is viewable through use of a web browser.  See the below links for some examples and further information.
-- [Wikipedia](https://en.wikipedia.org/wiki/HTML#:~:text=Hypertext%20Markup%20Language%20(HTML)%20is,scripting%20languages%20such%20as%20JavaScript.)
-- [w3schools](https://www.w3schools.com/html/html_examples.asp)
+
 
 ## CSS
 
@@ -64,6 +62,9 @@ HTML, or "HyperText Markup Language", is a markup language used primarily for fr
 
 
 ## Web Components
+Web Components are web platform APIs things that allow you to create reusable custom elements in web pages and web apps. The three ones that are used together are Custom Elements, Shadow DOM, and HTML templates. Web components help developers expand past the limits that browsers provide in existing HTML tags.
+https://css-tricks.com/an-introduction-to-web-components/
+https://www.webcomponents.org/introduction
 
 
 ## LitElement
@@ -118,19 +119,16 @@ HTML, or "HyperText Markup Language", is a markup language used primarily for fr
 
 
 ## Vue.js
-Vue.js is an open source framework/library that is primarily used for UI development and Design. Focused on the View Layer only hence the name.
-You can find out more here.
-https://vuejs.org/v2/guide/#:~:text=What%20is%20Vue.js?%20Vue%20(pronounced%20/vju%CB%90/,%20like%20view),and%20integrate%20with%20other%20libraries%20or%20existing%20projects.
+
 
 ## Golang
 
 
 ## SQL
-  SQL is a relational database language. A sample of SQL code: `SELECT * FROM Schools`, which returns all the results from the Schools table. 
-  SQL can get very confusing as the commands get longer and longer. For the most part, SQL is used to store, create, read, and delete data from a relational database (Database that has connectiong between tables and other databases). It is the most user friendly database language.
+
 
 ## MySQL
-MySQL is an relational database management system (RDBMS). It is an open-source system and is a common option for storage of information in databases primarily used in financial records, personnel data, and more since the 1980s. MySQL organizes data into tables with relations that help structure the data. One of the differences between SQL and MySQL is that SQL is a programming language while MySQL works with an operating system to implement a relational database within a computer's storage system.
+
 
 ## WebAssembly
 
@@ -155,22 +153,12 @@ MySQL is an relational database management system (RDBMS). It is an open-source 
 
 ## Accessibility / A11y
 
-Accessibility is creating a website that can be used by all people, no matter how they get the information from the site. Some examples of ways people need special accomdendations to browse sites include:
-
-* voice over
-* keyboard controls
-* audio file transcripts
-* alternative text for images
-
-Implementing accessibility is important because just like busniess are required to make their space usable for all people, including those with disabilies, websites must be avaible to all people to use. Some tools developers can use to manage accssibility inclde Lighthouse, and WAVE. 
-
-[Accessibility from W3](https://www.w3.org/standards/webdesign/accessibility)
 
 ## Internationalization / i18n
 
 
 ## User Experience / Usability
-User Experience is really important to creating a easily usable product. This means any given user has an positive experience beacuse of the meangingful and relevant design. While usability is really important to creating this positive experience, it is not everything. User Experience encompasses the whole interactrion, starting with branding and design and including the usability and function of the product. A good User Experience is meeting every users needs, specific to them. Learn more at the [Interaction Design Foundation] (https://www.interaction-design.org/literature/topics/ux-design)
+
 
 ## Open Educational Resources (OER)
 
@@ -179,7 +167,7 @@ User Experience is really important to creating a easily usable product. This me
 
 
 ## Apache Web server
-An Apache Web Server is an open source web browser that delivers web content through the internet.  It has become the most popular HTTP client on the web.
+
 
 ## Varnish
 
