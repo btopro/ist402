@@ -981,23 +981,22 @@
             "order": "5",
             "parent": "item-16ec2a1f-3273-42bd-9124-15c0e0584961",
             "title": "W5 Git \/ Github \/ Contribution",
-            "description": "We've talked about git for version control and explored Github a bit and how teams work together using the platform. Now let's dig in!Basic example \/ Getting startedCreate a GitHub accountStar the",
+            "description": "ScenarioSomething silly trolling the fact that we are FINALLY back in person. Basically just that you have to make a git repo and github is a great place to do it!DeliverableYou\u2019re going to make ",
             "metadata": {
                 "created": 1566673990,
-                "updated": 1613406136,
-                "readtime": 4,
+                "updated": 1613447130,
+                "readtime": 2,
                 "contentDetails": {
-                    "headings": 4,
-                    "paragraphs": 9,
+                    "headings": 7,
+                    "paragraphs": 1,
                     "schema": [],
                     "tags": {
-                        "p": 9,
-                        "h3": 3,
-                        "ol": 2,
-                        "h2": 1,
-                        "ul": 1
+                        "h2": 4,
+                        "p": 1,
+                        "ul": 6,
+                        "h3": 3
                     },
-                    "elements": 16
+                    "elements": 14
                 },
                 "published": false
             }
