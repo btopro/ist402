@@ -121,9 +121,14 @@ CSS stands for Cascading Style Sheets and is used to manipulate the presentation
 
 
 ## Vue.js
+Vue.js is a front end JavaScript framework used for building user applications and interfaces. Similar yet different from React and Angular, Vue can be used in conjunction with frameworks like Electron to build both web applications and mobile and desktop apps. With its main feature being incremental adoption, Vue is one of the most easily adoptable JavaScript frameworks, allowing you to slowly implement Vue into an existing project rather than having to implement it all at once. The one big drawback of Vue is that it remains exclusively focued on the view layer, meaning that to build functionality such as routing, build tooling, and state management, you need to use external supporting libraries and packages.
 Vue.js is an open source framework/library that is primarily used for UI development and Design. Focused on the View Layer only hence the name.
 You can find out more here.
 https://vuejs.org/v2/guide/#:~:text=What%20is%20Vue.js?%20Vue%20(pronounced%20/vju%CB%90/,%20like%20view),and%20integrate%20with%20other%20libraries%20or%20existing%20projects.
+
+More Reading:
+- [The Pro and Cons of Vue.js](https://www.altexsoft.com/blog/engineering/pros-and-cons-of-vue-js/)
+- [Vue.js - Wikipedia](https://en.wikipedia.org/wiki/Vue.js)
 
 ## Golang
 
