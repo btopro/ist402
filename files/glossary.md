@@ -8,9 +8,14 @@ A front end developer works on "front end" code in an application, commonly mean
 - [Blog post: What is the future of front end development?](https://scale3c.com/blog/what-is-the-future-of-front-end-development-in-2020/)
 
 ## HTML
-
+HTML, or "HyperText Markup Language", is a markup language used primarily for front-end web development.  It represents objects using tags, and allows programmers to instantiate objects thereby creating a document which is viewable through use of a web browser.  See the below links for some examples and further information.	
+- [Wikipedia](https://en.wikipedia.org/wiki/HTML#:~:text=Hypertext%20Markup%20Language%20(HTML)%20is,scripting%20languages%20such%20as%20JavaScript.)	
+- [w3schools](https://www.w3schools.com/html/html_examples.asp)
 
 ## CSS
+CSS stands for Cascading Style Sheets and is used to manipulate the presentation of an HTML document. It is used to simplify the process of making web pages look presentable. It is used to define styles for web pages, including design, layout and variations in display for different screen sizes. Some advantages in using CSS are that it saves time, helps pages load faster, is easy to maintain, fits the global web standards, and has superior styles to HTML.
+- [TutorialsPoint](https://www.tutorialspoint.com/css/what_is_css.htm)
+- [W3Schools]( https://www.w3schools.com/Css/css_intro.asp)
 
 
 ## JavaScript
@@ -62,6 +67,9 @@ A front end developer works on "front end" code in an application, commonly mean
 
 
 ## Web Components
+Web Components are web platform APIs things that allow you to create reusable custom elements in web pages and web apps. The three ones that are used together are Custom Elements, Shadow DOM, and HTML templates. Web components help developers expand past the limits that browsers provide in existing HTML tags.
+https://css-tricks.com/an-introduction-to-web-components/
+https://www.webcomponents.org/introduction
 
 
 ## LitElement
@@ -117,6 +125,14 @@ A front end developer works on "front end" code in an application, commonly mean
 
 ## Vue.js
 
+Vue.js is a front end JavaScript framework used for building user applications and interfaces. Similar yet different from React and Angular, Vue can be used in conjunction with frameworks like Electron to build both web applications and mobile and desktop apps. With its main feature being incremental adoption, Vue is one of the most easily adoptable JavaScript frameworks, allowing you to slowly implement Vue into an existing project rather than having to implement it all at once. The one big drawback of Vue is that it remains exclusively focued on the view layer, meaning that to build functionality such as routing, build tooling, and state management, you need to use external supporting libraries and packages.
+Vue.js is an open source framework/library that is primarily used for UI development and Design. Focused on the View Layer only hence the name.
+You can find out more here.
+https://vuejs.org/v2/guide/#:~:text=What%20is%20Vue.js?%20Vue%20(pronounced%20/vju%CB%90/,%20like%20view),and%20integrate%20with%20other%20libraries%20or%20existing%20projects.
+
+More Reading:
+- [The Pro and Cons of Vue.js](https://www.altexsoft.com/blog/engineering/pros-and-cons-of-vue-js/)
+- [Vue.js - Wikipedia](https://en.wikipedia.org/wiki/Vue.js)
 
 ## Golang
 
@@ -131,6 +147,11 @@ A front end developer works on "front end" code in an application, commonly mean
 
 
 ## Python
+Python is a high-level programming language that was released in 1991.  It has become increasingly popular among developers, due to its usability and general ease (expressing concepts is so much easier than Java, C++ or C).
+Read more about the history of Python here: https://www.geeksforgeeks.org/history-of-python/
+  
+  Here is a fun fact:
+    -the name inspiration came from the BBC tv show "Monty Python's Flying Circus" (IMO it should be from Monty        Python and the Holy Grail)
 
 
 ## Docker
@@ -185,3 +206,4 @@ A front end developer works on "front end" code in an application, commonly mean
 
 
 ## SaaS
+(Software as a Service) is a software licensing and delivery model in which software is licensed on a subscription basis.
