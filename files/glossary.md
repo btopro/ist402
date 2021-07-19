@@ -22,7 +22,7 @@ CSS stands for Cascading Style Sheets and is used to manipulate the presentation
 
 
 ## Yarn
- Yarn is a package manager that allows for a developer to share code with other developers around the world.It is quick, secure, and reliabe. Yarn helps a developer to use other developers' solution to their problems, which makes it easier to develop software. If problems are encountered a developer, a developer can report report issues or contribute back. Code sharing happens through packages which contain all the code, and a package.json file which describes the package.
+ Yarn is a package manager that allows for developers to share code with other developers around the world. Developers can then use the code and report issues or contribute back.
 
 
 ## NPM
