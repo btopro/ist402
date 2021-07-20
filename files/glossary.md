@@ -1,4 +1,4 @@
-# Glossary
+ # Glossary
 Write a paragraph explaining the term below, including 2-3 relevent links to more information about the topic.
 
 ## Front end Developer
@@ -22,6 +22,7 @@ CSS stands for Cascading Style Sheets and is used to manipulate the presentation
 
 
 ## Yarn
+ Yarn is a package manager that allows for developers to share code with other developers around the world. Developers can then use the code and report issues or contribute back.
 
 
 ## NPM
