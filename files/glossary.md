@@ -207,4 +207,4 @@ Read more about the history of Python here: https://www.geeksforgeeks.org/histor
 
 
 ## SaaS
-(Software as a Service) is a software licensing and delivery model in which software is licensed on a subscription basis.
+Saas stands for Software as a Service and is a way for applications to be accessed over the internet
