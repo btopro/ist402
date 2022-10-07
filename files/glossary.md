@@ -104,7 +104,7 @@ https://www.webcomponents.org/introduction
 
 
 ## Bash (sh)
-
+Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.[12][13] First released in 1989,[14] it has been used as the default login shell for most Linux distributions.[15] Bash was one of the first programs Linus Torvalds ported to Linux, alongside GCC.[16] A version is also available for Windows 10 via the Windows Subsystem for Linux.[17] It is also the default user shell in Solaris 11.[18] Bash was also the default shell in versions of Apple macOS from 10.3 (originally default shell was tcsh) to the 2019 release of macOS Catalina, which changed the default shell to zsh, although Bash remains available as an alternative shell.[19]   - https://en.wikipedia.org/wiki/Bash_(Unix_shell) 
 
 ## SEO
 
