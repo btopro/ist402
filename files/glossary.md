@@ -186,7 +186,7 @@ Very important with front-end web development. It is essential to ensure that we
 
 
 ## Apache Web server
-
+The Apache HTTP Server Project is a collaborative software development effort aimed at creating a robust, commercial-grade, featureful, and freely-available source code implementation of an HTTP (Web) server. 
 
 ## Varnish
 
@@ -204,7 +204,8 @@ Very important with front-end web development. It is essential to ensure that we
 
 
 ## PaaS
-
+(Platform as a Service) 
+PaaS (Platform as a Service), as the name suggests, provides you computing platforms which typically includes operating system, programming language execution environment, database, web server etc. Examples: AWS Elastic Beanstalk, Windows Azure, Heroku, Force.com, Google App Engine, Apache Stratos.
 
 ## SaaS
 (Software as a Service) is a software licensing and delivery model in which software is licensed on a subscription basis.
