@@ -208,3 +208,8 @@ Read more about the history of Python here: https://www.geeksforgeeks.org/histor
 
 ## SaaS
 (Software as a Service) is a software licensing and delivery model in which software is licensed on a subscription basis.
+
+# Btopro
+Bryan Ollendyke, or BTOpro, is a hilarious professor of IST 402. He showed up in Dave's class one day though, and all hell broke loose.
+- https://btopro.com/
+- https://haxtheweb.org/
