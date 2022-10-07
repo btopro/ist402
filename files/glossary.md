@@ -104,7 +104,7 @@ https://www.webcomponents.org/introduction
 
 
 ## Bash (sh)
-
+Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.[12][13] First released in 1989,[14] it has been used as the default login shell for most Linux distributions.[15] Bash was one of the first programs Linus Torvalds ported to Linux, alongside GCC.[16] A version is also available for Windows 10 via the Windows Subsystem for Linux.[17] It is also the default user shell in Solaris 11.[18] Bash was also the default shell in versions of Apple macOS from 10.3 (originally default shell was tcsh) to the 2019 release of macOS Catalina, which changed the default shell to zsh, although Bash remains available as an alternative shell.[19]   - https://en.wikipedia.org/wiki/Bash_(Unix_shell) 
 
 ## SEO
 
@@ -172,7 +172,7 @@ Read more about the history of Python here: https://www.geeksforgeeks.org/histor
 
 ## Accessibility / A11y
 
-
+Very important with front-end web development. It is essential to ensure that websites are accessible for those who are disabled (could be colorblindness, hearing issues, etc). Web developers have to take disabilities into account. There are tools to help developers see where accessibility is lacking in their apps. 
 ## Internationalization / i18n
 
 
@@ -186,7 +186,7 @@ Read more about the history of Python here: https://www.geeksforgeeks.org/histor
 
 
 ## Apache Web server
-
+The Apache HTTP Server Project is a collaborative software development effort aimed at creating a robust, commercial-grade, featureful, and freely-available source code implementation of an HTTP (Web) server. 
 
 ## Varnish
 
@@ -204,7 +204,14 @@ Read more about the history of Python here: https://www.geeksforgeeks.org/histor
 
 
 ## PaaS
-
+(Platform as a Service) 
+PaaS (Platform as a Service), as the name suggests, provides you computing platforms which typically includes operating system, programming language execution environment, database, web server etc. Examples: AWS Elastic Beanstalk, Windows Azure, Heroku, Force.com, Google App Engine, Apache Stratos.
 
 ## SaaS
 Saas stands for Software as a Service and is a way for applications to be accessed over the internet
+(Software as a Service) is a software licensing and delivery model in which software is licensed on a subscription basis.
+
+# Btopro
+Bryan Ollendyke, or BTOpro, is a hilarious professor of IST 402. He showed up in Dave's class one day though, and all hell broke loose.
+- https://btopro.com/
+- https://haxtheweb.org/
