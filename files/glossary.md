@@ -172,7 +172,7 @@ Read more about the history of Python here: https://www.geeksforgeeks.org/histor
 
 ## Accessibility / A11y
 
-
+Very important with front-end web development. It is essential to ensure that websites are accessible for those who are disabled (could be colorblindness, hearing issues, etc). Web developers have to take disabilities into account. There are tools to help developers see where accessibility is lacking in their apps. 
 ## Internationalization / i18n
 
 
